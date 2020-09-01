@@ -1,0 +1,169 @@
+﻿<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-2">
+                <input id="Path" type="hidden">
+                <div id="grdMainDepartment"  event-dbclick="1"></div>
+            </div>
+            <div class="col-md-10">
+                <div id="grdMainEmployee" ></div>
+                <input id="EmployeeIdPost" type="hidden">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var departmentsObject = @Html.Raw(Json.Encode(ViewBag.DepartmentObjects));
+    var departmentConpanyEnums = @Html.Raw(Json.Encode(ViewBag.DepartmentConpanyEnums));
+    var recordEmployee = 0;
+    var sexs =@Html.Raw(Json.Encode(ViewBag.Sexs));
+    $(document).ready(function () {
+        $("#grdMainEmployee").kendoGrid({
+            dataSource: {
+                transport: {
+                    read: function (options) {
+                        $.ajax(
+                        {
+                            type: 'POST',
+                            url: '/Dashboard/Employees',
+                            dataType: "json",
+                            data: JSON.stringify({
+                                path: $("#Path").val()
+                            }),
+                            contentType: 'application/json;charset=utf-8',
+                            success: function (response) {
+                                options.success(response);
+                            }
+                        });
+                    }
+                },
+                schema: {
+                    model: {
+                        id: "EmployeeId",
+                        fields: {
+                            CreateDate: { type: 'date' },
+                            IsActive: { type: 'boolean' },
+                            DateOfBirth: { type: 'date' },
+                            CreateBy: { type: 'number' },
+                            IdentityCardDate: { type: 'date', nullable: true },
+                            DateOfYouthUnionAdmission: { type: 'date', nullable: true },
+                            DateOfPartyAdmission: { type: 'date', nullable: true }
+                        }
+                    }
+                },
+                pageSize: 100,
+                serverPaging: false,
+                serverFiltering: false
+            },
+            height: 500,
+            filterable: true,
+            sortable: true,
+            pageable: {
+                refresh: true
+            },
+            selectable: 'row',
+            columns: [
+                {
+                    title: "STT",
+                    template: "#= ++recordEmployee #",
+                    width: 50
+                },
+                {
+                    field: "EmployeeCode",
+                    title: "Mã nhân viên",
+                    width: 150
+                },
+                {
+                    field: "FullName",
+                    title: "Tên nhân viên",
+                    width: 180
+                },
+                {
+                    field: "DateOfBirth",
+                    title: "Ngày sinh",
+                    width: 130,
+                    format: "{0:dd/MM/yyyy}"
+                },
+                {
+                    field: "Gender",
+                    title: "Giới tính",
+                    width: 110,
+                    values: sexs
+                },
+                {
+                    field: "DepartmentName",
+                    title: "Phòng",
+                    width: 260
+                },
+                {
+                    field: "PositionName",
+                    title: "Chức vụ",
+                    width: 110
+                },
+                 {
+                     field: "DepartmentCompany",
+                     title: "Vị trí",
+                     width: 110,
+                     values:departmentConpanyEnums
+                 }
+
+
+      
+            ],
+            dataBinding: function () {
+                recordEmployee = (this.dataSource.page() - 1) * this.dataSource.pageSize();
+            }
+        });
+        $("#grdMainDepartment").kendoTreeList({
+            dataSource: {
+                data: departmentsObject,
+                schema: {
+                    model: {
+                        id: "DepartmentId",
+                        parentId: "ParentId",
+                        fields: {
+                            IsActive: { field: "IsActive", type: "boolean" },
+                            ParentId: { field: "ParentId", nullable: true },
+                            DepartmentId: { field: "DepartmentId", nullable: false }
+                        },
+                        expanded: false
+                    }
+                },
+                pageSize: 100,
+                serverPaging: false,
+                serverFiltering: false
+            },
+            height: 500,
+            filterable: false,
+            sortable: true,
+            selectable: 'row',
+            columns: [
+
+                {
+                    field: "DepartmentName",
+                    title: "Phòng ban",
+                    width: 200
+                }
+
+            ],
+            dataBinding: function () {
+            }
+        });
+        $("#grdMainDepartment[event-dbclick='1']").on("dblclick", "tr.k-state-selected", function () {
+            var treeList = $("#grdMainDepartment").data("kendoTreeList");
+            var row = treeList.select();
+            if (row.length > 0) {
+                var data = treeList.dataItem(row);
+                $("#Path").val(data.Path);
+                GridCallback("#grdMainEmployee");
+            }
+        });
+    });
+
+</script>
+
+
+
+
+

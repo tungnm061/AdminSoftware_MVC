@@ -1,0 +1,238 @@
+2018-12-13 09:39:46,562: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-13 09:39:46,562: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-13 09:39:48,261: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-13 09:39:48,261: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-13 09:40:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 09:40 AM
+2018-12-13 09:40:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 09:40 AM
+2018-12-13 09:40:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 09:40 AM
+2018-12-13 09:40:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 09:40 AM
+2018-12-13 09:41:39,431: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-13 09:41:39,431: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-13 09:50:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 09:50 AM
+2018-12-13 09:50:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 09:50 AM
+2018-12-13 09:50:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 09:50 AM
+2018-12-13 09:50:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 09:50 AM
+2018-12-13 10:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:00 AM
+2018-12-13 10:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:00 AM
+2018-12-13 10:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:00 AM
+2018-12-13 10:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:00 AM
+2018-12-13 10:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:10 AM
+2018-12-13 10:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:10 AM
+2018-12-13 10:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:10 AM
+2018-12-13 10:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:10 AM
+2018-12-13 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:20 AM
+2018-12-13 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:20 AM
+2018-12-13 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:20 AM
+2018-12-13 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:20 AM
+2018-12-13 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:30 AM
+2018-12-13 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:30 AM
+2018-12-13 10:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:30 AM
+2018-12-13 10:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:30 AM
+2018-12-13 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:40 AM
+2018-12-13 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:40 AM
+2018-12-13 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:40 AM
+2018-12-13 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:40 AM
+2018-12-13 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:50 AM
+2018-12-13 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 10:50 AM
+2018-12-13 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:50 AM
+2018-12-13 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 10:50 AM
+2018-12-13 11:00:00,066: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:00 AM
+2018-12-13 11:00:00,066: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:00 AM
+2018-12-13 11:00:00,066: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:00 AM
+2018-12-13 11:00:00,066: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:00 AM
+2018-12-13 11:00:00,119: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 13/12/2018 11:00 AM
+2018-12-13 11:00:00,119: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 13/12/2018 11:00 AM
+2018-12-13 11:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:10 AM
+2018-12-13 11:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:10 AM
+2018-12-13 11:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:10 AM
+2018-12-13 11:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:10 AM
+2018-12-13 11:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:20 AM
+2018-12-13 11:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:20 AM
+2018-12-13 11:20:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:20 AM
+2018-12-13 11:20:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:20 AM
+2018-12-13 11:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:30 AM
+2018-12-13 11:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:30 AM
+2018-12-13 11:30:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:30 AM
+2018-12-13 11:30:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:30 AM
+2018-12-13 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:40 AM
+2018-12-13 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:40 AM
+2018-12-13 11:40:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:40 AM
+2018-12-13 11:40:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:40 AM
+2018-12-13 11:50:00,008: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:50 AM
+2018-12-13 11:50:00,008: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 11:50 AM
+2018-12-13 11:50:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:50 AM
+2018-12-13 11:50:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 11:50 AM
+2018-12-13 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:00 PM
+2018-12-13 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:00 PM
+2018-12-13 12:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:00 PM
+2018-12-13 12:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:00 PM
+2018-12-13 12:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:10 PM
+2018-12-13 12:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:10 PM
+2018-12-13 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:10 PM
+2018-12-13 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:10 PM
+2018-12-13 12:20:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:20 PM
+2018-12-13 12:20:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:20 PM
+2018-12-13 12:20:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:20 PM
+2018-12-13 12:20:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:20 PM
+2018-12-13 12:30:00,010: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:30 PM
+2018-12-13 12:30:00,010: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:30 PM
+2018-12-13 12:30:00,010: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:30 PM
+2018-12-13 12:30:00,010: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:30 PM
+2018-12-13 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:40 PM
+2018-12-13 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:40 PM
+2018-12-13 12:40:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:40 PM
+2018-12-13 12:40:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:40 PM
+2018-12-13 12:50:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:50 PM
+2018-12-13 12:50:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 12:50 PM
+2018-12-13 12:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:50 PM
+2018-12-13 12:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 12:50 PM
+2018-12-13 13:00:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:00 PM
+2018-12-13 13:00:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:00 PM
+2018-12-13 13:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:00 PM
+2018-12-13 13:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:00 PM
+2018-12-13 13:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:10 PM
+2018-12-13 13:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:10 PM
+2018-12-13 13:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:10 PM
+2018-12-13 13:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:10 PM
+2018-12-13 13:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:20 PM
+2018-12-13 13:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:20 PM
+2018-12-13 13:20:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:20 PM
+2018-12-13 13:20:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:20 PM
+2018-12-13 13:21:21,754: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-13 13:21:21,754: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-13 13:21:45,619: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-13 13:21:45,619: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-13 13:30:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:30 PM
+2018-12-13 13:30:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:30 PM
+2018-12-13 13:30:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:30 PM
+2018-12-13 13:30:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:30 PM
+2018-12-13 13:40:00,014: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:40 PM
+2018-12-13 13:40:00,014: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:40 PM
+2018-12-13 13:40:00,014: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:40 PM
+2018-12-13 13:40:00,014: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:40 PM
+2018-12-13 13:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:50 PM
+2018-12-13 13:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 01:50 PM
+2018-12-13 13:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:50 PM
+2018-12-13 13:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 01:50 PM
+2018-12-13 14:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:00 PM
+2018-12-13 14:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:00 PM
+2018-12-13 14:00:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:00 PM
+2018-12-13 14:00:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:00 PM
+2018-12-13 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:10 PM
+2018-12-13 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:10 PM
+2018-12-13 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:10 PM
+2018-12-13 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:10 PM
+2018-12-13 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:20 PM
+2018-12-13 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:20 PM
+2018-12-13 14:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:20 PM
+2018-12-13 14:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:20 PM
+2018-12-13 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:30 PM
+2018-12-13 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:30 PM
+2018-12-13 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:30 PM
+2018-12-13 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:30 PM
+2018-12-13 14:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:40 PM
+2018-12-13 14:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:40 PM
+2018-12-13 14:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:40 PM
+2018-12-13 14:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:40 PM
+2018-12-13 14:47:45,271: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-13 14:47:45,271: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-13 14:48:43,953: ERROR Logging ・Object reference not set to an instance of an object.
+2018-12-13 14:48:43,953: ERROR Logging ・Object reference not set to an instance of an object.
+2018-12-13 14:48:48,619: ERROR Logging ・Object reference not set to an instance of an object.
+2018-12-13 14:48:48,619: ERROR Logging ・Object reference not set to an instance of an object.
+2018-12-13 14:48:53,561: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-13 14:48:53,561: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-13 14:48:53,568: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-13 14:48:53,568: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-13 14:48:53,629: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-13 14:48:53,629: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-13 14:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:50 PM
+2018-12-13 14:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 02:50 PM
+2018-12-13 14:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:50 PM
+2018-12-13 14:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 02:50 PM
+2018-12-13 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 03:00 PM
+2018-12-13 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 03:00 PM
+2018-12-13 15:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 03:00 PM
+2018-12-13 15:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 03:00 PM
+2018-12-13 15:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 03:10 PM
+2018-12-13 15:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 03:10 PM
+2018-12-13 15:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 03:10 PM
+2018-12-13 15:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 03:10 PM
+2018-12-13 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 03:20 PM
+2018-12-13 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 03:20 PM
+2018-12-13 15:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 03:20 PM
+2018-12-13 15:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 03:20 PM
+2018-12-13 15:40:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 03:40 PM
+2018-12-13 15:40:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 03:40 PM
+2018-12-13 15:40:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 03:40 PM
+2018-12-13 15:40:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 03:40 PM
+2018-12-13 15:40:08,124: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-13 15:40:08,124: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-13 15:40:08,233: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-13 15:40:08,233: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-13 15:40:22,817: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-13 15:40:22,817: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-13 15:40:22,880: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-13 15:40:22,880: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-13 15:40:23,081: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-13 15:40:23,081: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-13 15:40:36,476: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-13 15:40:36,476: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-13 15:40:36,602: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-13 15:40:36,602: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-13 15:40:36,618: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-13 15:40:36,618: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-13 15:40:36,651: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-13 15:40:36,651: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-13 16:01:37,662: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 13/12/2018 04:01 PM
+2018-12-13 16:01:37,662: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:01 PM
+2018-12-13 16:01:37,662: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:01 PM
+2018-12-13 16:01:37,662: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:01 PM
+2018-12-13 16:01:37,662: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:01 PM
+2018-12-13 16:01:37,662: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 13/12/2018 04:01 PM
+2018-12-13 16:03:19,304: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-13 16:03:19,304: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-13 16:10:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:10 PM
+2018-12-13 16:10:00,045: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:10 PM
+2018-12-13 16:10:00,045: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:10 PM
+2018-12-13 16:10:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:10 PM
+2018-12-13 16:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:20 PM
+2018-12-13 16:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:20 PM
+2018-12-13 16:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:20 PM
+2018-12-13 16:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:20 PM
+2018-12-13 16:23:17,385: ERROR Logging ・Error parsing column 0 (TimeSheetId=0a062843-70b9-42d0-af82-00ecec36d9ef - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=0a062843-70b9-42d0-af82-00ecec36d9ef - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializeb996a1aa-fba6-4a58-99fa-f9b83b042055(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializeb996a1aa-fba6-4a58-99fa-f9b83b042055(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-12-13 16:23:17,385: ERROR Logging ・Error parsing column 0 (TimeSheetId=0a062843-70b9-42d0-af82-00ecec36d9ef - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=0a062843-70b9-42d0-af82-00ecec36d9ef - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializeb996a1aa-fba6-4a58-99fa-f9b83b042055(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializeb996a1aa-fba6-4a58-99fa-f9b83b042055(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-12-13 16:30:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:30 PM
+2018-12-13 16:30:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:30 PM
+2018-12-13 16:30:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:30 PM
+2018-12-13 16:30:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:30 PM
+2018-12-13 16:40:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:40 PM
+2018-12-13 16:40:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 13/12/2018 04:40 PM
+2018-12-13 16:40:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:40 PM
+2018-12-13 16:40:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/12/2018 04:40 PM

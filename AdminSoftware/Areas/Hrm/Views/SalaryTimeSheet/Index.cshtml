@@ -1,0 +1,38 @@
+﻿@using AdminSoftware.Models
+@{
+    ViewBag.Title = "Tính Lương";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="box-action">
+                <div class="col-md-3">
+                    <input type="text" id="DateSelect" class="form-control" value="@DateTime.Now.ToString("MM/yyyy")" style="height: 28px;" />
+                </div>
+                <div class="col-md-4">
+                    <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                        <i class="glyphicon glyphicon-search"></i>
+                        Tính lương
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnPrint">
+                        <i class="fa fa-print"></i>
+                        In báo cáo
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{<script type="text/javascript">
+    var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+    </script>
+    <script src="~/Areas/Hrm/JsAction/SalaryTimeSheet/index.js"></script>
+}

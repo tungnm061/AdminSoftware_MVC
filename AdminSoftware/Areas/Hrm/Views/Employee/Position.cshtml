@@ -1,0 +1,49 @@
+﻿@model Entity.Hrm.Position
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Mã chức vụ (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.PositionCode" id="PositionCode"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Tên chức vụ (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.PositionName" id="PositionName" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ghi chú</label>
+            </div>
+            <div class="col-md-9">
+                <textarea id="Description" class="form-control" rows="2">@Model.Description</textarea>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var positionId = '@Model.PositionId';
+</script>
+<script src="~/Areas/Hrm/JsAction/Position/addOrEdit.js"></script>
+
+
+

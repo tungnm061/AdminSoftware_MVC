@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewBag.Title = "Hồ sơ nhân viên";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-2">
+                </div>
+                <div class="col-md-10">
+                    <div class="box-action">
+                        <button class="btn btn-primary btn-sm" id="btnCreateEmployee">
+                            <i class="glyphicon glyphicon-plus"></i>
+                            Thêm
+                        </button>
+                        <button class="btn btn-primary btn-sm" id="btnEditEmployee">
+                            <i class="glyphicon glyphicon-edit"></i>
+                            Sửa
+                        </button>
+                        <button class="btn btn-primary btn-sm" id="btnDeleteEmployee">
+                            <i class="glyphicon glyphicon-trash"></i>
+                            Xóa
+                        </button>
+                        @*<button class="btn btn-primary btn-sm" id="btnPrint">
+                            <i class="fa fa-print"></i>
+                            In báo cáo
+                        </button>*@
+                    </div>
+                </div>
+            </div>
+        <div class="row">
+            <div class="col-md-2">
+                <input id="Path" type="hidden">
+                <div id="grdMainDepartment" event-dbclick="1"></div>
+            </div>
+            <div class="col-md-10">
+                <div id="grdMainEmployee" event-dbclick="1"></div>
+                <input id="EmployeeIdPost" type="hidden">             
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var shiftWorks = @Html.Raw(Json.Encode(ViewBag.ShiftWorks));
+        var medicals = @Html.Raw(Json.Encode(ViewBag.Medicals));
+        var positions = @Html.Raw(Json.Encode(ViewBag.Positions));
+        var users = @Html.Raw(Json.Encode(ViewBag.Users));
+        var contractTypes = @Html.Raw(Json.Encode(ViewBag.ContractTypes));
+        var users = @Html.Raw(Json.Encode(ViewBag.Users));
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var cities = @Html.Raw(Json.Encode(ViewBag.Cities));
+        var sexs = @Html.Raw(Json.Encode(ViewBag.Sexs));
+        var maritalStatuses = @Html.Raw(Json.Encode(ViewBag.MaritalStatuses));
+        var employeeStatusEnums = @Html.Raw(Json.Encode(ViewBag.EmployeeStatusEnums));
+        var educationLevels = @Html.Raw(Json.Encode(ViewBag.EducationLevels));
+        var departmentsObject = @Html.Raw(Json.Encode(ViewBag.DepartmentObjects));
+        var countries = @Html.Raw(Json.Encode(ViewBag.Countries));
+        var religions = @Html.Raw(Json.Encode(ViewBag.Religions));
+        var nations = @Html.Raw(Json.Encode(ViewBag.Nations));
+        var years = @Html.Raw(Json.Encode(ViewBag.Years));
+        var departmentEnum = @Html.Raw(Json.Encode(ViewBag.DepartmentConpanyEnums));
+        var categoryKpis =@Html.Raw(Json.Encode(ViewBag.CategoryKpi));
+    </script>
+    <script src="~/Areas/Hrm/JsAction/Employee/index.js"></script>
+}
+

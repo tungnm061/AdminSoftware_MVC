@@ -1,0 +1,220 @@
+2018-12-05 08:56:57,316: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 08:56:57,316: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 08:56:58,913: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 08:56:58,913: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 08:59:52,337: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 08:59:52,337: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:00:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 09:00 AM
+2018-12-05 09:00:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 09:00 AM
+2018-12-05 09:00:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 09:00 AM
+2018-12-05 09:00:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 09:00 AM
+2018-12-05 09:01:55,827: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:01:55,827: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:02:19,455: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:02:19,455: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:02:19,502: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:02:19,502: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:02:19,533: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:02:19,533: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:03:02,679: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:03:02,679: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:03:02,837: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:03:02,837: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:03:02,846: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:03:02,846: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:03:03,151: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:03:03,151: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 09:10 AM
+2018-12-05 09:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 09:10 AM
+2018-12-05 09:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 09:10 AM
+2018-12-05 09:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 09:10 AM
+2018-12-05 09:14:38,401: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:14:38,401: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:14:45,661: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:14:45,661: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:14:56,435: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:14:56,435: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:15:06,321: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:15:06,321: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:15:13,444: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:15:13,444: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:15:27,060: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:15:27,060: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:19:57,111: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:19:57,111: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:19:57,183: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:19:57,183: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:19:57,213: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:19:57,213: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:20:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 09:20 AM
+2018-12-05 09:20:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 09:20 AM
+2018-12-05 09:20:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 09:20 AM
+2018-12-05 09:20:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 09:20 AM
+2018-12-05 09:20:21,080: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:20:21,080: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:20:24,601: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:20:24,601: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:20:24,635: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:20:24,635: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:20:25,038: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:20:25,038: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:21:15,496: ERROR Logging ・Nullable object must have a value.
+2018-12-05 09:21:15,496: ERROR Logging ・Nullable object must have a value.
+2018-12-05 09:21:15,973: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:21:15,973: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:21:15,996: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:21:15,996: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:21:16,497: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:21:16,497: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:21:16,999: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:21:16,999: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:21:33,122: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:21:33,122: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:21:33,174: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:21:33,174: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:21:33,208: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:21:33,208: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:22:58,555: ERROR Logging ・Nullable object must have a value.
+2018-12-05 09:22:58,555: ERROR Logging ・Nullable object must have a value.
+2018-12-05 09:23:15,002: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:23:15,002: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-05 09:23:15,213: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:23:15,213: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-05 09:23:15,225: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:23:15,225: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-05 09:23:16,113: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:23:16,113: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:23:32,520: ERROR Logging ・Error parsing column 4 (InvestorId=03562030-e780-43b4-94b6-3ad2c6fdcfd0 - Object); Url: http://localhost:60603/sale/Project/Projects; Error: 
+System.Data.DataException: Error parsing column 4 (InvestorId=03562030-e780-43b4-94b6-3ad2c6fdcfd0 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize8dfd661b-f407-425f-89b1-738c3df89fb7(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize8dfd661b-f407-425f-89b1-738c3df89fb7(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Sale.ProjectDal.GetProjects() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Sale\ProjectDal.cs:line 20
+2018-12-05 09:23:32,520: ERROR Logging ・Error parsing column 4 (InvestorId=03562030-e780-43b4-94b6-3ad2c6fdcfd0 - Object); Url: http://localhost:60603/sale/Project/Projects; Error: 
+System.Data.DataException: Error parsing column 4 (InvestorId=03562030-e780-43b4-94b6-3ad2c6fdcfd0 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize8dfd661b-f407-425f-89b1-738c3df89fb7(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize8dfd661b-f407-425f-89b1-738c3df89fb7(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Sale.ProjectDal.GetProjects() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Sale\ProjectDal.cs:line 20
+2018-12-05 09:23:40,103: ERROR Logging ・Error parsing column 4 (InvestorId=03562030-e780-43b4-94b6-3ad2c6fdcfd0 - Object); Url: http://localhost:60603/sale/Project/Projects; Error: 
+System.Data.DataException: Error parsing column 4 (InvestorId=03562030-e780-43b4-94b6-3ad2c6fdcfd0 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize8dfd661b-f407-425f-89b1-738c3df89fb7(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize8dfd661b-f407-425f-89b1-738c3df89fb7(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Sale.ProjectDal.GetProjects() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Sale\ProjectDal.cs:line 20
+2018-12-05 09:23:40,103: ERROR Logging ・Error parsing column 4 (InvestorId=03562030-e780-43b4-94b6-3ad2c6fdcfd0 - Object); Url: http://localhost:60603/sale/Project/Projects; Error: 
+System.Data.DataException: Error parsing column 4 (InvestorId=03562030-e780-43b4-94b6-3ad2c6fdcfd0 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize8dfd661b-f407-425f-89b1-738c3df89fb7(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize8dfd661b-f407-425f-89b1-738c3df89fb7(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Sale.ProjectDal.GetProjects() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Sale\ProjectDal.cs:line 20
+2018-12-05 09:23:40,158: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 09:23:40,158: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 10:50:00,054: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 10:50 AM
+2018-12-05 10:50:00,054: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 10:50 AM
+2018-12-05 10:50:00,054: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 10:50 AM
+2018-12-05 10:50:00,054: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 10:50 AM
+2018-12-05 11:00:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 11:00 AM
+2018-12-05 11:00:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 11:00 AM
+2018-12-05 11:00:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 11:00 AM
+2018-12-05 11:00:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 11:00 AM
+2018-12-05 11:00:00,013: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 05/12/2018 11:00 AM
+2018-12-05 11:00:00,013: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 05/12/2018 11:00 AM
+2018-12-05 15:10:54,866: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 15:10:54,866: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 15:12:46,767: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.MonthReportEmployeeController'.
+2018-12-05 15:12:46,767: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.MonthReportEmployeeController'.
+2018-12-05 15:17:10,652: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 15:17:10,652: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 15:17:45,900: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.MonthReportEmployeeController'.
+2018-12-05 15:17:45,900: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.MonthReportEmployeeController'.
+2018-12-05 15:18:00,956: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 15:18:00,956: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 15:20:14,918: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 03:20 PM
+2018-12-05 15:20:14,918: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 03:20 PM
+2018-12-05 15:20:14,918: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 03:20 PM
+2018-12-05 15:20:14,918: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 03:20 PM
+2018-12-05 15:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 03:30 PM
+2018-12-05 15:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 03:30 PM
+2018-12-05 15:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 03:30 PM
+2018-12-05 15:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 03:30 PM
+2018-12-05 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 03:40 PM
+2018-12-05 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 03:40 PM
+2018-12-05 15:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 03:40 PM
+2018-12-05 15:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 03:40 PM
+2018-12-05 16:25:10,629: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:25:10,629: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:25:12,105: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 16:25:12,105: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-05 16:27:18,558: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:27:18,558: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:27:33,013: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Sale.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:27:33,013: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Sale.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:27:36,017: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:27:36,017: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:27:53,522: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:27:53,522: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:28:03,001: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:28:03,001: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:28:11,802: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:28:11,802: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:30:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 04:30 PM
+2018-12-05 16:30:00,047: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 04:30 PM
+2018-12-05 16:30:00,047: ERROR Logging ・Start Job NotificationWorkPlan: 05/12/2018 04:30 PM
+2018-12-05 16:30:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 05/12/2018 04:30 PM
+2018-12-05 16:30:13,253: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:30:13,253: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:37:46,167: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:37:46,167: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:37:47,291: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:37:47,291: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:37:56,793: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:37:56,793: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:43:00,698: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:00,698: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:17,785: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:43:17,785: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:43:19,099: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:19,099: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:32,685: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Sale.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:43:32,685: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Sale.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:43:34,361: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:34,361: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:34,628: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:34,628: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:46,379: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Investment.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:43:46,379: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Investment.Controllers.Kpi.WeekReportController'.
+2018-12-05 16:43:47,275: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-12-05 16:43:47,275: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.

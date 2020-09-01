@@ -1,0 +1,344 @@
+2019-03-13 08:47:22,659: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 08:47:22,659: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 08:47:26,950: ERROR Logging ・The controller for path '/director/ClearSession' was not found or does not implement IController.
+2019-03-13 08:47:26,950: ERROR Logging ・The controller for path '/director/ClearSession' was not found or does not implement IController.
+2019-03-13 08:47:50,194: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 08:47:50,194: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 08:50:00,017: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 08:50 AM
+2019-03-13 08:50:00,017: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 08:50 AM
+2019-03-13 08:50:00,017: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 08:50 AM
+2019-03-13 08:50:00,017: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 08:50 AM
+2019-03-13 08:53:23,212: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 08:53:23,212: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 08:53:36,465: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 08:53:36,465: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 08:53:36,480: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 08:53:36,480: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 08:53:36,598: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 08:53:36,598: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 08:54:41,754: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 08:54:41,754: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 08:55:23,701: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 08:55:23,701: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 08:57:26,846: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 08:57:26,846: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:00:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:00 AM
+2019-03-13 09:00:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:00 AM
+2019-03-13 09:00:00,033: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:00 AM
+2019-03-13 09:00:00,033: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:00 AM
+2019-03-13 09:03:33,986: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:03:33,986: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:05:06,992: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:05:06,992: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:05:47,221: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 09:05:47,221: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 09:05:52,714: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:05:52,714: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:10:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:10 AM
+2019-03-13 09:10:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:10 AM
+2019-03-13 09:10:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:10 AM
+2019-03-13 09:10:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:10 AM
+2019-03-13 09:12:51,908: ERROR Logging ・The controller for path '/director/ClearSession' was not found or does not implement IController.
+2019-03-13 09:12:51,908: ERROR Logging ・The controller for path '/director/ClearSession' was not found or does not implement IController.
+2019-03-13 09:17:14,552: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 09:17:14,552: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 09:17:14,617: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 09:17:14,617: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 09:17:14,690: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 09:17:14,690: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 09:20:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:20 AM
+2019-03-13 09:20:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:20 AM
+2019-03-13 09:20:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:20 AM
+2019-03-13 09:20:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:20 AM
+2019-03-13 09:29:51,056: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 09:29:51,062: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 09:29:51,069: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 09:29:51,069: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 09:29:51,062: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 09:29:51,056: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 09:30:00,016: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:30 AM
+2019-03-13 09:30:00,016: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:30 AM
+2019-03-13 09:30:00,016: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:30 AM
+2019-03-13 09:30:00,016: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:30 AM
+2019-03-13 09:32:17,787: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:32:17,787: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:36:59,019: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 09:36:59,019: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 09:39:00,214: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:39:00,214: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:40:00,007: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:40 AM
+2019-03-13 09:40:00,007: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:40 AM
+2019-03-13 09:40:00,007: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:40 AM
+2019-03-13 09:40:00,007: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:40 AM
+2019-03-13 09:41:42,274: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 09:41:42,274: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 09:42:51,330: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:42:51,330: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 09:50:00,031: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:50 AM
+2019-03-13 09:50:00,031: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:50 AM
+2019-03-13 09:50:00,031: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 09:50 AM
+2019-03-13 09:50:00,031: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 09:50 AM
+2019-03-13 10:00:00,038: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:00 AM
+2019-03-13 10:00:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:00 AM
+2019-03-13 10:00:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:00 AM
+2019-03-13 10:00:00,038: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:00 AM
+2019-03-13 10:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:10 AM
+2019-03-13 10:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:10 AM
+2019-03-13 10:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:10 AM
+2019-03-13 10:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:10 AM
+2019-03-13 10:17:08,816: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 10:17:08,816: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 10:17:57,304: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 10:17:57,304: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 10:17:57,687: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 10:17:57,687: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 10:17:58,299: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 10:17:58,299: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 10:20:00,218: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:20 AM
+2019-03-13 10:20:00,218: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:20 AM
+2019-03-13 10:20:00,218: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:20 AM
+2019-03-13 10:20:00,218: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:20 AM
+2019-03-13 10:31:00,303: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:31 AM
+2019-03-13 10:31:00,303: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:31 AM
+2019-03-13 10:31:00,303: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:31 AM
+2019-03-13 10:31:00,303: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:31 AM
+2019-03-13 10:31:04,586: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 10:31:04,586: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 10:31:51,351: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 10:31:51,351: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:40 AM
+2019-03-13 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:40 AM
+2019-03-13 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:40 AM
+2019-03-13 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:40 AM
+2019-03-13 10:40:01,054: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:8dd500d3-a37a-46b7-ae95-c0f0750e5185
+Error Number:64,State:0,Class:20
+2019-03-13 10:40:01,054: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:8dd500d3-a37a-46b7-ae95-c0f0750e5185
+Error Number:64,State:0,Class:20
+2019-03-13 10:40:01,054: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:8dd500d3-a37a-46b7-ae95-c0f0750e5185
+Error Number:64,State:0,Class:20
+2019-03-13 10:40:01,054: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:8dd500d3-a37a-46b7-ae95-c0f0750e5185
+Error Number:64,State:0,Class:20
+2019-03-13 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:50 AM
+2019-03-13 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 10:50 AM
+2019-03-13 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:50 AM
+2019-03-13 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 10:50 AM
+2019-03-13 10:52:53,903: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Director.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 10:52:53,903: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Director.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 10:54:28,073: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 10:54:28,073: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 10:55:58,057: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 10:55:58,057: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 10:55:58,081: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 10:55:58,081: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 10:55:58,194: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 10:55:58,194: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 10:56:05,047: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 10:56:05,047: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:00:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 11:00 AM
+2019-03-13 11:00:00,030: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 13/03/2019 11:00 AM
+2019-03-13 11:00:00,030: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 11:00 AM
+2019-03-13 11:00:00,030: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 11:00 AM
+2019-03-13 11:00:00,030: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 13/03/2019 11:00 AM
+2019-03-13 11:00:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 11:00 AM
+2019-03-13 11:00:00,744: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2019-03-13 11:00:00,744: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2019-03-13 11:10:00,057: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 11:10 AM
+2019-03-13 11:10:00,079: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 11:10 AM
+2019-03-13 11:10:00,079: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 11:10 AM
+2019-03-13 11:10:00,057: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 11:10 AM
+2019-03-13 11:18:25,321: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:18:25,321: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:19:08,281: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:19:08,281: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:27:09,146: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:27:09,146: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:30:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 11:30 AM
+2019-03-13 11:30:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 11:30 AM
+2019-03-13 11:30:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 11:30 AM
+2019-03-13 11:30:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 11:30 AM
+2019-03-13 11:35:49,562: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:35:49,562: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:35:51,818: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:35:51,818: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:35:57,794: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:35:57,794: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 11:36:04,782: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:04,782: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:09,002: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:09,002: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:11,109: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:11,109: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:13,396: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:13,396: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:15,630: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 11:36:15,630: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-03-13 13:10:35,320: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:10:35,320: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:13:58,029: ERROR Logging ・The controller for path '/accounting/ClearSession' was not found or does not implement IController.
+2019-03-13 13:13:58,029: ERROR Logging ・The controller for path '/accounting/ClearSession' was not found or does not implement IController.
+2019-03-13 13:15:13,542: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:15:13,542: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:20:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 01:20 PM
+2019-03-13 13:20:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 01:20 PM
+2019-03-13 13:20:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 01:20 PM
+2019-03-13 13:20:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 01:20 PM
+2019-03-13 13:24:11,465: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Controllers.DashboardController'.
+2019-03-13 13:24:11,465: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Controllers.DashboardController'.
+2019-03-13 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 01:30 PM
+2019-03-13 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 01:30 PM
+2019-03-13 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 01:30 PM
+2019-03-13 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 01:30 PM
+2019-03-13 13:40:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 01:40 PM
+2019-03-13 13:40:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 01:40 PM
+2019-03-13 13:40:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 01:40 PM
+2019-03-13 13:40:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 01:40 PM
+2019-03-13 13:44:33,976: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:33,976: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:36,303: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:36,303: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:39,491: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:39,491: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:44,808: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:44:44,808: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:44:46,654: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:46,654: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:50,505: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:50,505: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:53,202: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:44:53,202: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:47:39,490: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:47:39,490: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:47:51,550: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Investment.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 13:47:51,550: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Investment.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 13:47:55,237: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 13:47:55,237: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 13:47:55,319: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 13:47:55,319: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 13:47:55,645: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 13:47:55,645: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 13:47:57,557: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Investment.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 13:47:57,557: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Investment.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 13:52:01,605: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:52:01,605: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 13:52:13,688: ERROR Logging ・The controller for path '/accounting/ClearSession' was not found or does not implement IController.
+2019-03-13 13:52:13,688: ERROR Logging ・The controller for path '/accounting/ClearSession' was not found or does not implement IController.
+2019-03-13 13:52:24,855: ERROR Logging ・The controller for path '/sale/ClearSession' was not found or does not implement IController.
+2019-03-13 13:52:24,855: ERROR Logging ・The controller for path '/sale/ClearSession' was not found or does not implement IController.
+2019-03-13 13:52:30,832: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Investment.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 13:52:30,832: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Investment.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 13:52:32,674: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 13:52:32,674: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-13 13:52:32,682: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 13:52:32,682: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-13 13:52:32,765: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 13:52:32,765: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-13 13:52:34,082: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Investment.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 13:52:34,082: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'viewStyle' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult WorkScheduler(System.DateTime, System.String, Int32)' in 'AdminSoftware.Areas.Investment.Controllers.HomeController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-03-13 13:54:04,368: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:54:04,368: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:55:37,602: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 13:55:37,602: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-03-13 14:00:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 02:00 PM
+2019-03-13 14:00:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 02:00 PM
+2019-03-13 14:00:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 02:00 PM
+2019-03-13 14:00:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 02:00 PM
+2019-03-13 14:35:38,922: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 14:35:38,922: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 15:04:11,999: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 15:04:11,999: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 15:09:52,855: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 15:09:52,855: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 15:10:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 03:10 PM
+2019-03-13 15:10:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 03:10 PM
+2019-03-13 15:10:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 03:10 PM
+2019-03-13 15:10:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 03:10 PM
+2019-03-13 17:29:31,748: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 17:29:31,748: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-13 17:30:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 05:30 PM
+2019-03-13 17:30:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 05:30 PM
+2019-03-13 17:30:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 13/03/2019 05:30 PM
+2019-03-13 17:30:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 13/03/2019 05:30 PM

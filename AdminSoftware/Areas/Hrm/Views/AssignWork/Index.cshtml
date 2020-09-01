@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Trưởng phòng giao việc ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var date = new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1);
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-6">
+                <button class="btn btn-primary btn-sm" id="btnCreate">
+                    <i class="fa fa-plus"></i>
+                    Thêm
+                </button>
+                <button class="btn btn-primary btn-sm" id="btnEdit">
+                    <i class="fa fa-edit"></i>
+                    Sửa
+                </button>
+                <button class="btn btn-primary btn-sm" id="btnDelete">
+                    <i class="fa fa-trash"></i>
+                    Xóa
+                </button>
+            </div>
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-3">
+                        <input type="text" class="form-control" id="FromDate" value="@date.ToString("dd/MM/yyyy")" />
+                    </div>
+                    <div class="col-md-3">
+                        <input type="text" class="form-control" id="ToDate" value="@date.AddMonths(1).AddDays(-1).ToString("dd/MM/yyyy")"/>
+                    </div>
+                    <div class="col-md-3">
+                        <input type="text" class="form-control" id="StatusSelect"/>
+                    </div>
+                    <div class="col-md-1">
+                        <button class="btn btn-default btn-sm" id="btnSearch">
+                            <i class="glyphicon glyphicon-search"></i>
+                            Tìm
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var users = @Html.Raw(Json.Encode(ViewBag.Users));
+        var statusAssignWorks = @Html.Raw(Json.Encode(ViewBag.WorkDetailStatusEnum));
+        var employees = @Html.Raw(Json.Encode(ViewBag.Employees));
+    </script>
+<script src="~/Areas/Hrm/JsAction/Kpi/AssignWork/index.js"></script>
+}

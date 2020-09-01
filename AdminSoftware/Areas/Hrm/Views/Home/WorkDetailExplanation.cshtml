@@ -1,0 +1,98 @@
+﻿@model Entity.Kpi.WorkDetail
+<div class="panel panel-default">
+    <div class="panel-body">
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-2">
+                        <label>Giải trình</label>
+                    </div>
+                    <div class="col-md-10">
+                        <input type="hidden" value="@DateTime.Now" id="CreateDate" class="form-control" />
+                        <textarea class="form-control" rows="3" id="Text" style="min-height: 160px"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSaveExplanation" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var id = '@Model.WorkDetailId';
+    var workType = '@Model.WorkType';
+    $("#btnSaveExplanation").click(function () {
+
+        var content = $("#Text").val();
+        if (content == null || content.trim() === "") {
+            $.msgBox({
+                title: "Hệ thống",
+                type: "error",
+                content: "Bạn chưa giải trình!",
+                buttons: [{ value: "Đồng ý" }],
+                success: function () {
+                }
+            });
+            return;
+        }
+
+        $('#processing').show();
+        $.ajax({
+            type: "POST",
+            url: '/hrm/Home/SaveExplanation',
+            data: JSON.stringify({
+                content: content,
+                id: id,
+                workType: workType
+            }),
+            contentType: 'application/json; charset=utf-8',
+            success: function (response) {
+                $('#processing').hide();
+                var type;
+                if (response.Status === 1)
+                    type = 'info';
+                else
+                    type = 'error';
+                $.msgBox({
+                    title: "Hệ thống",
+                    type: type,
+                    content: response.Message,
+                    buttons: [{ value: "Đồng ý" }],
+                    success: function (result) {
+                        if (result == 'Đồng ý' && response.Status === 1) {
+                            CloseWindowModal();
+                            GridCallback('#grdMainQuaHan');
+                        }
+                    } //
+                });
+            },
+            error: function (response) {
+                $('#processing').hide();
+                $.msgBox({
+                    title: "Hệ thống",
+                    type: "error",
+                    content: response.Msg,
+                    buttons: [{ value: "Đồng ý" }]
+                });
+            }
+        });
+    });
+
+</script>
+
+
+
+
+

@@ -1,0 +1,26 @@
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Entity\bin\Debug\Entity.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Entity\bin\Debug\Entity.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Entity\bin\Debug\Newtonsoft.Json.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Entity\bin\Debug\Newtonsoft.Json.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Entity\obj\Debug\Entity.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Entity\obj\Debug\Entity.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Entity\bin\Debug\Entity.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Entity\bin\Debug\Entity.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Entity\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Entity\bin\Debug\Newtonsoft.Json.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Entity\obj\Debug\Entity.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Entity\obj\Debug\Entity.pdb
+D:\TungNM\WEB MVC\TUNGNM\Entity\bin\Debug\Entity.dll
+D:\TungNM\WEB MVC\TUNGNM\Entity\bin\Debug\Entity.pdb
+D:\TungNM\WEB MVC\TUNGNM\Entity\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\TUNGNM\Entity\obj\Debug\Entity.dll
+D:\TungNM\WEB MVC\TUNGNM\Entity\obj\Debug\Entity.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\bin\Debug\Entity.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\bin\Debug\Entity.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\bin\Debug\Newtonsoft.Json.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\obj\Debug\Entity.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\obj\Debug\Entity.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

@@ -1,0 +1,153 @@
+﻿@model List<Entity.Hrm.HolidayConfig>
+@{
+    ViewBag.Title = "Quản Lý Phép Năm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var year = (int)ViewBag.Year;
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box-action">
+                    <div class="row padding-bottom-0">
+                        <div class="col-md-3">
+                            <input type="text" value="@year" id="years" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-ok"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var years = @Html.Raw(Json.Encode(ViewBag.Years));
+        var employeeHolidays = @Html.Raw(Json.Encode(Model));
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var genders = @Html.Raw(Json.Encode(ViewBag.Genders));
+        var record = 0;
+        $(document).ready(function() {
+            $('#years').kendoDropDownList({
+                dataTextField:'text',
+                dataValueField:'value',
+                dataSource:years,
+                change:function() {
+                    window.location.href = "?year=" + this.value();
+                }
+            });
+            $("#grdMain").kendoGrid({
+                dataSource: {
+                    transport: {
+                        read: '/hrm/HolidayConfig/HolidayConfigs?year='+@year,
+                        dataType: "json"
+                    },
+                    schema: {
+                        model: {
+                            id: "EmployeeId",
+                            fields: {
+                                EmployeeCode: { editable: false },
+                                FullName: { editable: false },
+                                DepartmentId: { editable: false },
+                                Gender: { editable: false },
+                                HolidayNumber: { editable: true, type: 'number', validation: { min: 0, required: true } }
+                            }
+                        }
+                    },
+                    pageSize: 100,
+                    serverPaging: false,
+                    serverFiltering: false
+                },
+                height: 350,
+                editable: true,
+                filterable: true,
+                sortable: true,
+                pageable: {
+                    refresh: true
+                },
+                selectable: 'row',
+                columns: [
+                    {
+                        title: "STT",
+                        template: "#= ++record #",
+                        width: 50
+                    },
+                    {
+                        field: "EmployeeCode",
+                        title: "Mã nhân viên",
+                        width: 150
+                    },
+                    {
+                        field: "FullName",
+                        title: "Tên nhân viên",
+                        width: 200
+                    },
+                    {
+                        field: "DepartmentId",
+                        title: "Phòng",
+                        width: 200,
+                        values: departments
+                    },
+                    {
+                        field: "Gender",
+                        title: "Giới tính",
+                        width: 150,
+                        values: genders
+                    },
+                    {
+                        field: "HolidayNumber",
+                        title: "Số ngày nghỉ",
+                        width: 150
+                    }
+                ],
+                dataBinding: function () {
+                    record = (this.dataSource.page() - 1) * this.dataSource.pageSize();
+                },
+                edit:function(e) {
+                    var input = e.container.find(".k-input");
+                    input.change(function () {
+                        var number = e.container.find("input[name='HolidayNumber']").val();
+                        if (number == null || number.trim() === "") {
+                            return;
+                        }
+                        var rowSelected = GetGridRowSelected('#grdMain');
+                        if (rowSelected != null && rowSelected != typeof undefined) {
+                            rowSelected.HolidayNumber = number;
+                            $('#processing').show();
+                            $.ajax({
+                                type: 'POST',
+                                url: '/hrm/HolidayConfig/Save',
+                                data: JSON.stringify({
+                                    model:rowSelected
+                                }),
+                                contentType: 'application/json;charset=utf-8',
+                                success: function (response) {
+                                    $('#processing').hide();
+                                    GridCallback('#grdMain');
+                                }
+                            });
+                        }
+                    });
+                }
+            });
+        });
+</script>
+}

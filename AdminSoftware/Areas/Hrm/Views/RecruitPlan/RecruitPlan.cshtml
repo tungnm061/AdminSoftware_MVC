@@ -1,0 +1,146 @@
+﻿@model Entity.Hrm.RecruitPlan
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Mã kế hoạch (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" readonly="readonly" value="@Model.RecruitPlanCode" id="RecruitPlanCode"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-2">
+                        <label>Kế hoạch (*)</label>
+                    </div>
+                    <div class="col-md-10">
+                        <input type="text" class="form-control" value="@Model.Title" id="Title" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ngày bắt đầu (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.FromDate.ToString("dd/MM/yyyy")" id="FromDate"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ngày kết thúc (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.ToDate.ToString("dd/MM/yyyy")" id="ToDate"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Số lượng (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Quantity" id="Quantity"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Phòng (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.DepartmentId" id="DepartmentId"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Vị trí (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.PositionId" id="PositionId"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+
+                    </div>
+                    <div class="col-md-8" style="line-height: 34px">
+                        <input type="checkbox" class="k-checkbox" id="IsActive" @if (Model.IsActive)
+                                                                                {
+                                                                                    <text> checked="checked" </text>
+                                                                                }/>
+                        <label for="IsActive" class="k-checkbox-label" style="line-height: 18px;">Kích hoạt</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <label>Kênh tuyển dụng (*)</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <input type="text" class="form-control" value="@Model.ChanelIds" id="ChanelIds"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <label>Yêu cầu</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <textarea id="Requirements" style="min-height: 170px" class="form-control" rows="10">@Model.Requirements</textarea>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <label>Ghi chú</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <textarea id="Description" class="form-control" rows="2">@Model.Description</textarea>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var recruitPlanId = '@Model.RecruitPlanId';
+</script>
+<script src="~/Areas/Hrm/JsAction/RecruitPlan/addOrEdit.js"></script>
+
+
+
+
+

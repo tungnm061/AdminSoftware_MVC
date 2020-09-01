@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F7998C85-E9A4-44B9-BCA8-26863A29B86D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Core</RootNamespace>
+    <AssemblyName>Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Enyim.Caching, Version=2.16.0.0, Culture=neutral, PublicKeyToken=cec98615db04012e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EnyimMemcached.2.16.0\lib\net35\Enyim.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\log4net.2.0.8\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MiniProfiler, Version=3.0.11.0, Culture=neutral, PublicKeyToken=b44f9351044011a3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MiniProfiler.3.1\lib\net40\MiniProfiler.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Routing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\BaseDal.cs" />
+    <Compile Include="Caching\ICacheProvider.cs" />
+    <Compile Include="Caching\MemcachedProvider.cs" />
+    <Compile Include="Caching\MemoryCacheProvider.cs" />
+    <Compile Include="Configuration\Config.cs" />
+    <Compile Include="Data\ADOProvider.cs" />
+    <Compile Include="Data\Attributes\FieldMapAttribute.cs" />
+    <Compile Include="Data\DataAccessProvider\DataAccessLayer.cs" />
+    <Compile Include="Data\DataAccessProvider\OdbcDataAccess.cs" />
+    <Compile Include="Data\DataAccessProvider\OleDbDataAccess.cs" />
+    <Compile Include="Data\DataAccessProvider\OracleDataAccess.cs" />
+    <Compile Include="Data\DataAccessProvider\SqlDataAccess.cs" />
+    <Compile Include="Data\DataHelper.cs" />
+    <Compile Include="Data\DataMaping.cs" />
+    <Compile Include="Data\DataReaderExtensions.cs" />
+    <Compile Include="Data\DataSettings.cs" />
+    <Compile Include="Data\FastADOProvider.cs" />
+    <Compile Include="Data\ObjectDataReader.cs" />
+    <Compile Include="Data\Utility.cs" />
+    <Compile Include="Enum\HrmEnum.cs" />
+    <Compile Include="Enum\KpiNum.cs" />
+    <Compile Include="Enum\SaleEnum.cs" />
+    <Compile Include="Enum\SystemEnum.cs" />
+    <Compile Include="Helper\ApplicationHelper.cs" />
+    <Compile Include="Helper\Attributes\ADOTableAttribute.cs" />
+    <Compile Include="Helper\Cache\CacheHelper.cs" />
+    <Compile Include="Helper\Extensions\DateTimeExtension.cs" />
+    <Compile Include="Helper\Extensions\EnumerableExtensions.cs" />
+    <Compile Include="Helper\Extensions\EnumExtensions.cs" />
+    <Compile Include="Helper\Extensions\FileExtension.cs" />
+    <Compile Include="Helper\Extensions\HtmlHelperExtensions.cs" />
+    <Compile Include="Helper\Extensions\JsonExtensions.cs" />
+    <Compile Include="Helper\Extensions\LabelExtensions.cs" />
+    <Compile Include="Helper\Extensions\MobileExtension.cs" />
+    <Compile Include="Helper\Extensions\NameValueExtensionMethods.cs" />
+    <Compile Include="Helper\Extensions\ObjectExtensions.cs" />
+    <Compile Include="Helper\Extensions\RegexEmail.cs" />
+    <Compile Include="Helper\Extensions\StringExtension.cs" />
+    <Compile Include="Helper\Extensions\UrlHelperExtension.cs" />
+    <Compile Include="Helper\Extensions\ValidationExtensions.cs" />
+    <Compile Include="Helper\Json\ConvertJson.cs" />
+    <Compile Include="Helper\Linq\ToSelectList.cs" />
+    <Compile Include="Helper\Logging\Log4NetExceptionFilter.cs" />
+    <Compile Include="Helper\Logging\Logging.cs" />
+    <Compile Include="Helper\ObjectCopier.cs" />
+    <Compile Include="Helper\Objects\DynamicExtensions.cs" />
+    <Compile Include="Helper\Objects\InterfaceObjectFactory.cs" />
+    <Compile Include="Helper\PropertyString.cs" />
+    <Compile Include="Helper\ResourceString.cs" />
+    <Compile Include="Helper\RestartApplication.cs" />
+    <Compile Include="Helper\XMLHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\Crypt\CryptoHelper.cs" />
+    <Compile Include="Security\Crypt\EncryptionConfiguration.cs" />
+    <Compile Include="Security\Crypt\EncryptionConfigurationHandler.cs" />
+    <Compile Include="Security\Crypt\Md5Util.cs" />
+    <Compile Include="Security\StoreFile\SecurityStoreFile.cs" />
+    <Compile Include="Singleton\Singleton.cs" />
+    <Compile Include="Singleton\SingletonPerRequest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dapper\Dapper.csproj">
+      <Project>{3a3cade3-9ef1-4bcf-8df4-84e65985ab67}</Project>
+      <Name>Dapper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

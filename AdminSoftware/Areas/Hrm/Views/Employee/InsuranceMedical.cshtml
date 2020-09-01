@@ -1,0 +1,81 @@
+﻿@model Entity.Hrm.InsuranceMedical
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Số BHYT (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.InsuranceMedicalNumber" id="InsuranceMedicalNumber" class="form-control"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ngày bắt đầu (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" id="StartDate" value="@Model.StartDate.ToString("dd/MM/yyyy")"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ngày hết hạn (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" id="ExpiredDate" value="@Model.ExpiredDate.ToString("dd/MM/yyyy")" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Mức đóng (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" id="Amount" value="@Model.Amount"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Nơi đăng ký (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.CityId" id="CityId" class="form-control"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Nơi KCB (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.MedicalId" id="MedicalId" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ghi chú</label>
+            </div>
+            <div class="col-md-9">
+                <textarea rows="3" class="form-control" id="Description">@Model.Description</textarea>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var insuranceMedicalId = '@Model.InsuranceMedicalId';
+    var medicals = @Html.Raw(Json.Encode(ViewBag.Medicals));
+</script>
+<script src="~/Areas/Hrm/JsAction/InsuranceMedical/addOrEdit.js"></script>
+
+
+

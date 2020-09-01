@@ -1,0 +1,145 @@
+﻿@model Entity.System.User
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Tên đăng nhập">
+                        <label>Tên ĐN (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.UserName" class="form-control" id="UserName" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Họ tên (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" readonly="readonly" value="@Model.FullName" class="form-control" id="FullName" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Vai trò (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.RoleId" class="form-control" id="RoleId"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Nhà cung cấp">
+                        <label>Nhóm (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.UserGroupId" class="form-control" id="UserGroupId"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Phân hệ</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.ModuleGroupId" class="form-control" id="ModuleGroupId" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Nhà cung cấp">
+                        <label>Nhân viên</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.EmployeeId" class="form-control" id="EmployeeId" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Email</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Email" class="form-control" id="Email"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Nhà cung cấp">
+                        <label>Điện thoại</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.PhoneNumber" class="form-control" id="PhoneNumber"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @if (Model.UserId <= 0)
+        {
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="row padding-bottom-0">
+                        <div class="col-md-4">
+                            <label>Mât khẩu (*)</label>
+                        </div>
+                        <div class="col-md-8">
+                            <input type="password" value="@Model.Password" class="form-control" id="Password" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row padding-bottom-0">
+                        <div class="col-md-4" title="Xác nhận mật khẩu">
+                            <label>Xác nhận (*)</label>
+                        </div>
+                        <div class="col-md-8">
+                            <input type="password" value="" class="form-control" id="ConfirmPassword" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <span style="float: left">
+                    <input type="checkbox" class="k-checkbox" id="IsActive" @if (Model.IsActive) { <text> checked="checked" </text>   } />
+                    <label for="IsActive" class="k-checkbox-label">Theo dõi</label>
+                </span>
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var userId = '@Model.UserId';
+</script>
+<script src="~/Areas/System/JsAction/Account/addOrEdit.js"></script>
+
+

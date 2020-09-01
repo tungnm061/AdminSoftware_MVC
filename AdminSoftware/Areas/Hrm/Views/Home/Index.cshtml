@@ -1,0 +1,476 @@
+﻿@using Entity.Kpi
+@using Entity.System
+
+@{
+    var actionCompany = (int)ViewBag.ActionCompany;
+    var factor = (
+    StatisticalFactorWork)ViewBag.Factor;
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .k-radio:checked + .k-radio-label:after {
+        top: 2px;
+        margin-left: -1px;
+    }
+
+    a:hover {
+        color: #027fc4 !important;
+    }
+
+    .k-grid-content {
+        min-height: 250px;
+        font-size: 13px !important;
+    }
+
+    div.k-grid-header {
+        font-size: 13px !important;
+    }
+
+    #collapse5 {
+        overflow-y: scroll;
+        max-height: 400px;
+    }
+
+    .k-event {
+        overflow: hidden;
+        background: none !important;
+        border: none !important;
+        box-shadow: none !important;
+    }
+
+        .k-event .k-event-template {
+            padding: 0;
+        }
+    .schedule-template {
+        text-align: center;
+        width: 30px;
+        border-radius: 50%;
+        cursor: pointer;
+        margin: 0 auto;
+    }
+
+        .schedule-template.work-false {
+            background-color: #e64646;
+            color: #fff;
+        }
+        .schedule-template.work-success {
+            background-color: #53afea;
+            color: #fff;
+        }
+
+        .schedule-template.work-need {
+            background-color: #ffd700;
+            color: #333;
+        }
+
+    .k-event.k-state-selected {
+        box-shadow: none;
+    }
+    .k-event-actions {
+        display: none;
+    }
+    .k-link {
+        font-weight: 600;
+    }
+    .schedule-template .item p {
+        margin: 0;
+        padding: 4px 0;
+        font-weight: 600;
+        font-size: 17px;
+    }
+    .k-scheduler-dayview .k-scheduler-table td, .k-scheduler-weekview tr:nth-child(2) .k-scheduler-table td, .k-scheduler-monthview .k-scheduler-table td {
+        height: 100px !important;
+    }
+    .k-draghandle.k-state-selected:hover, .k-ghost-splitbar-horizontal, .k-ghost-splitbar-vertical, .k-list>.k-state-highlight, .k-list>.k-state-selected, .k-marquee-color, .k-panel>.k-state-selected, .k-scheduler .k-scheduler-toolbar .k-state-selected, .k-scheduler .k-today.k-state-selected, .k-state-selected, .k-state-selected:link, .k-state-selected:visited, .k-tool.k-state-selected {
+        background: #d1d1d1;
+        border-color: #d1d1d1;
+    }
+</style>
+<div style="display: none" class="row">
+    <div class="col-md-7">
+        <div class="panel panel-default">
+            <div class="panel-heading" style="height: 60px;">
+                <div class="row">
+                    <div class="col-md-8">
+                        Lịch làm việc
+                        <input value="1" id="CheckAction" type="hidden">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-8">
+                        <p style="width: 150px; height: 20px; background: #53afea; float: left; text-align: center">Đã hoàn thành </p>
+                        <p style="width: 150px; height: 20px; background: #e64646; float: left; text-align: center">Chưa hoàn thành</p>
+                        <p style="width: 150px; height: 20px; background: #ffd700; float: left; text-align: center">Cần hoàn thành </p>
+                    </div>
+@if (actionCompany != 5)
+{
+    <div class="col-md-4">
+        <input value="1" class="k-radio" id="personal" type="radio" name="status" checked="checked">
+        <label for="personal" class="k-radio-label">Cá nhân</label>
+        <input value="2" id="employee" class="k-radio" type="radio" name="status">
+        <label for="employee" class="k-radio-label">Nhân viên</label>
+    </div>
+}
+                </div>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div id="scdMain" event-dbclick="1"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-md-3">
+                        <button class="btn btn-primary btn-sm" id="">
+                            <i class="fa fa-book"></i>
+                            Soạn văn bản
+                        </button>
+                    </div>
+                    <div class="col-md-3">
+                        <button class="btn btn-primary btn-sm" id="">
+                            <i class="fa fa-envelope"></i>
+                            Gmail
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group" id="accordion">
+            @if (actionCompany != 5)
+            {
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Công việc giao nhân viên</a>
+                    </p>
+                </div>
+                <div id="collapse1" class="panel-collapse collapse ">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <button class="btn btn-primary btn-sm" id="btnGiaoViec">
+                                    <i class="fa fa-edit"></i>
+                                    Giao việc
+                                </button>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainGiaoViec"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Công việc đang thực hiện</a>
+                    </p>
+                </div>
+                <div id="collapse3" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <button class="btn btn-primary btn-sm" id="btnThucHienCv">
+                                    <i class="fa fa-edit"></i>
+                                    Cập nhật
+                                </button>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainDangTh"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Công việc được giao</a>
+                    </p>
+                </div>
+                <div id="collapse2" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <button class="btn btn-primary btn-sm" id="btnCapNhatAssignWork">
+                                    <i class="fa fa-edit"></i>
+                                    Cập nhật
+                                </button>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainDuocGiao"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <p class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">Công việc đề xuất</a>
+                </p>
+            </div>
+            <div id="collapse8" class="panel-collapse collapse">
+                <div class="panel-body">
+                    @if (actionCompany == 5)
+                    {
+                        <div class="row">
+                            <div class="col-md-12">
+                                <button class="btn btn-primary btn-sm" id="btnDeXuat">
+                                    <i class="fa fa-edit"></i>
+                                    Cập nhật
+                                </button>
+                            </div>
+                        </div>
+                    }
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div id="grdMainDeXuat"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">Mức độ hài lòng</a>
+                    </p>
+                </div>
+                <div id="collapse5" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainHaiLong"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <p class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Công việc quá hạn - giải trình</a>
+                </p>
+            </div>
+            <div id="collapse4" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <button class="btn btn-primary btn-sm" id="btnGiaiTrinh">
+                                <i class="fa fa-edit"></i>
+                                Giải Trình
+                            </button>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div id="grdMainQuaHan"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+          
+            @if (actionCompany != 5)
+            {
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">Công việc theo dõi</a>
+                    </p>
+                </div>
+                <div id="collapse9" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainTheoDoi"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+           
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">Hệ số KPI</a>
+                    </p>
+                </div>
+                <div id="collapse6" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                    <p>
+                                        Thời gian : 1/@DateTime.Now.Month/@DateTime.Now.Year - @DateTime.Now.ToString("dd/MM/yyyy")
+                                    </p>
+                                @if (actionCompany != 5)
+                                {
+                                    <p style="float: left; margin-right: 20px;">
+                                        Số nhân viên:
+                                    </p>
+                                    <p style="font-weight: bold;">
+                                        @factor.NumberEmployee
+                                    </p>
+                                }
+                                    <p style="float: left; margin-right: 20px;">
+                                        Tổng thời gian hữu ích quy định :
+                                    </p>
+                                    <p style="font-weight: bold;">
+                                        @factor.UsefullHourMinReal (h)
+                                    </p>
+                                    <p style="float: left; margin-right: 20px;">
+                                        Tổng thời gian hữu ích thực tế :
+                                    </p>
+                                    <p style="font-weight: bold;">
+                                        @factor.ToltalUsefulHourReal (h)
+                                    </p>
+                                    <p style="float: left; margin-right: 20px;">
+                                        Hệ số:
+                                    </p>
+                                    <p style="font-weight: bold;">
+                                        @factor.AvgPoint.ToString("n2")
+                                    </p>
+                                    <p style="float: left; margin-right: 20px;">
+                                        Điểm:
+                                    </p>
+                                <p style="font-weight: bold;">
+                                    @factor.FactorPoint
+                                </p>
+
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script id="eventTemplate" type="text/x-kendo-template">
+    <div class="schedule-template #= CssClass #" title="#= title # công việc. Click để xem chi tiết" onclick="TaskDetail('#:Check#','#:start#')">
+        <div class="item">
+            <p>#= title #</p>
+        </div>
+    </div>
+</script>
+@section scripts
+{
+
+    <script type="text/javascript">
+        var dateNow = @DateTime.Now.Day;
+        var workDetailStatusEnum = @Html.Raw(Json.Encode(ViewBag.WorkDetailStatusEnum));
+
+        function BuildDateString(date) {
+            return (date.getMonth() + 1) + "/" + date.getDate() + "/" + date.getFullYear();
+        }
+
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var statusWorkDetail = @Html.Raw(Json.Encode(ViewBag.StatusWorkDetail));
+
+        function NavigateScheduler(e) {
+            var scheduler = $("#scdMain").data("kendoScheduler");
+            var dataSource = new kendo.data.SchedulerDataSource({
+                batch: true,
+                transport: {
+                    read: {
+                        url: "/hrm/Home/WorkDetailSchedulers?month=" + (e.date.getMonth() + 1) + "&year=" + e.date.getFullYear()+"&viewStyle="+$("#CheckAction").val(),
+                        dataType: "json"
+                    }
+                },
+                schema: {
+                    model: {
+                        id: "DateId",
+                        fields: {
+                            taskID: { from: "DateId" },
+                            title: { from: "Title" },
+                            start: { type: "date", from: "DateDay" },
+                            end: { type: "date", from: "EndDate" }
+                        }
+                    }
+                }
+            });
+            scheduler.setDataSource(dataSource);
+        }
+
+        function TaskDetail(taskType, taskDate) {
+            var date = new Date(taskDate);
+            var scheduler = $("#scdMain").data("kendoScheduler");
+            scheduler.refresh();
+            if (taskType === '1') {
+                InitWindowModal('/hrm/Home/WorkScheduler?dayDate=' + BuildDateString(date) + '&check=' + taskType+"&viewStyle="+$("#CheckAction").val(), false, 800, 485, 'Danh sách công việc đã hoàn thành', false);
+            }
+            if (taskType === '2') {
+                InitWindowModal('/hrm/Home/WorkScheduler?dayDate=' + BuildDateString(date) + '&check=' + taskType+"&viewStyle="+$("#CheckAction").val(), false, 800, 485, 'Danh sách công việc cần hoàn thành', false);
+            }
+            if (taskType === '3') {
+                InitWindowModal('/hrm/Home/WorkScheduler?dayDate=' + BuildDateString(date) + '&check=' + taskType+"&viewStyle="+$("#CheckAction").val(), false, 800, 485, 'Danh sách công việc chưa hoàn thành', false);
+            }
+            scheduler.refresh();
+        }
+
+        $(document).ready(function() {
+            $("#scdMain").kendoScheduler({
+                date: new Date(),
+                height: 600,
+                views: [
+                    { type: "month", selected: true, eventHeight: 30 }
+                ],
+                eventTemplate: $("#eventTemplate").html(),
+                mobile: true,
+                editable: {
+                    confirmation: false,
+                    resize: false,
+                    move: false,
+                    destroy: false,
+                    update: false,
+                    create: false,
+                    edit: false
+                },
+                selectable: true,
+                refresh: true,
+                dataSource: {
+                    batch: true,
+                    transport: {
+                        read: {
+                            url: "/hrm/Home/WorkDetailSchedulers?month=" + (new Date().getMonth() + 1) + "&year=" + (new Date().getFullYear())+"&viewStyle="+$("#CheckAction").val(),
+                            dataType: "json"
+                        }
+                    },
+                    schema: {
+                        model: {
+                            id: "DateId",
+                            fields: {
+                                taskID: { from: "DateId" },
+                                title: { from: "Title" },
+                                start: { type: "date", from: "DateDay" },
+                                end: { type: "date", from: "EndDate" }
+                            }
+                        }
+                    }
+                },
+                navigate: NavigateScheduler
+            });
+        });
+    </script>
+    <script src="~/Areas/Hrm/JsAction/Home/index.js"></script>
+
+}

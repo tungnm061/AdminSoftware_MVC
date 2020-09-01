@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "Tài khoản";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .k-radio:checked+.k-radio-label:after {
+        top: 8px;
+        left: 2px;
+    }
+    .k-radio-label:before {
+        top: 6px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="box-action">
+                <div class="col-md-6">
+                    <button class="btn btn-primary btn-sm" id="btnCreate">
+                        <i class="fa fa-plus"></i>
+                        Thêm
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnEdit">
+                        <i class="fa fa-edit"></i>
+                        Sửa
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnSetFunction">
+                        <i class="fa fa-wrench"></i>
+                        Phân quyền
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnReset">
+                        <i class="fa fa-wrench"></i>
+                        Reset mật khẩu
+                    </button>
+                </div>
+                <div class="col-md-6">
+                    <input value="True" class="k-radio" id="avaiable" onclick="ChangeStatus()" type="radio" name="status" checked="checked">
+                    <label for="avaiable" class="k-radio-label">Đang hoạt động</label>
+                    <input value="False" id="not_avaiable" class="k-radio" onclick="ChangeStatus()" type="radio" name="status">
+                    <label for="not_avaiable" class="k-radio-label">Ngừng hoạt động</label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var userGroups = @Html.Raw(Json.Encode(ViewBag.UserGroups));
+        var roles = @Html.Raw(Json.Encode(ViewBag.Roles));
+        var moduleGroups = @Html.Raw(Json.Encode(ViewBag.ModuleGroups));
+        var employees = @Html.Raw(Json.Encode(ViewBag.Employees));
+    </script>
+    <script src="~/Areas/System/JsAction/Account/index.js"></script>
+}

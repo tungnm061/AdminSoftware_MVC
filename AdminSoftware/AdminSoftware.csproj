@@ -1,0 +1,1151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DEDB76FF-9165-4675-8FA6-88C0C94817C5}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AdminSoftware</RootNamespace>
+    <AssemblyName>AdminSoftware</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.6\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=1.2.0.246, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpZipLib.1.2.0\lib\net45\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.1\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.0.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.0.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.0.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.0.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.0.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.0.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="NPOI, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.5.1\lib\net45\NPOI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OOXML, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.5.1\lib\net45\NPOI.OOXML.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.5.1\lib\net45\NPOI.OpenXml4Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.5.1\lib\net45\NPOI.OpenXmlFormats.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.2.1\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin">
+      <HintPath>..\packages\Microsoft.Owin.3.0.1\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.1\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security">
+      <HintPath>..\packages\Microsoft.Owin.Security.3.0.1\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Facebook">
+      <HintPath>..\packages\Microsoft.Owin.Security.Facebook.3.0.1\lib\net45\Microsoft.Owin.Security.Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.OAuth">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.3.0.1\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Google">
+      <HintPath>..\packages\Microsoft.Owin.Security.Google.3.0.1\lib\net45\Microsoft.Owin.Security.Google.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Twitter">
+      <HintPath>..\packages\Microsoft.Owin.Security.Twitter.3.0.1\lib\net45\Microsoft.Owin.Security.Twitter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.MicrosoftAccount">
+      <HintPath>..\packages\Microsoft.Owin.Security.MicrosoftAccount.3.0.1\lib\net45\Microsoft.Owin.Security.MicrosoftAccount.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Hrm\Controllers\ApplicantController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\CareerController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\ContractController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\ContractTypeController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\CountryController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\DepartmentController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\DisciplineController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\EducationLevelController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\EmployeeController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\EmployeeHolidayController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\EmployeeTimeSheetController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\HolidayConfigController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\HolidayController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\HolidayReasonController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\IncurredSalaryController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\InsuranceController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\InsuranceMedicalController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\InsuranceProcessController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\JobChangeController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\ApprovedComplainController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\ApproveSuggesController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\AssignWorkController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\ComplainController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\ConfirmWorkController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\DepartmentConfirmController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\ManagerAdminController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\ManagerConfirmController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\ManagerDepartmentController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\MonthlyReportController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\MonthReportDepartmentController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\MonthReportEmployeeController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\StatisticalComplainAdminController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\StatisticalComplainDepartmentController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\StatisticalFactorDepartmentController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\StatisticalFactorWorkController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\StatisticalFinishAdminController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\StatisticalFinishDepartmentController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\StatisticalSuggesAdminController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\StatisticalSuggesDepartmentController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\SuggesWorkController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\UsefulHourAdminController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\UsefulHourDepartmentController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\ViewAssignWorkController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\WeekReportController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\WorkPlanController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\Kpi\WorkStreamController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\MaternityController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\MedicalController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\NationController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\PositionController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\PraiseController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\RecruitChanelController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\RecruitPlanController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\RecruitResultController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\ReligionController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\SalaryController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\SalaryTimeSheetController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\SchoolController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\ShiftWorkController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\TimeSheetController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\TimeSheetOtController.cs" />
+    <Compile Include="Areas\Hrm\Controllers\TrainingLevelController.cs" />
+    <Compile Include="Areas\Hrm\HrmAreaRegistration.cs" />
+    <Compile Include="Areas\Hrm\HrmFilter.cs" />
+    <Compile Include="Areas\Hrm\Models\ApplicantModel.cs" />
+    <Compile Include="Areas\Hrm\Models\CareerModel.cs" />
+    <Compile Include="Areas\Hrm\Models\ContractModel.cs" />
+    <Compile Include="Areas\Hrm\Models\ContractTypeModel.cs" />
+    <Compile Include="Areas\Hrm\Models\CountryModel.cs" />
+    <Compile Include="Areas\Hrm\Models\DepartmentModel.cs" />
+    <Compile Include="Areas\Hrm\Models\EducationLevelModel.cs" />
+    <Compile Include="Areas\Hrm\Models\EmployeeHolidayModel.cs" />
+    <Compile Include="Areas\Hrm\Models\EmployeeModel.cs" />
+    <Compile Include="Areas\Hrm\Models\HolidayDetailModel.cs" />
+    <Compile Include="Areas\Hrm\Models\HolidayReasonModel.cs" />
+    <Compile Include="Areas\Hrm\Models\IncurredSalaryModel.cs" />
+    <Compile Include="Areas\Hrm\Models\InsuranceMedicalModel.cs" />
+    <Compile Include="Areas\Hrm\Models\InsuranceModel.cs" />
+    <Compile Include="Areas\Hrm\Models\InsuranceProcessModel.cs" />
+    <Compile Include="Areas\Hrm\Models\JobChangeModel.cs" />
+    <Compile Include="Areas\Hrm\Models\MaternityModel.cs" />
+    <Compile Include="Areas\Hrm\Models\MedicalModel.cs" />
+    <Compile Include="Areas\Hrm\Models\NationModel.cs" />
+    <Compile Include="Areas\Hrm\Models\PositionModel.cs" />
+    <Compile Include="Areas\Hrm\Models\PraiseDisciplineModel.cs" />
+    <Compile Include="Areas\Hrm\Models\RecruitChanelModel.cs" />
+    <Compile Include="Areas\Hrm\Models\RecruitPlanModel.cs" />
+    <Compile Include="Areas\Hrm\Models\RecruitResultModel.cs" />
+    <Compile Include="Areas\Hrm\Models\ReligionModel.cs" />
+    <Compile Include="Areas\Hrm\Models\SalaryModel.cs" />
+    <Compile Include="Areas\Hrm\Models\SchoolModel.cs" />
+    <Compile Include="Areas\Hrm\Models\ShiftWorkModel.cs" />
+    <Compile Include="Areas\Hrm\Models\TimeSheetModel.cs" />
+    <Compile Include="Areas\Hrm\Models\TimeSheetOtModel.cs" />
+    <Compile Include="Areas\Hrm\Models\TrainingLevelModel.cs" />
+    <Compile Include="Areas\Sale\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Sale\Controllers\ProductController.cs" />
+    <Compile Include="Areas\Sale\Models\ContractDetailModel.cs" />
+    <Compile Include="Areas\Sale\Models\ContractModel.cs" />
+    <Compile Include="Areas\Sale\Models\CustomerModel.cs" />
+    <Compile Include="Areas\Sale\Models\InvestorModel.cs" />
+    <Compile Include="Areas\Sale\Models\ProductModel.cs" />
+    <Compile Include="Areas\Sale\Models\ProjectModel.cs" />
+    <Compile Include="Areas\Sale\SaleAreaRegistration.cs" />
+    <Compile Include="Areas\Sale\SaleFilter.cs" />
+    <Compile Include="Areas\System\Controllers\AccountController.cs" />
+    <Compile Include="Areas\System\Controllers\HomeController.cs" />
+    <Compile Include="Areas\System\Controllers\Kpi\CategoryKpiController.cs" />
+    <Compile Include="Areas\System\Controllers\Kpi\KpiConfigController.cs" />
+    <Compile Include="Areas\System\Controllers\Kpi\TaskController.cs" />
+    <Compile Include="Areas\System\Controllers\PostController.cs" />
+    <Compile Include="Areas\System\Controllers\UserGroupController.cs" />
+    <Compile Include="Areas\System\Models\Kpi\AcceptConfigModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\AssignWorkModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\CategoryKpiModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\ComplainModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\FactorConfigModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\FinishJobConfigModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\KpiConfigModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\PerformerModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\SuggestJobConfigModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\SuggesWorkModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\TaskModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\WorkDetailModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\WorkPlanDetailModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\WorkPlanModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\WorkStreamDetailModel.cs" />
+    <Compile Include="Areas\System\Models\Kpi\WorkStreamModel.cs" />
+    <Compile Include="Areas\System\Models\PostModel.cs" />
+    <Compile Include="Areas\System\Models\UserGroupModel.cs" />
+    <Compile Include="Areas\System\Models\UserModel.cs" />
+    <Compile Include="Areas\System\SystemAreaRegistration.cs" />
+    <Compile Include="Areas\System\SystemFilter.cs" />
+    <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\DashboardController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Helper\EncodeString.cs" />
+    <Compile Include="Helper\ExcelHelper.cs" />
+    <Compile Include="Models\KendoDropDownTreeModel.cs" />
+    <Compile Include="Models\KendoForeignKeyModel.cs" />
+    <Compile Include="Models\KpiMonthReportModel.cs" />
+    <Compile Include="Models\MessageAction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\Hrm\JsAction\Applicant\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Applicant\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Career\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Career\index.js" />
+    <Content Include="Areas\Hrm\JsAction\ContractType\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\ContractType\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Contract\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Contract\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Country\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Country\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Department\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Department\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Discipline\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Discipline\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Discipline\selectEmployee.js" />
+    <Content Include="Areas\Hrm\JsAction\EducationLevel\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\EducationLevel\index.js" />
+    <Content Include="Areas\Hrm\JsAction\EmployeeHoliday\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\EmployeeHoliday\employees.js" />
+    <Content Include="Areas\Hrm\JsAction\EmployeeHoliday\index.js" />
+    <Content Include="Areas\Hrm\JsAction\EmployeeTimeSheet\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Employee\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Employee\index.js" />
+    <Content Include="Areas\Hrm\JsAction\HolidayReason\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\HolidayReason\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Home\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Home\assignWorkAdd.js" />
+    <Content Include="Areas\Hrm\JsAction\Home\employees.js" />
+    <Content Include="Areas\Hrm\JsAction\Home\explanation.js" />
+    <Content Include="Areas\Hrm\JsAction\Home\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Home\taskSearch.js" />
+    <Content Include="Areas\Hrm\JsAction\IncurredSalary\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\IncurredSalary\index.js" />
+    <Content Include="Areas\Hrm\JsAction\InsuranceMedical\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\InsuranceMedical\index.js" />
+    <Content Include="Areas\Hrm\JsAction\InsuranceProcess\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\InsuranceProcess\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Insurance\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Insurance\index.js" />
+    <Content Include="Areas\Hrm\JsAction\JobChange\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\JobChange\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ApprovedComplain\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ApprovedComplain\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ApproveSugges\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ApproveSugges\suggesWork.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\AssignWork\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\AssignWork\employees.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\AssignWork\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\AssignWork\tasks.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\Complain\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\Complain\employee.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\Complain\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ConfirmWork\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ConfirmWork\explanation.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ConfirmWork\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ConfirmWork\renewal.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\DepartmentConfirm\cancelFinish.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\DepartmentConfirm\confirmFinish.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\DepartmentConfirm\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ManagerAdmin\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ManagerAdmin\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ManagerConfirm\cancelFinish.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ManagerConfirm\confirmFinish.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ManagerConfirm\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ManagerDepartment\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ManagerDepartment\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\MonthlyReport\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\MonthReportDepartment\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\MonthReportEmployee\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalComplainAdmin\complainDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalComplainAdmin\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalComplainDepartment\complainDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalComplainDepartment\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalFactorDepartment\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalFactorWork\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalFinishDepartment\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalFinishDepartment\workDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalFinish\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalFinish\workDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalSuggesAdmin\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalSuggesAdmin\workDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalSuggesDepartment\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\StatisticalSuggesDepartment\workDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\SuggesWork\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\SuggesWork\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\SuggesWork\taskSearch.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\UsefulHourAdmin\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\UsefulHourAdmin\workDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\UsefulHourDepartment\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\UsefulHourDepartment\workDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ViewAssignWork\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\ViewAssignWork\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WeekReport\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkPlan\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkPlan\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkPlan\tasks.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkPlan\workPlanDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkStream\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkStream\assignWorks.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkStream\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkStream\tasks.js" />
+    <Content Include="Areas\Hrm\JsAction\Kpi\WorkStream\workStreamDetail.js" />
+    <Content Include="Areas\Hrm\JsAction\Maternity\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Maternity\employees.js" />
+    <Content Include="Areas\Hrm\JsAction\Maternity\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Medical\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Medical\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Nation\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Nation\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Position\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Position\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Praise\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Praise\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Praise\selectEmployee.js" />
+    <Content Include="Areas\Hrm\JsAction\RecruitChanel\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\RecruitChanel\index.js" />
+    <Content Include="Areas\Hrm\JsAction\RecruitPlan\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\RecruitPlan\index.js" />
+    <Content Include="Areas\Hrm\JsAction\RecruitResult\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\RecruitResult\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Religion\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Religion\index.js" />
+    <Content Include="Areas\Hrm\JsAction\SalaryTimeSheet\index.js" />
+    <Content Include="Areas\Hrm\JsAction\Salary\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\Salary\index.js" />
+    <Content Include="Areas\Hrm\JsAction\School\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\School\index.js" />
+    <Content Include="Areas\Hrm\JsAction\ShiftWork\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\ShiftWork\index.js" />
+    <Content Include="Areas\Hrm\JsAction\TimeSheetOt\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\TimeSheetOt\employees.js" />
+    <Content Include="Areas\Hrm\JsAction\TimeSheetOt\index.js" />
+    <Content Include="Areas\Hrm\JsAction\TimeSheet\index.js" />
+    <Content Include="Areas\Hrm\JsAction\TrainingLevel\addOrEdit.js" />
+    <Content Include="Areas\Hrm\JsAction\TrainingLevel\index.js" />
+    <Content Include="Areas\Sale\JsAction\Home\addOrEdit.js" />
+    <Content Include="Areas\Sale\JsAction\Home\assignWorkAdd.js" />
+    <Content Include="Areas\Sale\JsAction\Home\employees.js" />
+    <Content Include="Areas\Sale\JsAction\Home\explanation.js" />
+    <Content Include="Areas\Sale\JsAction\Home\index.js" />
+    <Content Include="Areas\Sale\JsAction\Home\taskSearch.js" />
+    <Content Include="Areas\Sale\JsAction\Product\addOrEdit.js" />
+    <Content Include="Areas\Sale\JsAction\Product\index.js" />
+    <Content Include="Areas\System\JsAction\Account\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\Account\index.js" />
+    <Content Include="Areas\System\JsAction\Kpi\ApprovedWorkStream\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\Kpi\ApprovedWorkStream\index.js" />
+    <Content Include="Areas\System\JsAction\Kpi\CategoryKpi\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\Kpi\CategoryKpi\index.js" />
+    <Content Include="Areas\System\JsAction\Kpi\KpiConfig\index.js" />
+    <Content Include="Areas\System\JsAction\Kpi\Task\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\Kpi\Task\excel.js" />
+    <Content Include="Areas\System\JsAction\Kpi\Task\index.js" />
+    <Content Include="Areas\System\JsAction\Post\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\Post\index.js" />
+    <Content Include="Areas\System\JsAction\UserGroup\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\UserGroup\index.js" />
+    <Content Include="CkEditor\ckeditor.js" />
+    <Content Include="CkEditor\translations\ar.js" />
+    <Content Include="CkEditor\translations\ast.js" />
+    <Content Include="CkEditor\translations\bg.js" />
+    <Content Include="CkEditor\translations\ca.js" />
+    <Content Include="CkEditor\translations\cs.js" />
+    <Content Include="CkEditor\translations\da.js" />
+    <Content Include="CkEditor\translations\de-ch.js" />
+    <Content Include="CkEditor\translations\de.js" />
+    <Content Include="CkEditor\translations\el.js" />
+    <Content Include="CkEditor\translations\en-au.js" />
+    <Content Include="CkEditor\translations\eo.js" />
+    <Content Include="CkEditor\translations\es.js" />
+    <Content Include="CkEditor\translations\et.js" />
+    <Content Include="CkEditor\translations\eu.js" />
+    <Content Include="CkEditor\translations\fa.js" />
+    <Content Include="CkEditor\translations\fi.js" />
+    <Content Include="CkEditor\translations\fr.js" />
+    <Content Include="CkEditor\translations\gl.js" />
+    <Content Include="CkEditor\translations\gu.js" />
+    <Content Include="CkEditor\translations\he.js" />
+    <Content Include="CkEditor\translations\hr.js" />
+    <Content Include="CkEditor\translations\hu.js" />
+    <Content Include="CkEditor\translations\it.js" />
+    <Content Include="CkEditor\translations\ja.js" />
+    <Content Include="CkEditor\translations\km.js" />
+    <Content Include="CkEditor\translations\kn.js" />
+    <Content Include="CkEditor\translations\ko.js" />
+    <Content Include="CkEditor\translations\ku.js" />
+    <Content Include="CkEditor\translations\lv.js" />
+    <Content Include="CkEditor\translations\nb.js" />
+    <Content Include="CkEditor\translations\ne.js" />
+    <Content Include="CkEditor\translations\nl.js" />
+    <Content Include="CkEditor\translations\no.js" />
+    <Content Include="CkEditor\translations\oc.js" />
+    <Content Include="CkEditor\translations\pl.js" />
+    <Content Include="CkEditor\translations\pt-br.js" />
+    <Content Include="CkEditor\translations\pt.js" />
+    <Content Include="CkEditor\translations\ro.js" />
+    <Content Include="CkEditor\translations\ru.js" />
+    <Content Include="CkEditor\translations\si.js" />
+    <Content Include="CkEditor\translations\sk.js" />
+    <Content Include="CkEditor\translations\sq.js" />
+    <Content Include="CkEditor\translations\sv.js" />
+    <Content Include="CkEditor\translations\tr.js" />
+    <Content Include="CkEditor\translations\tt.js" />
+    <Content Include="CkEditor\translations\ug.js" />
+    <Content Include="CkEditor\translations\uk.js" />
+    <Content Include="CkEditor\translations\vi.js" />
+    <Content Include="CkEditor\translations\zh-cn.js" />
+    <Content Include="CkEditor\translations\zh.js" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\bootstrap.css" />
+    <Content Include="Content\css\bootstrap.min.css" />
+    <Content Include="Content\css\font-awesome.min.css" />
+    <Content Include="Content\css\ionicons.min.css" />
+    <Content Include="Content\css\kendo\kendo.common.min.css" />
+    <Content Include="Content\css\kendo\kendo.silver.min.css" />
+    <Content Include="Content\css\kendo\silver\loading-image.gif" />
+    <Content Include="Content\css\kendo\silver\loading.gif" />
+    <Content Include="Content\css\main.css" />
+    <Content Include="Content\css\msgBoxLight.css" />
+    <Content Include="Content\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\fonts\ionicons.svg" />
+    <Content Include="Content\images\ajax-loader.gif" />
+    <Content Include="Content\images\alert.png" />
+    <Content Include="Content\images\arrow.jpg" />
+    <Content Include="Content\images\avatar-img.jpg" />
+    <Content Include="Content\images\background_cmd_popup.jpg" />
+    <Content Include="Content\images\background_headerpopup.jpg" />
+    <Content Include="Content\images\confirm.png" />
+    <Content Include="Content\images\DAUTU.png" />
+    <Content Include="Content\images\default.gif" />
+    <Content Include="Content\images\error.png" />
+    <Content Include="Content\images\GD.png" />
+    <Content Include="Content\images\HCNS.png" />
+    <Content Include="Content\images\HDQT.png" />
+    <Content Include="Content\images\HeThong.png" />
+    <Content Include="Content\images\info.png" />
+    <Content Include="Content\images\KD.png" />
+    <Content Include="Content\images\KeToan.png" />
+    <Content Include="Content\images\logo.png" />
+    <Content Include="Content\images\msgBoxBackGround.png" />
+    <Content Include="Content\toastr.css" />
+    <Content Include="Content\toastr.min.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Logs\log_20181018.txt" />
+    <Content Include="Logs\log_20181019.txt" />
+    <Content Include="Logs\log_20181020.txt" />
+    <Content Include="Logs\log_20181022.txt" />
+    <Content Include="Logs\log_20181023.txt" />
+    <Content Include="Logs\log_20181024.txt" />
+    <Content Include="Logs\log_20181025.txt" />
+    <Content Include="Logs\log_20181026.txt" />
+    <Content Include="Logs\log_20181029.txt" />
+    <Content Include="Logs\log_20181031.txt" />
+    <Content Include="Logs\log_20181101.txt" />
+    <Content Include="Logs\log_20181102.txt" />
+    <Content Include="Logs\log_20181103.txt" />
+    <Content Include="Logs\log_20181105.txt" />
+    <Content Include="Logs\log_20181106.txt" />
+    <Content Include="Logs\log_20181107.txt" />
+    <Content Include="Logs\log_20181108.txt" />
+    <Content Include="Logs\log_20181109.txt" />
+    <Content Include="Logs\log_20181112.txt" />
+    <Content Include="Logs\log_20181113.txt" />
+    <Content Include="Logs\log_20181114.txt" />
+    <Content Include="Logs\log_20181115.txt" />
+    <Content Include="Logs\log_20181119.txt" />
+    <Content Include="Logs\log_20181120.txt" />
+    <Content Include="Logs\log_20181121.txt" />
+    <Content Include="Logs\log_20181122.txt" />
+    <Content Include="Logs\log_20181123.txt" />
+    <Content Include="Logs\log_20181126.txt" />
+    <Content Include="Logs\log_20181127.txt" />
+    <Content Include="Logs\log_20181128.txt" />
+    <Content Include="Logs\log_20181129.txt" />
+    <Content Include="Logs\log_20181130.txt" />
+    <Content Include="Logs\log_20181201.txt" />
+    <Content Include="Logs\log_20181203.txt" />
+    <Content Include="Logs\log_20181205.txt" />
+    <Content Include="Logs\log_20181210.txt" />
+    <Content Include="Logs\log_20181212.txt" />
+    <Content Include="Logs\log_20181213.txt" />
+    <Content Include="Logs\log_20181214.txt" />
+    <Content Include="Logs\log_20181215.txt" />
+    <Content Include="Logs\log_20181217.txt" />
+    <Content Include="Logs\log_20181218.txt" />
+    <Content Include="Logs\log_20181219.txt" />
+    <Content Include="Logs\log_20181220.txt" />
+    <Content Include="Logs\log_20181221.txt" />
+    <Content Include="Logs\log_20181224.txt" />
+    <Content Include="Logs\log_20181225.txt" />
+    <Content Include="Logs\log_20181226.txt" />
+    <Content Include="Logs\log_20181227.txt" />
+    <Content Include="Logs\log_20181228.txt" />
+    <Content Include="Logs\log_20181229.txt" />
+    <Content Include="Logs\log_20190102.txt" />
+    <Content Include="Logs\log_20190103.txt" />
+    <Content Include="Logs\log_20190104.txt" />
+    <Content Include="Logs\log_20190107.txt" />
+    <Content Include="Logs\log_20190108.txt" />
+    <Content Include="Logs\log_20190109.txt" />
+    <Content Include="Logs\log_20190110.txt" />
+    <Content Include="Logs\log_20190111.txt" />
+    <Content Include="Logs\log_20190114.txt" />
+    <Content Include="Logs\log_20190115.txt" />
+    <Content Include="Logs\log_20190116.txt" />
+    <Content Include="Logs\log_20190117.txt" />
+    <Content Include="Logs\log_20190118.txt" />
+    <Content Include="Logs\log_20190121.txt" />
+    <Content Include="Logs\log_20190122.txt" />
+    <Content Include="Logs\log_20190123.txt" />
+    <Content Include="Logs\log_20190124.txt" />
+    <Content Include="Logs\log_20190125.txt" />
+    <Content Include="Logs\log_20190126.txt" />
+    <Content Include="Logs\log_20190128.txt" />
+    <Content Include="Logs\log_20190130.txt" />
+    <Content Include="Logs\log_20190131.txt" />
+    <Content Include="Logs\log_20190201.txt" />
+    <Content Include="Logs\log_20190215.txt" />
+    <Content Include="Logs\log_20190216.txt" />
+    <Content Include="Logs\log_20190217.txt" />
+    <Content Include="Logs\log_20190218.txt" />
+    <Content Include="Logs\log_20190219.txt" />
+    <Content Include="Logs\log_20190220.txt" />
+    <Content Include="Logs\log_20190222.txt" />
+    <Content Include="Logs\log_20190225.txt" />
+    <Content Include="Logs\log_20190228.txt" />
+    <Content Include="Logs\log_20190301.txt" />
+    <Content Include="Logs\log_20190302.txt" />
+    <Content Include="Logs\log_20190304.txt" />
+    <Content Include="Logs\log_20190305.txt" />
+    <Content Include="Logs\log_20190306.txt" />
+    <Content Include="Logs\log_20190307.txt" />
+    <Content Include="Logs\log_20190308.txt" />
+    <Content Include="Logs\log_20190311.txt" />
+    <Content Include="Logs\log_20190313.txt" />
+    <Content Include="Logs\log_20190314.txt" />
+    <Content Include="Logs\log_20190315.txt" />
+    <Content Include="Logs\log_20190319.txt" />
+    <Content Include="Logs\log_20190320.txt" />
+    <Content Include="Logs\log_20190321.txt" />
+    <Content Include="Logs\log_20190322.txt" />
+    <Content Include="Logs\log_20190325.txt" />
+    <Content Include="Logs\log_20190401.txt" />
+    <Content Include="Logs\log_20190404.txt" />
+    <Content Include="Logs\log_20190409.txt" />
+    <Content Include="Logs\log_20190412.txt" />
+    <Content Include="Logs\log_20190420.txt" />
+    <Content Include="Logs\log_20190422.txt" />
+    <Content Include="Logs\log_20190424.txt" />
+    <Content Include="Logs\log_20190425.txt" />
+    <Content Include="Logs\log_20190506.txt" />
+    <Content Include="Logs\log_20190507.txt" />
+    <Content Include="Scripts\base-common.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Areas\Hrm\Views\Applicant\Applicant.cshtml" />
+    <Content Include="Areas\Hrm\Views\Applicant\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ApprovedComplain\Complain.cshtml" />
+    <Content Include="Areas\Hrm\Views\ApprovedComplain\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ApproveSugges\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ApproveSugges\SuggesWork.cshtml" />
+    <Content Include="Areas\Hrm\Views\AssignWork\AssignWork.cshtml" />
+    <Content Include="Areas\Hrm\Views\AssignWork\Employees.cshtml" />
+    <Content Include="Areas\Hrm\Views\AssignWork\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\AssignWork\Tasks.cshtml" />
+    <Content Include="Areas\Hrm\Views\Career\Career.cshtml" />
+    <Content Include="Areas\Hrm\Views\Career\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Complain\Complain.cshtml" />
+    <Content Include="Areas\Hrm\Views\Complain\Employee.cshtml" />
+    <Content Include="Areas\Hrm\Views\Complain\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ConfirmWork\Explanation.cshtml" />
+    <Content Include="Areas\Hrm\Views\ConfirmWork\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ConfirmWork\Renewal.cshtml" />
+    <Content Include="Areas\Hrm\Views\ConfirmWork\WorkDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\ConfirmWork\WorkingNote.cshtml" />
+    <Content Include="Areas\Hrm\Views\ContractType\ContractType.cshtml" />
+    <Content Include="Areas\Hrm\Views\ContractType\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Contract\Contract.cshtml" />
+    <Content Include="Areas\Hrm\Views\Contract\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Country\Country.cshtml" />
+    <Content Include="Areas\Hrm\Views\Country\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\DepartmentConfirm\CancelFinish.cshtml" />
+    <Content Include="Areas\Hrm\Views\DepartmentConfirm\ConfirmFinish.cshtml" />
+    <Content Include="Areas\Hrm\Views\DepartmentConfirm\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Department\Department.cshtml" />
+    <Content Include="Areas\Hrm\Views\Department\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Discipline\Discipline.cshtml" />
+    <Content Include="Areas\Hrm\Views\Discipline\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Discipline\SearchEmployee.cshtml" />
+    <Content Include="Areas\Hrm\Views\EducationLevel\EducationLevel.cshtml" />
+    <Content Include="Areas\Hrm\Views\EducationLevel\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\EmployeeHoliday\EmployeeHoliday.cshtml" />
+    <Content Include="Areas\Hrm\Views\EmployeeHoliday\Employees.cshtml" />
+    <Content Include="Areas\Hrm\Views\EmployeeHoliday\HolidayReason.cshtml" />
+    <Content Include="Areas\Hrm\Views\EmployeeHoliday\HolidayReasonSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\EmployeeHoliday\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\EmployeeTimeSheet\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Career.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\CareerSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Contract.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\ContractType.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Country.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\CountrySearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Discipline.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\EducationLevel.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\EducationLevelSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Employee.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\IncurredSalary.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\IndexContractType.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\IndexInsurance.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\IndexMedical.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\IndexProcess.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Insurance.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\InsuranceMedical.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\InsuranceProcess.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\JobChange.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Medical.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Nation.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\NationSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Position.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\PositionSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Praise.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Religion.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\ReligionSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\Salary.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\School.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\SchoolSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\TrainingLevel.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\TrainingLevelSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\ViewReport.cshtml" />
+    <Content Include="Areas\Hrm\Views\Employee\ViewReportPartialResult.cshtml" />
+    <Content Include="Areas\Hrm\Views\HolidayConfig\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\HolidayReason\HolidayReason.cshtml" />
+    <Content Include="Areas\Hrm\Views\HolidayReason\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Holiday\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\AssignWork.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\CreateWork.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\EditWork.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\Employees.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\Explanation.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\TaskSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\WorkDetailExplanation.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\WorkingNote.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\WorkPlanPieChart.cshtml" />
+    <Content Include="Areas\Hrm\Views\Home\WorkScheduler.cshtml" />
+    <Content Include="Areas\Hrm\Views\IncurredSalary\IncurredSalary.cshtml" />
+    <Content Include="Areas\Hrm\Views\IncurredSalary\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\InsuranceMedical\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\InsuranceMedical\InsuranceMedical.cshtml" />
+    <Content Include="Areas\Hrm\Views\InsuranceProcess\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\InsuranceProcess\InsuranceProcess.cshtml" />
+    <Content Include="Areas\Hrm\Views\Insurance\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Insurance\Insurance.cshtml" />
+    <Content Include="Areas\Hrm\Views\JobChange\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\JobChange\JobChange.cshtml" />
+    <Content Include="Areas\Hrm\Views\ManagerAdmin\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ManagerAdmin\WorkPlan.cshtml" />
+    <Content Include="Areas\Hrm\Views\ManagerConfirm\CancelFinish.cshtml" />
+    <Content Include="Areas\Hrm\Views\ManagerConfirm\ConfirmFinish.cshtml" />
+    <Content Include="Areas\Hrm\Views\ManagerConfirm\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ManagerDepartment\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ManagerDepartment\WorkPlan.cshtml" />
+    <Content Include="Areas\Hrm\Views\Maternity\Employees.cshtml" />
+    <Content Include="Areas\Hrm\Views\Maternity\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Maternity\Maternity.cshtml" />
+    <Content Include="Areas\Hrm\Views\Medical\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Medical\Medical.cshtml" />
+    <Content Include="Areas\Hrm\Views\MonthlyReport\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\MonthReportDepartment\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\MonthReportEmployee\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\MonthReportEmployee\ViewReport.cshtml" />
+    <Content Include="Areas\Hrm\Views\MonthReportEmployee\ViewReportPartialResult.cshtml" />
+    <Content Include="Areas\Hrm\Views\Nation\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Nation\Nation.cshtml" />
+    <Content Include="Areas\Hrm\Views\Position\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Position\Position.cshtml" />
+    <Content Include="Areas\Hrm\Views\Praise\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Praise\Praise.cshtml" />
+    <Content Include="Areas\Hrm\Views\Praise\SearchEmployee.cshtml" />
+    <Content Include="Areas\Hrm\Views\RecruitChanel\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\RecruitChanel\RecruitChanel.cshtml" />
+    <Content Include="Areas\Hrm\Views\RecruitPlan\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\RecruitPlan\RecruitPlan.cshtml" />
+    <Content Include="Areas\Hrm\Views\RecruitResult\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\RecruitResult\RecruitResult.cshtml" />
+    <Content Include="Areas\Hrm\Views\RecruitResult\RecruitResultDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\Religion\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Religion\Religion.cshtml" />
+    <Content Include="Areas\Hrm\Views\SalaryTimeSheet\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\SalaryTimeSheet\ViewReport.cshtml" />
+    <Content Include="Areas\Hrm\Views\SalaryTimeSheet\ViewReportPartialResult.cshtml" />
+    <Content Include="Areas\Hrm\Views\Salary\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\Salary\SalariesEmployee.cshtml" />
+    <Content Include="Areas\Hrm\Views\Salary\Salary.cshtml" />
+    <Content Include="Areas\Hrm\Views\School\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\School\School.cshtml" />
+    <Content Include="Areas\Hrm\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Hrm\Views\ShiftWork\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ShiftWork\ShiftWork.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalComplainAdmin\ComplainDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalComplainAdmin\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalComplainDepartment\ComplainDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalComplainDepartment\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalFactorDepartment\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalFactorWork\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalFactorWork\ViewReport.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalFactorWork\ViewReportPartialResult.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalFinishAdmin\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalFinishAdmin\WorkDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalFinishDepartment\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalFinishDepartment\WorkDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalSuggesAdmin\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalSuggesAdmin\SuggesWorkDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalSuggesDepartment\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\StatisticalSuggesDepartment\SuggesWorkDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\SuggesWork\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\SuggesWork\SuggesWork.cshtml" />
+    <Content Include="Areas\Hrm\Views\SuggesWork\TaskSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\TimeSheetOt\Employees.cshtml" />
+    <Content Include="Areas\Hrm\Views\TimeSheetOt\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\TimeSheetOt\TimeSheetOt.cshtml" />
+    <Content Include="Areas\Hrm\Views\TimeSheet\Import.cshtml" />
+    <Content Include="Areas\Hrm\Views\TimeSheet\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\TrainingLevel\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\TrainingLevel\TrainingLevel.cshtml" />
+    <Content Include="Areas\Hrm\Views\UsefulHourAdmin\Employee.cshtml" />
+    <Content Include="Areas\Hrm\Views\UsefulHourAdmin\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\UsefulHourDepartment\Employee.cshtml" />
+    <Content Include="Areas\Hrm\Views\UsefulHourDepartment\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\ViewAssignWork\AssignWork.cshtml" />
+    <Content Include="Areas\Hrm\Views\ViewAssignWork\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\web.config" />
+    <Content Include="Areas\Hrm\Views\WeekReport\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\WeekReport\ViewReport.cshtml" />
+    <Content Include="Areas\Hrm\Views\WeekReport\ViewReportPartialResult.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkPlan\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkPlan\TaskSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkPlan\WorkPlan.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkPlan\WorkPlanDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkStream\AssignWorkSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkStream\Index.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkStream\TaskSearch.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkStream\WorkStream.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkStream\WorkStreamDetail.cshtml" />
+    <Content Include="Areas\Hrm\Views\WorkStream\WorkStreamViewer.cshtml" />
+    <Content Include="Areas\Hrm\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\System\Views\Account\Account.cshtml" />
+    <Content Include="Areas\System\Views\Account\Index.cshtml" />
+    <Content Include="Areas\System\Views\Account\UserRight.cshtml" />
+    <Content Include="Areas\System\Views\CategoryKpi\CategoryKpi.cshtml" />
+    <Content Include="Areas\System\Views\CategoryKpi\Index.cshtml" />
+    <Content Include="Areas\System\Views\Home\Index.cshtml" />
+    <Content Include="Areas\System\Views\KpiConfig\Index.cshtml" />
+    <Content Include="Areas\System\Views\Post\Index.cshtml" />
+    <Content Include="Areas\System\Views\Post\Post.cshtml" />
+    <Content Include="Areas\System\Views\Task\Index.cshtml" />
+    <Content Include="Areas\System\Views\Task\Task.cshtml" />
+    <Content Include="Areas\System\Views\Task\TaskExcel.cshtml" />
+    <Content Include="Areas\System\Views\UserGroup\Index.cshtml" />
+    <Content Include="Areas\System\Views\UserGroup\UserGroup.cshtml" />
+    <Content Include="Areas\System\Views\UserGroup\UserGroupRight.cshtml" />
+    <Content Include="Areas\System\Views\web.config" />
+    <Content Include="CkEditor\ckeditor.js.map" />
+    <Content Include="Content\css\kendo\fonts\glyphs\WebComponentsIcons.ttf" />
+    <Content Include="Content\css\kendo\images\kendoui.woff" />
+    <Content Include="Content\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Content\fonts\FontAwesome.otf" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\fonts\ionicons.eot" />
+    <Content Include="Content\fonts\ionicons.ttf" />
+    <Content Include="Content\fonts\ionicons.woff" />
+    <Content Include="Areas\Sale\Views\AssignWork\AssignWork.cshtml" />
+    <Content Include="Areas\Sale\Views\AssignWork\Employees.cshtml" />
+    <Content Include="Areas\Sale\Views\AssignWork\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\AssignWork\Tasks.cshtml" />
+    <Content Include="Areas\Sale\Views\Product\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\Product\Product.cshtml" />
+    <Content Include="Areas\Sale\Views\web.config" />
+    <Content Include="Areas\Sale\Views\Home\Index.cshtml" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\dashboard.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery-github\jquery.msgBox.js" />
+    <Content Include="Scripts\jquery-github\pStrength.jquery.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\kendo\jszip.min.js" />
+    <Content Include="Scripts\kendo\kendo.all.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\toastr.js" />
+    <Content Include="Scripts\toastr.min.js" />
+    <Content Include="Upload\Contract\2018636803804501335658-Capture1.PNG" />
+    <Content Include="Upload\Contract\2019636862540788982153-3.PNG" />
+    <Content Include="Upload\Employee\Avatar\636839371955397507-47466685_1564206640278243_4980762943403589632_n.jpg" />
+    <Content Include="Upload\Hrm\JobChangeFile\636862721589234888-4.PNG" />
+    <Content Include="Upload\Hrm\JobChangeFile\636862721648002967-50428885_130985514599718_8834593285143003136_n.jpg" />
+    <Content Include="Upload\Kpi\WorkDetail\2018636806505217077611-SaoSao.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\2018636806530436633219-IT.png" />
+    <Content Include="Upload\Kpi\WorkDetail\636808977075401415-SaoSao.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636808977727637288-309471_119413131536653_791671913_n.jpg" />
+    <Content Include="Upload\Kpi\WorkDetail\636809837009057307-SaoSao.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636809988847997395-SaoSao.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636831474266677692-SaoSao.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636831556971144202-diennuoc.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636831559859029063-diennuoc.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636832429268397712-diennuoc.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636870283872505188-3.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636870524534148176-4.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636871195092158298-4.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636876565941388530-47466685_1564206640278243_4980762943403589632_n.jpg" />
+    <Content Include="Upload\Kpi\WorkDetail\636876601936163416-50428885_130985514599718_8834593285143003136_n.jpg" />
+    <Content Include="Upload\Kpi\WorkDetail\636878960599239144-browser.exe" />
+    <Content Include="Upload\Kpi\WorkDetail\636878960813671455-47466685_1564206640278243_4980762943403589632_n.jpg" />
+    <Content Include="Upload\Kpi\WorkDetail\636878960908941877-50428885_130985514599718_8834593285143003136_n.jpg" />
+    <Content Include="Upload\Kpi\WorkDetail\636879083177322246-3.PNG" />
+    <Content Include="Upload\Kpi\WorkDetail\636879084473445655-50428885_130985514599718_8834593285143003136_n.jpg" />
+    <Content Include="Upload\Kpi\WorkDetail\636879084654226113-browser.exe" />
+    <Content Include="Upload\Kpi\WorkDetail\636927376593306804-57044239_152322079143451_5802586527263358976_n.jpg" />
+    <Content Include="Upload\WorkDetail\2018636806341478732647-SaoSao.PNG" />
+    <Content Include="Upload\WorkDetail\2018636806347904425114-SaoSao.PNG" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
+    <Content Include="Views\Account\ConfirmEmail.cshtml" />
+    <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
+    <Content Include="Views\Account\ExternalLoginFailure.cshtml" />
+    <Content Include="Views\Account\ForgotPassword.cshtml" />
+    <Content Include="Views\Account\ForgotPasswordConfirmation.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Account\Register.cshtml" />
+    <Content Include="Views\Account\ResetPassword.cshtml" />
+    <Content Include="Views\Account\ResetPasswordConfirmation.cshtml" />
+    <Content Include="Views\Account\SendCode.cshtml" />
+    <Content Include="Views\Account\VerifyCode.cshtml" />
+    <Content Include="Views\Manage\AddPhoneNumber.cshtml" />
+    <Content Include="Views\Manage\ChangePassword.cshtml" />
+    <Content Include="Views\Manage\Index.cshtml" />
+    <Content Include="Views\Manage\ManageLogins.cshtml" />
+    <Content Include="Views\Manage\SetPassword.cshtml" />
+    <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
+    <Content Include="Template\ImportTimeSheet.xlsx" />
+    <Content Include="Template\Task.xlsx" />
+    <Content Include="Upload\Contract\2018636804833989863655-TA.xlsx" />
+    <Content Include="Upload\Kpi\WorkDetail\2018636806505107575478-TA.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636804860386121215-TA.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636804860820032922-Task.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636804862725326361-Task.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636804864360273706-Task.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636804873505298574-TA.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636804873882154022-TA.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636806340641634497-Task.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636806341073924878-TA.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636806341104376897-Task.xlsx" />
+    <Content Include="Upload\WorkDetail\2018636806341558584731-Task.xlsx" />
+    <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Dashboard\DepartmentIndex.cshtml" />
+    <Content Include="Views\Dashboard\Index.cshtml" />
+    <Content Include="Views\Base\ChangeInfomation.cshtml" />
+    <Content Include="Views\Base\ChangePassword.cshtml" />
+    <Content Include="Views\Shared\_Login.cshtml" />
+    <Content Include="Views\Shared\_Menu.cshtml" />
+    <Content Include="Views\Shared\DisplayTemplates\Boolean.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\Boolean.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\DateTime.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\Decimal.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\EmailAddress.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\MultilineText.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\Password.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\String.cshtml" />
+    <Content Include="Views\Shared\_LayoutDev.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Areas\Hrm\Models\Kpi\" />
+    <Folder Include="Areas\System\Views\Base\" />
+    <Folder Include="Areas\System\Views\Shared\" />
+    <Folder Include="Filters\" />
+    <Folder Include="Reports\" />
+    <Folder Include="Upload\Contract\2018\" />
+    <Folder Include="Upload\Contract\2019\" />
+    <Folder Include="Upload\Hrm\WorkDetail\" />
+    <Folder Include="Upload\Kpi\WorkDetail\2018\" />
+    <Folder Include="Upload\WorkDetail\2018\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="packages.config" />
+    <None Include="Project_Readme.html" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+      <Project>{ab6588b0-3abf-47d9-8fe9-b8a48a12aba1}</Project>
+      <Name>BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{f7998c85-e9a4-44b9-bca8-26863a29b86d}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dapper\Dapper.csproj">
+      <Project>{3a3cade3-9ef1-4bcf-8df4-84e65985ab67}</Project>
+      <Name>Dapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{79d1e797-1b13-403e-b191-40b3a58b2e47}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>64572</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:64572/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

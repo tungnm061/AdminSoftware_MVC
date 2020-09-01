@@ -1,0 +1,72 @@
+﻿@model Entity.Hrm.ShiftWork
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Mã ca (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.ShiftWorkCode" id="ShiftWorkCode"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Làm việc từ (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.StartTime" id="StartTime"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Làm việc đến (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.EndTime" id="EndTime"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Nghỉ từ (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.RelaxStartTime" id="RelaxStartTime" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Nghỉ đến (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.RelaxEndTime" id="RelaxEndTime" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ghi chú</label>
+            </div>
+            <div class="col-md-9">
+                <textarea id="Description" class="form-control" rows="2">@Model.Description</textarea>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var shiftWorkId = '@Model.ShiftWorkId';
+</script>
+<script src="~/Areas/Hrm/JsAction/ShiftWork/addOrEdit.js"></script>
+
+

@@ -1,0 +1,408 @@
+2019-01-09 10:25:22,459: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:25:22,459: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:26:41,705: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-09 10:26:41,705: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-09 10:26:41,714: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-09 10:26:41,714: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-09 10:26:41,781: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-09 10:26:41,781: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-09 10:27:43,446: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-09 10:27:43,446: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-09 10:27:49,334: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:27:49,334: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:27:49,835: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-09 10:27:49,835: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-09 10:27:50,336: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-09 10:27:50,336: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-09 10:28:38,433: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:28:38,433: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:31:08,110: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 10:31 AM
+2019-01-09 10:31:08,110: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 10:31 AM
+2019-01-09 10:31:08,110: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 10:31 AM
+2019-01-09 10:31:08,110: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 10:31 AM
+2019-01-09 10:31:30,498: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:31:30,498: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:33:50,958: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:33:50,958: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:34:52,466: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:34:52,466: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:46:10,500: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:46:10,500: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:50:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 10:50 AM
+2019-01-09 10:50:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 10:50 AM
+2019-01-09 10:50:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 10:50 AM
+2019-01-09 10:50:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 10:50 AM
+2019-01-09 10:54:11,469: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:54:11,469: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 10:58:36,256: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.TienGuiNganHangController'.
+2019-01-09 10:58:36,256: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.TienGuiNganHangController'.
+2019-01-09 11:00:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 11:00 AM
+2019-01-09 11:00:00,054: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 09/01/2019 11:00 AM
+2019-01-09 11:00:00,054: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 09/01/2019 11:00 AM
+2019-01-09 11:00:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 11:00 AM
+2019-01-09 11:00:00,062: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 11:00 AM
+2019-01-09 11:00:00,062: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 11:00 AM
+2019-01-09 11:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 11:10 AM
+2019-01-09 11:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 11:10 AM
+2019-01-09 11:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 11:10 AM
+2019-01-09 11:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 11:10 AM
+2019-01-09 11:10:00,196: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:f04fc3ab-dee1-451c-bf6a-ec254870656b
+Error Number:64,State:0,Class:20
+2019-01-09 11:10:00,196: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:f04fc3ab-dee1-451c-bf6a-ec254870656b
+Error Number:64,State:0,Class:20
+2019-01-09 11:10:00,196: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:f04fc3ab-dee1-451c-bf6a-ec254870656b
+Error Number:64,State:0,Class:20
+2019-01-09 11:10:00,196: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:f04fc3ab-dee1-451c-bf6a-ec254870656b
+Error Number:64,State:0,Class:20
+2019-01-09 11:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 11:20 AM
+2019-01-09 11:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 11:20 AM
+2019-01-09 11:20:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 11:20 AM
+2019-01-09 11:20:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 11:20 AM
+2019-01-09 11:28:55,480: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-09 11:28:55,480: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-09 11:28:56,038: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-09 11:28:56,038: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-09 11:28:56,061: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-09 11:28:56,061: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-09 11:29:41,851: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-09 11:29:41,851: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-09 11:29:41,902: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-09 11:29:41,902: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-09 11:29:41,911: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-09 11:29:41,911: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-09 11:30:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 11:30 AM
+2019-01-09 11:30:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 11:30 AM
+2019-01-09 11:30:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 11:30 AM
+2019-01-09 11:30:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 11:30 AM
+2019-01-09 11:31:22,950: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 11:31:22,950: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 11:34:20,032: ERROR Logging ・Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'.
+2019-01-09 11:34:20,032: ERROR Logging ・Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerAsyncWrapper'.
+2019-01-09 11:37:04,681: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.SoQuyController'.
+2019-01-09 11:37:04,681: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.SoQuyController'.
+2019-01-09 11:37:07,903: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 11:37:07,903: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 11:40:07,508: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 11:40:07,508: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 11:42:56,735: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.SoQuyController'.
+2019-01-09 11:42:56,735: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.SoQuyController'.
+2019-01-09 11:45:38,548: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.SoQuyController'.
+2019-01-09 11:45:38,548: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.SoQuyController'.
+2019-01-09 11:46:15,920: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.SoQuyController'.
+2019-01-09 11:46:15,920: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.SoQuyController'.
+2019-01-09 12:15:13,044: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:15 PM
+2019-01-09 12:15:13,044: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:15 PM
+2019-01-09 12:15:13,044: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:15 PM
+2019-01-09 12:15:13,044: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:15 PM
+2019-01-09 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:20 PM
+2019-01-09 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:20 PM
+2019-01-09 12:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:20 PM
+2019-01-09 12:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:20 PM
+2019-01-09 12:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:30 PM
+2019-01-09 12:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:30 PM
+2019-01-09 12:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:30 PM
+2019-01-09 12:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:30 PM
+2019-01-09 12:40:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:40 PM
+2019-01-09 12:40:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:40 PM
+2019-01-09 12:40:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:40 PM
+2019-01-09 12:40:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:40 PM
+2019-01-09 12:40:00,078: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:71363900-8232-475e-b887-5688c82b3d1c
+Error Number:64,State:0,Class:20
+2019-01-09 12:40:00,078: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:71363900-8232-475e-b887-5688c82b3d1c
+Error Number:64,State:0,Class:20
+2019-01-09 12:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:50 PM
+2019-01-09 12:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 12:50 PM
+2019-01-09 12:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:50 PM
+2019-01-09 12:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 12:50 PM
+2019-01-09 13:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:00 PM
+2019-01-09 13:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:00 PM
+2019-01-09 13:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:00 PM
+2019-01-09 13:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:00 PM
+2019-01-09 13:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:10 PM
+2019-01-09 13:10:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:10 PM
+2019-01-09 13:10:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:10 PM
+2019-01-09 13:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:10 PM
+2019-01-09 13:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:20 PM
+2019-01-09 13:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:20 PM
+2019-01-09 13:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:20 PM
+2019-01-09 13:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:20 PM
+2019-01-09 13:30:00,034: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:30 PM
+2019-01-09 13:30:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:30 PM
+2019-01-09 13:30:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:30 PM
+2019-01-09 13:30:00,034: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:30 PM
+2019-01-09 13:31:37,069: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 13:31:37,069: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 13:32:22,151: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.ChiTietTaiKhoanController'.
+2019-01-09 13:32:22,151: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.ChiTietTaiKhoanController'.
+2019-01-09 13:40:00,044: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:40 PM
+2019-01-09 13:40:00,044: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:40 PM
+2019-01-09 13:40:00,044: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:40 PM
+2019-01-09 13:40:00,044: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:40 PM
+2019-01-09 13:50:00,061: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:50 PM
+2019-01-09 13:50:00,061: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:50 PM
+2019-01-09 13:50:00,061: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 01:50 PM
+2019-01-09 13:50:00,061: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 01:50 PM
+2019-01-09 14:00:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:00 PM
+2019-01-09 14:00:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:00 PM
+2019-01-09 14:00:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:00 PM
+2019-01-09 14:00:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:00 PM
+2019-01-09 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:10 PM
+2019-01-09 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:10 PM
+2019-01-09 14:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:10 PM
+2019-01-09 14:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:10 PM
+2019-01-09 14:20:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:20 PM
+2019-01-09 14:20:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:20 PM
+2019-01-09 14:20:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:20 PM
+2019-01-09 14:20:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:20 PM
+2019-01-09 14:30:00,016: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:30 PM
+2019-01-09 14:30:00,016: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:30 PM
+2019-01-09 14:30:00,016: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:30 PM
+2019-01-09 14:30:00,016: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:30 PM
+2019-01-09 14:40:00,033: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:40 PM
+2019-01-09 14:40:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:40 PM
+2019-01-09 14:40:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:40 PM
+2019-01-09 14:40:00,033: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:40 PM
+2019-01-09 14:40:00,154: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:b2a956a7-efe4-4486-b94f-efdd75fdf29d
+Error Number:64,State:0,Class:20
+2019-01-09 14:40:00,154: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:b2a956a7-efe4-4486-b94f-efdd75fdf29d
+Error Number:64,State:0,Class:20
+2019-01-09 14:40:00,154: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:b2a956a7-efe4-4486-b94f-efdd75fdf29d
+Error Number:64,State:0,Class:20
+2019-01-09 14:40:00,154: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:b2a956a7-efe4-4486-b94f-efdd75fdf29d
+Error Number:64,State:0,Class:20
+2019-01-09 14:50:00,032: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:50 PM
+2019-01-09 14:50:00,032: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:50 PM
+2019-01-09 14:50:00,032: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 02:50 PM
+2019-01-09 14:50:00,032: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 02:50 PM
+2019-01-09 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:00 PM
+2019-01-09 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:00 PM
+2019-01-09 15:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:00 PM
+2019-01-09 15:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:00 PM
+2019-01-09 15:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:10 PM
+2019-01-09 15:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:10 PM
+2019-01-09 15:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:10 PM
+2019-01-09 15:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:10 PM
+2019-01-09 15:15:51,428: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 15:15:51,428: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-09 15:16:39,168: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.CongNoKhachHangController'.
+2019-01-09 15:16:39,168: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.CongNoKhachHangController'.
+2019-01-09 15:20:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:20 PM
+2019-01-09 15:20:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:20 PM
+2019-01-09 15:20:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:20 PM
+2019-01-09 15:20:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:20 PM
+2019-01-09 15:30:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:30 PM
+2019-01-09 15:30:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:30 PM
+2019-01-09 15:30:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:30 PM
+2019-01-09 15:30:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:30 PM
+2019-01-09 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:40 PM
+2019-01-09 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:40 PM
+2019-01-09 15:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:40 PM
+2019-01-09 15:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:40 PM
+2019-01-09 15:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:50 PM
+2019-01-09 15:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 03:50 PM
+2019-01-09 15:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:50 PM
+2019-01-09 15:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 03:50 PM
+2019-01-09 16:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 04:00 PM
+2019-01-09 16:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 04:00 PM
+2019-01-09 16:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 04:00 PM
+2019-01-09 16:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 04:00 PM
+2019-01-09 16:00:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 09/01/2019 04:00 PM
+2019-01-09 16:00:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 09/01/2019 04:00 PM
+2019-01-09 16:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 04:10 PM
+2019-01-09 16:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 04:10 PM
+2019-01-09 16:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 04:10 PM
+2019-01-09 16:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 04:10 PM
+2019-01-09 16:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 04:20 PM
+2019-01-09 16:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 09/01/2019 04:20 PM
+2019-01-09 16:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 04:20 PM
+2019-01-09 16:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 09/01/2019 04:20 PM

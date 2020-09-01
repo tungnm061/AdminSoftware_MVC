@@ -1,0 +1,205 @@
+﻿@model Entity.Kpi.SuggesWork
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Tên công việc(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="hidden" value="@Model.TaskId" id="TaskId" />
+                        <input type="text" class="form-control" value="@Model.TaskName" readonly="readonly" id="TaskName" placeholder="Mã công việc, tên công việc ...." />
+                        <button class="btn btn-primary btn-xs" id="ModalTaskId" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                            Tìm Kiếm
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ngày bắt đầu (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" readonly="readonly" value="@Model.FromDate.ToString("dd/MM/yyyy")" class="form-control" id="FromDate" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ngày hoàn thành(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.ToDate.ToString("dd/MM/yyyy")" class="form-control" id="ToDate" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Mô tả</label>
+                    </div>
+                    <div class="col-md-8">
+                        <textarea type="text" value="@Model.Description" rows="3" class="form-control" id="Description"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Số lượng (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Quantity" class="form-control" id="Quantity" />
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var suggesWorkId = '@Model.SuggesWorkId';
+    var status = '@Model.Status';
+    var createBy = '@Model.CreateBy';
+    var createDate = '@Model.CreateDate';
+    $("#FromDate,#ToDate").kendoDatePicker({
+        dateInput: true,
+        format: "dd/MM/yyyy"
+    });
+    $("#Quantity").kendoNumericTextBox({
+        format: "{0:###,###}",
+        min: 1,
+        step: 1
+    });
+    $("#ModalTaskId").click(function () {
+        InitChildWindowModal('/hrm/Home/TaskSearch', 800, 520, "Danh sách công việc");
+    });
+    $('#btnSave').click(function () {
+        var model = {
+            SuggesWorkId: suggesWorkId,
+            TaskId: $('#TaskId').val(),
+            Status: status,
+            FromDate: $('#FromDate').data('kendoDatePicker').value(),
+            ToDate: $('#ToDate').data('kendoDatePicker').value(),
+            CreateBy: createBy,
+            CreateDate: createDate,
+            Quantity: $("#Quantity").data('kendoNumericTextBox').value(),
+            Description: $('#Description').val()
+        };
+        if (model.Quantity === 0 || model.Quantity === null) {
+            $.msgBox({
+                title: "Hệ thống",
+                type: "error",
+                content: "Bạn chưa chọn số lượng!",
+                buttons: [{ value: "Đồng ý" }],
+                success: function () {
+                }
+            });
+            return;
+        }
+        if (model.TaskId == null || model.TaskId.trim() === "") {
+            $.msgBox({
+                title: "Hệ thống",
+                type: "error",
+                content: "Bạn phải chọn công việc !",
+                buttons: [{ value: "Đồng ý" }],
+                success: function () {
+                }
+            });
+            return;
+        }
+        if (model.ToDate < model.FromDate) {
+            $.msgBox({
+                title: "Hệ thống",
+                type: "error",
+                content: "Ngày hoàn thành phải lớn hơn bằng ngày bắt đầu!",
+                buttons: [{ value: "Đồng ý" }],
+                success: function () {
+                }
+            });
+            return;
+        }
+        if (model.ToDate == null) {
+            $.msgBox({
+                title: "Hệ thống",
+                type: "error",
+                content: "Bạn chưa nhập ngày hoàn thành!",
+                buttons: [{ value: "Đồng ý" }],
+                success: function () {
+                }
+            });
+            return;
+        }
+        $('#processing').show();
+        $.ajax({
+            type: "POST",
+            url: '/hrm/Home/SaveSuggesWork',
+            data: JSON.stringify({
+                model: model
+            }),
+            contentType: 'application/json; charset=utf-8',
+            success: function (response) {
+                $('#processing').hide();
+                var type;
+                if (response.Status === 1)
+                    type = 'info';
+                else
+                    type = 'error';
+                $.msgBox({
+                    title: "Hệ thống",
+                    type: type,
+                    content: response.Message,
+                    buttons: [{ value: "Đồng ý" }],
+                    success: function (result) {
+                        if (result == 'Đồng ý' && response.Status === 1) {
+                            $("#scdMain").data("kendoScheduler").dataSource.read();
+                            CloseWindowModal();
+                        }
+                    } //
+                });
+            },
+            error: function (response) {
+                $('#processing').hide();
+                $.msgBox({
+                    title: "Hệ thống",
+                    type: "error",
+                    content: response.Msg,
+                    buttons: [{ value: "Đồng ý" }]
+                });
+            }
+        });
+    });
+</script>
+
+
+

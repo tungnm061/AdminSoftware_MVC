@@ -1,0 +1,93 @@
+﻿@model Entity.Hrm.InsuranceProcess
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Mã BHXH (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.InsuranceId" id="InsuranceId" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ngày bắt đầu (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" id="FromDate" value="@Model.FromDate.ToString("dd/MM/yyyy")" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ngày hết hạn (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" id="ToDate" value="@(Model.ToDate == null ? "":Model.ToDate.Value.ToString("dd/MM/yyyy"))" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Mức đóng (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" id="Amount" value="@Model.Amount" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ghi chú</label>
+            </div>
+            <div class="col-md-9">
+                <textarea rows="3" class="form-control" id="Description">@Model.Description</textarea>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .dropdown-header {
+        border-width: 0 0 1px 0;
+        text-transform: uppercase;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+        .dropdown-header > span {
+            display: inline-block;
+            padding: 5px 0;
+            font-weight: 600;
+            width: 35%;
+        }
+
+            .dropdown-header > span:first-child {
+                width: 29%;
+            }
+
+    .k-list-scroller > ul li span {
+        display: inline-block;
+        padding: 5px 0;
+        width: 35%;
+    }
+
+        .k-list-scroller > ul li span:first-child {
+            width: 29%;
+        }
+</style>
+<script type="text/javascript">
+    var insuranceProcessId = '@Model.InsuranceProcessId';
+</script>
+<script src="~/Areas/Hrm/JsAction/InsuranceProcess/addOrEdit.js"></script>
+
+
+

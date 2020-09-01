@@ -1,0 +1,71 @@
+﻿@model Entity.Hrm.Salary
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Áp dụng từ (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.ApplyDate.ToString("MM/yyyy")" id="ApplyDate"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3" title="Mức lương cơ sở">
+                <label>Mức lương cơ sở(*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.BasicSalary" id="BasicSalary"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3" title="Hệ số lương cơ bản">
+                <label>Hệ số Lcb (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.BasicCoefficient" id="BasicCoefficient"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3" title="Hệ số xếp hạng chuyên môn lành nghề">
+                <label>Hệ số CM (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.ProfessionalCoefficient" id="ProfessionalCoefficient"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-9">
+                <input type="hidden"  value="100" id="PercentProfessional"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3" title="Hệ số lương trách nhiệm">
+                <label>Hệ số Ltn(*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.ResponsibilityCoefficient" id="ResponsibilityCoefficient" />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var salaryId = '@Model.SalaryId';
+</script>
+<script src="~/Areas/Hrm/JsAction/Salary/addOrEdit.js"></script>
+
+
+
+
+

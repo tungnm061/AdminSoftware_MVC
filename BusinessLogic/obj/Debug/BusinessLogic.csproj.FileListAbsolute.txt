@@ -1,0 +1,114 @@
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Core.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\DataAccess.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Entity.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Enyim.Caching.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\log4net.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\MiniProfiler.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.Mvc.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.WebPages.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Dapper.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Core.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Entity.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Enyim.Caching.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\log4net.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\MiniProfiler.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\MiniProfiler.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.Mvc.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.WebPages.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Dapper.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Core.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\DataAccess.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Entity.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Enyim.Caching.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\log4net.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\MiniProfiler.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.Mvc.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.WebPages.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Core.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Entity.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Enyim.Caching.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\log4net.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\MiniProfiler.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\MiniProfiler.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.Mvc.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.WebPages.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Core.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\DataAccess.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Entity.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\System.Web.Mvc.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\System.Web.WebPages.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Core.pdb
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Entity.pdb
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Enyim.Caching.xml
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\log4net.xml
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\MiniProfiler.pdb
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\MiniProfiler.xml
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\System.Web.Mvc.xml
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\System.Web.WebPages.xml
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\TungNM\WEB MVC\TUNGNM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Core.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\DataAccess.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Entity.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Enyim.Caching.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\log4net.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\MiniProfiler.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\System.Web.Mvc.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\System.Web.WebPages.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Core.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Entity.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Enyim.Caching.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\log4net.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\MiniProfiler.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\MiniProfiler.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\System.Web.Mvc.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\System.Web.WebPages.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\obj\Debug\BusinessLogic.pdb

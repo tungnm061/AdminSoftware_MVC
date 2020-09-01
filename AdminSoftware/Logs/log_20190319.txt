@@ -1,0 +1,38 @@
+2019-03-19 08:35:40,618: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-19 08:35:40,618: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-19 08:36:41,350: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-19 08:36:41,350: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-19 08:40:00,053: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 08:40 AM
+2019-03-19 08:40:00,053: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 08:40 AM
+2019-03-19 08:40:00,053: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 08:40 AM
+2019-03-19 08:40:00,053: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 08:40 AM
+2019-03-19 08:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 08:50 AM
+2019-03-19 08:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 08:50 AM
+2019-03-19 08:50:00,002: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 08:50 AM
+2019-03-19 08:50:00,002: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 08:50 AM
+2019-03-19 09:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 09:00 AM
+2019-03-19 09:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 09:00 AM
+2019-03-19 09:00:00,001: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 09:00 AM
+2019-03-19 09:00:00,001: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 09:00 AM
+2019-03-19 09:10:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 09:10 AM
+2019-03-19 09:10:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 09:10 AM
+2019-03-19 09:10:00,003: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 09:10 AM
+2019-03-19 09:10:00,003: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 09:10 AM
+2019-03-19 09:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 09:20 AM
+2019-03-19 09:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 09:20 AM
+2019-03-19 09:20:00,001: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 09:20 AM
+2019-03-19 09:20:00,001: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 09:20 AM
+2019-03-19 11:17:42,035: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-19 11:17:42,035: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-03-19 11:17:42,584: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-19 11:17:42,584: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-03-19 11:17:42,774: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-19 11:17:42,774: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-03-19 11:20:00,019: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 11:20 AM
+2019-03-19 11:20:00,019: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 11:20 AM
+2019-03-19 11:20:00,019: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 11:20 AM
+2019-03-19 11:20:00,019: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 11:20 AM
+2019-03-19 11:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 11:30 AM
+2019-03-19 11:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 19/03/2019 11:30 AM
+2019-03-19 11:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 11:30 AM
+2019-03-19 11:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 19/03/2019 11:30 AM

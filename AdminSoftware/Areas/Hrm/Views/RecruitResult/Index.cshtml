@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "Kết quả tuyển dụng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box-action">
+                    <div class="row padding-bottom-0">
+                        <div class="col-md-6">
+                            @*<button class="btn btn-primary btn-sm" id="btnCreate">
+                                <i class="glyphicon glyphicon-plus"></i>
+                                Thêm
+                            </button>*@
+                            <button class="btn btn-primary btn-sm" id="btnEdit">
+                                <i class="glyphicon glyphicon-edit"></i>
+                                Cập nhật
+                            </button>
+                            @*<button class="btn btn-primary btn-sm" id="btnDelete">
+                                <i class="glyphicon glyphicon-trash"></i>
+                                Xóa
+                            </button>*@
+                        </div>
+                        <div class="col-md-6">
+                            <div class="row padding-bottom-0">
+                                <div class="col-md-4">
+                                    <input type="text" class="form-control" value="0" id="RecruitPlanIdSelect" />
+                                </div>
+                                <div class="col-md-4">
+                                    <button class="btn btn-primary btn-sm" id="btnSearch">
+                                        <i class="glyphicon glyphicon-search"></i>
+                                        Nạp kết quả
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var users = @Html.Raw(Json.Encode(ViewBag.Users));
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var positions = @Html.Raw(Json.Encode(ViewBag.Positions));
+        var recruitResults = @Html.Raw(Json.Encode(ViewBag.RecruitResults));
+        var employees = @Html.Raw(Json.Encode(ViewBag.Employees));
+        var recruitPlans = @Html.Raw(Json.Encode(ViewBag.RecruitPlans));
+        var sexs = @Html.Raw(Json.Encode(ViewBag.Sexs));
+    </script>
+    <script src="~/Areas/Hrm/JsAction/RecruitResult/index.js"></script>
+}
+

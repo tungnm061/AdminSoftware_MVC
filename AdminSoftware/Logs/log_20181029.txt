@@ -1,0 +1,158 @@
+2018-10-29 09:35:25,986: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:35:25,986: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:35:26,815: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:35:26,815: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:35:30,060: ERROR Logging – The controller for path '/investment' was not found or does not implement IController.
+2018-10-29 09:35:30,060: ERROR Logging – The controller for path '/investment' was not found or does not implement IController.
+2018-10-29 09:35:36,038: ERROR Logging – The controller for path '/bod' was not found or does not implement IController.
+2018-10-29 09:35:36,038: ERROR Logging – The controller for path '/bod' was not found or does not implement IController.
+2018-10-29 09:38:53,500: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,500: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,518: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,518: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,700: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,700: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,746: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,746: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,840: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:53,840: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:54,200: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:38:54,200: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 09:40:00,069: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 09:40 AM
+2018-10-29 09:40:00,069: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 09:40 AM
+2018-10-29 09:40:00,069: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 09:40 AM
+2018-10-29 09:40:00,069: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 09:40 AM
+2018-10-29 09:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 09:50 AM
+2018-10-29 09:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 09:50 AM
+2018-10-29 09:50:00,002: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 09:50 AM
+2018-10-29 09:50:00,002: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 09:50 AM
+2018-10-29 09:55:19,449: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:55:19,449: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:58:06,692: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:58:06,692: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:58:09,744: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:58:09,744: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:58:11,695: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:58:11,695: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:58:11,754: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:58:11,754: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:58:12,901: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:58:12,901: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:58:13,049: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:58:13,049: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:58:40,825: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:58:40,825: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:09,930: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:09,930: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:10,007: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:10,007: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:10,737: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:10,737: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:10,794: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:10,794: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:10,845: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:10,845: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:10,879: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:10,879: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,011: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,011: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,063: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,063: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,169: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,169: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,235: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,235: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,335: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,335: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,408: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,408: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,520: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,520: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,572: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,572: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,668: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,668: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:11,726: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:11,726: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 09:59:15,833: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:15,833: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,273: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,273: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,449: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,449: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,641: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,641: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,816: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,816: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,993: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 09:59:16,993: ERROR Logging – The controller for path '/director' was not found or does not implement IController.
+2018-10-29 14:43:48,769: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 14:43:48,769: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-29 14:50:00,072: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 02:50 PM
+2018-10-29 14:50:00,073: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 02:50 PM
+2018-10-29 14:50:00,073: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 02:50 PM
+2018-10-29 14:50:00,072: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 02:50 PM
+2018-10-29 15:00:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:00 PM
+2018-10-29 15:00:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:00 PM
+2018-10-29 15:00:00,003: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:00 PM
+2018-10-29 15:00:00,003: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:00 PM
+2018-10-29 15:10:00,045: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:10 PM
+2018-10-29 15:10:00,046: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:10 PM
+2018-10-29 15:10:00,046: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:10 PM
+2018-10-29 15:10:00,045: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:10 PM
+2018-10-29 15:20:00,051: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:20 PM
+2018-10-29 15:20:00,051: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:20 PM
+2018-10-29 15:20:00,051: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:20 PM
+2018-10-29 15:20:00,051: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:20 PM
+2018-10-29 15:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:30 PM
+2018-10-29 15:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:30 PM
+2018-10-29 15:30:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:30 PM
+2018-10-29 15:30:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:30 PM
+2018-10-29 15:40:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:40 PM
+2018-10-29 15:40:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:40 PM
+2018-10-29 15:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:40 PM
+2018-10-29 15:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:40 PM
+2018-10-29 15:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:50 PM
+2018-10-29 15:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 03:50 PM
+2018-10-29 15:50:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:50 PM
+2018-10-29 15:50:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 03:50 PM
+2018-10-29 16:00:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:00 PM
+2018-10-29 16:00:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:00 PM
+2018-10-29 16:00:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:00 PM
+2018-10-29 16:00:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:00 PM
+2018-10-29 16:00:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 29/10/2018 04:00 PM
+2018-10-29 16:00:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 29/10/2018 04:00 PM
+2018-10-29 16:10:00,003: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:10 PM
+2018-10-29 16:10:00,003: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:10 PM
+2018-10-29 16:10:00,004: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:10 PM
+2018-10-29 16:10:00,004: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:10 PM
+2018-10-29 16:20:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:20 PM
+2018-10-29 16:20:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:20 PM
+2018-10-29 16:20:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:20 PM
+2018-10-29 16:20:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:20 PM
+2018-10-29 16:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:30 PM
+2018-10-29 16:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:30 PM
+2018-10-29 16:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:30 PM
+2018-10-29 16:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:30 PM
+2018-10-29 16:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:40 PM
+2018-10-29 16:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:40 PM
+2018-10-29 16:40:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:40 PM
+2018-10-29 16:40:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:40 PM
+2018-10-29 16:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:50 PM
+2018-10-29 16:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 04:50 PM
+2018-10-29 16:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:50 PM
+2018-10-29 16:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 04:50 PM
+2018-10-29 17:02:58,998: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 17:02:58,998: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-29 17:10:00,043: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 05:10 PM
+2018-10-29 17:10:00,043: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 05:10 PM
+2018-10-29 17:10:00,043: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 05:10 PM
+2018-10-29 17:10:00,043: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 05:10 PM
+2018-10-29 17:20:00,047: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 05:20 PM
+2018-10-29 17:20:00,047: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 05:20 PM
+2018-10-29 17:20:00,047: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 05:20 PM
+2018-10-29 17:20:00,047: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 05:20 PM
+2018-10-29 17:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 05:30 PM
+2018-10-29 17:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/10/2018 05:30 PM
+2018-10-29 17:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 05:30 PM
+2018-10-29 17:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/10/2018 05:30 PM

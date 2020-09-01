@@ -1,0 +1,171 @@
+﻿    @model Entity.Kpi.WorkDetail
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+    .k-radio:checked+.k-radio-label:after {
+        top: 8px;
+    }
+    .k-radio-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Mã công việc -Tên công việc</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.TaskCode - @Model.TaskName" readonly="readonly" id="TaskName"  />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ngày thực hiện</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" readonly="readonly" value="@Model.FromDate.ToString("dd/MM/yyyy") - @Model.ToDate.ToString("dd/MM/yyyy")" class="form-control" id="Date"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Giờ làm việc hữu ích quy định</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" readonly="readonly" value="@Model.UsefulHoursTask" id="UsefulHoursTask"/>
+                        <input type="hidden"  value="@Model.ToDate" id="ToDate" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Giờ làm việc hữu ích thực tế</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="hidden" value="@Model.WorkDetailId" class="form-control" id="WorkDetailId"/>
+                        <input type="hidden" value="@Model.WorkType" class="form-control" id="WorkType"/>
+
+                        <input type="text" value="@Model.UsefulHours" id="UsefulHours"/>
+                        <input type="hidden" value="" class="form-control" id="Explanation"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label>File xác minh</label>
+            </div>
+            <div class="col-md-8">
+                <input type="text" readonly="readonly" class="form-control" value="@Model.FileConfirm" id="FileConfirm" />
+                <input type="file" style="display: none" id="UploadFileConfirm" />
+                <div style="position: absolute;top: 0;right: 15px;">
+                    <div class="btn-group">
+                        <button type="button" id="btnUploadFileConfirm" title="Upload file" class="btn btn-default btn-xs">
+                            <i class="glyphicon glyphicon-upload"></i>
+                        </button>
+                        <button type="button" id="btnRemoveFileConfirm" title="Xóa file" class="btn btn-default btn-xs">
+                            <i class="glyphicon glyphicon-remove"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Xác Nhận Trạng Thái</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input value="2" class="k-radio"id="engine1" type="radio" name="optradio"  @if (Model.Status == 2 )
+                               {
+                                   <text>checked="checked"</text>
+                               }@if (Model.Status ==4 )
+                               {
+                                   <text>disabled="disabled"</text>
+                               }>
+                        <label for="engine1" class="k-radio-label">Đang thực hiện</label>
+                        <input  value="3"id="engine2" class="k-radio" type="radio" name="optradio" @if (Model.Status == 3 || Model.Status == 4)
+                               {
+                                   <text>checked="checked"</text>
+                               }@if (Model.Status ==4 )
+                               {
+                                   <text>disabled="disabled"</text>
+                               }>
+                        <label for="engine2" class="k-radio-label">Đã hoàn thành</label>
+                        <input value="5" id="engine3" class="k-radio" type="radio" name="optradio"  @if (Model.Status == 5)
+                               {
+                                   <text>checked="checked"</text>
+                               }@if (Model.Status ==4 )
+                               {
+                                   <text>disabled="disabled"</text>
+                               }>
+                        <label for="engine3" class="k-radio-label">Chưa hoàn thành</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box-action">
+                    <button class="btn btn-primary btn-sm" id="btnCreateWorkingNote">
+                        <i class="fa fa-plus"></i>
+                        Thêm
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnEditWorkingNote">
+                        <i class="fa fa-edit"></i>
+                        Sửa
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnDeleteWorkingNote">
+                        <i class="fa fa-edit"></i>
+                        Xóa
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMainWorkingNote" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSaveAdd" style="float: right"  @if ( Model.Status == 4 || (Model.Status==3 && Model.DepartmentFisnishBy!=null))
+                               {
+                                   <text>disabled="disabled"</text>
+                               }>
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    finishDate = '@Model.FisnishDate';
+</script>
+<script src="~/Areas/Hrm/JsAction/Kpi/ConfirmWork/addOrEdit.js"></script>
+
+
+
+

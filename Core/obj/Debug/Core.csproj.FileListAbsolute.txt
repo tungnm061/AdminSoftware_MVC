@@ -1,0 +1,94 @@
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Core.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Core.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Dapper.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Enyim.Caching.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\log4net.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\MiniProfiler.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Newtonsoft.Json.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.Mvc.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.Routing.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.WebPages.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Dapper.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Enyim.Caching.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\log4net.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\MiniProfiler.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\MiniProfiler.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Newtonsoft.Json.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.Mvc.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.WebPages.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\obj\Debug\Core.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Core\obj\Debug\Core.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Core.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Core.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Enyim.Caching.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\log4net.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\MiniProfiler.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.Mvc.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.Routing.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.WebPages.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Enyim.Caching.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\log4net.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\MiniProfiler.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\MiniProfiler.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Newtonsoft.Json.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.Mvc.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.WebPages.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\obj\Debug\Core.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Core\obj\Debug\Core.pdb
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\Core.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\Core.pdb
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.Mvc.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.Routing.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.WebPages.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.Razor.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.Mvc.xml
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.WebPages.xml
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.Razor.xml
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.WebPages.Razor.xml
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\TungNM\WEB MVC\TUNGNM\Core\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TungNM\WEB MVC\TUNGNM\Core\obj\Debug\Core.dll
+D:\TungNM\WEB MVC\TUNGNM\Core\obj\Debug\Core.pdb
+D:\TungNM\WEB MVC\TUNGNM\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Core.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Core.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Enyim.Caching.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\log4net.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\MiniProfiler.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Newtonsoft.Json.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\System.Web.Mvc.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\System.Web.Routing.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\System.Web.WebPages.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Enyim.Caching.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\log4net.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\MiniProfiler.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\MiniProfiler.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Newtonsoft.Json.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\System.Web.Mvc.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\System.Web.WebPages.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\obj\Debug\Core.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Core\obj\Debug\Core.pdb

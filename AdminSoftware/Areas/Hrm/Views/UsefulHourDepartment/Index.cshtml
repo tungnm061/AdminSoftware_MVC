@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Thống kê thời gian hữu ích";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .k-radio:checked + .k-radio-label:after {
+        top: 7px;
+        margin-left: -1px;
+    }
+
+    .k-radio-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box-action">
+                    <div class="row padding-bottom-0">
+                        <div class="col-md-8">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <input type="text" id="FromDateSearch" class="form-control" value="@DateTime.Now.AddMonths(-1).ToString("dd/MM/yyyy")" style="height: 28px;" />
+                                </div>
+                                <div class="col-md-4">
+                                    <input type="text" id="ToDateSearch" class="form-control" value="@DateTime.Now.ToString("dd/MM/yyyy")" style="height: 28px;"/>
+                                </div>
+                                <div class="col-md-4">
+                                    <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                                        <i class="fa fa-search"></i>
+                                        Tìm kiếm
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <input type="hidden" value="" class="form-control" id="UserId" />
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var department = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var statusWorkPlanDetail =  @Html.Raw(Json.Encode(ViewBag.WorkDetailStatusEnum));
+        var statusWorkDetail = @Html.Raw(Json.Encode(ViewBag.StatusWorkDetail));
+    </script>
+    <script src="~/Areas/Hrm/JsAction/Kpi/UsefulHourDepartment/index.js"></script>
+}

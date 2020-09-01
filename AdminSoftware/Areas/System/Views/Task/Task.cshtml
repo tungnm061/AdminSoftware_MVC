@@ -1,0 +1,152 @@
+﻿@model Entity.Kpi.Task
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Mã công việc(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.TaskCode" class="form-control" id="TaskCode" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Tên công việc">
+                        <label>Tên công việc (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.TaskName" class="form-control" id="TaskName"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Phòng chức năng">
+                        <label>Nhóm Kpi</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.CategoryKpiId" class="form-control" id="CategoryKpiId"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Phòng chức năng">
+                        <label>Nhóm công việc</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.GroupName" class="form-control" id="GroupName" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Giờ tối thiểu">
+                        <label>Giờ Hữu ích (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.UsefulHours" class="form-control" id="UsefulHours"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Giờ tối đa">
+                        <label>Điểm công việc(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.WorkPointConfigId" class="form-control" id="WorkPointConfigId"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label> Quy cách(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.CalcType" class="form-control" id="CalcType" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Mô tả</label>
+                    </div>
+                    <div class="col-md-8">
+                        <textarea type="text" value="@Model.Description" rows="3" class="form-control" id="Description"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                    </div>
+                    <div class="col-md-8">
+                        <span style="float: left">
+                            <input type="checkbox" class="k-checkbox" id="Frequent" @if (Model.Frequent)
+                                                                                    {
+                                                                                        <text> checked="checked" </text>
+                                                                                    } />
+                            <label for="Frequent" class="k-checkbox-label">Thường xuyên</label>
+                        </span>
+
+                    </div>
+
+                </div>
+                
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var taskId = '@Model.TaskId';
+    var isSystem = '@Model.IsSystem';
+    var createBy = '@Model.CreateBy';
+    var createDate = '@Model.CreateDate';
+</script>
+<script src="~/Areas/System/JsAction/Kpi/Task/addOrEdit.js"></script>
+
+
+
+

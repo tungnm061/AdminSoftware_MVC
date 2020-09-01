@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+    var rightOfUsers = new List<Entity.System.Rights>();
+    if (Session["Rights"] != null)
+    {
+        rightOfUsers = (List<Entity.System.Rights>)Session["Rights"];
+    }
+}
+@if (rightOfUsers.Any())
+{
+    <li>
+        <a href="/@(rightOfUsers.First().Area)">Bàn làm việc</a>
+    </li>
+    var modules = rightOfUsers.OrderBy(x => x.MSortOrder).Select(x => x.ModuleName).Distinct().ToList();
+    if (modules.Any())
+    {
+        foreach (var module in modules)
+        {
+            var functions = rightOfUsers.Where(x => x.ModuleName == module).OrderBy(x => x.FSortOrder).ToList();
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    @module <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    @if (functions.Any())
+                    {
+                        foreach (var function in functions)
+                        {
+                            <li>
+                                <a href="/@function.Area/@function.Controller/@function.Action">@function.FunctionName</a>
+                            </li>
+                        }
+
+                    }
+                </ul>
+            </li>
+        }
+    }
+}

@@ -1,0 +1,885 @@
+﻿@model Entity.Hrm.Employee
+<style type="text/css">
+    #windowBase .k-checkbox-label:before, #windowBase .k-checkbox-label:after {
+        top: 0 !important;
+    }
+
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+    <div class="row">
+    <div class="col-md-2">
+        <div class="row">
+            <div class="col-md-12">
+                <img src="@Model.Avatar" style="width: 100%;" id="Avatar" title="Click để chọn ảnh"/>
+                <input type="file" style="display: none" id="FileUpload" accept=".jpg,.jpeg,.png,.bmp"/>
+            </div>
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-6">
+                        <button class="btn btn-primary btn-xs" id="btnUpload">
+                            <i class="glyphicon glyphicon-upload"></i>
+                            Tải ảnh lên
+                        </button>
+                    </div>
+                    <div class="col-md-6" style="text-align: right">
+                        <button class="btn btn-primary btn-xs" id="btnRemoveImage">
+                            <i class="glyphicon glyphicon-remove"></i>
+                            Xóa ảnh
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-10">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Mã NV (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.EmployeeCode" id="EmployeeCode"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Tên NV (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.FullName" id="FullName"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Bí danh</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.SpecialName" id="SpecialName"/>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Giới tính (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.Gender" id="Gender"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Ngày sinh (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.DateOfBirth.ToString("dd/MM/yyyy")" id="DateOfBirth"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4" title="Tình trạng hôn nhân">
+                    <label>TTHN</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.MaritalStatus" id="MaritalStatus"/>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Phòng (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.DepartmentId" id="DepartmentId"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Quốc tịch (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="hidden" class="form-control" value="@Model.CountryId" id="CountryId" />
+                    <input type="text" readonly="readonly" class="form-control" value="@Model.CountryName" id="CountryText"/>
+                    <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                        <button class="btn btn-primary btn-xs" id="BtnSearchCountry" style="height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @*<div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Dân tộc (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="hidden" class="form-control" value="@Model.NationId" id="NationId"/>
+                    <input type="text" readonly="readonly" class="form-control" value="@Model.NationName" id="NationText"/>
+                    <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                        <button class="btn btn-primary btn-xs" id="BtnSearchNation" style="height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>*@
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Mã chấm công</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" value="@Model.ShiftWorkId" id="ShiftWorkId" class="form-control" />
+                </div>
+            </div>
+        </div>
+    </div>
+    @*<div class="row">
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Tôn giáo (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="hidden" class="form-control" value="@Model.ReligionId" id="ReligionId"/>
+                    <input type="text" readonly="readonly" class="form-control" value="@Model.ReligionName" id="ReligionText" />
+
+                    <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                        <button class="btn btn-primary btn-xs" id="BtnSearchReligion" style="height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Trình độ</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="hidden" class="form-control" value="@Model.TrainingLevelId" id="TrainingLevelId"/>
+                    <input type="text" readonly="readonly" class="form-control" value="@Model.TrainingLevelName" id="TrainingLevelText" />
+
+                    <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                        <button class="btn btn-primary btn-xs" id="BtnSearchTrainingLevel" style="height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Chức vụ</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="hidden" class="form-control" value="@Model.PositionId" id="PositionId"/>
+                    <input type="text" readonly="readonly" class="form-control" value="@Model.PositionName" id="PositionText" />
+
+                    <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                        <button class="btn btn-primary btn-xs" id="BtnSearchPosition" style="height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>*@
+    @*<div class="row">
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4" title="Trường đào tạo">
+                    <label>Trường ĐT</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="hidden" value="@Model.SchoolId" id="SchoolId" class="form-control" />
+                    <input type="text" readonly="readonly" class="form-control" value="@Model.SchoolName" id="SchoolText" />
+
+                    <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                        <button class="btn btn-primary btn-xs" id="BtnSearchSchool" style="height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4" title="Trình độ đào tạo">
+                    <label>Nghành nghề</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="hidden" value="@Model.CareerId" id="CareerId" class="form-control" />
+                    <input type="text" readonly="readonly" class="form-control" value="@Model.CarrerName" id="CarrerText" />
+                    <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                        <button class="btn btn-primary btn-xs" id="BtnSearchCareer" style="height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4" title="Trình độ đào tạo">
+                    <label>Trình độ ĐT</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="hidden" value="@Model.EducationLevelId" id="EducationLevelId" class="form-control" />
+                    <input type="text" readonly="readonly" class="form-control" value="@Model.EducationLevelName" id="EducationLevelText" />
+
+                    <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                        <button class="btn btn-primary btn-xs" id="BtnSearchEducationLevel" style="height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>*@
+    @*<div class="row">
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Nơi sinh</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.CityBirthPlace" id="CityBirthPlace"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Quê quán</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.CityNativeLand" id="CityNativeLand"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Ngày vào làm</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" value="@(Model.WorkedDate == null ? "" : Model.WorkedDate.Value.ToString("dd/MM/yyyy"))" id="WorkedDate" class="form-control" />
+                </div>
+            </div>
+        </div>
+        @*<div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Kpi (*)</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.CategoryKpiId" id="CategoryKpiId" />
+                </div>
+            </div>
+        </div>
+       
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Mã chấm công</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" value="@Model.TimeSheetCode" id="TimeSheetCode" class="form-control"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Ngày vào làm</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" value="@(Model.WorkedDate == null ? "" : Model.WorkedDate.Value.ToString("dd/MM/yyyy"))" id="WorkedDate" class="form-control"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Vị trí</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.DepartmentCompany" id="DepartmentCompany" />
+                </div>
+            </div>
+        </div>
+       
+    </div>*@
+    <div class="row">
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Số CMND</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.IdentityCardNumber" id="IdentityCardNumber"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Ngày cấp</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@(Model.IdentityCardDate == null ? "" : Model.IdentityCardDate.Value.ToString("dd/MM/yyyy"))" id="IdentityCardDate"/>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+                    <label>Nơi cấp</label>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control" value="@Model.CityIdentityCard" id="CityIdentityCard"/>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div>
+        <div class="col-md-4">
+            <div class="row padding-bottom-0">
+                <div class="col-md-4">
+
+                </div>
+                <div class="col-md-8">
+                    <input type="checkbox" class="k-checkbox" id="IsActive" @if (Model.IsActive) { <text> checked="checked" </text>  } />
+                    <label for="IsActive" class="k-checkbox-label" style="line-height: inherit">Theo dõi</label>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    </div>
+    </div>
+        <div class="panel-group" id="accordion">
+            @*<div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Thông tin thêm của nhân viên</a>
+                    </p>
+                </div>
+                <div id="collapse1" class="panel-collapse collapse in">
+                    <div class="panel-body">   
+                        <div class="row">
+                            <div class="col-md-12">
+                                <input type="text" class="form-control" placeholder="Tình trạng sức khỏe" id="HealthStatus" value="@Model.HealthStatus" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <textarea id="DescriptionEmployee" placeholder="Ghi chú" rows="2" class="form-control" title="Ghi chú">@Model.Description</textarea>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Thông tin cư trú</div>
+                            <div class="panel-body">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                <label>Địa chỉ tạm trú</label>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <input type="text" class="form-control" value="@Model.TemperaryAddress" id="TemperaryAddress" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <label>Quận/Huyện</label>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" value="@Model.TemperaryDistrict" id="TemperaryDistrict" />
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <label>Tỉnh/TP</label>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" value="@Model.TemperaryCity" id="TemperaryCity" />
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                <label>Địa chỉ thường trú</label>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <input type="text" class="form-control" value="@Model.PermanentAddress" id="PermanentAddress" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <label>Quận/Huyện</label>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" value="@Model.PermanentDistrict" id="PermanentDistrict" />
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <label>Tỉnh/TP</label>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" class="form-control" value="@Model.PermanentCity" id="PermanentCity" />
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Thông tin khác</div>
+                            <div class="panel-body">
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <label>Ngày kết nạp đoàn</label>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" value="@(Model.DateOfYouthUnionAdmission == null ? "":Model.DateOfYouthUnionAdmission.Value.ToString("dd/MM/yyyy"))" class="form-control" id="DateOfYouthUnionAdmission" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                <label>Nơi vào đoàn</label>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <input type="text" value="@Model.PlaceOfYouthUnionAdmission" class="form-control" id="PlaceOfYouthUnionAdmission" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <label>Ngày kết nạp đảng</label>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <input type="text" value="@(Model.DateOfPartyAdmission == null ? "":Model.DateOfPartyAdmission.Value.ToString("dd/MM/yyyy"))" class="form-control" id="DateOfPartyAdmission" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                <label>Nơi vào đảng</label>
+                                            </div>
+                                            <div class="col-md-9">
+                                                <input type="text" value="@Model.PlaceOfPartyAdmission" class="form-control" id="PlaceOfPartyAdmission" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <textarea id="Skill" placeholder="Kỹ năng" rows="2" class="form-control" title="Kỹ năng">@Model.Skill</textarea>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <textarea id="Experience" placeholder="Kinh nghiệm" rows="2" class="form-control" title="Kinh nghiệm">@Model.Experience</textarea>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Hợp đồng</a>
+                    </p>
+                </div>
+                <div id="collapse2" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="box-action">
+                                    <button class="btn btn-primary btn-sm" id="btnCreateContract">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                        Thêm
+                                    </button>
+                                    <button class="btn btn-primary btn-sm" id="btnEditContract">
+                                        <i class="glyphicon glyphicon-edit"></i>
+                                        Sửa
+                                    </button>
+                                    <button class="btn btn-primary btn-sm" id="btnDeleteContract">
+                                        <i class="glyphicon glyphicon-trash"></i>
+                                        Xóa
+                                    </button>
+                                    <button class="btn btn-primary btn-sm" id="ContractType">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                        Loại hợp đồng
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainContract" event-dbclick="1"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Khen Thưởng</a>
+                    </p>
+                </div>
+                <div id="collapse3" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="box-action">
+                                    <button class="btn btn-primary btn-sm" id="btnCreatePraise">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                        Thêm
+                                    </button>
+                                    <button class="btn btn-primary btn-sm" id="btnEditPraise">
+                                        <i class="glyphicon glyphicon-edit"></i>
+                                        Sửa
+                                    </button>
+                                    <button class="btn btn-primary btn-sm" id="btnDeletePraise">
+                                        <i class="glyphicon glyphicon-trash"></i>
+                                        Xóa
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainPraise" event-dbclick="1"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Kỷ luật</a>
+                    </p>
+                </div>
+                <div id="collapse4" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="box-action">
+                                    <button class="btn btn-primary btn-sm" id="btnCreateDiscipline">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                        Thêm
+                                    </button>
+                                    <button class="btn btn-primary btn-sm" id="btnEditDiscipline">
+                                        <i class="glyphicon glyphicon-edit"></i>
+                                        Sửa
+                                    </button>
+                                    <button class="btn btn-primary btn-sm" id="btnDeleteDiscipline">
+                                        <i class="glyphicon glyphicon-trash"></i>
+                                        Xóa
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="col-md-12">
+                                    <div id="grdMainDiscipline" event-dbclick="1"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <p class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">Thuyên chuyển công tác</a>
+                </p>
+            </div>
+            <div id="collapse5" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="box-action">
+                                <button class="btn btn-primary btn-sm" id="btnCreateJobChange">
+                                    <i class="glyphicon glyphicon-plus"></i>
+                                    Thêm
+                                </button>
+                                <button class="btn btn-primary btn-sm" id="btnEditJobChange">
+                                    <i class="glyphicon glyphicon-edit"></i>
+                                    Sửa
+                                </button>
+                                <button class="btn btn-primary btn-sm" id="btnDeleteJobChange">
+                                    <i class="glyphicon glyphicon-trash"></i>
+                                    Xóa
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div id="grdMainJobChange" event-dbclick="1"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>*@
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <p class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">Tiền lương</a>
+                </p>
+            </div>
+            <div id="collapse6" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="box-action">
+                                <button class="btn btn-primary btn-sm" id="btnCreateSalary">
+                                    <i class="glyphicon glyphicon-plus"></i>
+                                    Thêm
+                                </button>
+                                <button class="btn btn-primary btn-sm" id="btnEditSalary">
+                                    <i class="glyphicon glyphicon-edit"></i>
+                                    Sửa
+                                </button>
+                                <button class="btn btn-primary btn-sm" id="btnDeleteSalary">
+                                    <i class="glyphicon glyphicon-trash"></i>
+                                    Xóa
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div id="grdSalaries" event-dbclick="1"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">Lương phát sinh</a>
+                    </p>
+                </div>
+                <div id="collapse7" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <button class="btn btn-primary btn-sm" id="btnCreateIncurredSalary">
+                                    <i class="fa fa-edit"></i>
+                                    Thêm
+                                </button>
+                                <button class="btn btn-primary btn-sm" id="btnEditIncurredSalary">
+                                    <i class="fa fa-edit"></i>
+                                    Sửa
+                                </button>
+                                <button class="btn btn-primary btn-sm" id="btnDeleteIncurredSalary">
+                                    <i class="fa fa-remove"></i>
+                                    Xóa
+                                </button>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <input type="text" style="height: 30px" value="@DateTime.Now.AddDays(-15).ToString("dd/MM/yyyy")" id="FromDateIncurredSalary" class="form-control" />
+                                    </div>
+                                    <div class="col-md-4">
+                                        <input type="text" style="height: 30px" value="@DateTime.Now.ToString("dd/MM/yyyy")" id="ToDateIncurredSalary" class="form-control" />
+                                    </div>
+                                    <div class="col-md-4">
+                                        <button class="btn btn-primary btn-sm" id="btnSearchIncurredSalary">
+                                            <i class="fa fa-search"></i>
+                                            Tìm
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainIncurredSalary" event-dbclick="1"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        @*
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <p class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">Bảo hiểm y tế</a>
+                </p>
+            </div>
+            <div id="collapse8" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="box-action">
+                                <button class="btn btn-primary btn-sm" id="btnCreateMedical">
+                                    <i class="glyphicon glyphicon-plus"></i>
+                                    Thêm
+                                </button>
+                                <button class="btn btn-primary btn-sm" id="btnEditMedical">
+                                    <i class="glyphicon glyphicon-edit"></i>
+                                    Sửa
+                                </button>
+                                <button class="btn btn-primary btn-sm" id="btnDeleteMedical">
+                                    <i class="glyphicon glyphicon-trash"></i>
+                                    Xóa
+                                </button>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="col-md-4">
+                                <input type="text" value="@DateTime.Now.Year" id="YearMedical"/>
+                            </div>
+                            <div class="col-md-4">
+                                <button class="btn btn-primary btn-sm" id="btnCreateInsurance">
+                                    <i class="glyphicon glyphicon-plus"></i>
+                                    Thông Tin BHXH
+                                </button>
+                            </div>
+                            <div class="col-md-4">
+                                <button class="btn btn-primary btn-sm" id="btnAddMedical">
+                                    <i class="glyphicon glyphicon-plus"></i>
+                                    Nơi khám bệnh
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <input id="DepartmentIdPost" value="@Model.DepartmentId" type="hidden">
+                        <input id="PostitonIdPost" value="@Model.PositionId" type="hidden">
+                        <input id="DepartmentNamePost" value="@Model.DepartmentName" type="hidden">
+                        <input id="PostitonNamePost" value="@Model.PositionName" type="hidden">
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <input type="hidden" id="EmployeeMediaId" />
+
+                            <div id="grdMainMedical" event-dbclick="1"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>*@
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <p class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">Ngày nghỉ nhân viên</a>
+                    </p>
+                </div>
+                <div id="collapse9" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="box-action">
+                                    <div class="row padding-bottom-0">
+                                        <div class="col-md-3">
+                                            <input type="text" value="@DateTime.Now.Year" id="YearHoliday" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="grdMainHoliday" event-dbclick="1"></div>
+                            </div>
+                        </div>
+                        @*<div class="row">
+                            <div class="col-md-12 text-right">
+                                <button class="btn btn-primary" id="btnSaveHoliday">
+                                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                                    Lưu
+                                </button>
+                            </div>
+                        </div>*@
+                        </div>
+                    </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSaveEmployee">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var temperaryDistrict = '@Model.TemperaryDistrict';
+    var permanentDistrict = '@Model.PermanentDistrict';
+    var employeeId = '@Model.EmployeeId';
+    var departmentTrees = @Html.Raw(Json.Encode(ViewBag.DepartmentTrees));
+    var status = '@Model.Status';
+    var createBy = '@Model.CreateBy';
+    var createDate = '@Model.CreateDate';
+</script>
+<script src="~/Areas/Hrm/JsAction/Employee/addOrEdit.js"></script>
+
+

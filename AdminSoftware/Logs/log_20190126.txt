@@ -1,0 +1,962 @@
+2019-01-26 09:00:50,777: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:00:50,777: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:03:39,089: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:03:39,089: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:10:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:10 AM
+2019-01-26 09:10:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:10 AM
+2019-01-26 09:10:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:10 AM
+2019-01-26 09:10:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:10 AM
+2019-01-26 09:14:13,788: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:14:13,788: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:15:04,835: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 09:15:04,835: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 09:15:04,884: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 09:15:04,884: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 09:15:04,926: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 09:15:04,926: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 09:15:59,296: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:15:59,296: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:20:00,064: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:20 AM
+2019-01-26 09:20:00,064: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:20 AM
+2019-01-26 09:20:00,064: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:20 AM
+2019-01-26 09:20:00,064: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:20 AM
+2019-01-26 09:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:30 AM
+2019-01-26 09:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:30 AM
+2019-01-26 09:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:30 AM
+2019-01-26 09:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:30 AM
+2019-01-26 09:34:09,050: ERROR Logging ・The controller for path '/hrm/LocationEmployee/Index' was not found or does not implement IController.
+2019-01-26 09:34:09,050: ERROR Logging ・The controller for path '/hrm/LocationEmployee/Index' was not found or does not implement IController.
+2019-01-26 09:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:40 AM
+2019-01-26 09:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:40 AM
+2019-01-26 09:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:40 AM
+2019-01-26 09:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:40 AM
+2019-01-26 09:48:42,857: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 09:48:42,857: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 09:48:43,397: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 09:48:43,397: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 09:48:43,433: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 09:48:43,433: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 09:50:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:50 AM
+2019-01-26 09:50:00,053: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:50 AM
+2019-01-26 09:50:00,053: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 09:50 AM
+2019-01-26 09:50:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 09:50 AM
+2019-01-26 09:54:05,589: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 09:54:05,589: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 10:00:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:00 AM
+2019-01-26 10:00:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:00 AM
+2019-01-26 10:00:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:00 AM
+2019-01-26 10:00:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:00 AM
+2019-01-26 10:10:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:10 AM
+2019-01-26 10:10:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:10 AM
+2019-01-26 10:10:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:10 AM
+2019-01-26 10:10:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:10 AM
+2019-01-26 10:16:47,272: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 10:16:47,272: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 10:19:40,770: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:158cfd81-2088-4a60-b532-59bf777b6201
+Error Number:2812,State:62,Class:16
+2019-01-26 10:19:40,770: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:158cfd81-2088-4a60-b532-59bf777b6201
+Error Number:2812,State:62,Class:16
+2019-01-26 10:20:00,049: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:20 AM
+2019-01-26 10:20:00,049: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:20 AM
+2019-01-26 10:20:00,049: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:20 AM
+2019-01-26 10:20:00,049: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:20 AM
+2019-01-26 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:30 AM
+2019-01-26 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:30 AM
+2019-01-26 10:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:30 AM
+2019-01-26 10:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:30 AM
+2019-01-26 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:40 AM
+2019-01-26 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:40 AM
+2019-01-26 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:40 AM
+2019-01-26 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:40 AM
+2019-01-26 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:50 AM
+2019-01-26 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 10:50 AM
+2019-01-26 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:50 AM
+2019-01-26 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 10:50 AM
+2019-01-26 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:00 AM
+2019-01-26 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:00 AM
+2019-01-26 11:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:00 AM
+2019-01-26 11:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:00 AM
+2019-01-26 11:00:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 26/01/2019 11:00 AM
+2019-01-26 11:00:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 26/01/2019 11:00 AM
+2019-01-26 11:00:00,150: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:7d1d394c-a596-47f3-b846-c63781ca046d
+Error Number:64,State:0,Class:20
+2019-01-26 11:00:00,150: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:7d1d394c-a596-47f3-b846-c63781ca046d
+Error Number:64,State:0,Class:20
+2019-01-26 11:00:00,151: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:7d1d394c-a596-47f3-b846-c63781ca046d
+Error Number:64,State:0,Class:20
+2019-01-26 11:00:00,151: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:7d1d394c-a596-47f3-b846-c63781ca046d
+Error Number:64,State:0,Class:20
+2019-01-26 11:00:00,150: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:7d1d394c-a596-47f3-b846-c63781ca046d
+Error Number:64,State:0,Class:20
+2019-01-26 11:00:00,150: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:7d1d394c-a596-47f3-b846-c63781ca046d
+Error Number:64,State:0,Class:20
+2019-01-26 11:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:10 AM
+2019-01-26 11:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:10 AM
+2019-01-26 11:10:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:10 AM
+2019-01-26 11:10:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:10 AM
+2019-01-26 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:20 AM
+2019-01-26 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:20 AM
+2019-01-26 11:20:00,015: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:20 AM
+2019-01-26 11:20:00,015: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:20 AM
+2019-01-26 11:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:30 AM
+2019-01-26 11:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:30 AM
+2019-01-26 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:30 AM
+2019-01-26 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:30 AM
+2019-01-26 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:40 AM
+2019-01-26 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:40 AM
+2019-01-26 11:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:40 AM
+2019-01-26 11:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:40 AM
+2019-01-26 11:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:50 AM
+2019-01-26 11:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 11:50 AM
+2019-01-26 11:50:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:50 AM
+2019-01-26 11:50:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 11:50 AM
+2019-01-26 12:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:00 PM
+2019-01-26 12:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:00 PM
+2019-01-26 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:00 PM
+2019-01-26 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:00 PM
+2019-01-26 12:19:13,195: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:19 PM
+2019-01-26 12:19:13,195: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:19 PM
+2019-01-26 12:19:13,195: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:19 PM
+2019-01-26 12:19:13,195: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:19 PM
+2019-01-26 12:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:20 PM
+2019-01-26 12:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:20 PM
+2019-01-26 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:20 PM
+2019-01-26 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:20 PM
+2019-01-26 12:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:30 PM
+2019-01-26 12:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:30 PM
+2019-01-26 12:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:30 PM
+2019-01-26 12:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:30 PM
+2019-01-26 12:41:43,326: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:41 PM
+2019-01-26 12:41:43,326: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:41 PM
+2019-01-26 12:41:43,327: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:41 PM
+2019-01-26 12:41:43,327: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:41 PM
+2019-01-26 12:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:50 PM
+2019-01-26 12:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 12:50 PM
+2019-01-26 12:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:50 PM
+2019-01-26 12:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 12:50 PM
+2019-01-26 13:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 01:00 PM
+2019-01-26 13:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 01:00 PM
+2019-01-26 13:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 01:00 PM
+2019-01-26 13:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 01:00 PM
+2019-01-26 13:00:00,072: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:a94f9638-a740-48f7-b68e-9d5d97971ba1
+Error Number:64,State:0,Class:20
+2019-01-26 13:00:00,072: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:a94f9638-a740-48f7-b68e-9d5d97971ba1
+Error Number:64,State:0,Class:20
+2019-01-26 13:53:37,305: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:53:37,305: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:53:46,844: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:53:46,844: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:05,407: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:05,407: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:06,683: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:06,683: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:16,372: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:16,372: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:16,452: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 13:54:16,452: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 13:54:19,255: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:19,255: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:23,616: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:23,616: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:23,816: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:23,816: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:23,993: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 13:54:23,993: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2019; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:e5d44908-adb0-45eb-bd05-fc31cc3fe437
+Error Number:2812,State:62,Class:16
+2019-01-26 14:00:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:00 PM
+2019-01-26 14:00:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:00 PM
+2019-01-26 14:00:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:00 PM
+2019-01-26 14:00:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:00 PM
+2019-01-26 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:10 PM
+2019-01-26 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:10 PM
+2019-01-26 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:10 PM
+2019-01-26 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:10 PM
+2019-01-26 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:20 PM
+2019-01-26 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:20 PM
+2019-01-26 14:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:20 PM
+2019-01-26 14:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:20 PM
+2019-01-26 14:22:05,988: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 14:22:05,988: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 14:30:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:30 PM
+2019-01-26 14:30:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:30 PM
+2019-01-26 14:30:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:30 PM
+2019-01-26 14:30:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:30 PM
+2019-01-26 14:40:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:40 PM
+2019-01-26 14:40:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:40 PM
+2019-01-26 14:40:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:40 PM
+2019-01-26 14:40:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:40 PM
+2019-01-26 14:50:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:50 PM
+2019-01-26 14:50:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:50 PM
+2019-01-26 14:50:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 02:50 PM
+2019-01-26 14:50:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 02:50 PM
+2019-01-26 14:58:43,768: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 14:58:43,768: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 14:59:32,155: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 14:59:32,155: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 14:59:32,223: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 14:59:32,223: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 14:59:32,259: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 14:59:32,259: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:00:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:00 PM
+2019-01-26 15:00:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:00 PM
+2019-01-26 15:00:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:00 PM
+2019-01-26 15:00:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:00 PM
+2019-01-26 15:00:12,332: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:00:12,332: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:00:14,226: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:00:14,226: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:00:25,394: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:00:25,394: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:00:25,441: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:00:25,441: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:00:25,476: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:00:25,476: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:02:34,196: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:02:34,196: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:08:10,375: ERROR Logging ・A public action method 'SaveHoliday' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.HolidayController'.
+2019-01-26 15:08:10,375: ERROR Logging ・A public action method 'SaveHoliday' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.HolidayController'.
+2019-01-26 15:08:15,739: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:08:15,739: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:08:15,781: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:08:15,781: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:08:15,820: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:08:15,820: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:08:18,135: ERROR Logging ・A public action method 'SaveHoliday' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.HolidayController'.
+2019-01-26 15:08:18,135: ERROR Logging ・A public action method 'SaveHoliday' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.HolidayController'.
+2019-01-26 15:09:20,070: ERROR Logging ・A public action method 'SaveHoliday' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.HolidayController'.
+2019-01-26 15:09:20,070: ERROR Logging ・A public action method 'SaveHoliday' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.HolidayController'.
+2019-01-26 15:09:20,180: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:09:20,180: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:09:23,232: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:09:23,232: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:09:24,585: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:09:24,585: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:09:24,703: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:09:24,703: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:09:25,044: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:09:25,044: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:09:39,418: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:09:39,418: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:09:39,536: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:09:39,536: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:09:39,620: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:09:39,620: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:10:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:10 PM
+2019-01-26 15:10:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:10 PM
+2019-01-26 15:10:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:10 PM
+2019-01-26 15:10:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:10 PM
+2019-01-26 15:10:05,226: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:10:05,226: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:10:05,285: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:10:05,285: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:10:05,321: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:10:05,321: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:11:40,777: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:11:40,777: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:14:06,812: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:14:06,812: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:25:45,775: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:25:45,775: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:27:32,510: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:27:32,510: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:28:02,563: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:28:02,563: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:28:09,538: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:28:09,538: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:28:09,603: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:28:09,603: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:28:09,641: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:28:09,641: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:28:51,792: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:28:51,792: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:28:52,937: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:28:52,937: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:28:53,317: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:28:53,317: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:28:53,336: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:28:53,336: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:29:41,478: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:29:41,478: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:30:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:30 PM
+2019-01-26 15:30:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:30 PM
+2019-01-26 15:30:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:30 PM
+2019-01-26 15:30:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:30 PM
+2019-01-26 15:36:07,802: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:36:07,802: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:40:00,035: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:40 PM
+2019-01-26 15:40:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:40 PM
+2019-01-26 15:40:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:40 PM
+2019-01-26 15:40:00,035: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:40 PM
+2019-01-26 15:40:08,179: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:40:08,179: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:41:09,908: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:41:09,908: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:41:20,148: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:41:20,148: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:41:20,205: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:41:20,205: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:41:20,236: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:41:20,236: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:41:25,015: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'fromDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:41:25,015: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'fromDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:43:02,256: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:43:02,256: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:43:03,277: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:43:03,277: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:43:03,532: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:43:03,532: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:43:03,698: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:43:03,698: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:43:12,018: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:43:12,018: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:43:44,092: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:43:44,092: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:43:44,155: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:43:44,155: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:43:44,214: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:43:44,214: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:43:49,159: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'fromDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:43:49,159: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'fromDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:46:13,988: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:46:13,988: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:46:21,515: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:46:21,515: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:46:26,949: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:46:26,949: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:46:27,007: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:46:27,007: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:46:27,045: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:46:27,045: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:47:53,392: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:47:53,392: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-26 15:47:54,521: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:47:54,521: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-26 15:47:54,770: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:47:54,770: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:47:54,957: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:47:54,957: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-26 15:48:11,145: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:48:11,145: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:50:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:50 PM
+2019-01-26 15:50:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:50 PM
+2019-01-26 15:50:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 03:50 PM
+2019-01-26 15:50:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 03:50 PM
+2019-01-26 15:53:09,801: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'fromDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:53:09,801: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'fromDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult CreateDetail(System.DateTime, System.DateTime, System.String)' in 'AdminSoftware.Areas.Hrm.Controllers.EmployeeHolidayController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2019-01-26 15:57:55,782: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:57:55,782: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:59:31,101: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 15:59:31,101: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-26 16:00:00,061: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 26/01/2019 04:00 PM
+2019-01-26 16:00:00,061: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 04:00 PM
+2019-01-26 16:00:00,063: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 04:00 PM
+2019-01-26 16:00:00,063: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 04:00 PM
+2019-01-26 16:00:00,061: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 04:00 PM
+2019-01-26 16:00:00,061: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 26/01/2019 04:00 PM
+2019-01-26 16:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 04:10 PM
+2019-01-26 16:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 04:10 PM
+2019-01-26 16:10:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 04:10 PM
+2019-01-26 16:10:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 04:10 PM
+2019-01-26 16:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 04:20 PM
+2019-01-26 16:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 04:20 PM
+2019-01-26 16:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 26/01/2019 04:20 PM
+2019-01-26 16:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 26/01/2019 04:20 PM

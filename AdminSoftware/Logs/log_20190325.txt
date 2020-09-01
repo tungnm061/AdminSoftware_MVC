@@ -1,0 +1,16 @@
+2019-03-25 16:30:00,084: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/03/2019 04:30 PM
+2019-03-25 16:30:00,084: ERROR Logging – Start Job NotificationWorkPlan: 25/03/2019 04:30 PM
+2019-03-25 16:30:00,084: ERROR Logging – Start Job NotificationWorkPlan: 25/03/2019 04:30 PM
+2019-03-25 16:30:00,084: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/03/2019 04:30 PM
+2019-03-25 16:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/03/2019 04:40 PM
+2019-03-25 16:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/03/2019 04:40 PM
+2019-03-25 16:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 25/03/2019 04:40 PM
+2019-03-25 16:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 25/03/2019 04:40 PM
+2019-03-25 16:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/03/2019 04:50 PM
+2019-03-25 16:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/03/2019 04:50 PM
+2019-03-25 16:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 25/03/2019 04:50 PM
+2019-03-25 16:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 25/03/2019 04:50 PM
+2019-03-25 17:00:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/03/2019 05:00 PM
+2019-03-25 17:00:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/03/2019 05:00 PM
+2019-03-25 17:00:00,003: ERROR Logging – Start Job NotificationWorkPlan: 25/03/2019 05:00 PM
+2019-03-25 17:00:00,003: ERROR Logging – Start Job NotificationWorkPlan: 25/03/2019 05:00 PM

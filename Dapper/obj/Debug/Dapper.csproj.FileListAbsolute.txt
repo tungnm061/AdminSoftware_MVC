@@ -1,0 +1,25 @@
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Dapper\bin\Debug\Dapper.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Dapper\bin\Debug\Dapper.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Dapper\bin\Debug\Enyim.Caching.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Dapper\bin\Debug\Enyim.Caching.xml
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Dapper\obj\Debug\Dapper.dll
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Dapper\obj\Debug\Dapper.pdb
+E:\MichitaSource\DongLucProject\DONGLUCERP\DONGLUC\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Dapper\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Dapper\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Dapper\bin\Debug\Enyim.Caching.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Dapper\bin\Debug\Enyim.Caching.xml
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Dapper\obj\Debug\Dapper.dll
+D:\TungNM\WEB MVC\DongLucProject\DongLucProject\DONGLUCERP\DONGLUC\Dapper\obj\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\Dapper\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\TUNGNM\Dapper\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\Dapper\obj\Debug\Dapper.dll
+D:\TungNM\WEB MVC\TUNGNM\Dapper\obj\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\bin\Debug\Dapper.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\bin\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\bin\Debug\Enyim.Caching.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\bin\Debug\Enyim.Caching.xml
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\obj\Debug\Dapper.dll
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\obj\Debug\Dapper.pdb
+D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache

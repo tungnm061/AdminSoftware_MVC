@@ -1,0 +1,148 @@
+2018-12-29 09:03:33,049: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-29 09:03:33,049: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-29 09:10:00,046: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:10 AM
+2018-12-29 09:10:00,046: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:10 AM
+2018-12-29 09:10:00,046: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:10 AM
+2018-12-29 09:10:00,046: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:10 AM
+2018-12-29 09:10:33,423: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-29 09:10:33,423: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-29 09:20:00,040: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:20 AM
+2018-12-29 09:20:00,040: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:20 AM
+2018-12-29 09:20:00,040: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:20 AM
+2018-12-29 09:20:00,040: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:20 AM
+2018-12-29 09:30:00,016: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:30 AM
+2018-12-29 09:30:00,016: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:30 AM
+2018-12-29 09:30:00,016: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:30 AM
+2018-12-29 09:30:00,016: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:30 AM
+2018-12-29 09:40:00,041: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:40 AM
+2018-12-29 09:40:00,041: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:40 AM
+2018-12-29 09:40:00,041: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:40 AM
+2018-12-29 09:40:00,041: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:40 AM
+2018-12-29 09:50:00,115: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:50 AM
+2018-12-29 09:50:00,115: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:50 AM
+2018-12-29 09:50:00,115: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 09:50 AM
+2018-12-29 09:50:00,115: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 09:50 AM
+2018-12-29 09:54:56,000: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-29 09:54:56,000: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-29 09:59:10,776: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-29 09:59:10,776: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-29 09:59:10,839: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-29 09:59:10,839: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-29 09:59:10,865: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-29 09:59:10,865: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-29 09:59:27,538: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-29 09:59:27,538: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-29 09:59:28,496: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-29 09:59:28,496: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-29 09:59:28,619: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-29 09:59:28,619: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-29 09:59:28,712: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-29 09:59:28,712: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-29 10:00:00,030: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:00 AM
+2018-12-29 10:00:00,030: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:00 AM
+2018-12-29 10:00:00,030: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:00 AM
+2018-12-29 10:00:00,030: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:00 AM
+2018-12-29 10:10:00,025: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:10 AM
+2018-12-29 10:10:00,025: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:10 AM
+2018-12-29 10:10:00,025: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:10 AM
+2018-12-29 10:10:00,025: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:10 AM
+2018-12-29 10:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:20 AM
+2018-12-29 10:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:20 AM
+2018-12-29 10:20:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:20 AM
+2018-12-29 10:20:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:20 AM
+2018-12-29 10:30:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:30 AM
+2018-12-29 10:30:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:30 AM
+2018-12-29 10:30:00,009: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:30 AM
+2018-12-29 10:30:00,009: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:30 AM
+2018-12-29 10:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:40 AM
+2018-12-29 10:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:40 AM
+2018-12-29 10:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:40 AM
+2018-12-29 10:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:40 AM
+2018-12-29 10:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:50 AM
+2018-12-29 10:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 10:50 AM
+2018-12-29 10:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:50 AM
+2018-12-29 10:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 10:50 AM
+2018-12-29 11:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:00 AM
+2018-12-29 11:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:00 AM
+2018-12-29 11:00:00,006: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:00 AM
+2018-12-29 11:00:00,006: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:00 AM
+2018-12-29 11:00:00,010: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 29/12/2018 11:00 AM
+2018-12-29 11:00:00,010: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 29/12/2018 11:00 AM
+2018-12-29 11:10:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:10 AM
+2018-12-29 11:10:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:10 AM
+2018-12-29 11:10:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:10 AM
+2018-12-29 11:10:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:10 AM
+2018-12-29 11:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:20 AM
+2018-12-29 11:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:20 AM
+2018-12-29 11:20:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:20 AM
+2018-12-29 11:20:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:20 AM
+2018-12-29 11:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:30 AM
+2018-12-29 11:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:30 AM
+2018-12-29 11:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:30 AM
+2018-12-29 11:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:30 AM
+2018-12-29 11:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:40 AM
+2018-12-29 11:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:40 AM
+2018-12-29 11:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:40 AM
+2018-12-29 11:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:40 AM
+2018-12-29 11:50:00,112: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:50 AM
+2018-12-29 11:50:00,112: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:50 AM
+2018-12-29 11:50:00,112: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 11:50 AM
+2018-12-29 11:50:00,112: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 11:50 AM
+2018-12-29 12:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 12:00 PM
+2018-12-29 12:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 12:00 PM
+2018-12-29 12:00:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 12:00 PM
+2018-12-29 12:00:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 12:00 PM
+2018-12-29 12:10:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 12:10 PM
+2018-12-29 12:10:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 12:10 PM
+2018-12-29 12:10:00,003: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 12:10 PM
+2018-12-29 12:10:00,003: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 12:10 PM
+2018-12-29 14:25:07,201: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2018-12-29 14:25:07,201: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2018-12-29 14:25:15,079: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2018-12-29 14:25:15,079: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2018-12-29 14:30:00,045: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 02:30 PM
+2018-12-29 14:30:00,045: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 02:30 PM
+2018-12-29 14:30:00,045: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 02:30 PM
+2018-12-29 14:30:00,045: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 02:30 PM
+2018-12-29 14:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 02:40 PM
+2018-12-29 14:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 02:40 PM
+2018-12-29 14:40:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 02:40 PM
+2018-12-29 14:40:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 02:40 PM
+2018-12-29 14:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 02:50 PM
+2018-12-29 14:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 02:50 PM
+2018-12-29 14:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 02:50 PM
+2018-12-29 14:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 02:50 PM
+2018-12-29 15:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:00 PM
+2018-12-29 15:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:00 PM
+2018-12-29 15:00:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:00 PM
+2018-12-29 15:00:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:00 PM
+2018-12-29 15:10:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:10 PM
+2018-12-29 15:10:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:10 PM
+2018-12-29 15:10:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:10 PM
+2018-12-29 15:10:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:10 PM
+2018-12-29 15:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:20 PM
+2018-12-29 15:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:20 PM
+2018-12-29 15:20:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:20 PM
+2018-12-29 15:20:00,001: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:20 PM
+2018-12-29 15:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:30 PM
+2018-12-29 15:30:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:30 PM
+2018-12-29 15:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:30 PM
+2018-12-29 15:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:30 PM
+2018-12-29 15:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:40 PM
+2018-12-29 15:40:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:40 PM
+2018-12-29 15:40:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:40 PM
+2018-12-29 15:40:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:40 PM
+2018-12-29 15:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:50 PM
+2018-12-29 15:50:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 03:50 PM
+2018-12-29 15:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:50 PM
+2018-12-29 15:50:00,000: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 03:50 PM
+2018-12-29 16:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 04:00 PM
+2018-12-29 16:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 04:00 PM
+2018-12-29 16:00:00,016: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 04:00 PM
+2018-12-29 16:00:00,016: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 04:00 PM
+2018-12-29 16:00:00,024: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 29/12/2018 04:00 PM
+2018-12-29 16:00:00,024: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 29/12/2018 04:00 PM
+2018-12-29 16:10:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 04:10 PM
+2018-12-29 16:10:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 29/12/2018 04:10 PM
+2018-12-29 16:10:00,003: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 04:10 PM
+2018-12-29 16:10:00,003: ERROR Logging – Start Job NotificationWorkPlan: 29/12/2018 04:10 PM

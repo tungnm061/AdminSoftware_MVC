@@ -1,0 +1,408 @@
+2019-01-15 09:00:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 09:00 AM
+2019-01-15 09:00:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 09:00 AM
+2019-01-15 09:00:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 09:00 AM
+2019-01-15 09:00:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 09:00 AM
+2019-01-15 09:00:05,027: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:00:05,027: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:00:33,356: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:00:33,356: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:00:33,411: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:00:33,411: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:00:33,814: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:00:33,814: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:02:04,014: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:02:04,014: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:02:50,707: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:02:50,707: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:02:50,746: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:02:50,746: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:02:50,793: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:02:50,793: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:09:13,597: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:09:13,597: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:09:13,603: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:09:13,603: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:09:13,675: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:09:13,675: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:09:19,045: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:09:19,045: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:09:19,934: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:09:19,934: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:09:35,947: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:09:35,947: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:09:35,992: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:09:35,992: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:09:36,019: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:09:36,019: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 09:10 AM
+2019-01-15 09:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 09:10 AM
+2019-01-15 09:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 09:10 AM
+2019-01-15 09:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 09:10 AM
+2019-01-15 09:10:47,832: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:10:47,832: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:10:49,272: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:10:49,272: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:10:49,427: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:10:49,427: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:10:49,532: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:10:49,532: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:20:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 09:20 AM
+2019-01-15 09:20:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 09:20 AM
+2019-01-15 09:20:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 09:20 AM
+2019-01-15 09:20:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 09:20 AM
+2019-01-15 09:25:17,119: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:25:17,119: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:25:17,682: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:25:17,682: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:25:17,712: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:25:17,712: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:26:13,726: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:26:13,726: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:26:15,053: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:26:15,053: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:26:15,259: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:26:15,259: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:26:41,316: ERROR Logging ・The current request for action 'Save' on controller type 'HomeController' is ambiguous between the following action methods:
+System.Web.Mvc.JsonResult Save(AdminSoftware.Areas.System.Models.Kpi.WorkDetailModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+System.Web.Mvc.ActionResult Save(AdminSoftware.Areas.System.Models.Kpi.AssignWorkModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+2019-01-15 09:26:41,316: ERROR Logging ・The current request for action 'Save' on controller type 'HomeController' is ambiguous between the following action methods:
+System.Web.Mvc.JsonResult Save(AdminSoftware.Areas.System.Models.Kpi.WorkDetailModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+System.Web.Mvc.ActionResult Save(AdminSoftware.Areas.System.Models.Kpi.AssignWorkModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+2019-01-15 09:26:43,898: ERROR Logging ・The current request for action 'Save' on controller type 'HomeController' is ambiguous between the following action methods:
+System.Web.Mvc.JsonResult Save(AdminSoftware.Areas.System.Models.Kpi.WorkDetailModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+System.Web.Mvc.ActionResult Save(AdminSoftware.Areas.System.Models.Kpi.AssignWorkModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+2019-01-15 09:26:43,898: ERROR Logging ・The current request for action 'Save' on controller type 'HomeController' is ambiguous between the following action methods:
+System.Web.Mvc.JsonResult Save(AdminSoftware.Areas.System.Models.Kpi.WorkDetailModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+System.Web.Mvc.ActionResult Save(AdminSoftware.Areas.System.Models.Kpi.AssignWorkModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+2019-01-15 09:30:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 09:30 AM
+2019-01-15 09:30:00,034: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 09:30 AM
+2019-01-15 09:30:00,034: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 09:30 AM
+2019-01-15 09:30:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 09:30 AM
+2019-01-15 09:30:12,390: ERROR Logging ・The current request for action 'Save' on controller type 'HomeController' is ambiguous between the following action methods:
+System.Web.Mvc.JsonResult Save(AdminSoftware.Areas.System.Models.Kpi.WorkDetailModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+System.Web.Mvc.ActionResult Save(AdminSoftware.Areas.System.Models.Kpi.AssignWorkModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+2019-01-15 09:30:12,390: ERROR Logging ・The current request for action 'Save' on controller type 'HomeController' is ambiguous between the following action methods:
+System.Web.Mvc.JsonResult Save(AdminSoftware.Areas.System.Models.Kpi.WorkDetailModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+System.Web.Mvc.ActionResult Save(AdminSoftware.Areas.System.Models.Kpi.AssignWorkModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+2019-01-15 09:30:42,625: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:30:42,625: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:30:42,631: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:30:42,631: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:30:42,690: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:30:42,690: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:30:58,857: ERROR Logging ・The current request for action 'Save' on controller type 'HomeController' is ambiguous between the following action methods:
+System.Web.Mvc.JsonResult Save(AdminSoftware.Areas.System.Models.Kpi.WorkDetailModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+System.Web.Mvc.ActionResult Save(AdminSoftware.Areas.System.Models.Kpi.AssignWorkModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+2019-01-15 09:30:58,857: ERROR Logging ・The current request for action 'Save' on controller type 'HomeController' is ambiguous between the following action methods:
+System.Web.Mvc.JsonResult Save(AdminSoftware.Areas.System.Models.Kpi.WorkDetailModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+System.Web.Mvc.ActionResult Save(AdminSoftware.Areas.System.Models.Kpi.AssignWorkModel) on type AdminSoftware.Areas.Hrm.Controllers.HomeController
+2019-01-15 09:33:13,367: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 09:33:13,367: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 09:33:18,970: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:18,970: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:18,978: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:18,978: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:19,062: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:19,062: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:20,701: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:20,701: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:22,532: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:33:22,532: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:33:22,695: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:22,695: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:22,771: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:22,771: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:28,907: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:28,907: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:28,970: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:28,970: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:29,015: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:29,015: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:46,900: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:46,900: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:47,691: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:47,691: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:48,114: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:33:48,114: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:33:48,296: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:48,296: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:51,004: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:51,004: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:33:51,044: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:51,044: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:33:51,088: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:33:51,088: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:34:23,693: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:34:23,693: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:34:24,533: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:34:24,533: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:34:24,640: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:34:24,640: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:34:24,927: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:34:24,927: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 09:34:27,965: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 09:34:27,965: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 09:34:44,103: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:34:44,103: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:34:44,173: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:34:44,173: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:34:44,234: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:34:44,234: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:59:20,424: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:59:20,424: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:59:20,490: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:59:20,490: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:59:20,524: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:59:20,524: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:59:35,970: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:59:35,970: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:59:36,037: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:59:36,037: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:59:36,054: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:59:36,054: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:59:58,900: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:59:58,900: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 09:59:58,953: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:59:58,953: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 09:59:58,971: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 09:59:58,971: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:00:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:00 AM
+2019-01-15 10:00:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:00 AM
+2019-01-15 10:00:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:00 AM
+2019-01-15 10:00:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:00 AM
+2019-01-15 10:00:32,273: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:00:32,273: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:01:02,502: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:01:02,502: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:01:14,070: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:01:14,070: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:01:14,105: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:01:14,105: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:01:14,159: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:01:14,159: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:02:16,420: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:02:16,420: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:02:38,208: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:02:38,208: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:02:49,077: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:02:49,077: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:02:49,086: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:02:49,086: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:02:49,141: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:02:49,141: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:03:12,580: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:03:12,580: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:03:14,232: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:03:14,232: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:05:24,373: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:05:24,373: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:06:35,230: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:06:35,230: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:06:55,851: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:06:55,851: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:08:12,387: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:08:12,387: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:08:17,356: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:08:17,356: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:08:17,417: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:08:17,417: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:08:17,449: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:08:17,449: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:08:29,413: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:08:29,413: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:08:43,459: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:08:43,459: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:09:52,977: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:09:52,977: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:09:52,984: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:09:52,984: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:09:53,038: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:09:53,038: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:10 AM
+2019-01-15 10:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:10 AM
+2019-01-15 10:10:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:10 AM
+2019-01-15 10:10:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:10 AM
+2019-01-15 10:10:41,541: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:10:41,541: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:10:43,068: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:10:43,068: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:10:43,223: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:10:43,223: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:10:43,321: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:10:43,321: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:11:06,195: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:11:06,195: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:12:59,481: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:12:59,481: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:13:11,739: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:13:11,739: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:14:54,355: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:14:54,355: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:15:03,194: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:15:03,194: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:15:03,265: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:15:03,265: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:15:03,296: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:15:03,296: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:18:15,482: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:18:15,482: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:18:16,711: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:18:16,711: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:18:56,516: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:18:56,516: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:19:11,060: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:19:11,060: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:19:19,993: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:19:19,993: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:19:20,001: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:19:20,001: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:19:20,053: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:19:20,053: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:19:53,082: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:19:53,082: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:19:53,089: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:19:53,089: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:19:53,134: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:19:53,134: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:20 AM
+2019-01-15 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:20 AM
+2019-01-15 10:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:20 AM
+2019-01-15 10:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:20 AM
+2019-01-15 10:25:14,799: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:25:14,799: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:27:33,306: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 10:27:33,306: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:30 AM
+2019-01-15 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:30 AM
+2019-01-15 10:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:30 AM
+2019-01-15 10:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:30 AM
+2019-01-15 10:40:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:40 AM
+2019-01-15 10:40:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:40 AM
+2019-01-15 10:40:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:40 AM
+2019-01-15 10:40:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:40 AM
+2019-01-15 10:43:34,011: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:43:34,011: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:43:41,478: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:43:41,478: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 10:43:41,518: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:43:41,518: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 10:43:41,535: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:43:41,535: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:44:16,057: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:44:16,057: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 10:44:17,014: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:44:17,014: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:44:32,735: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:44:32,735: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:50 AM
+2019-01-15 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 10:50 AM
+2019-01-15 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:50 AM
+2019-01-15 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 10:50 AM
+2019-01-15 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:00 AM
+2019-01-15 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:00 AM
+2019-01-15 11:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:00 AM
+2019-01-15 11:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:00 AM
+2019-01-15 11:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 15/01/2019 11:00 AM
+2019-01-15 11:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 15/01/2019 11:00 AM
+2019-01-15 11:00:00,116: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2019-01-15 11:00:00,116: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2019-01-15 11:09:30,670: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 11:09:30,670: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 11:09:49,423: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 11:09:49,423: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 11:09:49,477: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 11:09:49,477: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 11:09:49,503: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 11:09:49,503: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 11:10:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:10 AM
+2019-01-15 11:10:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:10 AM
+2019-01-15 11:10:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:10 AM
+2019-01-15 11:10:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:10 AM
+2019-01-15 11:10:30,838: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 11:10:30,838: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 11:11:24,328: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 11:11:24,328: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 11:12:58,431: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 11:12:58,431: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 11:13:37,096: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 11:13:37,096: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 11:13:46,209: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 11:13:46,209: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 11:13:51,919: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 11:13:51,919: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 11:13:59,247: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 11:13:59,247: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 11:20:00,029: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:20 AM
+2019-01-15 11:20:00,030: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:20 AM
+2019-01-15 11:20:00,030: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:20 AM
+2019-01-15 11:20:00,029: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:20 AM
+2019-01-15 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:30 AM
+2019-01-15 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:30 AM
+2019-01-15 11:30:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:30 AM
+2019-01-15 11:30:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:30 AM
+2019-01-15 11:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:40 AM
+2019-01-15 11:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:40 AM
+2019-01-15 11:40:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:40 AM
+2019-01-15 11:40:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:40 AM
+2019-01-15 11:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:50 AM
+2019-01-15 11:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 11:50 AM
+2019-01-15 11:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:50 AM
+2019-01-15 11:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 11:50 AM
+2019-01-15 13:12:34,867: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:12:34,867: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:18:50,562: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:18:50,562: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:19:09,875: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 13:19:09,875: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 13:19:09,931: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 13:19:09,931: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 13:19:09,963: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 13:19:09,963: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 13:20:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 01:20 PM
+2019-01-15 13:20:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 01:20 PM
+2019-01-15 13:20:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 01:20 PM
+2019-01-15 13:20:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 01:20 PM
+2019-01-15 13:20:33,401: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 13:20:33,401: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 13:20:34,624: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:20:34,624: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:20:34,824: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 13:20:34,824: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 13:20:34,899: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 13:20:34,899: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 13:21:04,799: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:21:04,799: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:23:44,013: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:23:44,013: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:24:09,211: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:24:09,211: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:26:40,691: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:26:40,691: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:27:22,669: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:27:22,669: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:27:43,969: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:27:43,969: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 01:30 PM
+2019-01-15 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 01:30 PM
+2019-01-15 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 01:30 PM
+2019-01-15 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 01:30 PM
+2019-01-15 13:31:13,817: ERROR Logging ・A public action method 'SaveAssignWork' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.AssignWorkController'.
+2019-01-15 13:31:13,817: ERROR Logging ・A public action method 'SaveAssignWork' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.AssignWorkController'.
+2019-01-15 13:31:18,796: ERROR Logging ・A public action method 'SaveAssignWork' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.AssignWorkController'.
+2019-01-15 13:31:18,796: ERROR Logging ・A public action method 'SaveAssignWork' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.AssignWorkController'.
+2019-01-15 13:31:21,526: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 13:31:21,526: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-15 13:31:21,532: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 13:31:21,532: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-15 13:31:21,626: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 13:31:21,626: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-15 13:31:23,839: ERROR Logging ・A public action method 'SaveAssignWork' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.AssignWorkController'.
+2019-01-15 13:31:23,839: ERROR Logging ・A public action method 'SaveAssignWork' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.AssignWorkController'.
+2019-01-15 13:32:08,353: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:32:08,353: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-15 13:32:18,188: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 13:32:18,188: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-01-15 13:45:11,917: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 01:45 PM
+2019-01-15 13:45:11,916: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 01:45 PM
+2019-01-15 13:45:11,916: ERROR Logging ・Start Job NotificationWorkPlan: 15/01/2019 01:45 PM
+2019-01-15 13:45:11,917: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 15/01/2019 01:45 PM

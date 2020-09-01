@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6E020835-D0DD-4D80-B622-991DB033A577}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataAccess</RootNamespace>
+    <AssemblyName>DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Enyim.Caching, Version=2.16.0.0, Culture=neutral, PublicKeyToken=cec98615db04012e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EnyimMemcached.2.16.0\lib\net35\Enyim.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\log4net.2.0.8\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MiniProfiler, Version=3.2.0.157, Culture=neutral, PublicKeyToken=b44f9351044011a3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MiniProfiler.3.1\lib\net40\MiniProfiler.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FastAccounting\BangCanDoiKeToanDal.cs" />
+    <Compile Include="FastAccounting\BaoCaoKetQuaSXKDDal.cs" />
+    <Compile Include="FastAccounting\BoPhanSuDungCcDcDal.cs" />
+    <Compile Include="FastAccounting\CongCuDungCuDal.cs" />
+    <Compile Include="FastAccounting\CongNoKhachHangDal.cs" />
+    <Compile Include="FastAccounting\DanhMucBoPhanTaiSanDal.cs" />
+    <Compile Include="FastAccounting\DanhMucDonViCoSoDal.cs" />
+    <Compile Include="FastAccounting\DanhMucKhoDal.cs" />
+    <Compile Include="FastAccounting\DanhMucLoaiCcDcDal.cs" />
+    <Compile Include="FastAccounting\DanhMucPhanLoaiTaiSanDal.cs" />
+    <Compile Include="FastAccounting\DanhMucVatTuDal.cs" />
+    <Compile Include="FastAccounting\KhachHangDal.cs" />
+    <Compile Include="FastAccounting\LuuChuyenTienTeDal.cs" />
+    <Compile Include="FastAccounting\TaiKhoanKeToanDal.cs" />
+    <Compile Include="FastAccounting\TaiSanCoDinhDal.cs" />
+    <Compile Include="FastAccounting\TienGuiNganHangDal.cs" />
+    <Compile Include="FastAccounting\TongKetSoQuyDal.cs" />
+    <Compile Include="FastAccounting\TonKhoDal.cs" />
+    <Compile Include="Hrm\ApplicantDal.cs" />
+    <Compile Include="Hrm\ContractDal.cs" />
+    <Compile Include="Hrm\ContractTypeDal.cs" />
+    <Compile Include="Hrm\DepartmentDal.cs" />
+    <Compile Include="Hrm\EmployeeDal.cs" />
+    <Compile Include="Hrm\EmployeeHolidayDal.cs" />
+    <Compile Include="Hrm\HolidayConfigDal.cs" />
+    <Compile Include="Hrm\HolidayDal.cs" />
+    <Compile Include="Hrm\HolidayDetailDal.cs" />
+    <Compile Include="Hrm\HolidayReasonDal.cs" />
+    <Compile Include="Hrm\IncurredSalaryDal.cs" />
+    <Compile Include="Hrm\InsuranceDal.cs" />
+    <Compile Include="Hrm\InsuranceMedicalDal.cs" />
+    <Compile Include="Hrm\InsuranceProcessDal.cs" />
+    <Compile Include="Hrm\JobChangeDal.cs" />
+    <Compile Include="Hrm\MaternityDal.cs" />
+    <Compile Include="Hrm\PostDal.cs" />
+    <Compile Include="Hrm\TimeSheetDal.cs" />
+    <Compile Include="Hrm\TimeSheetOtDal.cs" />
+    <Compile Include="Kpi\AssignWorkDal.cs" />
+    <Compile Include="Kpi\ComplainDal.cs" />
+    <Compile Include="Kpi\PerformerDal.cs" />
+    <Compile Include="Kpi\SuggesWorkDal.cs" />
+    <Compile Include="Kpi\WorkDetailDal.cs" />
+    <Compile Include="Kpi\WorkPlanDal.cs" />
+    <Compile Include="Kpi\WorkPlanDetailDal.cs" />
+    <Compile Include="Hrm\MedicalDal.cs" />
+    <Compile Include="Hrm\CareerDal.cs" />
+    <Compile Include="Hrm\SchoolDal.cs" />
+    <Compile Include="Hrm\NationDal.cs" />
+    <Compile Include="Hrm\PositionDal.cs" />
+    <Compile Include="Hrm\PraiseDisciplineDal.cs" />
+    <Compile Include="Hrm\RecruitChanelDal.cs" />
+    <Compile Include="Hrm\RecruitPlanDal.cs" />
+    <Compile Include="Hrm\RecruitResultDal.cs" />
+    <Compile Include="Hrm\ReligionDal.cs" />
+    <Compile Include="Hrm\SalaryDal.cs" />
+    <Compile Include="Hrm\ShiftWorkDal.cs" />
+    <Compile Include="Hrm\EducationLevel.cs" />
+    <Compile Include="Hrm\TrainingLevelDal.cs" />
+    <Compile Include="Kpi\AcceptConfigDal.cs" />
+    <Compile Include="Kpi\FactorConfigDal.cs" />
+    <Compile Include="Kpi\FinishJobConfigDal.cs" />
+    <Compile Include="Kpi\SuggestJobConfigDal.cs" />
+    <Compile Include="Kpi\KpiConfigDal.cs" />
+    <Compile Include="Kpi\TaskDal.cs" />
+    <Compile Include="Kpi\WorkPointConfigDal.cs" />
+    <Compile Include="Kpi\WorkStreamDal.cs" />
+    <Compile Include="Kpi\WorkStreamDetailDal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sale\ContractDal.cs" />
+    <Compile Include="Sale\ContractDetailDal.cs" />
+    <Compile Include="Sale\CustomerDal.cs" />
+    <Compile Include="Sale\InvestorDal.cs" />
+    <Compile Include="Sale\ProductDal.cs" />
+    <Compile Include="Sale\ProjectDal.cs" />
+    <Compile Include="System\AddressDal.cs" />
+    <Compile Include="System\AutoNumberDal.cs" />
+    <Compile Include="System\ChatDal.cs" />
+    <Compile Include="System\CategoryKpiDal.cs" />
+    <Compile Include="System\CountryDal.cs" />
+    <Compile Include="System\ModuleGroupDal.cs" />
+    <Compile Include="System\NotificationDal.cs" />
+    <Compile Include="System\RightDal.cs" />
+    <Compile Include="System\UserDal.cs" />
+    <Compile Include="System\UserGroupDal.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{f7998c85-e9a4-44b9-bca8-26863a29b86d}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dapper\Dapper.csproj">
+      <Project>{3a3cade3-9ef1-4bcf-8df4-84e65985ab67}</Project>
+      <Name>Dapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{79d1e797-1b13-403e-b191-40b3a58b2e47}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Hrm\Kpi\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

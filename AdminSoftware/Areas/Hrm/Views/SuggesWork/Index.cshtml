@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Công việc phát sinh";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .k-radio:checked + .k-radio-label:after {
+        top: 7px;
+        margin-left: -1px;
+    }
+
+    .k-radio-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="box-action">
+                    <button class="btn btn-primary btn-sm" id="btnCreate">
+                        <i class="fa fa-plus"></i>
+                        Thêm
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnEdit">
+                        <i class="fa fa-edit"></i>
+                        Sửa
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnDelete">
+                        <i class="fa fa-trash"></i>
+                        Xóa
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <input type="text" id="FromDateSearch" class="form-control" value="@DateTime.Now.AddDays(-10).ToString("dd/MM/yyyy")" style="height: 28px;" />
+                <input type="hidden" value="10" id="Action" class="form-control" />
+            </div>
+            <div class="col-md-2">
+                <input type="text" id="ToDateSearch" class="form-control" value="@DateTime.Now.AddDays(+10).ToString("dd/MM/yyyy")" style="height: 28px;" />
+            </div>
+            <div class="col-md-1">
+                <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                    <i class="fa fa-search"></i>
+                    Tìm kiếm
+                </button>
+            </div>
+            <div class="col-md-4">
+                <input value="10" class="k-radio" id="waiting" type="radio" name="status" checked="checked">
+                <label for="waiting" class="k-radio-label">Chưa hoàn thành</label>
+                <input value="11" id="true-approved" class="k-radio" type="radio" name="status">
+                <label for="true-approved" class="k-radio-label">Đã hoàn thành</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var calcType1 = @Html.Raw(Json.Encode(ViewBag.CalcType));
+        var statusSugges = @Html.Raw(Json.Encode(ViewBag.WorkDetailStatusEnum));
+        var workPointConfigs = @Html.Raw(Json.Encode(ViewBag.WorkPointConfigs));
+    </script>
+    <script src="~/Areas/Hrm/JsAction/Kpi/SuggesWork/index.js"></script>
+}

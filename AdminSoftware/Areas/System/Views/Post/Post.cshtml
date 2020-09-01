@@ -1,0 +1,75 @@
+﻿@model Entity.System.Post
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Tiêu đề(*)</label>
+                    </div>
+                    <div class="col-md-9">
+                        <input type="text" class="form-control" value="@Model.Title" id="Title" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Ngày xuất bản(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.PublishDate.ToString("dd/MM/yyyy")" id="PublishDate"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row padding-bottom-0">
+                            <div class="col-md-4">
+                            </div>
+                            <div class="col-md-8">
+                                <span style="float: left">
+                                    <input type="checkbox" class="k-checkbox" id="IsFeature" @if (Model.IsFeature) { <text> checked="checked" </text>   } />
+                                    <label for="IsFeature" class="k-checkbox-label">Nổi bật</label>
+                                </span>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            </div>
+        <div class="row">
+            <div class="col-md-12">
+                <textarea id="PostContent" class="form-control" rows="5">@Model.PostContent</textarea>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var postId = '@Model.PostId';
+
+</script>
+<script src="~/CkEditor/ckeditor.js"></script>
+<script src="~/Areas/System/JsAction/Post/addOrEdit.js"></script>
+
+
+

@@ -1,0 +1,73 @@
+﻿
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Phòng chức năng">
+                        <label>Phòng chức năng (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="" class="form-control" id="CategoryKpiId"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>File Excel</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="file" class="file" id="attachment" style="display: none;" onchange="fileSelected(this)" />
+                        <input type="button" class="file" id="btnAttachment" onclick="openAttachment()" value="File" />                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>File mẫu</label>
+                    </div>
+                    <div class="col-md-8">
+                        <a href="/Template/Task.xlsx">Excel-Download</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Đồng ý
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function openAttachment() {
+        document.getElementById('attachment').click();
+    }
+
+    function fileSelected(input) {
+        document.getElementById('btnAttachment').value = "File: " + input.files[0].name;
+    }
+</script>
+<script src="~/Areas/System/JsAction/Kpi/Task/excel.js"></script>
+
+
+
+
+

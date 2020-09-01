@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Trưởng phòng hành chính duyệt kế hoạch công việc ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .k-radio:checked + .k-radio-label:after {
+        top: 7px;
+        margin-left: -1px;
+    }
+
+    .k-radio-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box-action">
+                    <div class="row padding-bottom-0">
+                        <div class="col-md-4">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <input type="text" id="FromDateSearch" class="form-control" value="@DateTime.Now.AddMonths(-1).ToString("dd/MM/yyyy")" style="height: 28px;" />
+                                    <input type="hidden" value="1" id="Action" class="form-control" />
+
+                                </div>
+                                <div class="col-md-4">
+                                    <input type="text" id="ToDateSearch" class="form-control" value="@DateTime.Now.ToString("dd/MM/yyyy")" style="height: 28px;" />
+                                </div>
+                                <div class="col-md-4">
+                                    <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                                        <i class="fa fa-search"></i>
+                                        Tìm kiếm
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <button class="btn btn-primary btn-sm" id="btnEdit">
+                                <i class="fa fa-edit"></i>
+                                Cập Nhật
+                            </button>
+                        </div>
+                        <div class="col-md-6">
+                            <input value="3" class="k-radio" id="waiting" type="radio" name="status" checked="checked">
+                            <label for="waiting" class="k-radio-label">Đang chờ duyệt</label>
+                            <input value="4" id="true-approved" class="k-radio" type="radio" name="status">
+                            <label for="true-approved" class="k-radio-label">Đã được duyệt</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+
+    </script>
+    <script src="~/Areas/Hrm/JsAction/Kpi/ManagerAdmin/index.js"></script>
+}

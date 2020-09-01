@@ -1,0 +1,106 @@
+﻿@model List<Entity.System.ModuleGroup>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-12">
+    <h3 class="text-center">DANH SÁCH MODULE</h3>
+</div>
+<div class="col-md-12">
+    @if (Model != null && Model.Any())
+    {
+        <ul class="list-module">
+            @foreach (var moduleGroup in Model.OrderBy(x => x.SortOrder))
+            {
+                <li>
+                    <a href="@moduleGroup.ActionUrl">
+                        <img class="img-responsive" src="@moduleGroup.Icon" />
+                        <h3>@moduleGroup.GroupName</h3>
+                    </a>
+                </li>
+            }
+            <li>
+                <a id="btnDepartment" href="#">
+                    <img class="img-responsive" src="/Content/images/hethong.png"/>
+                    <h3>Cơ Cấu Tổ Chức</h3>
+                </a>
+
+            </li>
+            <li>
+                <a id="btnVh" href="#">
+                    <img class="img-responsive" src="/Content/images/hethong.png" />
+                    <h3>Quy Định,Văn Hóa</h3>
+                </a>
+            </li>
+        </ul>
+    }</div>
+
+@*<div class="panel panel-default">
+    <div class="panel-heading" style="text-align: center"><a style="color: #333; font-size: 16px;font-weight: 600;" target="_blank" href="@Url.Action("GetPostContents")">Danh sách bài viết</a>
+</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-6" style="border-right: 2px solid #eee;" >
+                @{
+                    foreach (var item in (List<Entity.System.Post>) ViewBag.Posts1)
+                    {
+                        <a style="font-size: 16px;color: #333;font-weight: 600;" target="_blank" href="@Url.Action("GetPostContent", new {id = @item.PostId})">@item.Title</a>
+                        <hr/>
+                    }}
+            </div>
+            <div class="col-md-6">
+                @{
+                    foreach (var item in (List<Entity.System.Post>) ViewBag.Posts2)
+                    {
+                        <a style="font-size: 16px;color: #333;font-weight: 600;" target="_blank" href="@Url.Action("GetPostContent", new {id = @item.PostId})">@item.Title</a>
+                        <hr/>
+                    }
+                }
+            </div>
+
+        </div>
+    </div>
+</div>*@
+            @*<div class="col-md-12">
+                    <h3 class="text-center" style="margin-bottom: 30px;">TRA CỨU KPI THÔNG TIN NHÂN VIÊN</h3>
+                </div>
+                <div class="col-md-12" >
+                    <div class="box-action">
+                        <div class="row padding-bottom-0">
+                            <div class="col-md-2">
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <input type="text" id="FromDateSearch" class="form-control" value="@DateTime.Now.AddMonths(-1).ToString("dd/MM/yyyy")" style="height: 28px;"/>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <input type="text" id="ToDateSearch" class="form-control" value="@DateTime.Now.ToString("dd/MM/yyyy")" style="height: 28px;"/>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <input type="text" id="EmployeeId" class="form-control" value="" style="height: 28px;"/>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                                                <i class="fa fa-search"></i>
+                                                Tìm kiếm
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div id="grdMain"></div>
+                    </div>
+                </div>*@
+            @section scripts
+{
+                <script type="text/javascript">
+                    var employees = @Html.Raw(Json.Encode(ViewBag.Employees));
+                </script>
+                <script src="~/Scripts/dashboard.js"></script>
+            }
