@@ -24,3 +24,10 @@ D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\bin\Debug\Newtonsoft.Json.xml
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\obj\Debug\Entity.dll
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\obj\Debug\Entity.pdb
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Debug\Entity.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Debug\Entity.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Debug\Newtonsoft.Json.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Debug\Newtonsoft.Json.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Debug\Entity.csproj.CopyComplete
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Debug\Entity.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Debug\Entity.pdb

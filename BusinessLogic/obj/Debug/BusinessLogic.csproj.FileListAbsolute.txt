@@ -112,3 +112,32 @@ D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\bin\Debug\System.Web.WebPag
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\obj\Debug\BusinessLogic.dll
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\BusinessLogic\obj\Debug\BusinessLogic.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\BusinessLogic.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\BusinessLogic.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Core.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\DataAccess.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Entity.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Enyim.Caching.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\log4net.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\MiniProfiler.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\System.Web.Mvc.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\System.Web.WebPages.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Dapper.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Core.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\DataAccess.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Entity.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Enyim.Caching.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\log4net.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\MiniProfiler.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\MiniProfiler.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\System.Web.Mvc.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\System.Web.WebPages.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Dapper.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\obj\Debug\BusinessLogic.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -104,3 +104,30 @@ D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\DataAccess\bin\Debug\System.Web.WebPages.
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\DataAccess\obj\Debug\DataAccess.dll
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\DataAccess\obj\Debug\DataAccess.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\DataAccess.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\DataAccess.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Core.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Dapper.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Entity.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Enyim.Caching.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\log4net.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\MiniProfiler.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Newtonsoft.Json.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\System.Web.Mvc.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\System.Web.WebPages.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Core.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Dapper.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Entity.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Enyim.Caching.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\log4net.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\MiniProfiler.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\MiniProfiler.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Newtonsoft.Json.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\System.Web.Mvc.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\System.Web.WebPages.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\obj\Debug\DataAccess.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\obj\Debug\DataAccess.pdb

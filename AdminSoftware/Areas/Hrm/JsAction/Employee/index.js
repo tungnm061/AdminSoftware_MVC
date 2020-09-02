@@ -193,18 +193,18 @@ $(document).ready(function () {
                 width: 110,
                 values: countries
             },
-            {
-                field: "NationId",
-                title: "Dân tộc",
-                width: 100,
-                values: nations
-            },
-            {
-                field: "ReligionId",
-                title: "Tôn giáo",
-                width: 110,
-                values: religions
-            },
+            //{
+            //    field: "NationId",
+            //    title: "Dân tộc",
+            //    width: 100,
+            //    values: nations
+            //},
+            //{
+            //    field: "ReligionId",
+            //    title: "Tôn giáo",
+            //    width: 110,
+            //    values: religions
+            //},
             {
                 field: "IdentityCardNumber",
                 title: "Số CMND",
