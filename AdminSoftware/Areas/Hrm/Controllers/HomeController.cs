@@ -14,7 +14,6 @@ using BusinessLogic.System;
 using Core.Enum;
 using Core.Helper.Logging;
 using Core.Singleton;
-using AdminSoftware.Areas.System.Models.Kpi;
 using AdminSoftware.Controllers;
 using AdminSoftware.Models;
 using Entity.Hrm;
@@ -354,49 +353,6 @@ namespace AdminSoftware.Areas.Hrm.Controllers
             });
         }
 
-        public JsonResult SaveSuggesWork(SuggesWorkModel model)
-        {
-            try
-            {
-                if (model == null)
-                {
-                    return Json(new {Status = 0, Message = MessageAction.DataIsEmpty}, JsonRequestBehavior.AllowGet);
-                }
-                if (!ModelState.IsValid)
-                {
-                    var message = ModelState.Where(modelState => modelState.Value.Errors.Count > 0)
-                        .Select(x => x.Value)
-                        .FirstOrDefault();
-                    return Json(new
-                    {
-                        Status = 0,
-                        Message = message == null ? MessageAction.ModelStateNotValid : message.Errors[0].ErrorMessage
-                    }, JsonRequestBehavior.AllowGet);
-                }
-                if (model.DepartmentFisnishBy != null)
-                {
-                    return Json(new
-                    {
-                        Status = 0,
-                        Message = "Công việc đã xác nhận hoàn thành không thể cập nhật"
-                    }, JsonRequestBehavior.AllowGet);
-                }
-                model.CreateBy = UserLogin.UserId;
-                model.DepartmentId = UserLogin.DepartmentId ?? 0;
-                model.VerifiedDate = DateTime.Now;
-                model.VerifiedBy = UserLogin.UserId;
-                return Json(_suggesWorkBll.Insert(model.ToObject())
-                    ? new {Status = 1, Message = MessageAction.MessageCreateSuccess}
-                    : new {Status = 0, Message = MessageAction.MessageActionFailed},
-                    JsonRequestBehavior.AllowGet);
-            }
-            catch (Exception ex)
-            {
-                Logging.PutError(ex.Message, ex);
-                return Json(new {Status = 0, ex.Message},
-                    JsonRequestBehavior.AllowGet);
-            }
-        }
 
         public JsonResult ApprovedSugges()
         {
@@ -463,144 +419,6 @@ namespace AdminSoftware.Areas.Hrm.Controllers
             return PartialView(workingNote);
         }
 
-        public JsonResult Save(WorkDetailModel model)
-        {
-            if (!ModelState.IsValid)
-            {
-                var message = ModelState.Where(modelState => modelState.Value.Errors.Count > 0)
-                    .Select(x => x.Value)
-                    .FirstOrDefault();
-                return Json(new
-                {
-                    Status = 0,
-                    Message = message == null ? MessageAction.ModelStateNotValid : message.Errors[0].ErrorMessage
-                }, JsonRequestBehavior.AllowGet);
-            }
-            if (model == null)
-            {
-                return Json(new {Status = 0, Message = MessageAction.DataIsEmpty}, JsonRequestBehavior.AllowGet);
-            }
-            if (DateTime.Parse(model.ToDate.AddDays(+5).ToShortDateString()) <
-                DateTime.Parse(DateTime.Now.ToShortDateString()))
-            {
-                return Json(new {Status = 0, Message = "Công việc đã quá hạn không thể cập nhật!   "},
-                    JsonRequestBehavior.AllowGet);
-            }
-            var workDetail = _workDetailBll.GetWorkDetail(model.WorkDetailId, model.WorkType);
-            if (workDetail == null)
-            {
-                return Json(new {Status = 0, Message = MessageAction.DataIsEmpty}, JsonRequestBehavior.AllowGet);
-            }
-            if (model.Status == 0)
-            {
-                model.Status = 1;
-            }
-            if (model.Status == 1 || model.Status == 2 || model.Status == 5)
-            {
-                workDetail.UsefulHours = null;
-                workDetail.FisnishDate = null;
-                workDetail.FileConfirm = "";
-            }
-            if (model.Status == 3)
-            {
-                workDetail.UsefulHours = model.UsefulHours;
-                workDetail.FisnishDate = model.FisnishDate ?? DateTime.Now;
-                workDetail.FileConfirm = model.FileConfirm;
-            }
-            if (model.Status == 5)
-            {
-                if (string.IsNullOrEmpty(model.Explanation))
-                {
-                    return Json(new {Status = 0, Message = MessageAction.DataIsEmpty}, JsonRequestBehavior.AllowGet);
-                }
-                var listExplanation = new List<Explanation>();
-
-                if (workDetail.Explanation != null)
-                {
-                    listExplanation = JsonConvert.DeserializeObject<List<Explanation>>(workDetail.Explanation);
-                }
-                listExplanation.Add(new Explanation
-                {
-                    CreateDate = DateTime.Now,
-                    ExplanationText = model.Explanation
-                });
-                workDetail.Explanation = JsonConvert.SerializeObject(listExplanation);
-            }
-            if (WorkingNotesInMemory != null)
-            {
-                workDetail.WorkingNote = JsonConvert.SerializeObject(WorkingNotesInMemory);
-            }
-            workDetail.Status = model.Status;
-            workDetail.WorkType = model.WorkType;
-            if (workDetail.WorkType == (int) StatusWorkDetail.WorkPlanDetail)
-            {
-                var workPlanDetail = _workPlanDetailBll.GetWorkPlanDetail(workDetail.WorkDetailId);
-                workPlanDetail.UsefulHours = workDetail.UsefulHours;
-                workPlanDetail.FisnishDate = workDetail.FisnishDate;
-                workPlanDetail.Status = workDetail.Status;
-                workPlanDetail.Explanation = workDetail.Explanation;
-                workPlanDetail.WorkingNote = workDetail.WorkingNote;
-                workPlanDetail.FileConfirm = workDetail.FileConfirm;
-                if (_workPlanDetailBll.Update(workPlanDetail))
-                {
-                    return Json(new {Status = 1, Message = MessageAction.MessageUpdateSuccess},
-                        JsonRequestBehavior.AllowGet);
-                }
-                return Json(new {Status = 0, Message = MessageAction.MessageActionFailed}, JsonRequestBehavior.AllowGet);
-            }
-            if (workDetail.WorkType == (int) StatusWorkDetail.AssignWork)
-            {
-                var assignWork = _assignWorkBll.GetAssignWork(workDetail.WorkDetailId);
-                assignWork.UsefulHours = workDetail.UsefulHours;
-                assignWork.FisnishDate = workDetail.FisnishDate;
-                assignWork.Status = (byte) workDetail.Status;
-                assignWork.Explanation = workDetail.Explanation;
-                assignWork.WorkingNote = workDetail.WorkingNote;
-                assignWork.FileConfirm = workDetail.FileConfirm;
-
-                if (_assignWorkBll.Update(assignWork))
-                {
-                    return Json(new {Status = 1, Message = MessageAction.MessageUpdateSuccess},
-                        JsonRequestBehavior.AllowGet);
-                }
-                return Json(new {Status = 0, Message = MessageAction.MessageActionFailed}, JsonRequestBehavior.AllowGet);
-            }
-            if (workDetail.WorkType == (int) StatusWorkDetail.WorkStreamDetail)
-            {
-                var workStreamDetail = _workStreamDetailBll.GetWorkStreamDetail(workDetail.WorkDetailId);
-                workStreamDetail.UsefulHours = workDetail.UsefulHours;
-                workStreamDetail.FisnishDate = workDetail.FisnishDate;
-                workStreamDetail.Status = workDetail.Status;
-                workStreamDetail.Explanation = workDetail.Explanation;
-                workStreamDetail.WorkingNote = workDetail.WorkingNote;
-                workStreamDetail.FileConfirm = workDetail.FileConfirm;
-
-                if (_workStreamDetailBll.Update(workStreamDetail))
-                {
-                    return Json(new {Status = 1, Message = MessageAction.MessageUpdateSuccess},
-                        JsonRequestBehavior.AllowGet);
-                }
-                return Json(new {Status = 0, Message = MessageAction.MessageActionFailed}, JsonRequestBehavior.AllowGet);
-            }
-            if (workDetail.WorkType == (int) StatusWorkDetail.SuggesWork)
-            {
-                var suggesWork = _suggesWorkBll.GetSuggesWork(workDetail.WorkDetailId);
-                suggesWork.UsefulHours = workDetail.UsefulHours;
-                suggesWork.FisnishDate = workDetail.FisnishDate;
-                suggesWork.Status = (byte) workDetail.Status;
-                suggesWork.Explanation = workDetail.Explanation;
-                suggesWork.WorkingNote = workDetail.WorkingNote;
-                suggesWork.FileConfirm = workDetail.FileConfirm;
-                if (_suggesWorkBll.Update(suggesWork))
-                {
-                    return Json(new {Status = 1, Message = MessageAction.MessageUpdateSuccess},
-                        JsonRequestBehavior.AllowGet);
-                }
-                return Json(new {Status = 0, Message = MessageAction.MessageActionFailed}, JsonRequestBehavior.AllowGet);
-            }
-
-            return Json(new {Status = 0, Message = MessageAction.MessageActionFailed}, JsonRequestBehavior.AllowGet);
-        }
 
         public JsonResult SaveWorkingNoteMemory(WorkingNote model)
         {
@@ -963,55 +781,6 @@ namespace AdminSoftware.Areas.Hrm.Controllers
             }
         }
 
-        public ActionResult SaveAssignWork(AssignWorkModel model)
-        {
-            try
-            {
-                if (model == null)
-                {
-                    return Json(new {Status = 0, Message = MessageAction.DataIsEmpty}, JsonRequestBehavior.AllowGet);
-                }
-                if (model.DepartmentFisnishBy != null)
-                {
-                    return Json(new
-                    {
-                        Status = 0,
-                        Message = "Công việc đã xác nhận hoàn thành không thể cập nhật"
-                    }, JsonRequestBehavior.AllowGet);
-                }
-                if (!ModelState.IsValid)
-                {
-                    var message = ModelState.Where(modelState => modelState.Value.Errors.Count > 0)
-                        .Select(x => x.Value)
-                        .FirstOrDefault();
-                    return Json(new
-                    {
-                        Status = 0,
-                        Message = message == null ? MessageAction.ModelStateNotValid : message.Errors[0].ErrorMessage
-                    }, JsonRequestBehavior.AllowGet);
-                }
-                model.CreateBy = UserLogin.UserId;
-                model.CreateDate = DateTime.Now;
-                if (string.IsNullOrEmpty(model.AssignWorkId) || model.AssignWorkId == Guid.Empty.ToString())
-                {
-                    model.AssignWorkId = Guid.NewGuid().ToString();
-                    return Json(_assignWorkBll.Insert(model.ToObject())
-                        ? new {Status = 1, Message = MessageAction.MessageCreateSuccess}
-                        : new {Status = 0, Message = MessageAction.MessageActionFailed},
-                        JsonRequestBehavior.AllowGet);
-                }
-                return Json(_assignWorkBll.Update(model.ToObject())
-                    ? new {Status = 1, Message = MessageAction.MessageUpdateSuccess}
-                    : new {Status = 0, Message = MessageAction.MessageActionFailed},
-                    JsonRequestBehavior.AllowGet);
-            }
-            catch (Exception ex)
-            {
-                Logging.PutError(ex.Message, ex);
-                return Json(new {Status = 0, ex.Message},
-                    JsonRequestBehavior.AllowGet);
-            }
-        }
 
         public ActionResult Employees(string id)
         {

@@ -14,7 +14,6 @@ using BusinessLogic.System;
 using Core.Enum;
 using Core.Helper.Logging;
 using Core.Singleton;
-using AdminSoftware.Areas.System.Models.Kpi;
 using AdminSoftware.Controllers;
 using AdminSoftware.Models;
 using Entity.Hrm;
@@ -37,7 +36,4 @@ namespace AdminSoftware.Areas.Sale.Controllers
         }
     }
 
-    //
-
-    //
 }

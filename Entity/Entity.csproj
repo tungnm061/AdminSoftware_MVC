@@ -87,8 +87,12 @@
     <Compile Include="Hrm\InsuranceMedical.cs" />
     <Compile Include="Hrm\InsuranceProcess.cs" />
     <Compile Include="Hrm\JobChange.cs" />
+    <Compile Include="Sale\Order.cs" />
+    <Compile Include="Sale\OrderDetail.cs" />
+    <Compile Include="System\AccountPrintify.cs" />
     <Compile Include="System\CategoryKpi.cs" />
     <Compile Include="System\Chat.cs" />
+    <Compile Include="System\Gmail.cs" />
     <Compile Include="System\Post.cs" />
     <Compile Include="Hrm\TimeSheet.cs" />
     <Compile Include="Hrm\TimeSheetOt.cs" />
