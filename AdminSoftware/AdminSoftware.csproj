@@ -297,10 +297,15 @@
     <Compile Include="Areas\Sale\SaleAreaRegistration.cs" />
     <Compile Include="Areas\Sale\SaleFilter.cs" />
     <Compile Include="Areas\System\Controllers\AccountController.cs" />
+    <Compile Include="Areas\System\Controllers\AccountPrintifyController.cs" />
     <Compile Include="Areas\System\Controllers\GmailController.cs" />
     <Compile Include="Areas\System\Controllers\HomeController.cs" />
     <Compile Include="Areas\System\Controllers\UserGroupController.cs" />
+    <Compile Include="Areas\System\Models\AccountPrintifyModel.cs" />
+    <Compile Include="Areas\System\Models\GmailModel.cs" />
     <Compile Include="Areas\System\Models\PostModel.cs" />
+    <Compile Include="Areas\System\Models\PrintifyModel.cs" />
+    <Compile Include="Areas\System\Models\SkuModel.cs" />
     <Compile Include="Areas\System\Models\UserGroupModel.cs" />
     <Compile Include="Areas\System\Models\UserModel.cs" />
     <Compile Include="Areas\System\SystemAreaRegistration.cs" />
@@ -464,10 +469,17 @@
     <Content Include="Areas\Sale\JsAction\Home\taskSearch.js" />
     <Content Include="Areas\Sale\JsAction\Order\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Order\index.js" />
+    <Content Include="Areas\Sale\JsAction\Order\orderDetail.js" />
     <Content Include="Areas\Sale\JsAction\Product\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Product\index.js" />
+    <Content Include="Areas\System\JsAction\AccountPrintify\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\AccountPrintify\index.js" />
     <Content Include="Areas\System\JsAction\Account\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\Account\index.js" />
+    <Content Include="Areas\System\JsAction\Gmail\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\Gmail\addOrEditSku.js" />
+    <Content Include="Areas\System\JsAction\Gmail\index.js" />
+    <Content Include="Areas\System\JsAction\Gmail\skuView.js" />
     <Content Include="Areas\System\JsAction\Kpi\ApprovedWorkStream\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\Kpi\ApprovedWorkStream\index.js" />
     <Content Include="Areas\System\JsAction\Kpi\CategoryKpi\addOrEdit.js" />
@@ -865,8 +877,14 @@
     <Content Include="Areas\Sale\Views\web.config" />
     <Content Include="Areas\Sale\Views\Home\Index.cshtml" />
     <Content Include="Areas\Sale\Views\Order\Index.cshtml" />
-    <Content Include="Areas\Sale\Views\Order\OrderViewer.cshtml" />
+    <Content Include="Areas\Sale\Views\Order\Order.cshtml" />
     <Content Include="Areas\Sale\Views\Order\OrderDetail.cshtml" />
+    <Content Include="Areas\System\Views\Gmail\Gmail.cshtml" />
+    <Content Include="Areas\System\Views\Gmail\Index.cshtml" />
+    <Content Include="Areas\System\Views\Gmail\Sku.cshtml" />
+    <Content Include="Areas\System\Views\Gmail\SkuView.cshtml" />
+    <Content Include="Areas\System\Views\AccountPrintify\AccountPrintify.cshtml" />
+    <Content Include="Areas\System\Views\AccountPrintify\Index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -956,7 +974,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Hrm\Models\Kpi\" />
-    <Folder Include="Areas\System\Views\Gmail\" />
     <Folder Include="Filters\" />
     <Folder Include="Reports\" />
     <Folder Include="Upload\Contract\2018\" />

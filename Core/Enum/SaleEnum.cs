@@ -39,4 +39,26 @@ namespace Core.Enum
         
 
     }
+
+    public enum SizeEnum
+    {
+        [Description("XXL")] XXL = 1,
+        [Description("XL")] XL = 2,
+        [Description("L")] L = 3,
+        [Description("M")] M = 4,
+        [Description("S")] S = 5,
+        [Description("XS")] XS = 6
+
+
+    }
+
+    public enum ColorEnum
+    {
+        [Description("Black")] Black = 1,
+        [Description("Red")] Red = 2,
+        [Description("White")] White = 3,
+        [Description("Yellow")] Yellow = 4,
+
+
+    }
 }

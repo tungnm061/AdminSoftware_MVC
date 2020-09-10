@@ -140,6 +140,7 @@
     <Compile Include="System\ModuleGroupBll.cs" />
     <Compile Include="System\NotificationBll.cs" />
     <Compile Include="System\RightsBll.cs" />
+    <Compile Include="System\SkuBll.cs" />
     <Compile Include="System\UserBll.cs" />
     <Compile Include="System\UserGroupBll.cs" />
   </ItemGroup>

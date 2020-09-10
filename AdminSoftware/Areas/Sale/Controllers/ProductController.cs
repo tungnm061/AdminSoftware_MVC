@@ -46,7 +46,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
             {
                 return PartialView(new Product
                 {
-                    //ProductCode = _autoNumberBll.GetAutoNumber(AutoNumberSale.SP.ToString()),
+                    ProductCode = _autoNumberBll.GetAutoNumber(AutoNumberSale.SP.ToString()),
                     CreateBy = UserLogin.UserId,
                     ProductId = 0,
                     IsActive = true

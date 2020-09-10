@@ -23,6 +23,13 @@ namespace Core.Enum
     {
         [Description("Nhân viên")] NV =1
 
+    }
 
+    public enum StatusOrderEnụm
+    {
+        [Description("Has Issues")] HasIssues = 1,
+        [Description("On Hold")] OnHold = 2,
+        [Description("In Production")] InProduction = 3,
+        [Description("Fulfilled")] Fulfilled = 4,
     }
 }

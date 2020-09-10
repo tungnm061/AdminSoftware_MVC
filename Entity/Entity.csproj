@@ -152,6 +152,7 @@
     <Compile Include="System\ModuleGroup.cs" />
     <Compile Include="System\Notification.cs" />
     <Compile Include="System\Rights.cs" />
+    <Compile Include="System\Sku.cs" />
     <Compile Include="System\TimeDisplayHelper.cs" />
     <Compile Include="System\User.cs" />
     <Compile Include="System\UserGroup.cs" />

@@ -55,14 +55,14 @@ $(document).ready(function () {
                 field: "Price",
                 title: "Đơn giá (VND)",
                 width: 200,
-                format: "{0:n0}"
+                format: "{0:n2}"
             },
-            {
-                field: "Quantity",
-                title: "Số lượng",
-                width: 200,
-                format: "{0:n0}"
-            },
+            //{
+            //    field: "Quantity",
+            //    title: "Số lượng",
+            //    width: 200,
+            //    format: "{0:n0}"
+            //},
             {
                 field: "CreateDate",
                 title: "Ngày tạo",
@@ -96,7 +96,7 @@ $(document).ready(function () {
     });
 
     $('#btnCreate').click(function () {
-        InitWindowModal('/sale/Product/Product', false, 600, 425, 'Thêm mới sản phẩm', false);
+        InitWindowModal('/sale/Product/Product', false, 600, 340, 'Thêm mới sản phẩm', false);
     });
 
     $('#btnEdit').click(function () {
@@ -112,7 +112,7 @@ $(document).ready(function () {
             });
             return;
         }
-        InitWindowModal('/sale/Product/Product?id=' + id, false, 600, 425, 'Cập nhật sản phẩm', false);
+        InitWindowModal('/sale/Product/Product?id=' + id, false, 600, 340, 'Cập nhật sản phẩm', false);
     });
 
     $('#btnDelete').click(function () {

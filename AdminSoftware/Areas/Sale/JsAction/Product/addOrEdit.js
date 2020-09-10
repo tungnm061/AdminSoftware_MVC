@@ -1,6 +1,6 @@
 ﻿$(document).ready(function () {
     $("#Price").kendoNumericTextBox({
-        format: "{0:n0}"
+        format: "{0:n2}"
     });
     $("#Quantity").kendoNumericTextBox({
         format: "{0:n0}"
@@ -12,7 +12,7 @@
             ProductName: $('#ProductName').val(),
             ProductCode: $('#ProductCode').val(),
             Price: $('#Price').data('kendoNumericTextBox').value(),
-            Quantity: $('#Quantity').data('kendoNumericTextBox').value(),
+            Quantity: 999999,
             CreateDate: createDate,
             CreateBy : createBy,
             Description: $('#Description').val(),
@@ -53,17 +53,17 @@
             });
             return;
         }
-        if (model.Quantity == null) {
-            $.msgBox({
-                title: "Hệ thống",
-                type: "error",
-                content: "Bạn chưa nhập số lượng sản phẩm",
-                buttons: [{ value: "Đồng ý" }],
-                success: function () {
-                }
-            });
-            return;
-        }
+        //if (model.Quantity == null) {
+        //    $.msgBox({
+        //        title: "Hệ thống",
+        //        type: "error",
+        //        content: "Bạn chưa nhập số lượng sản phẩm",
+        //        buttons: [{ value: "Đồng ý" }],
+        //        success: function () {
+        //        }
+        //    });
+        //    return;
+        //}
         $('#processing').show();
         $.ajax({
             type: "POST",

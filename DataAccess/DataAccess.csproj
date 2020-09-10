@@ -142,6 +142,7 @@
     <Compile Include="System\ModuleGroupDal.cs" />
     <Compile Include="System\NotificationDal.cs" />
     <Compile Include="System\RightDal.cs" />
+    <Compile Include="System\SkuDal.cs" />
     <Compile Include="System\UserDal.cs" />
     <Compile Include="System\UserGroupDal.cs" />
   </ItemGroup>

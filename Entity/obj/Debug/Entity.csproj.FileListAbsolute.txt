@@ -31,3 +31,4 @@ G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Debug\Newtonsoft.Json.xml
 G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Debug\Entity.csproj.CopyComplete
 G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Debug\Entity.dll
 G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Debug\Entity.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
