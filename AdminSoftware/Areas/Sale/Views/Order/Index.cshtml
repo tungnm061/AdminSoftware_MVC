@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "Quản lý đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="box-action">
+                    <button class="btn btn-primary btn-sm" id="btnCreate">
+                        <i class="fa fa-plus"></i>
+                        Thêm
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnEdit">
+                        <i class="fa fa-edit"></i>
+                        Sửa
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnDelete">
+                        <i class="fa fa-trash"></i>
+                        Xóa
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="col-md-3">
+                    <input type="text" value="" class="form-control" id="KeySearch" style="height: 25px; " />
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="" class="form-control" id="StatusSearch" style="height: 25px; " />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="@DateTime.Now.AddDays(-1).ToString("dd/MM/yyy")" class="form-control" id="FromDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="@DateTime.Now.AddDays(+1).ToString("dd/MM/yyy")" class="form-control" id="ToDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                        <i class="glyphicon glyphicon-search"></i>
+                        Tìm kiếm
+                    </button>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var countries = @Html.Raw(Json.Encode(ViewBag.Countries));
+        var gmails = @Html.Raw(Json.Encode(ViewBag.Gmails));
+        var statusOrder = @Html.Raw(Json.Encode(ViewBag.Status));
+        var products = @Html.Raw(Json.Encode(ViewBag.Products));
+        var sizes = @Html.Raw(Json.Encode(ViewBag.Sizes));
+        var colors = @Html.Raw(Json.Encode(ViewBag.Colors));
+        var producers = @Html.Raw(Json.Encode(ViewBag.Producers));
+        var keySearchs = @Html.Raw(Json.Encode(ViewBag.KeySearchs));
+
+    </script>
+    @*<script src="~/Areas/Hrm/JsAction/Kpi/WorkStream/index.js"></script>*@
+    <script src="~/Areas/Sale/JsAction/Order/index.js"></script>
+}

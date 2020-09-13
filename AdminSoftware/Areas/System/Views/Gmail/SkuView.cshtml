@@ -1,0 +1,64 @@
+﻿@model Entity.System.Gmail
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-3">
+                        <label>Tài khoản (*)</label>
+                    </div>
+                    <div class="col-md-9">
+                        <input type="text" class="form-control" value="@Model.FullName" readonly="readonly" id="FullName" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <button class="btn btn-primary btn-xs" id="btnAddSku" style="padding: 3px 5px;">
+                    <i class="glyphicon glyphicon-plus"></i>
+                    Thêm
+                </button>
+                <button class="btn btn-primary btn-xs" id="btnEditSku" style="padding: 3px 5px;">
+                    <i class="glyphicon glyphicon-edit"></i>
+                    Sửa
+                </button>
+                <button class="btn btn-primary btn-xs" id="btnRemoveSku" style="padding: 3px 5px;">
+                    <i class="glyphicon glyphicon-remove"></i>
+                    Xóa
+                </button>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMainSku" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@*<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSaveAdd" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>*@
+<script type="text/javascript">
+    var gmailId = '@Model.Id';
+</script>
+<script src="~/Areas/System/JsAction/Gmail/skuView.js"></script>
+
+
+
