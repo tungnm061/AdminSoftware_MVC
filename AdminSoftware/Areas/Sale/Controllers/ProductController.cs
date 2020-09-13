@@ -78,6 +78,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 if (model.ProductId <= 0)
                 {
                     model.CreateDate = DateTime.Now;
+                    model.CreateBy = UserLogin.UserId;
                     model.ProductCode = AutoNumberSale.SP.ToString();
                     if (_productBll.Insert(model.ToObject()) > 0)
                     {

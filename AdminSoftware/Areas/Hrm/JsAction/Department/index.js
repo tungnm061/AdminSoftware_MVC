@@ -6,7 +6,7 @@
         var id = GetTreeListSelectedKeyValue('#treeMain');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn dữ liệu trước khi cập nhật!",
                 buttons: [{ value: "Đồng ý" }],
@@ -22,7 +22,7 @@
         var id = GetTreeListSelectedKeyValue('#treeMain');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "info",
                 content: "Bạn phải chọn dữ liệu trước khi xóa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -30,7 +30,7 @@
             return;
         }
         $.msgBox({
-            title: "Hệ thống ERP",
+            title: "Hệ thống",
             type: "confirm",
             content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
             buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
@@ -46,7 +46,7 @@
                             $('#processing').hide();
                             if (response.Status === 0) {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "error",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -55,7 +55,7 @@
                                 });
                             } else {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "info",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],

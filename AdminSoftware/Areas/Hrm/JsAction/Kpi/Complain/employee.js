@@ -54,7 +54,7 @@ $(document).ready(function () {
             CloseChildWindowModal();
         } else {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn nhân viên!",
                 buttons: [{ value: "Đồng ý" }],

@@ -133,7 +133,7 @@ $(document).ready(function () {
                     $('#processing').hide();
                     if (response.Status === 0) {
                         $.msgBox({
-                            title: "Hệ thống ERP",
+                            title: "Hệ thống",
                             type: "error",
                             content: response.Message,
                             buttons: [{ value: "Đồng ý" }],
@@ -142,7 +142,7 @@ $(document).ready(function () {
                         });
                     } else {
                         $.msgBox({
-                            title: "Hệ thống ERP",
+                            title: "Hệ thống",
                             type: "info",
                             content: response.Message,
                             buttons: [{ value: "Đồng ý" }],
@@ -155,7 +155,7 @@ $(document).ready(function () {
             });
         } else {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn nhân viên!",
                 buttons: [{ value: "Đồng ý" }],
@@ -168,7 +168,7 @@ $(document).ready(function () {
     $('#btnSave').click(function () {
         if ($('#TaskName').val() == null || $('#TaskName').val()==="") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn công việc phối hợp các phòng!",
                 buttons: [{ value: "Đồng ý" }],
@@ -197,7 +197,7 @@ $(document).ready(function () {
         }
         if (model.PerformerBys == null || model.PerformerBys.length === 0) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn người thực hiện!",
                 buttons: [{ value: "Đồng ý" }],
@@ -208,7 +208,7 @@ $(document).ready(function () {
         }
         if ($('#ToDate').data('kendoDatePicker').value() == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày hoàn thành!",
                 buttons: [{ value: "Đồng ý" }],
@@ -219,7 +219,7 @@ $(document).ready(function () {
         }
         if ($('#FromDate').data('kendoDatePicker').value() == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày bắt đầu!",
                 buttons: [{ value: "Đồng ý" }],
@@ -241,7 +241,7 @@ $(document).ready(function () {
                 $('#processing').hide();
                 if (response.Status === 0) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -250,7 +250,7 @@ $(document).ready(function () {
                     });
                 } else {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "info",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],

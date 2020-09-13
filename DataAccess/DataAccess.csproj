@@ -131,6 +131,7 @@
     <Compile Include="Sale\CustomerDal.cs" />
     <Compile Include="Sale\OrderDal.cs" />
     <Compile Include="Sale\OrderDetailDal.cs" />
+    <Compile Include="Sale\ProducerDal.cs" />
     <Compile Include="Sale\ProductDal.cs" />
     <Compile Include="System\AccountPrintifyDal.cs" />
     <Compile Include="System\AddressDal.cs" />

@@ -206,7 +206,7 @@ $(document).ready(function () {
                 $('#processing').hide();
                 if (response.Status === 1) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "info",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -216,7 +216,7 @@ $(document).ready(function () {
                     });
                 } else {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -228,7 +228,7 @@ $(document).ready(function () {
             error: function (er) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: er,
                     buttons: [{ value: "Đồng ý" }],
@@ -248,7 +248,7 @@ $(document).ready(function () {
                 $('#processing').hide();
                 if (response.Status === 1) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "info",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -258,7 +258,7 @@ $(document).ready(function () {
                     });
                 } else {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -321,7 +321,7 @@ $(document).ready(function () {
         };
         //if (model.CategoryKpiId == null || model.CategoryKpiId.trim() === "" || model.CategoryKpiId ==="0") {
         //    $.msgBox({
-        //        title: "Hệ thống ERP",
+        //        title: "Hệ thống",
         //        type: "error",
         //        content: "Kpi không được để trống!",
         //        buttons: [{ value: "Đồng ý" }],
@@ -332,7 +332,7 @@ $(document).ready(function () {
         //}
         if (model.EmployeeCode == null || model.EmployeeCode.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Mã nhân viên không được để trống!",
                 buttons: [{ value: "Đồng ý" }],
@@ -343,7 +343,7 @@ $(document).ready(function () {
         }
         if (model.FullName == null || model.FullName.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập tên nhân viên!",
                 buttons: [{ value: "Đồng ý" }],
@@ -354,7 +354,7 @@ $(document).ready(function () {
         }
         if (model.Gender == null || model.Gender.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn giới tính nhân viên!",
                 buttons: [{ value: "Đồng ý" }],
@@ -365,7 +365,7 @@ $(document).ready(function () {
         }
         if (model.DateOfBirth == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày sinh nhân viên!",
                 buttons: [{ value: "Đồng ý" }],
@@ -376,7 +376,7 @@ $(document).ready(function () {
         }
         if (model.DepartmentId == null || model.DepartmentId.trim() === "" || model.DepartmentId.trim() === "0") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn phòng ban nhân viên!",
                 buttons: [{ value: "Đồng ý" }],
@@ -388,7 +388,7 @@ $(document).ready(function () {
 
         if (model.CountryId == null || model.CountryId.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn quốc tịch!",
                 buttons: [{ value: "Đồng ý" }],
@@ -399,7 +399,7 @@ $(document).ready(function () {
         }
         //if (model.NationId == null || model.NationId.trim() === "") {
         //    $.msgBox({
-        //        title: "Hệ thống ERP",
+        //        title: "Hệ thống",
         //        type: "error",
         //        content: "Bạn phải chọn dân tộc!",
         //        buttons: [{ value: "Đồng ý" }],
@@ -410,7 +410,7 @@ $(document).ready(function () {
         //}
         //if (model.ReligionId == null || model.ReligionId.trim() === "") {
         //    $.msgBox({
-        //        title: "Hệ thống ERP",
+        //        title: "Hệ thống",
         //        type: "error",
         //        content: "Bạn phải chọn tôn giáo!",
         //        buttons: [{ value: "Đồng ý" }],
@@ -433,7 +433,7 @@ $(document).ready(function () {
                 else
                     type = 'error';
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: type,
                     content: response.Message,
                     buttons: [{ value: "Đồng ý" }],
@@ -448,7 +448,7 @@ $(document).ready(function () {
             error: function (response) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: response.Msg,
                     buttons: [{ value: "Đồng ý" }]
@@ -461,7 +461,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainContract');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -469,7 +469,7 @@ $(document).ready(function () {
             return;
         }
         $.msgBox({
-            title: "Hệ thống ERP",
+            title: "Hệ thống",
             type: "confirm",
             content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
             buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
@@ -485,7 +485,7 @@ $(document).ready(function () {
                             $('#processing').hide();
                             if (response.Status === 0) {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "error",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -494,7 +494,7 @@ $(document).ready(function () {
                                 });
                             } else {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "info",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -513,7 +513,7 @@ $(document).ready(function () {
         var id = $('#EmployeeIdPost').val();
         if (id === '0') {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn cần phải đăng ký thông tin nhân viên trước!",
                 buttons: [{ value: "Đồng ý" }]
@@ -526,7 +526,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainContract');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -633,7 +633,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainPraise');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -641,7 +641,7 @@ $(document).ready(function () {
             return;
         }
         $.msgBox({
-            title: "Hệ thống ERP",
+            title: "Hệ thống",
             type: "confirm",
             content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
             buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
@@ -657,7 +657,7 @@ $(document).ready(function () {
                             $('#processing').hide();
                             if (response.Status === 0) {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "error",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -666,7 +666,7 @@ $(document).ready(function () {
                                 });
                             } else {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "info",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -685,7 +685,7 @@ $(document).ready(function () {
         var id = $('#EmployeeIdPost').val();
         if (id === '0') {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn cần phải đăng ký thông tin nhân viên trước!",
                 buttons: [{ value: "Đồng ý" }]
@@ -698,7 +698,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainPraise');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -786,7 +786,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainDiscipline');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -794,7 +794,7 @@ $(document).ready(function () {
             return;
         }
         $.msgBox({
-            title: "Hệ thống ERP",
+            title: "Hệ thống",
             type: "confirm",
             content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
             buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
@@ -810,7 +810,7 @@ $(document).ready(function () {
                             $('#processing').hide();
                             if (response.Status === 0) {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "error",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -819,7 +819,7 @@ $(document).ready(function () {
                                 });
                             } else {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "info",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -838,7 +838,7 @@ $(document).ready(function () {
         var id = $('#EmployeeIdPost').val();
         if (id === '0') {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn cần phải đăng ký thông tin nhân viên trước!",
                 buttons: [{ value: "Đồng ý" }]
@@ -851,7 +851,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainDiscipline');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -941,7 +941,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainJobChange');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -949,7 +949,7 @@ $(document).ready(function () {
             return;
         }
         $.msgBox({
-            title: "Hệ thống ERP",
+            title: "Hệ thống",
             type: "confirm",
             content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
             buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
@@ -965,7 +965,7 @@ $(document).ready(function () {
                             $('#processing').hide();
                             if (response.Status === 0) {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "error",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -974,7 +974,7 @@ $(document).ready(function () {
                                 });
                             } else {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "info",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -993,7 +993,7 @@ $(document).ready(function () {
         var id = $('#EmployeeIdPost').val();
         if (id === '0') {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn cần phải đăng ký thông tin nhân viên trước!",
                 buttons: [{ value: "Đồng ý" }]
@@ -1006,7 +1006,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainJobChange');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -1111,7 +1111,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdSalaries');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -1119,7 +1119,7 @@ $(document).ready(function () {
             return;
         }
         $.msgBox({
-            title: "Hệ thống ERP",
+            title: "Hệ thống",
             type: "confirm",
             content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
             buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
@@ -1135,7 +1135,7 @@ $(document).ready(function () {
                             $('#processing').hide();
                             if (response.Status === 0) {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "error",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -1144,7 +1144,7 @@ $(document).ready(function () {
                                 });
                             } else {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "info",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -1163,7 +1163,7 @@ $(document).ready(function () {
         var id = $('#EmployeeIdPost').val();
         if (id === '0') {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn cần phải đăng ký thông tin nhân viên trước!",
                 buttons: [{ value: "Đồng ý" }]
@@ -1176,7 +1176,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdSalaries');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -1447,7 +1447,7 @@ $(document).ready(function () {
         var id = $('#EmployeeIdPost').val();
         if (id === '0') {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn cần phải đăng ký thông tin nhân viên trước!",
                 buttons: [{ value: "Đồng ý" }]
@@ -1522,7 +1522,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainMedical');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -1530,7 +1530,7 @@ $(document).ready(function () {
             return;
         }
         $.msgBox({
-            title: "Hệ thống ERP",
+            title: "Hệ thống",
             type: "confirm",
             content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
             buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
@@ -1546,7 +1546,7 @@ $(document).ready(function () {
                             $('#processing').hide();
                             if (response.Status === 0) {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "error",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -1555,7 +1555,7 @@ $(document).ready(function () {
                                 });
                             } else {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "info",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -1574,7 +1574,7 @@ $(document).ready(function () {
         var id = $('#EmployeeIdPost').val();
         if (id === '0') {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn cần phải đăng ký thông tin nhân viên trước!",
                 buttons: [{ value: "Đồng ý" }]
@@ -1587,7 +1587,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMainMedical');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]

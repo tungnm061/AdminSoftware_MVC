@@ -31,7 +31,7 @@
         };
         if (model.InsuranceId == null || model.InsuranceId.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa có mã BHXH!",
                 buttons: [{ value: "Đồng ý" }],
@@ -42,7 +42,7 @@
         }
         if (model.FromDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày bắt đầu!",
                 buttons: [{ value: "Đồng ý" }],
@@ -53,7 +53,7 @@
         }
         if (model.ToDate != null && model.ToDate < model.FromDate) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Ngày hết hạn không hợp lệ!",
                 buttons: [{ value: "Đồng ý" }],
@@ -64,7 +64,7 @@
         }
         if (model.Amount == null || model.Amount <= 0) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập mức đóng BHYT!",
                 buttons: [{ value: "Đồng ý" }],
@@ -87,7 +87,7 @@
                 else
                     type = 'error';
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: type,
                     content: response.Message,
                     buttons: [{ value: "Đồng ý" }],
@@ -102,7 +102,7 @@
             error: function (response) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: response.Msg,
                     buttons: [{ value: "Đồng ý" }]

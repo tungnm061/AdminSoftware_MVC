@@ -74,7 +74,7 @@
             };
             if (model.EmployeeId == null || model.EmployeeId.trim() === "") {
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: "Bạn chưa chọn người phỏng vấn!",
                     buttons: [{ value: "Đồng ý" }]
@@ -83,7 +83,7 @@
             }
             if (model.Result == null || model.Result.trim() === "") {
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: "Bạn chưa chọn kết quả!",
                     buttons: [{ value: "Đồng ý" }]
@@ -92,7 +92,7 @@
             }
             if (model.InterviewDate == null) {
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: "Bạn chưa chọn ngày phỏng vấn!",
                     buttons: [{ value: "Đồng ý" }]
@@ -109,14 +109,14 @@
                     $('#processing').hide();
                     if (response.Status === 0) {
                         $.msgBox({
-                            title: "Hệ thống ERP",
+                            title: "Hệ thống",
                             type: "error",
                             content: response.Message,
                             buttons: [{ value: "Đồng ý" }]
                         });
                     } else {
                         $.msgBox({
-                            title: "Hệ thống ERP",
+                            title: "Hệ thống",
                             type: "info",
                             content: response.Message,
                             buttons: [{ value: "Đồng ý" }],

@@ -11,7 +11,7 @@ $(document).ready(function () {
         var monthlyDate = $("#MounthSearch").data("kendoDatePicker").value();
         if (monthlyDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày bắt đầu tìm kiếm!",
                 buttons: [{ value: "Đồng ý" }],
@@ -33,7 +33,7 @@ $(document).ready(function () {
             success: function (response) {
                 if (response.Status === 0) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -50,7 +50,7 @@ $(document).ready(function () {
         var monthlyDate = $("#MounthSearch").data("kendoDatePicker").value();
         if (monthlyDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày bắt đầu tìm kiếm!",
                 buttons: [{ value: "Đồng ý" }],

@@ -82,7 +82,7 @@ $(document).ready(function () {
                 $('#processing').hide();
                 if (response.Status === 0) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -91,7 +91,7 @@ $(document).ready(function () {
                     });
                 } else {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "info",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -119,7 +119,7 @@ $(document).ready(function () {
                 $('#processing').hide();
                 if (response.Status === 0) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -128,7 +128,7 @@ $(document).ready(function () {
                     });
                 } else {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "info",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],

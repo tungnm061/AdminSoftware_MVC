@@ -87,7 +87,7 @@ $(document).ready(function () {
                     $('#processing').hide();
                     if (response.Status === 0) {
                         $.msgBox({
-                            title: "Hệ thống ERP",
+                            title: "Hệ thống",
                             type: "error",
                             content: response.Message,
                             buttons: [{ value: "Đồng ý" }],
@@ -96,7 +96,7 @@ $(document).ready(function () {
                         });
                     } else {
                         $.msgBox({
-                            title: "Hệ thống ERP",
+                            title: "Hệ thống",
                             type: "info",
                             content: response.Message,
                             buttons: [{ value: "Đồng ý" }],
@@ -109,7 +109,7 @@ $(document).ready(function () {
             });
         } else {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn nhân viên!",
                 buttons: [{ value: "Đồng ý" }],
@@ -228,7 +228,7 @@ $(document).ready(function () {
                 $('#processing').hide();
                 if (response.Status === 1) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "info",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -238,7 +238,7 @@ $(document).ready(function () {
                     });
                 } else {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -250,7 +250,7 @@ $(document).ready(function () {
             error: function (er) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: er,
                     buttons: [{ value: "Đồng ý" }]
@@ -270,7 +270,7 @@ $(document).ready(function () {
                 $('#processing').hide();
                 if (response.Status === 1) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "info",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -280,7 +280,7 @@ $(document).ready(function () {
                     });
                 } else {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],

@@ -12,7 +12,7 @@ $(document).ready(function () {
         var monthlyDate = $("#MounthSearch").data("kendoDatePicker").value();
         if (monthlyDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày bắt đầu tìm kiếm!",
                 buttons: [{ value: "Đồng ý" }],

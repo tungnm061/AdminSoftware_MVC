@@ -47,7 +47,7 @@
                             buttons: [{ value: "Đồng ý" }]
                         });
                     } else {
-                        window.location.href = '@Url.Action("Index","DashBoard")';
+                        window.location.href = '@Url.Action("Index","Order",new {Area = "sale"})';
                     }
                 }
             });

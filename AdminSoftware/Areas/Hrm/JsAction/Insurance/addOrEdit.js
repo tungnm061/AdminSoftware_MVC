@@ -28,7 +28,7 @@
         };
         if (model.EmployeeId == null || model.EmployeeId.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn nhân viên!",
                 buttons: [{ value: "Đồng ý" }],
@@ -39,7 +39,7 @@
         }
         if (model.InsuranceNumber == null || model.InsuranceNumber.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập số BHXH!",
                 buttons: [{ value: "Đồng ý" }],
@@ -50,7 +50,7 @@
         }
         if (model.SubscriptionDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày đăng ký!",
                 buttons: [{ value: "Đồng ý" }],
@@ -61,7 +61,7 @@
         }
         if (model.CityId == null || model.CityId.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn nơi cấp!",
                 buttons: [{ value: "Đồng ý" }],
@@ -84,7 +84,7 @@
                 else
                     type = 'error';
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: type,
                     content: response.Message,
                     buttons: [{ value: "Đồng ý" }],
@@ -99,7 +99,7 @@
             error: function (response) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: response.Msg,
                     buttons: [{ value: "Đồng ý" }]

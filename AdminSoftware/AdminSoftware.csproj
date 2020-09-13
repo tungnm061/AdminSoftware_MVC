@@ -288,6 +288,8 @@
     <Compile Include="Areas\Hrm\Models\TrainingLevelModel.cs" />
     <Compile Include="Areas\Sale\Controllers\HomeController.cs" />
     <Compile Include="Areas\Sale\Controllers\OrderController.cs" />
+    <Compile Include="Areas\Sale\Controllers\OrderStatisticalController.cs" />
+    <Compile Include="Areas\Sale\Controllers\ProducerController.cs" />
     <Compile Include="Areas\Sale\Controllers\ProductController.cs" />
     <Compile Include="Areas\Sale\Models\CustomerModel.cs" />
     <Compile Include="Areas\Sale\Models\InvestorModel.cs" />
@@ -467,9 +469,12 @@
     <Content Include="Areas\Sale\JsAction\Home\explanation.js" />
     <Content Include="Areas\Sale\JsAction\Home\index.js" />
     <Content Include="Areas\Sale\JsAction\Home\taskSearch.js" />
+    <Content Include="Areas\Sale\JsAction\OrderStatistical\index.js" />
     <Content Include="Areas\Sale\JsAction\Order\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Order\index.js" />
     <Content Include="Areas\Sale\JsAction\Order\orderDetail.js" />
+    <Content Include="Areas\Sale\JsAction\Producer\addOrEdit.js" />
+    <Content Include="Areas\Sale\JsAction\Producer\index.js" />
     <Content Include="Areas\Sale\JsAction\Product\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Product\index.js" />
     <Content Include="Areas\System\JsAction\AccountPrintify\addOrEdit.js" />
@@ -885,6 +890,9 @@
     <Content Include="Areas\System\Views\Gmail\SkuView.cshtml" />
     <Content Include="Areas\System\Views\AccountPrintify\AccountPrintify.cshtml" />
     <Content Include="Areas\System\Views\AccountPrintify\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\Producer\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\Producer\Producer.cshtml" />
+    <Content Include="Areas\Sale\Views\OrderStatistical\Index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

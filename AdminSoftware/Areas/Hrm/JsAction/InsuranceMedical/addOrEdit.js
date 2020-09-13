@@ -35,7 +35,7 @@
         };
         if (model.EmployeeId == null || model.EmployeeId.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn nhân viên!",
                 buttons: [{ value: "Đồng ý" }],
@@ -46,7 +46,7 @@
         }
         if (model.InsuranceMedicalNumber == null || model.InsuranceMedicalNumber.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập số BHYT!",
                 buttons: [{ value: "Đồng ý" }],
@@ -57,7 +57,7 @@
         }
         if (model.StartDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày bắt đầu!",
                 buttons: [{ value: "Đồng ý" }],
@@ -68,7 +68,7 @@
         }
         if (model.ExpiredDate == null || model.ExpiredDate < model.StartDate) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Ngày hết hạn không hợp lệ!",
                 buttons: [{ value: "Đồng ý" }],
@@ -79,7 +79,7 @@
         }
         if (model.CityId == null || model.CityId.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn nơi cấp!",
                 buttons: [{ value: "Đồng ý" }],
@@ -90,7 +90,7 @@
         }
         if (model.MedicalId == null || model.MedicalId.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn nơi KCB!",
                 buttons: [{ value: "Đồng ý" }],
@@ -101,7 +101,7 @@
         }
         if (model.Amount == null || model.Amount <= 0) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập mức đóng BHYT!",
                 buttons: [{ value: "Đồng ý" }],
@@ -124,7 +124,7 @@
                 else
                     type = 'error';
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: type,
                     content: response.Message,
                     buttons: [{ value: "Đồng ý" }],
@@ -139,7 +139,7 @@
             error: function (response) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: response.Msg,
                     buttons: [{ value: "Đồng ý" }]

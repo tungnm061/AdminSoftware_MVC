@@ -35,8 +35,9 @@ namespace Core.Enum
     {
         [Description("Khách hàng")] KH = 6,
         [Description("Sản phẩm")] SP = 8,
-        [Description("Hợp đồng")] HD = 9
-        
+        [Description("Hợp đồng")] HD = 9, 
+        [Description("Sản xuất")] SX = 10
+
 
     }
 

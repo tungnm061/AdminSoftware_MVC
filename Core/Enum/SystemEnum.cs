@@ -27,9 +27,18 @@ namespace Core.Enum
 
     public enum StatusOrderEnụm
     {
-        [Description("Has Issues")] HasIssues = 1,
-        [Description("On Hold")] OnHold = 2,
-        [Description("In Production")] InProduction = 3,
-        [Description("Fulfilled")] Fulfilled = 4,
+        //[Description("Has Issues")] HasIssues = 1,
+        //[Description("On Hold")] OnHold = 2,
+        //[Description("In Production")] InProduction = 3,
+        //[Description("Fulfilled")] Fulfilled = 4
+        [Description("Đang chờ")] HasIssues = 1,
+        [Description("Đã hoàn thành")] OnHold = 2,
+        [Description("Đã hủy")] InProduction = 3
+    }
+
+    public enum KeySeachOrderEnụm
+    {
+        [Description("Ngày tạo")] CreateDate = 1,
+        [Description("Ngày hoàn thành")] FinishDate = 2
     }
 }

@@ -8,7 +8,7 @@
         }
         if (model.CountryCode == null || model.CountryCode.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập mã quốc tịch!",
                 buttons: [{ value: "Đồng ý" }]
@@ -17,7 +17,7 @@
         }
         if (model.CountryName == null || model.CountryName.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập quốc tịch!",
                 buttons: [{ value: "Đồng ý" }]
@@ -38,7 +38,7 @@
                 else
                     type = 'error';
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: type,
                     content: response.Message,
                     buttons: [{ value: "Đồng ý" }],
@@ -53,7 +53,7 @@
             error: function (response) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: response.Msg,
                     buttons: [{ value: "Đồng ý" }]

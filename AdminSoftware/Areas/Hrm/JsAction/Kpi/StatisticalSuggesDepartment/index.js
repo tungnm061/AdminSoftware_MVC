@@ -14,7 +14,7 @@ $(document).ready(function () {
         var toDate = $("#ToDateSearch").data("kendoDatePicker").value();
         if (fromDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày bắt đầu tìm kiếm!",
                 buttons: [{ value: "Đồng ý" }],
@@ -25,7 +25,7 @@ $(document).ready(function () {
         }
         if (toDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn ngày kết thúc tìm kiếm!",
                 buttons: [{ value: "Đồng ý" }],
@@ -36,7 +36,7 @@ $(document).ready(function () {
         }
         if (toDate < fromDate) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Ngày bắt đầu không được lớn hơn ngày kết thúc!",
                 buttons: [{ value: "Đồng ý" }],

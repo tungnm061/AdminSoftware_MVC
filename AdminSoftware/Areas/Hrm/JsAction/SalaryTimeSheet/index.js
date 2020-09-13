@@ -4,7 +4,7 @@ $(document).ready(function () {
         var dateSelect = $("#DateSelect").data("kendoDatePicker").value();
         if (dateSelect == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải chọn tháng!",
                 buttons: [{ value: "Đồng ý" }],
@@ -26,7 +26,7 @@ $(document).ready(function () {
             success: function (response) {
                 if (response.Status === 0) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],

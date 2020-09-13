@@ -18,7 +18,7 @@ $(document).ready(function () {
         }
         if (model.ShiftWorkCode == null || model.ShiftWorkCode.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập mã ca làm việc!",
                 buttons: [{ value: "Đồng ý" }]
@@ -27,7 +27,7 @@ $(document).ready(function () {
         }
         if (model.StartTime == null || model.StartTime.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập thời gian bắt đầu làm việc!",
                 buttons: [{ value: "Đồng ý" }]
@@ -36,7 +36,7 @@ $(document).ready(function () {
         }
         if (!ValidateTime(model.StartTime)) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Thời gian bắt đầu làm việc không hợp lệ!",
                 buttons: [{ value: "Đồng ý" }]
@@ -45,7 +45,7 @@ $(document).ready(function () {
         }
         if (model.EndTime == null || model.EndTime.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập thời gian kết thúc làm việc!",
                 buttons: [{ value: "Đồng ý" }]
@@ -54,7 +54,7 @@ $(document).ready(function () {
         }
         if (!ValidateTime(model.EndTime)) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Thời gian kết thúc làm việc không hợp lệ!",
                 buttons: [{ value: "Đồng ý" }]
@@ -63,7 +63,7 @@ $(document).ready(function () {
         }
         if (model.RelaxStartTime == null || model.RelaxStartTime.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập thời gian bắt đầu nghỉ!",
                 buttons: [{ value: "Đồng ý" }]
@@ -72,7 +72,7 @@ $(document).ready(function () {
         }
         if (!ValidateTime(model.RelaxStartTime)) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Thời gian bắt đầu nghỉ không hợp lệ!",
                 buttons: [{ value: "Đồng ý" }]
@@ -81,7 +81,7 @@ $(document).ready(function () {
         }
         if (model.RelaxEndTime == null || model.RelaxEndTime.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập thời gian kết thúc nghỉ!",
                 buttons: [{ value: "Đồng ý" }]
@@ -90,7 +90,7 @@ $(document).ready(function () {
         }
         if (!ValidateTime(model.RelaxEndTime)) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Thời gian kết thúc nghỉ không hợp lệ!",
                 buttons: [{ value: "Đồng ý" }]
@@ -111,7 +111,7 @@ $(document).ready(function () {
                 else
                     type = 'error';
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: type,
                     content: response.Message,
                     buttons: [{ value: "Đồng ý" }],
@@ -126,7 +126,7 @@ $(document).ready(function () {
             error: function (response) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: response.Msg,
                     buttons: [{ value: "Đồng ý" }]

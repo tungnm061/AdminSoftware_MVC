@@ -25,7 +25,7 @@ $(document).ready(function () {
         }
         if (model.PublishDate == null ) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn ngày xuất bản!",
                 buttons: [{ value: "Đồng ý" }]
@@ -34,7 +34,7 @@ $(document).ready(function () {
         }
         if (model.Title == null || model.Title.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập tiêu đề!",
                 buttons: [{ value: "Đồng ý" }]
@@ -43,7 +43,7 @@ $(document).ready(function () {
         }
         if (model.PostContent == null || model.PostContent.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa nhập nội dung bài viết!",
                 buttons: [{ value: "Đồng ý" }]
@@ -64,7 +64,7 @@ $(document).ready(function () {
                 else
                     type = 'error';
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: type,
                     content: response.Message,
                     buttons: [{ value: "Đồng ý" }],
@@ -79,7 +79,7 @@ $(document).ready(function () {
             error: function (response) {
                 $('#processing').hide();
                 $.msgBox({
-                    title: "Hệ thống ERP",
+                    title: "Hệ thống",
                     type: "error",
                     content: response.Msg,
                     buttons: [{ value: "Đồng ý" }]

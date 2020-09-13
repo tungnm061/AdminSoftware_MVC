@@ -89,6 +89,8 @@
     <Compile Include="Hrm\JobChange.cs" />
     <Compile Include="Sale\Order.cs" />
     <Compile Include="Sale\OrderDetail.cs" />
+    <Compile Include="Sale\OrderStatistical.cs" />
+    <Compile Include="Sale\Producer.cs" />
     <Compile Include="System\AccountPrintify.cs" />
     <Compile Include="System\CategoryKpi.cs" />
     <Compile Include="System\Chat.cs" />

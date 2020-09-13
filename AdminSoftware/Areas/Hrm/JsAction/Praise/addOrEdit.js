@@ -19,7 +19,7 @@ $(document).ready(function () {
         var id = $('#EmployeeIdPost').val();
         if (model.Title == null || model.Title.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập quyết định!",
                 buttons: [{ value: "Đồng ý" }],
@@ -30,7 +30,7 @@ $(document).ready(function () {
         }
         if (model.PraiseDisciplineDate == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập ngày quyết định!",
                 buttons: [{ value: "Đồng ý" }],
@@ -41,7 +41,7 @@ $(document).ready(function () {
         }
         if (model.Formality == null || model.Formality.trim() ==="") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập hình thức!",
                 buttons: [{ value: "Đồng ý" }],
@@ -52,7 +52,7 @@ $(document).ready(function () {
         }
         if (model.Reason == null || model.Reason.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập lý do!",
                 buttons: [{ value: "Đồng ý" }],
@@ -63,7 +63,7 @@ $(document).ready(function () {
         }
         //if ($('#grdPraiseDisciplineDetail').data("kendoGrid").dataSource.total() <= 0) {
         //    $.msgBox({
-        //        title: "Hệ thống ERP",
+        //        title: "Hệ thống",
         //        type: "error",
         //        content: "Bạn phải chọn nhân viên!",
         //        buttons: [{ value: "Đồng ý" }],
@@ -86,7 +86,7 @@ $(document).ready(function () {
                 $('#processing').hide();
                 if (response.Status === 0) {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "error",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],
@@ -95,7 +95,7 @@ $(document).ready(function () {
                     });
                 } else {
                     $.msgBox({
-                        title: "Hệ thống ERP",
+                        title: "Hệ thống",
                         type: "info",
                         content: response.Message,
                         buttons: [{ value: "Đồng ý" }],

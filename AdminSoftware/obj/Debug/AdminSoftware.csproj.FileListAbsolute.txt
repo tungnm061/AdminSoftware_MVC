@@ -106,6 +106,7 @@ D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\AdminSoftware\bin\log4net.xml
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\AdminSoftware\bin\Enyim.Caching.xml
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\AdminSoftware\bin\MiniProfiler.pdb
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\AdminSoftware\bin\MiniProfiler.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\obj\Debug\AdminSoftware.csprojAssemblyReference.cache
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\bin\ApplicationInsights.config
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\bin\roslyn\csc.exe
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -211,7 +212,6 @@ G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\bin\log4net.xml
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\bin\Enyim.Caching.xml
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\bin\MiniProfiler.pdb
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\bin\MiniProfiler.xml
-G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\obj\Debug\AdminSoftware.csprojAssemblyReference.cache
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\obj\Debug\AdminSoftware.csproj.CopyComplete
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\obj\Debug\AdminSoftware.dll
 G:\GIT-AdminSoftware\AdminSoftware_MVC\AdminSoftware\obj\Debug\AdminSoftware.pdb

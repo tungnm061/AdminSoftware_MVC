@@ -3,7 +3,7 @@
         var keyword = $('#Keyword').val();
         if (keyword == null || keyword.trim() === "") {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn phải nhập từ khóa tìm kiếm!",
                 buttons: [{ value: "Đồng ý" }],
@@ -102,7 +102,7 @@
                     $('#processing').hide();
                     if (response.Status === 0) {
                         $.msgBox({
-                            title: "Hệ thống ERP",
+                            title: "Hệ thống",
                             type: "error",
                             content: response.Message,
                             buttons: [{ value: "Đồng ý" }],
@@ -111,7 +111,7 @@
                         });
                     } else {
                         $.msgBox({
-                            title: "Hệ thống ERP",
+                            title: "Hệ thống",
                             type: "info",
                             content: response.Message,
                             buttons: [{ value: "Đồng ý" }],
@@ -125,7 +125,7 @@
             });
         } else {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn nhân viên!",
                 buttons: [{ value: "Đồng ý" }],

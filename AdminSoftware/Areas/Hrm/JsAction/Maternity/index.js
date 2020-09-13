@@ -7,7 +7,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMain');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]

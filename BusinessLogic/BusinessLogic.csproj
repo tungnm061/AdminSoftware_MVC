@@ -129,6 +129,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sale\CustomerBll.cs" />
     <Compile Include="Sale\OrderBll.cs" />
+    <Compile Include="Sale\ProducerBll.cs" />
     <Compile Include="Sale\ProductBll.cs" />
     <Compile Include="System\AccountPrintifyBll.cs" />
     <Compile Include="System\AddressBll.cs" />

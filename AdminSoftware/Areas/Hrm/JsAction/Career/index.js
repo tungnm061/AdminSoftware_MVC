@@ -9,7 +9,7 @@ $(document).ready(function () {
             CloseChildWindowModal();
         } else {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu!",
                 buttons: [{ value: "Đồng ý" }],
@@ -23,7 +23,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMain');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
@@ -31,7 +31,7 @@ $(document).ready(function () {
             return false;
         }
         $.msgBox({
-            title: "Hệ thống ERP",
+            title: "Hệ thống",
             type: "confirm",
             content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
             buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
@@ -47,7 +47,7 @@ $(document).ready(function () {
                             $('#processing').hide();
                             if (response.Status === 0) {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "error",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -56,7 +56,7 @@ $(document).ready(function () {
                                 });
                             } else {
                                 $.msgBox({
-                                    title: "Hệ thống ERP",
+                                    title: "Hệ thống",
                                     type: "info",
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
@@ -79,7 +79,7 @@ $(document).ready(function () {
         var id = GetGridRowSelectedKeyValue('#grdMain');
         if (id == null) {
             $.msgBox({
-                title: "Hệ thống ERP",
+                title: "Hệ thống",
                 type: "error",
                 content: "Bạn chưa chọn dữ liệu trước khi sửa!",
                 buttons: [{ value: "Đồng ý" }]
