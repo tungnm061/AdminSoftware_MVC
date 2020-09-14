@@ -287,6 +287,7 @@
     <Compile Include="Areas\Hrm\Models\TimeSheetOtModel.cs" />
     <Compile Include="Areas\Hrm\Models\TrainingLevelModel.cs" />
     <Compile Include="Areas\Sale\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Sale\Controllers\ListtingController.cs" />
     <Compile Include="Areas\Sale\Controllers\OrderController.cs" />
     <Compile Include="Areas\Sale\Controllers\OrderStatisticalController.cs" />
     <Compile Include="Areas\Sale\Controllers\ProducerController.cs" />
@@ -982,6 +983,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Hrm\Models\Kpi\" />
+    <Folder Include="Areas\Sale\Views\Listting\" />
     <Folder Include="Filters\" />
     <Folder Include="Reports\" />
     <Folder Include="Upload\Contract\2018\" />

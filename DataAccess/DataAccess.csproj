@@ -60,24 +60,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FastAccounting\BangCanDoiKeToanDal.cs" />
-    <Compile Include="FastAccounting\BaoCaoKetQuaSXKDDal.cs" />
-    <Compile Include="FastAccounting\BoPhanSuDungCcDcDal.cs" />
-    <Compile Include="FastAccounting\CongCuDungCuDal.cs" />
-    <Compile Include="FastAccounting\CongNoKhachHangDal.cs" />
-    <Compile Include="FastAccounting\DanhMucBoPhanTaiSanDal.cs" />
-    <Compile Include="FastAccounting\DanhMucDonViCoSoDal.cs" />
-    <Compile Include="FastAccounting\DanhMucKhoDal.cs" />
-    <Compile Include="FastAccounting\DanhMucLoaiCcDcDal.cs" />
-    <Compile Include="FastAccounting\DanhMucPhanLoaiTaiSanDal.cs" />
-    <Compile Include="FastAccounting\DanhMucVatTuDal.cs" />
-    <Compile Include="FastAccounting\KhachHangDal.cs" />
-    <Compile Include="FastAccounting\LuuChuyenTienTeDal.cs" />
-    <Compile Include="FastAccounting\TaiKhoanKeToanDal.cs" />
-    <Compile Include="FastAccounting\TaiSanCoDinhDal.cs" />
-    <Compile Include="FastAccounting\TienGuiNganHangDal.cs" />
-    <Compile Include="FastAccounting\TongKetSoQuyDal.cs" />
-    <Compile Include="FastAccounting\TonKhoDal.cs" />
     <Compile Include="Hrm\ApplicantDal.cs" />
     <Compile Include="Hrm\ContractDal.cs" />
     <Compile Include="Hrm\ContractTypeDal.cs" />
@@ -129,6 +111,7 @@
     <Compile Include="Kpi\WorkStreamDetailDal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sale\CustomerDal.cs" />
+    <Compile Include="Sale\ListtingDal.cs" />
     <Compile Include="Sale\OrderDal.cs" />
     <Compile Include="Sale\OrderDetailDal.cs" />
     <Compile Include="Sale\ProducerDal.cs" />
