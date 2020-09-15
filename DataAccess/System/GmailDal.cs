@@ -72,6 +72,20 @@ namespace DataAccess.System
             }
         }
 
+        public Gmail GetGmailByName(string gmailName)
+        {
+            try
+            {
+                return
+                    UnitOfWork.Procedure<Gmail>("[dbo].[Gmail_GetByName]", new { GmailName = gmailName }).FirstOrDefault();
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return null;
+            }
+        }
+
         public Gmail GetGmail(int id)
         {
             try

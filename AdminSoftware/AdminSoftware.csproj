@@ -470,6 +470,9 @@
     <Content Include="Areas\Sale\JsAction\Home\explanation.js" />
     <Content Include="Areas\Sale\JsAction\Home\index.js" />
     <Content Include="Areas\Sale\JsAction\Home\taskSearch.js" />
+    <Content Include="Areas\Sale\JsAction\Listting\addOrEdit.js" />
+    <Content Include="Areas\Sale\JsAction\Listting\excel.js" />
+    <Content Include="Areas\Sale\JsAction\Listting\index.js" />
     <Content Include="Areas\Sale\JsAction\OrderStatistical\index.js" />
     <Content Include="Areas\Sale\JsAction\Order\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Order\index.js" />
@@ -785,17 +788,7 @@
     <Content Include="Areas\Hrm\Views\HolidayReason\HolidayReason.cshtml" />
     <Content Include="Areas\Hrm\Views\HolidayReason\Index.cshtml" />
     <Content Include="Areas\Hrm\Views\Holiday\Index.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\AssignWork.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\CreateWork.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\EditWork.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\Employees.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\Explanation.cshtml" />
     <Content Include="Areas\Hrm\Views\Home\Index.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\TaskSearch.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\WorkDetailExplanation.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\WorkingNote.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\WorkPlanPieChart.cshtml" />
-    <Content Include="Areas\Hrm\Views\Home\WorkScheduler.cshtml" />
     <Content Include="Areas\Hrm\Views\IncurredSalary\IncurredSalary.cshtml" />
     <Content Include="Areas\Hrm\Views\IncurredSalary\Index.cshtml" />
     <Content Include="Areas\Hrm\Views\InsuranceMedical\Index.cshtml" />
@@ -894,6 +887,9 @@
     <Content Include="Areas\Sale\Views\Producer\Index.cshtml" />
     <Content Include="Areas\Sale\Views\Producer\Producer.cshtml" />
     <Content Include="Areas\Sale\Views\OrderStatistical\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\Listting\Listting.cshtml" />
+    <Content Include="Areas\Sale\Views\Listting\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\Listting\ViewExcel.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -983,7 +979,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Hrm\Models\Kpi\" />
-    <Folder Include="Areas\Sale\Views\Listting\" />
     <Folder Include="Filters\" />
     <Folder Include="Reports\" />
     <Folder Include="Upload\Contract\2018\" />

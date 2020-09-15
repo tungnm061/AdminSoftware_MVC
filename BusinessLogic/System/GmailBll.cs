@@ -26,6 +26,11 @@ namespace BusinessLogic.System
             return _gmailDal.GetGmail(GmailId);
         }
 
+        public Gmail GetGmailByName(string gmailName)
+        {
+            return _gmailDal.GetGmailByName(gmailName);
+        }
+
         public int Insert(Gmail obj)
         {
             return _gmailDal.Insert(obj);

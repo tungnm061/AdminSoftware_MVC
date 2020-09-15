@@ -103,16 +103,10 @@
     <Compile Include="Kpi\Complain.cs" />
     <Compile Include="Kpi\EmployeeUsefulHour.cs" />
     <Compile Include="Kpi\Explanation.cs" />
-    <Compile Include="Kpi\StatisticalFactorWork.cs" />
     <Compile Include="Kpi\Performer.cs" />
-    <Compile Include="Kpi\StatisticalComplain.cs" />
-    <Compile Include="Kpi\StatisticalFinishWork.cs" />
-    <Compile Include="Kpi\StatisticalSugges.cs" />
     <Compile Include="Kpi\SuggesWork.cs" />
     <Compile Include="Kpi\WorkDetail.cs" />
     <Compile Include="Kpi\WorkingNote.cs" />
-    <Compile Include="Kpi\WorkPlan.cs" />
-    <Compile Include="Kpi\WorkPlanDetail.cs" />
     <Compile Include="Hrm\Maternity.cs" />
     <Compile Include="Hrm\Medical.cs" />
     <Compile Include="Hrm\Career.cs" />
@@ -136,9 +130,6 @@
     <Compile Include="Kpi\SuggetsJobConfig.cs" />
     <Compile Include="Kpi\KpiConfig.cs" />
     <Compile Include="Kpi\Task.cs" />
-    <Compile Include="Kpi\WorkPointConfig.cs" />
-    <Compile Include="Kpi\WorkStream.cs" />
-    <Compile Include="Kpi\WorkStreamDetail.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sale\Contract.cs" />
     <Compile Include="Sale\ContractDetail.cs" />
@@ -162,9 +153,7 @@
     <Compile Include="System\UserGroupRights.cs" />
     <Compile Include="System\Ward.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Hrm\Kpi\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

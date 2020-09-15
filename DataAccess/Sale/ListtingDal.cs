@@ -30,6 +30,7 @@ namespace DataAccess.Sale
             }
         }
 
+
         public Listting GetListting(long id)
         {
             try
@@ -84,11 +85,33 @@ namespace DataAccess.Sale
                 param.Add("@ListProduct", obj.ListProduct);
                 param.Add("@Balance", obj.Balance);
                 param.Add("@IsActive", obj.IsActive);
-                param.Add("@IsActive", obj.IsActive);
                 param.Add("@Description", obj.Description);
                 param.Add("@UpdateDate", obj.UpdateDate);
                 param.Add("@UpdateBy", obj.UpdateBy);
                 return UnitOfWork.ProcedureExecute("[sale].[Listting_Update]", param);
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
+            }
+        }
+
+        public bool UpdateByGmailId(Listting obj)
+        {
+            try
+            {
+                var param = new DynamicParameters();
+                param.Add("@GmailId", obj.GmailId);
+                param.Add("@ThreeNumberPayOnner", obj.ThreeNumberPayOnner);
+                param.Add("@PayOnner", obj.PayOnner);
+                param.Add("@ListProduct", obj.ListProduct);
+                param.Add("@Balance", obj.Balance);
+                param.Add("@IsActive", obj.IsActive);
+                param.Add("@Description", obj.Description);
+                param.Add("@UpdateDate", obj.UpdateDate);
+                param.Add("@UpdateBy", obj.UpdateBy);
+                return UnitOfWork.ProcedureExecute("[sale].[Listting_Update_ByGmailId]", param);
             }
             catch (Exception ex)
             {

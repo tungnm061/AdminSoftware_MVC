@@ -1,6 +1,5 @@
 ﻿using System.Linq;
 using System.Web.Mvc;
-using BusinessLogic.Kpi;
 using BusinessLogic.System;
 using Core.Singleton;
 using AdminSoftware.Controllers;
@@ -10,12 +9,10 @@ namespace AdminSoftware.Areas.System.Controllers
 {
     public class HomeController : BaseController
     {
-        private readonly WorkStreamBll _workStreamBll;
         private readonly UserBll _userBll;
 
         public HomeController()
         {
-            _workStreamBll = SingletonIpl.GetInstance<WorkStreamBll>();
             _userBll = SingletonIpl.GetInstance<UserBll>();
         }
 
@@ -27,10 +24,5 @@ namespace AdminSoftware.Areas.System.Controllers
             return View();
         }
 
-        public JsonResult WorkStreams()
-        {
-            var workStreams = _workStreamBll.GetWorkStreamsNeedVerify();
-            return Json(workStreams, JsonRequestBehavior.AllowGet);
-        }
     }
 }
