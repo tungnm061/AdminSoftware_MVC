@@ -301,6 +301,7 @@
     <Compile Include="Areas\Sale\SaleFilter.cs" />
     <Compile Include="Areas\System\Controllers\AccountController.cs" />
     <Compile Include="Areas\System\Controllers\AccountPrintifyController.cs" />
+    <Compile Include="Areas\System\Controllers\CompanyBankController.cs" />
     <Compile Include="Areas\System\Controllers\GmailController.cs" />
     <Compile Include="Areas\System\Controllers\HomeController.cs" />
     <Compile Include="Areas\System\Controllers\UserGroupController.cs" />
@@ -485,6 +486,8 @@
     <Content Include="Areas\System\JsAction\AccountPrintify\index.js" />
     <Content Include="Areas\System\JsAction\Account\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\Account\index.js" />
+    <Content Include="Areas\System\JsAction\CompanyBank\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\CompanyBank\index.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEditSku.js" />
     <Content Include="Areas\System\JsAction\Gmail\index.js" />
@@ -890,6 +893,8 @@
     <Content Include="Areas\Sale\Views\Listting\Listting.cshtml" />
     <Content Include="Areas\Sale\Views\Listting\Index.cshtml" />
     <Content Include="Areas\Sale\Views\Listting\ViewExcel.cshtml" />
+    <Content Include="Areas\System\Views\CompanyBank\Index.cshtml" />
+    <Content Include="Areas\System\Views\CompanyBank\CompanyBank.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

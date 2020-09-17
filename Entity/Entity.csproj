@@ -95,6 +95,8 @@
     <Compile Include="System\AccountPrintify.cs" />
     <Compile Include="System\CategoryKpi.cs" />
     <Compile Include="System\Chat.cs" />
+    <Compile Include="System\CompanyBank.cs" />
+    <Compile Include="System\ExpenseType.cs" />
     <Compile Include="System\Gmail.cs" />
     <Compile Include="System\Post.cs" />
     <Compile Include="Hrm\TimeSheet.cs" />

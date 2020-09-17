@@ -104,7 +104,9 @@
     <Compile Include="System\AutoNumberBll.cs" />
     <Compile Include="System\CategoryKpiBll.cs" />
     <Compile Include="System\ChatBll.cs" />
+    <Compile Include="System\CompanyBankBll.cs" />
     <Compile Include="System\CountryBll.cs" />
+    <Compile Include="System\ExpenseTypeBll.cs" />
     <Compile Include="System\GmailBll.cs" />
     <Compile Include="System\ModuleGroupBll.cs" />
     <Compile Include="System\NotificationBll.cs" />

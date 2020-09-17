@@ -8,11 +8,31 @@
                         <label>Gmail(*)</label>
                     </div>
                     <div class="col-md-9">
-                        <input type="text" value="@Model.GmailId" id="GmailId" class="form-control" />
+                        <input type="text" value="@Model.GmailId" id="GmailId" class="form-control"/>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Mã Code(*)</label>
+                    </div>
+                    <div class="col-md-9">
+                        <input type="text" class="form-control" value="@Model.OrderCode" id="OrderCode"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Ngày đặt</label>
+                    </div>
+                    <div class="col-md-9">
+                        <input type="text" class="form-control" value="@Model.CreateDate.ToString("dd/MM/yyyy")" id="CreateDate" />
+                    </div>
+                </div>
+            </div>
+            @*<div class="col-md-4">
                 <div class="row">
                     <div class="col-md-3">
                         <label>FirstName(*)</label>
@@ -31,10 +51,10 @@
                         <input type="text" class="form-control" value="@Model.LastName" id="LastName" />
                     </div>
                 </div>
-            </div>
+            </div>*@
         </div>
 
-        <div class="row">
+        @*<div class="row">
             <div class="col-md-4">
                 <div class="row">
                     <div class="col-md-3">
@@ -65,8 +85,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
+        </div>*@
+        @*<div class="row">
             <div class="col-md-4">
                 <div class="row">
                     <div class="col-md-3">
@@ -97,10 +117,10 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>*@
         <div class="row">
 
-            <div class="col-md-4">
+            @*<div class="col-md-4">
                 <div class="row">
                     <div class="col-md-3">
                         <label>Postal/Code</label>
@@ -109,7 +129,7 @@
                         <input type="text" class="form-control" value="@Model.PostalZipCode" id="PostalZipCode" />
                     </div>
                 </div>
-            </div>
+            </div>*@
             <div class="col-md-4">
                 <div class="row">
                     <div class="col-md-3">
@@ -120,6 +140,18 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Mã Tracking(*)</label>
+                    </div>
+                    <div class="col-md-9">
+                        <input type="text" class="form-control" value="@Model.OrderCode" id="TrackingCode"/>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-md-4">
                 <div class="row">
                     <div class="col-md-3">
@@ -153,7 +185,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            @*<div class="col-md-4">
                 <div class="row">
                     <div class="col-md-3">
                         <label>Tỷ giá NT</label>
@@ -162,18 +194,18 @@
                         <input type="text" class="form-control" value="@Model.RateMoney"  id="RateMoney" />
                     </div>
                 </div>
-            </div>
+            </div>*@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <textarea class="form-control" rows="3" id="Address1" placeholder="Address1..." style="min-height: 50px;">@Model.Address1</textarea>
+                <textarea class="form-control" rows="3" id="Description" placeholder="Ghi chú..." style="min-height: 50px;">@Model.Description</textarea>
             </div>
         </div>
-        <div class="row">
+        @*<div class="row">
             <div class="col-md-12">
                 <textarea class="form-control" rows="3" id="Address2" placeholder="Address2...." style="min-height: 50px;">@Model.Address2</textarea>
             </div>
-        </div>
+        </div>*@
         @*<div class="row">
             <div class="col-md-12">
                 <textarea class="form-control" rows="3" id="Description" placeholder="Mô tả ...." style="min-height: 60px;">@Model.Description</textarea>

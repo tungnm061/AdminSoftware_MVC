@@ -31,3 +31,10 @@ G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.csprojAssemblyRef
 G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.csproj.CopyComplete
 G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.dll
 G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.pdb
+D:\TungNM\TEST\AdminSoftware_MVC\Dapper\bin\Debug\Dapper.dll
+D:\TungNM\TEST\AdminSoftware_MVC\Dapper\bin\Debug\Dapper.pdb
+D:\TungNM\TEST\AdminSoftware_MVC\Dapper\bin\Debug\Enyim.Caching.dll
+D:\TungNM\TEST\AdminSoftware_MVC\Dapper\bin\Debug\Enyim.Caching.xml
+D:\TungNM\TEST\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache
+D:\TungNM\TEST\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.dll
+D:\TungNM\TEST\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.pdb

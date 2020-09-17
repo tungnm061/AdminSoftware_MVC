@@ -105,7 +105,9 @@
     <Compile Include="System\AutoNumberDal.cs" />
     <Compile Include="System\ChatDal.cs" />
     <Compile Include="System\CategoryKpiDal.cs" />
+    <Compile Include="System\CompanyBankDal.cs" />
     <Compile Include="System\CountryDal.cs" />
+    <Compile Include="System\ExpenseTypeDal.cs" />
     <Compile Include="System\GmailDal.cs" />
     <Compile Include="System\ModuleGroupDal.cs" />
     <Compile Include="System\NotificationDal.cs" />
