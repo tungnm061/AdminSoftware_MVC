@@ -12,8 +12,6 @@ namespace Entity.System
 
         public string FullName { get; set; }
 
-        public int UserId { get; set; }
-
         public DateTime CreateDate { get; set; }
 
         public int CreateBy { get; set; }
@@ -25,5 +23,11 @@ namespace Entity.System
         public bool IsActive { get; set; }
 
         public string Description { get; set; }
+        public string LinkUrl { get; set; }
+        public int CreateUser { get; set; }
+        public int RemoveUser { get; set; }
+        public int ListtingUser { get; set; }
+        public int OrderUser { get; set; }
+
     }
 }

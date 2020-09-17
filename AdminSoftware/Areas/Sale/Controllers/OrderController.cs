@@ -126,7 +126,8 @@ namespace AdminSoftware.Areas.Sale.Controllers
             {
                 obj = new Order
                 {
-                    OrderId = 0
+                    OrderId = 0,
+                    StartDate = DateTime.Now
                 };
             }
             return PartialView(obj);

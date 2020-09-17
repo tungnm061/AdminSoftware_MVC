@@ -1,1 +1,123 @@
 ﻿
+@model Entity.Sale.Listting
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Gmail(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.GmailId"  class="form-control" id="GmailId" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ba số PayOnner(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="number" value="@Model.ThreeNumberPayOnner" class="form-control" id="ThreeNumberPayOnner" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>PayOnner(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="number" value="@Model.PayOnner" class="form-control" id="PayOnner" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Litting(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.ListProduct" class="form-control" id="ListProduct" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Balance(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Balance" class="form-control" id="Balance" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ghi Chú</label>
+                    </div>
+                    <div class="col-md-8">
+                        <textarea type="text" value="@Model.Description" rows="3" class="form-control" id="Description"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                    </div>
+                    <div class="col-md-8">
+                        <span style="float: left">
+                            <input type="checkbox" class="k-checkbox" id="IsActive" @if (Model.IsActive) { <text> checked="checked" </text> } />
+                            <label for="IsActive" class="k-checkbox-label">Trạng thái</label>
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var listtingId = '@Model.ListtingId';
+</script>
+<script src="~/Areas/Sale/JsAction/Listting/addOrEdit.js"></script>
+
+
+
+

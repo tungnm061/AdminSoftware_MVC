@@ -1,41 +1,41 @@
 ﻿$(document).ready(function () {
+
+    $('#GmailId').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: gmails,
+        optionLabel: "Chọn Gmail",
+        filter: 'contains'
+    });
+
+    $("#ListProduct").kendoNumericTextBox({
+        format: "{0:n0}",
+        min: 0,
+        step: 1
+    });
+
+    $("#Balance").kendoNumericTextBox({
+        format: "{0:n0}",
+        min: 0,
+        step: 1
+    });
+    
     $('#btnSave').click(function () {
         var model = {
-            ProducerId: ProducerId,
-            ProducerName: $('#ProducerName').val(),
-            ProducerCode: $('#ProducerCode').val(),
+            ListtingId: listtingId,
+            GmailId: $('#GmailId').data('kendoDropDownList').value(),
+            ThreeNumberPayOnner: $('#ThreeNumberPayOnner').val(),
+            PayOnner: $('#PayOnner').val(),
+            ListProduct: $('#ListProduct').data('kendoNumericTextBox').value(),
+            Balance: $('#Balance').data('kendoNumericTextBox').value(),
             Description: $('#Description').val(),
             IsActive: $('#IsActive').is(":checked")
         };
 
-        if (model.ProducerName == null || model.ProducerName.trim() === "") {
-            $.msgBox({
-                title: "Hệ thống",
-                type: "error",
-                content: "Bạn chưa nhập tên nhà sản xuất!",
-                buttons: [{ value: "Đồng ý" }],
-                success: function () {
-                }
-            });
-            return;
-        }
-
-        if (model.ProducerCode == null || model.ProducerCode.trim() === "") {
-            $.msgBox({
-                title: "Hệ thống",
-                type: "error",
-                content: "Bạn chưa nhập mã nhà sản xuất",
-                buttons: [{ value: "Đồng ý" }],
-                success: function () {
-                }
-            });
-            return;
-        }
-
         $('#processing').show();
         $.ajax({
             type: "POST",
-            url: '/sale/Producer/Save',
+            url: '/sale/Listting/Save',
             data: JSON.stringify({ model: model }),
             contentType: 'application/json; charset=utf-8',
             success: function (response) {

@@ -57,7 +57,7 @@ namespace AdminSoftware.Areas.System.Controllers
 
 
         [HttpPost]
-        public JsonResult Save(GmailModel model)
+        public JsonResult Save(Gmail model)
         {
             try
             {
@@ -76,12 +76,18 @@ namespace AdminSoftware.Areas.System.Controllers
                     }, JsonRequestBehavior.AllowGet);
                 }
 
+                var gmail = _gmailBll.GetGmailByName(model.FullName);
                 if (model.Id == 0)
                 {
+                    if (gmail != null)
+                    {
+                        return Json(new { Status = 0, Message = "Tài khoản này đã tồn tại trong hệ thống!" },
+                            JsonRequestBehavior.AllowGet);
+                    }
                     model.CreateBy = UserLogin.UserId;
                     model.CreateDate = DateTime.Now;
                     model.IsActive = true;
-                    if (_gmailBll.Insert(model.ToObject()) > 0)
+                    if (_gmailBll.Insert(model) > 0)
                     {
                         return Json(new { Status = 1, Message = MessageAction.MessageCreateSuccess },
                             JsonRequestBehavior.AllowGet);
@@ -89,10 +95,15 @@ namespace AdminSoftware.Areas.System.Controllers
                 }
                 else
                 {
+                    if (gmail != null && gmail.Id != model.Id)
+                    {
+                        return Json(new { Status = 0, Message = "Tên tài khoản đã tồn tại trong hệ thống!" },
+                            JsonRequestBehavior.AllowGet);
+                    }
                     model.UpdateBy = UserLogin.UserId;
                     model.UpdateDate = DateTime.Now;
                     model.IsActive = true;
-                    if (_gmailBll.Update(model.ToObject()))
+                    if (_gmailBll.Update(model))
                         return Json(new { Status = 1, Message = MessageAction.MessageUpdateSuccess },
                             JsonRequestBehavior.AllowGet);
                 }

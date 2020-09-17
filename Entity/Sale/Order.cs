@@ -54,8 +54,9 @@ namespace Entity.Sale
         public byte TypeMoney { get; set; }
         public decimal ShipMoney { get; set; }
         public decimal TotalPrince { get; set; }
+        public decimal? RateMoney { get; set; }
+        public string TrackingCode { get; set; }
+        public DateTime StartDate { get; set; }
 
-        public decimal RateMoney { get; set; }
-        public  decimal TotalPriceVND { get; set; }
     }
 }

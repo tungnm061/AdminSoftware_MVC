@@ -113,10 +113,9 @@ $(document).ready(function () {
             var sheet = e.workbook.sheets[0];
             for (var rowIndex = 1; rowIndex < sheet.rows.length; rowIndex++) {
                 var row = sheet.rows[rowIndex];
-                row.cells[1].format = "dd/MM/yyyy";
-                row.cells[6].format = "dd/MM/yyyy";
-                row.cells[4].format = "###,###,###";
-                row.cells[3].format = "###,###,###";
+                //row.cells[1].format = "dd/MM/yyyy";
+                //row.cells[4].format = "dd/MM/yyyy";
+                //row.cells[2].format = "###,###,###";
                 if (row.type == "footer") {
                     for (var ci = 0; ci < row.cells.length; ci++) {
                         var cell = row.cells[ci];
@@ -156,14 +155,12 @@ $(document).ready(function () {
                     fields: {
                         CreateDate: { type: 'date' },
                         FinishDate: { type: 'date' },
-                        TotalPrince: { type: 'number' },
-                        TotalPriceVND: { type: 'number' }
+                        TotalPrince: { type: 'number' }
                     }
                 }
             },
             aggregate: [
                 { field: "TotalPrince", aggregate: "sum" },
-                { field: "TotalPriceVND", aggregate: "sum" },
                 { field: "OrderCode", aggregate: "count" }
 
             ],
@@ -192,12 +189,6 @@ $(document).ready(function () {
                 footerTemplate: "#=count#"
             },
             {
-                field: "CreateDate",
-                title: "Ngày tạo đơn",
-                width: 120,
-                format: "{0:dd/MM/yyyy}"
-            },
-            {
                 field: "TotalPrince",
                 title: "Tổng tiền",
                 width: 90,
@@ -205,34 +196,32 @@ $(document).ready(function () {
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n2\") : 0 #" + " $"
             },
             {
-                field: "RateMoney",
-                title: "Tỷ giá",
-                width: 90,
-                format: '{0:n3}'
-            },
-            {
-                field: "TotalPriceVND",
-                title: "Tổng tiền VND",
-                width: 120,
-                format: '{0:n0}',
-                footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #" +" VND"
-
-            },
-            {
                 field: "GmailId",
                 title: "Gmail",
                 width: 150,
                 values : gmails
             },
-            //{
-            //    field: "Description",
-            //    title: "Mô tả",
-            //    width: 180
-            //},
+            {
+                field: "FinishDate",
+                title: "Ngày bắt đầu",
+                width: 150,
+                format: "{0:dd/MM/yyyy}"
+            },
             {
                 field: "FinishDate",
                 title: "Ngày hoàn thành",
                 width: 150,
+                format: "{0:dd/MM/yyyy}"
+            },
+            {
+                field: "Description",
+                title: "Ghi chú",
+                width: 180
+            },
+            {
+                field: "CreateDate",
+                title: "Ngày tạo",
+                width: 120,
                 format: "{0:dd/MM/yyyy}"
             },
             {
@@ -241,7 +230,8 @@ $(document).ready(function () {
                 width: 120,
                 values: statusOrder
 
-            }
+            },
+
         ],
         dataBinding: function () {
             record = (this.dataSource.page() - 1) * this.dataSource.pageSize();

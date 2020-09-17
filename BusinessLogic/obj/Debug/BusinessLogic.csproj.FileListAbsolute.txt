@@ -171,3 +171,5 @@ D:\TungNM\TEST\AdminSoftware_MVC\BusinessLogic\bin\Debug\System.Web.WebPages.Dep
 D:\TungNM\TEST\AdminSoftware_MVC\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 D:\TungNM\TEST\AdminSoftware_MVC\BusinessLogic\obj\Debug\BusinessLogic.dll
 D:\TungNM\TEST\AdminSoftware_MVC\BusinessLogic\obj\Debug\BusinessLogic.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.xml

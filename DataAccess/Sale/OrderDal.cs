@@ -85,6 +85,9 @@ namespace DataAccess.Sale
                 param.Add("@ShipMoney", obj.ShipMoney);
                 param.Add("@FinishDate", obj.FinishDate);
                 param.Add("@RateMoney", obj.RateMoney);
+                param.Add("@RateMoney", obj.RateMoney);
+                param.Add("@StartDate", obj.StartDate);
+                param.Add("@TrackingCode", obj.TrackingCode);
 
                 if (UnitOfWork.ProcedureExecute("[sale].[Order_Insert]", param))
                     return param.Get<long>("@OrderId");
@@ -125,6 +128,8 @@ namespace DataAccess.Sale
                 param.Add("@ShipMoney", obj.ShipMoney);
                 param.Add("@FinishDate", obj.FinishDate);
                 param.Add("@RateMoney", obj.RateMoney);
+                param.Add("@StartDate", obj.StartDate);
+                param.Add("@TrackingCode", obj.TrackingCode);
                 return UnitOfWork.ProcedureExecute("[sale].[Order_Update]", param);
             }
             catch (Exception ex)

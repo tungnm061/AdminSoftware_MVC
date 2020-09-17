@@ -5,6 +5,8 @@
     });
 
     $("#FinishDate").data("kendoDatePicker").enable(false);
+    $("#StartDate").data("kendoDatePicker").enable(true);
+
 
     $("#ShipMoney").kendoNumericTextBox({
         format: "{0:n2}",
@@ -18,13 +20,13 @@
         step: 1
     });
     
-    $('#CountryId').kendoDropDownList({
-        dataTextField: "text",
-        dataValueField: "value",
-        dataSource: countries,
-        optionLabel: "Chọn quốc gia",
-        filter: 'contains'
-    });
+    //$('#CountryId').kendoDropDownList({
+    //    dataTextField: "text",
+    //    dataValueField: "value",
+    //    dataSource: countries,
+    //    optionLabel: "Chọn quốc gia",
+    //    filter: 'contains'
+    //});
 
     $('#GmailId').kendoDropDownList({
         dataTextField: "text",
@@ -194,25 +196,27 @@
         var model = {
             OrderId: orderId,
             OrderCode: $('#OrderCode').val(),
-            FirstName: $('#FirstName').val(),
-            LastName: $('#LastName').val(),
-            Email: $('#Email').val(),
-            Phone: $('#Phone').val(),
-            City: $('#City').val(),
-            Address1: $('#Address1').val(),
-            Address2: $('#Address2').val(),
-            Region: $('#Region').val(),
-            PostalZipCode: $('#PostalZipCode').val(),
+            TrackingCode: $('#TrackingCode').val(),
+            //FirstName: $('#FirstName').val(),
+            //LastName: $('#LastName').val(),
+            //Email: $('#Email').val(),
+            //Phone: $('#Phone').val(),
+            //City: $('#City').val(),
+            //Address1: $('#Address1').val(),
+            //Address2: $('#Address2').val(),
+            //Region: $('#Region').val(),
+            //PostalZipCode: $('#PostalZipCode').val(),
             GmailId: $('#GmailId').data('kendoDropDownList').value(),
             TypeMoney: 1,
             ShipMoney: $('#ShipMoney').data('kendoNumericTextBox').value(),
             ProducerId: $('#ProducerId').data('kendoDropDownList').value(),
-            CountryId: $('#CountryId').data('kendoDropDownList').value(),
+            //CountryId: $('#CountryId').data('kendoDropDownList').value(),
             Description: $('#Description').val(),
             FinishDate: $('#FinishDate').data('kendoDatePicker').value(),
+            StartDate: $('#StartDate').data('kendoDatePicker').value(),
             Status: $('#Status').data('kendoDropDownList').value(),
-            IsActive: true,
-            RateMoney: $('#RateMoney').data('kendoNumericTextBox').value(),
+            IsActive: true
+            //RateMoney: $('#RateMoney').data('kendoNumericTextBox').value(),
         }
 
         $('#processing').show();

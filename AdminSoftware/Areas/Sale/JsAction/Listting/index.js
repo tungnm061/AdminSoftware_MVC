@@ -78,7 +78,7 @@ $(document).ready(function () {
     });
 
     $('#btnCreate').click(function () {
-        InitWindowModal('/sale/Listting/Listting', false, 600, 305, 'Thêm mới nhà sản xuất', false);
+        InitWindowModal('/sale/Listting/Listting', false, 600, 395, 'Thêm mới listting', false);
     });
 
     $('#btnEdit').click(function () {
@@ -94,7 +94,7 @@ $(document).ready(function () {
             });
             return;
         }
-        InitWindowModal('/sale/Listting/Listting?id=' + id, false, 600, 305, 'Cập nhật nhà sản xuất', false);
+        InitWindowModal('/sale/Listting/Listting?id=' + id, false, 600, 395, 'Cập nhật listting', false);
     });
 
     $('#btnDelete').click(function () {

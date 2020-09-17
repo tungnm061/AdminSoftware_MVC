@@ -100,8 +100,8 @@ namespace AdminSoftware.Areas.Sale.Controllers
                     objDetail.FinishOrder = orders.Where(x => x.Status == 2).ToList().Count();
                     objDetail.CancelOrder = orders.Where(x => x.Status == 3).ToList().Count();
                     listDetail.Add(objDetail);
-                    obj.TotalOrderPrice += orders.Where(x => x.Status != 3).ToList().Sum(x => x.TotalPriceVND);
-                    obj.FinishOrderPrice += orders.Where(x => x.Status == 2).ToList().Sum(x => x.TotalPriceVND);
+                    obj.TotalOrderPrice += orders.Where(x => x.Status != 3).ToList().Sum(x => x.TotalPrince);
+                    obj.FinishOrderPrice += orders.Where(x => x.Status == 2).ToList().Sum(x => x.TotalPrince);
                     obj.TotalOrder += objDetail.TotalOrder;
                     obj.TotalFinish += objDetail.FinishOrder;
                     obj.TotalCancel += objDetail.CancelOrder;

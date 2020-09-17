@@ -12,10 +12,42 @@
         </div>
         <div class="row">
             <div class="col-md-3">
-                <label>Nhân viên (*)</label>
+                <label>Nhân viên tạo</label>
             </div>
             <div class="col-md-9">
-                <input type="text" class="form-control" value="@Model.UserId" id="UserId" />
+                <input type="text" class="form-control" value="@Model.CreateUser" id="CreateUser" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Nhân viên gỡ</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.RemoveUser" id="RemoveUser" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>NV List hàng</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.ListtingUser" id="ListtingUser" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>NV Order</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.OrderUser" id="OrderUser" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Đường dẫn</label>
+            </div>
+            <div class="col-md-9">
+                <textarea id="LinkUrl" style="height: 50px !important;min-height: 30px !important;" class="form-control" rows="1">@Model.LinkUrl</textarea>
             </div>
         </div>
         <div class="row">
@@ -23,7 +55,7 @@
                 <label>Ghi chú</label>
             </div>
             <div class="col-md-9">
-                <textarea id="Description" class="form-control" rows="2">@Model.Description</textarea>
+                <textarea id="Description" style="height: 50px !important;min-height: 30px !important;" class="form-control" rows="2">@Model.Description</textarea>
             </div>
         </div>
     </div>

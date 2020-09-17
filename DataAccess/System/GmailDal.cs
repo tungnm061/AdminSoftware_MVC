@@ -19,11 +19,15 @@ namespace DataAccess.System
                 var param = new DynamicParameters();
                 param.Add("@Id", gmail.Id, DbType.Int32, ParameterDirection.InputOutput);
                 param.Add("@FullName", gmail.FullName);
-                param.Add("@UserId", gmail.UserId);
                 param.Add("@CreateDate", gmail.CreateDate);
                 param.Add("@CreateBy", gmail.CreateBy);
                 param.Add("@IsActive", gmail.IsActive);
                 param.Add("@Description", gmail.Description);
+                param.Add("@LinkUrl", gmail.LinkUrl);
+                param.Add("@CreateUser", gmail.CreateUser);
+                param.Add("@ListtingUser", gmail.ListtingUser);
+                param.Add("@RemoveUser", gmail.RemoveUser);
+                param.Add("@OrderUser", gmail.OrderUser);
                 if (UnitOfWork.ProcedureExecute("[dbo].[Gmail_Insert]", param))
                     return param.Get<int>("@Id");
                 return 0;
@@ -42,11 +46,15 @@ namespace DataAccess.System
                 var param = new DynamicParameters();
                 param.Add("@Id", gmail.Id);
                 param.Add("@FullName", gmail.FullName);
-                param.Add("@UserId", gmail.UserId);
                 param.Add("@UpdateDate", gmail.UpdateDate);
                 param.Add("@UpdateBy", gmail.UpdateBy);
                 param.Add("@IsActive", gmail.IsActive);
                 param.Add("@Description", gmail.Description);
+                param.Add("@LinkUrl", gmail.LinkUrl);
+                param.Add("@CreateUser", gmail.CreateUser);
+                param.Add("@ListtingUser", gmail.ListtingUser);
+                param.Add("@RemoveUser", gmail.RemoveUser);
+                param.Add("@OrderUser", gmail.OrderUser);
 
                 return UnitOfWork.ProcedureExecute("[dbo].[Gmail_Update]", param);
             }

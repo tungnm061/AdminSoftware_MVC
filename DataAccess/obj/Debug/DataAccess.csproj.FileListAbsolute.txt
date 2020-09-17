@@ -159,3 +159,5 @@ D:\TungNM\TEST\AdminSoftware_MVC\DataAccess\bin\Debug\System.Web.WebPages.Deploy
 D:\TungNM\TEST\AdminSoftware_MVC\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 D:\TungNM\TEST\AdminSoftware_MVC\DataAccess\obj\Debug\DataAccess.dll
 D:\TungNM\TEST\AdminSoftware_MVC\DataAccess\obj\Debug\DataAccess.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.xml

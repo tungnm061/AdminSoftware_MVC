@@ -70,7 +70,7 @@ $(document).ready(function () {
     });
 
     $('#btnCreate').on("click", function () {
-        InitWindowModal('/system/Gmail/Gmail?id=0', false, 500, 280, "Thêm mới gmail", false);
+        InitWindowModal('/system/Gmail/Gmail?id=0', false, 500, 385, "Thêm mới gmail", false);
 
     });
 
@@ -85,7 +85,7 @@ $(document).ready(function () {
             });
             return false;
         }
-        InitWindowModal('/system/Gmail/Gmail?id=' + id, false, 500, 280, "Cập nhật gmail", false);
+        InitWindowModal('/system/Gmail/Gmail?id=' + id, false, 500, 385, "Cập nhật gmail", false);
         return true;
     });
 
@@ -118,23 +118,46 @@ $(document).ready(function () {
             {
                 title: "STT",
                 template: "#= ++record #",
-                width: 60
+                width: 50
             },
             {
                 field: "FullName",
                 title: "Tài khoản",
-                width: 250
+                width: 200
             },
             {
-                field: "UserId",
-                title: "Nhân viên",
+                field: "CreateUser",
+                title: "NV tạo",
                 width: 120,
                 values: users
             },
             {
+                field: "RemoveUser",
+                title: "NV gỡ",
+                width: 120,
+                values: users
+            },
+            {
+                field: "ListtingUser",
+                title: "NV Listting",
+                width: 120,
+                values: users
+            },
+            {
+                field: "OrderUser",
+                title: "NV Order",
+                width: 120,
+                values: users
+            },
+            {
+                field: "LinkUrl",
+                title: "Đường dẫn",
+                width: 180
+            },
+            {
                 field: "Description",
                 title: "Ghi chú",
-                minwidth: 250
+                width: 180
             },
             {
                 field: "CreateDate",
@@ -143,7 +166,7 @@ $(document).ready(function () {
                 format: "{0:dd/MM/yyyy}"
             }
         ],
-        dataoning: function () {
+        dataBinding: function () {
             record = (this.dataSource.page() - 1) * this.dataSource.pageSize();
         }
     });

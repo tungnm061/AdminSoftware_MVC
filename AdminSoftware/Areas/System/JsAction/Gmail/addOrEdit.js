@@ -1,6 +1,30 @@
 ﻿$(document).ready(function () {
 
-    $('#UserId').kendoDropDownList({
+    $('#CreateUser').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: users,
+        optionLabel: "Chọn nhân viên",
+        filter: 'contains'
+    });
+
+    $('#RemoveUser').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: users,
+        optionLabel: "Chọn nhân viên",
+        filter: 'contains'
+    });
+
+    $('#ListtingUser').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: users,
+        optionLabel: "Chọn nhân viên",
+        filter: 'contains'
+    });
+
+    $('#OrderUser').kendoDropDownList({
         dataTextField: "text",
         dataValueField: "value",
         dataSource: users,
@@ -12,7 +36,11 @@
         var model = {
             FullName: $('#FullName').val(),
             Description: $('#Description').val(),
-            UserId: $('#UserId').data('kendoDropDownList').value(),
+            LinkUrl: $('#LinkUrl').val(),
+            OrderUser: $('#OrderUser').data('kendoDropDownList').value(),
+            CreateUser: $('#CreateUser').data('kendoDropDownList').value(),
+            RemoveUser: $('#RemoveUser').data('kendoDropDownList').value(),
+            ListtingUser: $('#ListtingUser').data('kendoDropDownList').value(),
             Id: id
         }
         if (model.FullName == null || model.FullName.trim() === "") {
