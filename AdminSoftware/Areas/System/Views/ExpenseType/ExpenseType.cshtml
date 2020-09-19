@@ -1,0 +1,40 @@
+﻿@model Entity.System.ExpenseType
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Tên giao dịch (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.ExpenseName" id="ExpenseName" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ghi chú</label>
+            </div>
+            <div class="col-md-9">
+                <textarea id="Description" class="form-control" rows="2">@Model.Description</textarea>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var id = '@Model.ExpenseId';
+</script>
+<script src="~/Areas/System/JsAction/ExpenseType/addOrEdit.js"></script>
+
+
