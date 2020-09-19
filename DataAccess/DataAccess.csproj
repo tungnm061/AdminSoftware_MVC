@@ -76,7 +76,6 @@
     <Compile Include="Hrm\InsuranceProcessDal.cs" />
     <Compile Include="Hrm\JobChangeDal.cs" />
     <Compile Include="Hrm\MaternityDal.cs" />
-    <Compile Include="Hrm\PostDal.cs" />
     <Compile Include="Hrm\TimeSheetDal.cs" />
     <Compile Include="Hrm\TimeSheetOtDal.cs" />
     <Compile Include="Hrm\MedicalDal.cs" />
@@ -98,19 +97,17 @@
     <Compile Include="Sale\ListtingDal.cs" />
     <Compile Include="Sale\OrderDal.cs" />
     <Compile Include="Sale\OrderDetailDal.cs" />
+    <Compile Include="Sale\PoPaymentDal.cs" />
     <Compile Include="Sale\ProducerDal.cs" />
     <Compile Include="Sale\ProductDal.cs" />
     <Compile Include="System\AccountPrintifyDal.cs" />
     <Compile Include="System\AddressDal.cs" />
     <Compile Include="System\AutoNumberDal.cs" />
-    <Compile Include="System\ChatDal.cs" />
-    <Compile Include="System\CategoryKpiDal.cs" />
     <Compile Include="System\CompanyBankDal.cs" />
     <Compile Include="System\CountryDal.cs" />
     <Compile Include="System\ExpenseTypeDal.cs" />
     <Compile Include="System\GmailDal.cs" />
     <Compile Include="System\ModuleGroupDal.cs" />
-    <Compile Include="System\NotificationDal.cs" />
     <Compile Include="System\RightDal.cs" />
     <Compile Include="System\SkuDal.cs" />
     <Compile Include="System\UserDal.cs" />
@@ -130,9 +127,7 @@
       <Name>Entity</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Hrm\Kpi\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

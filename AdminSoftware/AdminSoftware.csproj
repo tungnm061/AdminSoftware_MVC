@@ -290,6 +290,7 @@
     <Compile Include="Areas\Sale\Controllers\ListtingController.cs" />
     <Compile Include="Areas\Sale\Controllers\OrderController.cs" />
     <Compile Include="Areas\Sale\Controllers\OrderStatisticalController.cs" />
+    <Compile Include="Areas\Sale\Controllers\PoPaymentController.cs" />
     <Compile Include="Areas\Sale\Controllers\ProducerController.cs" />
     <Compile Include="Areas\Sale\Controllers\ProductController.cs" />
     <Compile Include="Areas\Sale\Models\CustomerModel.cs" />
@@ -302,6 +303,7 @@
     <Compile Include="Areas\System\Controllers\AccountController.cs" />
     <Compile Include="Areas\System\Controllers\AccountPrintifyController.cs" />
     <Compile Include="Areas\System\Controllers\CompanyBankController.cs" />
+    <Compile Include="Areas\System\Controllers\ExpenseTypeController.cs" />
     <Compile Include="Areas\System\Controllers\GmailController.cs" />
     <Compile Include="Areas\System\Controllers\HomeController.cs" />
     <Compile Include="Areas\System\Controllers\UserGroupController.cs" />
@@ -478,6 +480,8 @@
     <Content Include="Areas\Sale\JsAction\Order\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Order\index.js" />
     <Content Include="Areas\Sale\JsAction\Order\orderDetail.js" />
+    <Content Include="Areas\Sale\JsAction\PoPayment\addOrEdit.js" />
+    <Content Include="Areas\Sale\JsAction\PoPayment\index.js" />
     <Content Include="Areas\Sale\JsAction\Producer\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Producer\index.js" />
     <Content Include="Areas\Sale\JsAction\Product\addOrEdit.js" />
@@ -488,6 +492,8 @@
     <Content Include="Areas\System\JsAction\Account\index.js" />
     <Content Include="Areas\System\JsAction\CompanyBank\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\CompanyBank\index.js" />
+    <Content Include="Areas\System\JsAction\ExpenseType\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\ExpenseType\index.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEditSku.js" />
     <Content Include="Areas\System\JsAction\Gmail\index.js" />
@@ -895,6 +901,10 @@
     <Content Include="Areas\Sale\Views\Listting\ViewExcel.cshtml" />
     <Content Include="Areas\System\Views\CompanyBank\Index.cshtml" />
     <Content Include="Areas\System\Views\CompanyBank\CompanyBank.cshtml" />
+    <Content Include="Areas\System\Views\ExpenseType\Index.cshtml" />
+    <Content Include="Areas\System\Views\ExpenseType\ExpenseType.cshtml" />
+    <Content Include="Areas\Sale\Views\PoPayment\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\PoPayment\PoPayment.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

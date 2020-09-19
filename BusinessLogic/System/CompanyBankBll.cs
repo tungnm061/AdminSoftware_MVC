@@ -1,4 +1,5 @@
-﻿using DataAccess.System;
+﻿using System;
+using DataAccess.System;
 using System.Collections.Generic;
 using Core.Singleton;
 using Entity.System;
@@ -14,9 +15,9 @@ namespace BusinessLogic.System
             _companyBankDal = SingletonIpl.GetInstance<CompanyBankDal>();
         }
 
-        public List<CompanyBank> GetCompanyBanks()
+        public List<CompanyBank> GetCompanyBanks(bool? isActive, DateTime? fromDate, DateTime? toDate, int? expenseId)
         {
-            return _companyBankDal.GetCompanyBanks();
+            return _companyBankDal.GetCompanyBanks(isActive, fromDate, toDate, expenseId);
         }
 
         public CompanyBank GetCompanyBank(int CompanyBankId)

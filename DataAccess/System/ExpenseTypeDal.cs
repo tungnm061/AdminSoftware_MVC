@@ -18,13 +18,10 @@ namespace DataAccess.System
             {
                 var param = new DynamicParameters();
                 param.Add("@ExpenseId", obj.ExpenseId, DbType.Int32, ParameterDirection.InputOutput);
-                param.Add("@UserName", obj.ExpenseName);
-                param.Add("@CreateDate", obj.CreateDate);
-                param.Add("@CreateBy", obj.CreateBy);
-                param.Add("@IsActive", obj.IsActive);
+                param.Add("@ExpenseName", obj.ExpenseName);
                 param.Add("@Description", obj.Description);
                 if (UnitOfWork.ProcedureExecute("[dbo].[ExpenseType_Insert]", param))
-                    return param.Get<int>("@Id");
+                    return param.Get<int>("@ExpenseId");
                 return 0;
             }
             catch (Exception ex)
@@ -39,11 +36,8 @@ namespace DataAccess.System
             try
             {
                 var param = new DynamicParameters();
-                param.Add("@Id", obj.ExpenseId);
-                param.Add("@UserName", obj.ExpenseName);
-                param.Add("@UpdateDate", obj.UpdateDate);
-                param.Add("@UpdateBy", obj.UpdateBy);
-                param.Add("@IsActive", obj.IsActive);
+                param.Add("@ExpenseId", obj.ExpenseId);
+                param.Add("@ExpenseName", obj.ExpenseName);
                 param.Add("@Description", obj.Description);
                 return UnitOfWork.ProcedureExecute("[dbo].[ExpenseType_Update]", param);
             }
@@ -54,12 +48,12 @@ namespace DataAccess.System
             }
         }
 
-        public List<ExpenseType> GetExpenseTypes()
+        public List<ExpenseType> GetExpenseTypes(bool? isActive)
         {
             try
             {
                 return
-                    UnitOfWork.Procedure<ExpenseType>("[dbo].[ExpenseType_GetAll]", new { })
+                    UnitOfWork.Procedure<ExpenseType>("[dbo].[ExpenseType_GetAll]", new { IsActive = isActive })
                         .ToList();
             }
             catch (Exception ex)
@@ -74,7 +68,7 @@ namespace DataAccess.System
             try
             {
                 return
-                    UnitOfWork.Procedure<ExpenseType>("[dbo].[ExpenseType_GetById]", new { Id = id })
+                    UnitOfWork.Procedure<ExpenseType>("[dbo].[ExpenseType_GetById]", new { ExpenseId = id })
                         .FirstOrDefault();
             }
             catch (Exception ex)
@@ -88,7 +82,7 @@ namespace DataAccess.System
         {
             try
             {
-                return UnitOfWork.ProcedureExecute("[dbo].[ExpenseType_Delete]", new { Id = id });
+                return UnitOfWork.ProcedureExecute("[dbo].[ExpenseType_Delete]", new { ExpenseId = id });
             }
             catch (Exception ex)
             {

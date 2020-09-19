@@ -20,9 +20,10 @@ namespace AdminSoftware.Areas.System.Controllers
 
         private readonly CompanyBankBll _companyBankBll;
         private readonly UserBll _userBll;
-
+        private readonly ExpenseTypeBll _expenseTypeBll;
         public CompanyBankController()
         {
+            _expenseTypeBll = SingletonIpl.GetInstance<ExpenseTypeBll>();
             _userBll = SingletonIpl.GetInstance<UserBll>();
             _companyBankBll = SingletonIpl.GetInstance<CompanyBankBll>();
         }
@@ -32,15 +33,27 @@ namespace AdminSoftware.Areas.System.Controllers
         public ActionResult Index()
         {
             var users = _userBll.GetUsers(null);
+            var expenseTypes = _expenseTypeBll.GetExpenseTypes(true);
             ViewBag.Users = users.Select(x => new KendoForeignKeyModel { value = x.UserId.ToString(), text = x.FullName });
+            ViewBag.ExpenseTypes = expenseTypes.Select(x => new KendoForeignKeyModel { value = x.ExpenseId.ToString(), text = x.ExpenseName });
+
+            ViewBag.TypeMoneys = from TypeMoneyEnum s in Enum.GetValues(typeof(TypeMoneyEnum))
+                let singleOrDefault =
+                    (DescriptionAttribute)
+                    s.GetType()
+                        .GetField(s.ToString())
+                        .GetCustomAttributes(typeof(DescriptionAttribute), false)
+                        .SingleOrDefault()
+                where singleOrDefault != null
+                select new KendoForeignKeyModel { value = ((byte)s).ToString(), text = singleOrDefault.Description };
 
             return View();
         }
 
-        public ActionResult CompanyBanks()
+        public ActionResult CompanyBanks(DateTime? fromDate,DateTime? toDate,int? expenseId)
         {
-            var CompanyBanks = _companyBankBll.GetCompanyBanks();
-            return Json(CompanyBanks, JsonRequestBehavior.AllowGet);
+            var listObj = _companyBankBll.GetCompanyBanks(true, fromDate,toDate,expenseId);
+            return Json(listObj, JsonRequestBehavior.AllowGet);
         }
 
         public ActionResult CompanyBank(int id)
@@ -50,7 +63,10 @@ namespace AdminSoftware.Areas.System.Controllers
                 return PartialView(new CompanyBank
                 {
                     CompanyBankId = 0,
-                    IsActive = true
+                    IsActive = true,
+                    TypeMonney = 1,
+                    TradingBy = UserLogin.UserId,
+                    TradingDate = DateTime.Now
                 });
             }
             return PartialView(_companyBankBll.GetCompanyBank(id));

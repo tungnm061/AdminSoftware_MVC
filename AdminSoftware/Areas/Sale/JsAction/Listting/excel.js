@@ -12,6 +12,8 @@
             contentType: false,
             processData: false,
             success: function (response) {
+                document.getElementById("attachment").value = "";
+                document.getElementById('btnAttachment').value = "File";
                 $('#processing').hide();
                 var type;
                 if (response.Status === 1)
@@ -32,6 +34,8 @@
                 });
             },
             error: function (response) {
+                document.getElementById("attachment").value = "";
+                document.getElementById('btnAttachment').value = "File";
                 $('#processing').hide();
                 $.msgBox({
                     title: "Hệ thống",

@@ -48,38 +48,46 @@
                 footerTemplate: "Tổng hợp"
             },
             {
+                field: "LinkUrl",
+                title: "Đường dẫn",
+                width: 160,
+                locked: true,
+                template: "<a href=\"#=LinkUrl#\" target=\"_blank\">#:LinkUrl#</a>"
+
+            },
+            {
                 field: "TotalOrder",
-                title: "Tổng đơn",
-                width: 100,
+                title: "Total",
+                width: 80,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #"
             },
             {
                 field: "TotalFinish",
-                title: "Đơn HT",
-                width: 90,
+                title: "Finish",
+                width: 80,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #" 
             },
             {
                 field: "TotalCancel",
-                title: "Đơn hủy",
-                width: 100,
+                title: "Cancel",
+                width: 90,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #"
             },
             {
                 field: "TotalOrderPrice",
                 title: "Tổng tiền",
-                width: 120,
+                width: 100,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n2\") : 0 #",
-                format: '{0:n0}'
+                format: '{0:n2}'
             },
             {
                 field: "FinishOrderPrice",
                 title: "Đã HT",
-                width: 120,
+                width: 90,
                 format: '{0:n0}',
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n2\") : 0 #" 

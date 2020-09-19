@@ -15,12 +15,10 @@ namespace AdminSoftware.Controllers
         private readonly DepartmentBll _departmentBll;
         private readonly EmployeeBll _employeeBll;
         private readonly ModuleGroupBll _moduleGroupBll;
-        private readonly NotificationBll _notificationBll;
 
         public DashboardController()
         {
             _moduleGroupBll = SingletonIpl.GetInstance<ModuleGroupBll>();
-            _notificationBll = SingletonIpl.GetInstance<NotificationBll>();
             _employeeBll = SingletonIpl.GetInstance<EmployeeBll>();
             _departmentBll = SingletonIpl.GetInstance<DepartmentBll>();
         }
@@ -69,8 +67,7 @@ namespace AdminSoftware.Controllers
 
         public JsonResult Notifications()
         {
-            var notifications = _notificationBll.GetNotifications(UserLogin.UserId);
-            return Json(notifications, JsonRequestBehavior.AllowGet);
+            return Json(null, JsonRequestBehavior.AllowGet);
         }
     }
 }

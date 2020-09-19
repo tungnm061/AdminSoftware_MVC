@@ -9,11 +9,11 @@ namespace Entity.System
     public class CompanyBank
     {
         public  long CompanyBankId { get; set; }
-        public  int ExpenseType { get; set; }
+        public  int ExpenseId { get; set; }
 
         public byte TypeMonney { get; set; }
 
-        public decimal MoneyNumber { get; set; } 
+        public decimal MoneyNumber { get; set; }
 
         public DateTime TradingDate { get; set; }
 
@@ -32,5 +32,31 @@ namespace Entity.System
         public bool IsActive { get; set; }
 
         public string Description { get; set; }
+        
+        public  string TradingMonth { get; set; }
+
+        public decimal MoneyNumberVND
+        {
+            get
+            {
+                if (TypeMonney == 1)
+                {
+                    return 0;
+                }
+                return MoneyNumber;
+            }
+        }
+
+        public decimal MoneyNumberUSD
+        {
+            get
+            {
+                if (TypeMonney == 1)
+                {
+                    return MoneyNumber;
+                }
+                return 0;
+            }
+        }
     }
 }

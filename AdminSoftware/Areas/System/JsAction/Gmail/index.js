@@ -126,6 +126,13 @@ $(document).ready(function () {
                 width: 200
             },
             {
+                field: "LinkUrl",
+                title: "Đường dẫn",
+                width: 160,
+                template: "<a href=\"#=LinkUrl#\" target=\"_blank\">#:LinkUrl#</a>"
+
+            },
+            {
                 field: "CreateUser",
                 title: "NV tạo",
                 width: 120,

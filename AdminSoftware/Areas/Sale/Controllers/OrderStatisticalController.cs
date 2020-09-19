@@ -89,6 +89,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
             {
                 var obj = new OrderStatistical();
                 obj.GmailId = item.Id;
+                obj.LinkUrl = item.LinkUrl;
                 var listDetail = new List<StatisticalDetail>();
                 for (var start = fromDate; start <= toDate; start = start.AddDays(1))
                 {

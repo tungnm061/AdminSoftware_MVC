@@ -81,6 +81,10 @@ $(document).ready(function () {
         InitWindowModal('/sale/Listting/Listting', false, 600, 395, 'Thêm mới listting', false);
     });
 
+    $('#btnExcel').click(function () {
+        InitWindowModal('/sale/Listting/ViewExcel', false, 550, 180, 'Import file Excel', false);
+    });
+
     $('#btnEdit').click(function () {
         var id = GetGridRowSelectedKeyValue('#grdMain');
         if (id == null) {

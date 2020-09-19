@@ -9,6 +9,7 @@ namespace Entity.Sale
    public class OrderStatistical
     {
         public int GmailId { get; set; }
+        public string LinkUrl { get; set; }
 
         public List<StatisticalDetail> StatisticalDetails { get; set; }
 

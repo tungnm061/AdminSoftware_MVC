@@ -1,1 +1,78 @@
-﻿
+﻿@model Entity.System.CompanyBank
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Người giao dịch(*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.TradingBy" id="TradingBy" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ngày giao dịch(*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.TradingDate.ToString("dd/MM/yyyy")" id="TradingDate" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Loại giao dịch(*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.ExpenseId" id="ExpenseId" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Mô tả</label>
+            </div>
+            <div class="col-md-9">
+                <textarea id="ExpenseText" class="form-control" rows="2">@Model.ExpenseText</textarea>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Số tiền(*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.MoneyNumber" id="MoneyNumber" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Tiền tệ(*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.TypeMonney" id="TypeMonney" />
+            </div>
+        </div>
+        @*<div class="row">
+            <div class="col-md-3">
+                <label>Ghi chú</label>
+            </div>
+            <div class="col-md-9">
+                <textarea id="Description" class="form-control" rows="2">@Model.Description</textarea>
+            </div>
+        </div>*@
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var id = '@Model.CompanyBankId';
+</script>
+<script src="~/Areas/System/JsAction/CompanyBank/addOrEdit.js"></script>

@@ -113,9 +113,10 @@ $(document).ready(function () {
             var sheet = e.workbook.sheets[0];
             for (var rowIndex = 1; rowIndex < sheet.rows.length; rowIndex++) {
                 var row = sheet.rows[rowIndex];
-                //row.cells[1].format = "dd/MM/yyyy";
-                //row.cells[4].format = "dd/MM/yyyy";
-                //row.cells[2].format = "###,###,###";
+                row.cells[3].format = "dd/MM/yyyy";
+                row.cells[4].format = "dd/MM/yyyy";
+                row.cells[6].format = "dd/MM/yyyy";
+                row.cells[1].format = "###,###,###";
                 if (row.type == "footer") {
                     for (var ci = 0; ci < row.cells.length; ci++) {
                         var cell = row.cells[ci];
@@ -155,7 +156,8 @@ $(document).ready(function () {
                     fields: {
                         CreateDate: { type: 'date' },
                         FinishDate: { type: 'date' },
-                        TotalPrince: { type: 'number' }
+                        TotalPrince: { type: 'number' },
+                        StartDate: { type: 'date' }
                     }
                 }
             },
@@ -202,7 +204,7 @@ $(document).ready(function () {
                 values : gmails
             },
             {
-                field: "FinishDate",
+                field: "StartDate",
                 title: "Ngày bắt đầu",
                 width: 150,
                 format: "{0:dd/MM/yyyy}"

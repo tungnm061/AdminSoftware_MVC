@@ -1,33 +1,54 @@
 ﻿$(document).ready(function () {
+    $('#ExpenseId').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: expenseTypes,
+        optionLabel: "Chọn loại giao dịch",
+        filter: 'contains'
+    });
+
+    $('#TypeMonney').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: typeMoneys,
+        filter: 'contains'
+    });
+
+    $('#TradingBy').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: users,
+        filter: 'contains'
+    });
+
+    $("#TradingDate").kendoDatePicker({
+        dateInput: true,
+        format: "dd/MM/yyyy"
+    });
+
+    $("#MoneyNumber").kendoNumericTextBox({
+        format: "{0:n2}",
+        step: 1
+    });
+
+
     $('#btnSave').click(function () {
         var model = {
-            UserName: $('#UserName').val(),
-            Description: $('#Description').val(),
-            Token: $('#Token').val(),
-            Id: id
+            CompanyBankId: id,
+            ExpenseId: $('#ExpenseId').data("kendoDropDownList").value(),
+            //Description: $('#Description').val(),
+            TypeMonney: $('#TypeMonney').data("kendoDropDownList").value(),
+            MoneyNumber: $('#MoneyNumber').data("kendoNumericTextBox").value(),
+            TradingDate: $('#TradingDate').data("kendoDatePicker").value(),
+            TradingBy: $('#TradingBy').data("kendoDropDownList").value(),
+            ExpenseText: $('#ExpenseText').val()
+
         }
-        if (model.UserName == null || model.UserName.trim() === "") {
-            $.msgBox({
-                title: "Hệ thống",
-                type: "error",
-                content: "Bạn chưa nhập tài khoản!",
-                buttons: [{ value: "Đồng ý" }]
-            });
-            return;
-        }
-        if (model.Token == null || model.Token.trim() === "") {
-            $.msgBox({
-                title: "Hệ thống",
-                type: "error",
-                content: "Bạn chưa nhập token!",
-                buttons: [{ value: "Đồng ý" }]
-            });
-            return;
-        }
+
         $('#processing').show();
         $.ajax({
             type: "POST",
-            url: '/system/AccountPrintify/Save',
+            url: '/system/CompanyBank/Save',
             data: JSON.stringify({ model: model }),
             contentType: 'application/json; charset=utf-8',
             success: function (response) {

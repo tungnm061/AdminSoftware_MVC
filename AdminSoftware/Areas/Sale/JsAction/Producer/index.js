@@ -38,11 +38,11 @@ $(document).ready(function () {
                 template: "#= ++record #",
                 width: 60
             },
-              {
-                  field: "ProducerCode",
-                  title: "Mã nhà sản xuất",
-                  width: 140
-              },
+            {
+                field: "ProducerCode",
+                title: "Mã nhà sản xuất",
+                width: 140
+            },
             {
                 field: "ProducerName",
                 title: "Tên nhà sản xuất",
@@ -54,12 +54,12 @@ $(document).ready(function () {
                 width: 120,
                 format: "{0:dd/MM/yyyy}"
             },
-         {
-             field: "CreateBy",
-             title: "Người tạo",
-             width: 160,
-             values: employees
-         },
+            {
+                field: "CreateBy",
+                title: "Người tạo",
+                width: 160,
+                values: employees
+            },
             {
                 field: "Description",
                 title: "Ghi Chú",

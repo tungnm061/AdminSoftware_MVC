@@ -11,5 +11,7 @@
         public const string DataAlreadyExists = "Dữ liệu đã tồn tại trong hệ thống. Vui lòng nhập thông tin khác";
         public const string DataIsEmpty = "Không có dữ liệu để thao tác";
         public const string DataRelated = "Đã phát sinh nghiệp vụ liên quan. Bạn không thể xóa!";
+        public const string MessageImportSuccess = "Import dữ liệu thành công!";
+
     }
 }

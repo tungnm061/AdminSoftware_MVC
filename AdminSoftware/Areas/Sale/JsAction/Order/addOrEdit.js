@@ -4,7 +4,12 @@
         format: "dd/MM/yyyy"
     });
 
-    $("#FinishDate").data("kendoDatePicker").enable(false);
+    $("#StartDate").kendoDatePicker({
+        dateInput: true,
+        format: "dd/MM/yyyy"
+    });
+
+    $("#FinishDate").data("kendoDatePicker").enable(true);
     $("#StartDate").data("kendoDatePicker").enable(true);
 
 

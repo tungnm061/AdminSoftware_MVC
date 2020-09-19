@@ -19,7 +19,7 @@ namespace DataAccess.System
             {
                 var param = new DynamicParameters();
                 param.Add("@CompanyBankId", obj.CompanyBankId, DbType.Int32, ParameterDirection.InputOutput);
-                param.Add("@ExpenseType", obj.ExpenseType);
+                param.Add("@ExpenseId", obj.ExpenseId);
                 param.Add("@TypeMonney", obj.TypeMonney);
                 param.Add("@MoneyNumber", obj.MoneyNumber);
                 param.Add("@TradingDate", obj.TradingDate);
@@ -30,7 +30,7 @@ namespace DataAccess.System
                 param.Add("@IsActive", obj.IsActive);
                 param.Add("@Description", obj.Description);
                 if (UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Insert]", param))
-                    return param.Get<int>("@Id");
+                    return param.Get<int>("@CompanyBankId");
                 return 0;
             }
             catch (Exception ex)
@@ -46,7 +46,7 @@ namespace DataAccess.System
             {
                 var param = new DynamicParameters();
                 param.Add("@CompanyBankId", obj.CompanyBankId);
-                param.Add("@ExpenseType", obj.ExpenseType);
+                param.Add("@ExpenseId", obj.ExpenseId);
                 param.Add("@TypeMonney", obj.TypeMonney);
                 param.Add("@MoneyNumber", obj.MoneyNumber);
                 param.Add("@TradingDate", obj.TradingDate);
@@ -54,7 +54,6 @@ namespace DataAccess.System
                 param.Add("@ExpenseText", obj.ExpenseText);
                 param.Add("@UpdateDate", obj.UpdateDate);
                 param.Add("@UpdateBy", obj.UpdateBy);
-                param.Add("@IsActive", obj.IsActive);
                 param.Add("@Description", obj.Description);
                 return UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Update]", param);
             }
@@ -65,12 +64,19 @@ namespace DataAccess.System
             }
         }
 
-        public List<CompanyBank> GetCompanyBanks()
+        public List<CompanyBank> GetCompanyBanks(bool? isActive,DateTime? fromDate,DateTime? toDate,int? expenseId)
         {
             try
             {
                 return
-                    UnitOfWork.Procedure<CompanyBank>("[dbo].[CompanyBank_GetAll]", new { })
+                    UnitOfWork.Procedure<CompanyBank>("[dbo].[CompanyBank_GetAll]", 
+                            new
+                            {
+                                IsActive = isActive ,
+                                FromDate = fromDate,
+                                ToDate = toDate,
+                                ExpenseId = expenseId
+                            })
                         .ToList();
             }
             catch (Exception ex)
@@ -85,7 +91,7 @@ namespace DataAccess.System
             try
             {
                 return
-                    UnitOfWork.Procedure<CompanyBank>("[dbo].[CompanyBank_GetById]", new { Id = id })
+                    UnitOfWork.Procedure<CompanyBank>("[dbo].[CompanyBank_GetById]", new { CompanyBankId = id })
                         .FirstOrDefault();
             }
             catch (Exception ex)
@@ -99,7 +105,7 @@ namespace DataAccess.System
         {
             try
             {
-                return UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Delete]", new { Id = id });
+                return UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Delete]", new { CompanyBankId = id });
             }
             catch (Exception ex)
             {

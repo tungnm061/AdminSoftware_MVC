@@ -14,9 +14,9 @@ namespace BusinessLogic.System
             _expenseTypeDal = SingletonIpl.GetInstance<ExpenseTypeDal>();
         }
 
-        public List<ExpenseType> GetExpenseTypes()
+        public List<ExpenseType> GetExpenseTypes(bool? isActive)
         {
-            return _expenseTypeDal.GetExpenseTypes();
+            return _expenseTypeDal.GetExpenseTypes(isActive);
         }
 
         public ExpenseType GetExpenseType(int id)

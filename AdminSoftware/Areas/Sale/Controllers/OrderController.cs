@@ -127,7 +127,9 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 obj = new Order
                 {
                     OrderId = 0,
-                    StartDate = DateTime.Now
+                    StartDate = DateTime.Now,
+                    Status = 1,
+                    ProducerId = 1
                 };
             }
             return PartialView(obj);
@@ -206,7 +208,9 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 return PartialView(new OrderDetail
                 {
                     OrderDetailId = Guid.Empty.ToString(),
-                    Quantity = 1
+                    Quantity = 1,
+                    Color = 1,
+                    Size = 1
                 });
             }
             return PartialView(OrderDetailsInMemory.Find(x => x.OrderDetailId == id));

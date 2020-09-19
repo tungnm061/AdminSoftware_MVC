@@ -43,9 +43,9 @@ namespace BusinessLogic.Sale
                 {
                     foreach (Listting item in listObj)
                     {
-                        if (listCheck.Any(x => x.GmailId == item.GmailId))
+                        if (!listCheck.Any(x => x.GmailId == item.GmailId))
                         {
-                            if (_listtingDal.Insert(item) > 0)
+                            if (_listtingDal.Insert(item) <= 0)
                             {
                                 result = false;
                                 break;
@@ -53,7 +53,7 @@ namespace BusinessLogic.Sale
                         }
                         else
                         {
-                            if (_listtingDal.UpdateByGmailId(item))
+                            if (!_listtingDal.UpdateByGmailId(item))
                             {
                                 result = false;
                                 break;

@@ -91,10 +91,9 @@
     <Compile Include="Sale\Order.cs" />
     <Compile Include="Sale\OrderDetail.cs" />
     <Compile Include="Sale\OrderStatistical.cs" />
+    <Compile Include="Sale\PoPayment.cs" />
     <Compile Include="Sale\Producer.cs" />
     <Compile Include="System\AccountPrintify.cs" />
-    <Compile Include="System\CategoryKpi.cs" />
-    <Compile Include="System\Chat.cs" />
     <Compile Include="System\CompanyBank.cs" />
     <Compile Include="System\ExpenseType.cs" />
     <Compile Include="System\Gmail.cs" />
@@ -133,8 +132,6 @@
     <Compile Include="Kpi\KpiConfig.cs" />
     <Compile Include="Kpi\Task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sale\Contract.cs" />
-    <Compile Include="Sale\ContractDetail.cs" />
     <Compile Include="Sale\Customer.cs" />
     <Compile Include="Sale\Investor.cs" />
     <Compile Include="Sale\Product.cs" />
@@ -146,7 +143,6 @@
     <Compile Include="System\Function.cs" />
     <Compile Include="System\Module.cs" />
     <Compile Include="System\ModuleGroup.cs" />
-    <Compile Include="System\Notification.cs" />
     <Compile Include="System\Rights.cs" />
     <Compile Include="System\Sku.cs" />
     <Compile Include="System\TimeDisplayHelper.cs" />

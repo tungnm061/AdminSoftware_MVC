@@ -51,11 +51,9 @@ namespace AdminSoftware.Areas.Hrm.Controllers
 
         private readonly JobChangeBll _jobChangeBll;
         private readonly string _prefixTcct = "TCCT" + DateTime.Now.Year.ToString().Substring(2, 2);
-        private readonly CategoryKpiBll _categoryKpiBll;
         private readonly ShiftWorkBll _shiftWorkBll;
         public EmployeeController()
         {
-            _categoryKpiBll = SingletonIpl.GetInstance<CategoryKpiBll>();
             _holidayConfigBll = SingletonIpl.GetInstance<HolidayConfigBll>();
             _insuranceMedicalBll = SingletonIpl.GetInstance<InsuranceMedicalBll>();
             _medicalBll = SingletonIpl.GetInstance<MedicalBll>();

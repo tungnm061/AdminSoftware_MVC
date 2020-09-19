@@ -154,6 +154,11 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 var file = Request.Files["files"];
                 var dataLst = ExcelHelper.ReadExcelDictionary(file.InputStream);
                 var listObj = new List<Listting>();
+                if (dataLst.Count == 0)
+                {
+                    return Json(new { Status = 0, Message = MessageAction.DataIsEmpty }, JsonRequestBehavior.AllowGet);
+
+                }
                 foreach (var data in dataLst)
                 {
                     if (
@@ -168,7 +173,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
 
                         var checkName = _gmailBll.GetGmailByName(gmailName);
 
-                        if (checkName != null)
+                        if (checkName == null)
                         {
                             return Json(new { Status = 0, Message = "Tài khoản mail này chưa được tạo trong hệ thống!" },
                                 JsonRequestBehavior.AllowGet);
@@ -176,9 +181,9 @@ namespace AdminSoftware.Areas.Sale.Controllers
 
                         var obj = new Listting
                         {
-                            GmailId = int.Parse(data["Mã công việc"]),
+                            GmailId = checkName.Id,
                             ThreeNumberPayOnner = int.Parse(data["Ba số Payonner"]),
-                            PayOnner =  int.Parse(data["PayOnner"]),
+                            PayOnner =  int.Parse(data["Payonner"]),
                             ListProduct = int.Parse(data["Listting"]),
                             IsActive = true,
                             Description = data["Ghi chú"],
@@ -203,7 +208,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 }
                 if (_listtingBll.Saves(listObj))
                 {
-                    return Json(new { Status = 1, Message = MessageAction.MessageCreateSuccess },
+                    return Json(new { Status = 1, Message = MessageAction.MessageImportSuccess },
                         JsonRequestBehavior.AllowGet);
                 }
 

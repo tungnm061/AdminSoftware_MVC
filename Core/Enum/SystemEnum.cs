@@ -35,10 +35,22 @@ namespace Core.Enum
         [Description("Đã hoàn thành")] OnHold = 2,
         [Description("Đã hủy")] InProduction = 3
     }
+    public enum StatusPoEnụm
+    {
+        [Description("Đang chờ")] HasIssues = 1,
+        [Description("Đã hoàn thành")] OnHold = 2
+    }
+
 
     public enum KeySeachOrderEnụm
     {
         [Description("Ngày tạo")] CreateDate = 1,
         [Description("Ngày hoàn thành")] FinishDate = 2
+    }
+
+    public enum TypeMoneyEnum
+    {
+        [Description("USD")] Usd = 1,
+        [Description("VND")] Vnd = 2
     }
 }
