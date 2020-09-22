@@ -48,7 +48,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
         }
 
         [SaleFilter]
-        public ActionResult Index(DateTime? fromDate, DateTime? toDate)
+        public ActionResult Index(DateTime? fromDate, DateTime? toDate, int? gmailId = 0)
         {
             var gmails = _gmailBll.GetGmails();
             var producers = _producerBll.GetProducers();
@@ -77,14 +77,25 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 listDay.Add(start.Value.ToString("dd/MM/yyyy"));
             }
             ViewBag.Days = listDay;
-
+            ViewBag.GmailId = gmailId;
             return View();
         }
 
-        public JsonResult Orders(DateTime fromDate , DateTime toDate )
+        public JsonResult Orders(DateTime fromDate , DateTime toDate,int? gmailId = 0 )
         {
             List<Gmail> gmails = _gmailBll.GetGmails();
+
+            if (gmailId != null && gmailId != 0)
+            {
+                gmails = gmails.Where(x => x.Id == gmailId).ToList();
+            }
+            
             var listOrderStatistical = new List<OrderStatistical>();
+            if (gmails.Count == 0)
+            {
+                return Json(listOrderStatistical,
+                    JsonRequestBehavior.AllowGet);
+            }
             foreach (var item in gmails)
             {
                 var obj = new OrderStatistical();

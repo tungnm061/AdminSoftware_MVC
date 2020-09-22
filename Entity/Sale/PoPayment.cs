@@ -27,5 +27,6 @@ namespace Entity.Sale
         public DateTime CreateDate { get; set; }
 
         public int CreateBy { get; set; }
+        public string TradingMonth { get; set; }
     }
 }

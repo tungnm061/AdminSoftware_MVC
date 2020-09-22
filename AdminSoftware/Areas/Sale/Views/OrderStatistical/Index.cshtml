@@ -8,8 +8,11 @@
     <div class="panel-heading">@ViewBag.Title</div>
     <div class="panel-body">
         <div class="row">
+            <div class="col-md-3">
+                <input type="text" value="@ViewBag.GmailId" class="form-control" id="GmailSearch" style="height: 25px; " />
+            </div>
             <div class="col-md-2">
-                <input type="text" value="@ViewBag.FromDate" class="form-control" id="FromDateSearch" style="height: 25px; " />
+                <input type="text" value="@ViewBag.FromDate" class="form-control" id="FromDateSearch" style="height: 25px;" />
             </div>
             <div class="col-md-2">
                 <input type="text" value="@ViewBag.ToDate" class="form-control" id="ToDateSearch" style="height: 25px;" />
@@ -58,28 +61,28 @@
             {
                 field: "TotalOrder",
                 title: "Total",
-                width: 80,
+                width: 60,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #"
             },
             {
                 field: "TotalFinish",
                 title: "Finish",
-                width: 80,
+                width: 60,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #" 
             },
             {
                 field: "TotalCancel",
                 title: "Cancel",
-                width: 90,
+                width: 60,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #"
             },
             {
                 field: "TotalOrderPrice",
                 title: "Tổng tiền",
-                width: 100,
+                width: 80,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n2\") : 0 #",
                 format: '{0:n2}'
@@ -87,7 +90,7 @@
             {
                 field: "FinishOrderPrice",
                 title: "Đã HT",
-                width: 90,
+                width: 60,
                 format: '{0:n0}',
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n2\") : 0 #" 
@@ -111,14 +114,14 @@
                         {
                             title: 'TD',
                             field: 'StatisticalDetails[' +@i +'].TotalOrder',
-                            width:70,
+                            width:50,
                             filterable: false,
                             footerTemplate :function(data) { return data["StatisticalDetails["+ @i+"].TotalOrder"].sum; }
                         },
                         {
                             title: 'HT',
                             field: 'StatisticalDetails[' + @i + '].FinishOrder',
-                            width: 70,
+                            width: 50,
                             filterable: false,
                             footerTemplate :function(data) { return data["StatisticalDetails["+ @i+"].FinishOrder"].sum; }
                         }

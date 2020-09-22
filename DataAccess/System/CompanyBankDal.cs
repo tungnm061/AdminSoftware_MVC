@@ -29,6 +29,9 @@ namespace DataAccess.System
                 param.Add("@CreateBy", obj.CreateBy);
                 param.Add("@IsActive", obj.IsActive);
                 param.Add("@Description", obj.Description);
+                param.Add("@Status", obj.Status);
+                param.Add("@Path", obj.Path);
+                param.Add("@TextNote", obj.TextNote);
                 if (UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Insert]", param))
                     return param.Get<int>("@CompanyBankId");
                 return 0;
@@ -55,6 +58,12 @@ namespace DataAccess.System
                 param.Add("@UpdateDate", obj.UpdateDate);
                 param.Add("@UpdateBy", obj.UpdateBy);
                 param.Add("@Description", obj.Description);
+                param.Add("@ConfirmBy", obj.ConfirmBy);
+                param.Add("@ConfirmDate", obj.ConfirmDate);
+                param.Add("@Status", obj.Status);
+                param.Add("@Path", obj.Path);
+                param.Add("@TextNote", obj.TextNote);
+
                 return UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Update]", param);
             }
             catch (Exception ex)
@@ -64,7 +73,7 @@ namespace DataAccess.System
             }
         }
 
-        public List<CompanyBank> GetCompanyBanks(bool? isActive,DateTime? fromDate,DateTime? toDate,int? expenseId)
+        public List<CompanyBank> GetCompanyBanks(bool? isActive,DateTime? fromDate,DateTime? toDate,int? expenseId, int? statusSearch, string pathSystem)
         {
             try
             {
@@ -75,7 +84,9 @@ namespace DataAccess.System
                                 IsActive = isActive ,
                                 FromDate = fromDate,
                                 ToDate = toDate,
-                                ExpenseId = expenseId
+                                ExpenseId = expenseId,
+                                Status = statusSearch,
+                                Path = pathSystem
                             })
                         .ToList();
             }

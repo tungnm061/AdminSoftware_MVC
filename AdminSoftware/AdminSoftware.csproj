@@ -303,6 +303,7 @@
     <Compile Include="Areas\System\Controllers\AccountController.cs" />
     <Compile Include="Areas\System\Controllers\AccountPrintifyController.cs" />
     <Compile Include="Areas\System\Controllers\CompanyBankController.cs" />
+    <Compile Include="Areas\System\Controllers\ConfirmCompanyBankController.cs" />
     <Compile Include="Areas\System\Controllers\ExpenseTypeController.cs" />
     <Compile Include="Areas\System\Controllers\GmailController.cs" />
     <Compile Include="Areas\System\Controllers\HomeController.cs" />
@@ -492,6 +493,7 @@
     <Content Include="Areas\System\JsAction\Account\index.js" />
     <Content Include="Areas\System\JsAction\CompanyBank\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\CompanyBank\index.js" />
+    <Content Include="Areas\System\JsAction\ConfirmCompanyBank\index.js" />
     <Content Include="Areas\System\JsAction\ExpenseType\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\ExpenseType\index.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEdit.js" />
@@ -905,6 +907,8 @@
     <Content Include="Areas\System\Views\ExpenseType\ExpenseType.cshtml" />
     <Content Include="Areas\Sale\Views\PoPayment\Index.cshtml" />
     <Content Include="Areas\Sale\Views\PoPayment\PoPayment.cshtml" />
+    <Content Include="Areas\System\Views\CompanyBank\TextNote.cshtml" />
+    <Content Include="Areas\System\Views\ConfirmCompanyBank\Index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

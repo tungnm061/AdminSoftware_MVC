@@ -35,6 +35,15 @@ namespace Entity.System
         
         public  string TradingMonth { get; set; }
 
+        public  string Path { get; set; }
+
+        public  string TextNote { get; set; }
+
+        public int ConfirmBy { get; set; }
+
+        public DateTime? ConfirmDate { get; set; }
+        public byte Status { get; set; }
+
         public decimal MoneyNumberVND
         {
             get
@@ -51,11 +60,11 @@ namespace Entity.System
         {
             get
             {
-                if (TypeMonney == 1)
+                if (TypeMonney != 1)
                 {
-                    return MoneyNumber;
+                    return 0;
                 }
-                return 0;
+                return MoneyNumber;
             }
         }
     }

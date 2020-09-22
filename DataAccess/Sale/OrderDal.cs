@@ -12,7 +12,7 @@ namespace DataAccess.Sale
 {
     public class OrderDal : BaseDal<ADOProvider>
     {
-        public List<Order> GetOrders(int? keySearch = null, int? statusSearch = 0,string keyWord ="",DateTime? fromDate = null,DateTime? toDate =null, bool isActive = true, int? gmailId = null)
+        public List<Order> GetOrders(int? keySearch = null, int? statusSearch = null,string keyWord ="",DateTime? fromDate = null,DateTime? toDate =null, bool isActive = true, int? gmailId = null)
         {
             try
             {

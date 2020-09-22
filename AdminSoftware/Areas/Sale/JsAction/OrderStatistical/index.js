@@ -3,10 +3,18 @@ function BuildDateString(date) {
     return (date.getMonth() + 1) + "/" + date.getDate() + "/" + date.getFullYear();
 }
 $(document).ready(function () {
+    $('#GmailSearch').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: gmails,
+        optionLabel: "Chọn gmail"
+    });
     $("#btnSearchDate").click(function () {
         var fromDate = $("#FromDateSearch").data("kendoDatePicker").value();
         var toDate = $("#ToDateSearch").data("kendoDatePicker").value();
-        window.location.href = '/sale/OrderStatistical/Index?fromDate=' + BuildDateString(fromDate) + '&toDate=' + BuildDateString(toDate);
+        var gmailId = $("#GmailSearch").data("kendoDropDownList").value();
+
+        window.location.href = '/sale/OrderStatistical/Index?fromDate=' + BuildDateString(fromDate) + '&toDate=' + BuildDateString(toDate) + '&gmailId=' + gmailId ;
     });
     $("#FromDateSearch,#ToDateSearch").kendoDatePicker({
         dateInput: true,
@@ -29,7 +37,8 @@ $(document).ready(function () {
                             dataType: "json",
                             data: JSON.stringify({
                                 fromDate: $("#FromDateSearch").data("kendoDatePicker").value(),
-                                toDate: $("#ToDateSearch").data("kendoDatePicker").value()
+                                toDate: $("#ToDateSearch").data("kendoDatePicker").value(),
+                                gmailId: $("#GmailSearch").data("kendoDropDownList").value()
                             }),
                             contentType: 'application/json;charset=utf-8',
                             success: function (response) {
@@ -57,7 +66,7 @@ $(document).ready(function () {
             serverFiltering: false
         },
         height: gridHeight,
-        filterable: true,
+        //filterable: true,
         sortable: true,
         pageable: {
             refresh: true

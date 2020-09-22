@@ -23,5 +23,7 @@ namespace Entity.System
         public int LocationEmployeeId { get; set; }
         public int DepartmentCompany { get; set; }
         public int? CategoryKpiId { get; set; }
+        public string Path { get; set; }
+
     }
 }

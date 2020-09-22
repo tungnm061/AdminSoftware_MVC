@@ -12,11 +12,16 @@ namespace DataAccess.Sale
     public class PoPaymentDal : BaseDal<ADOProvider>
     {
 
-        public List<PoPayment> GetPoPayments()
+        public List<PoPayment> GetPoPayments(int ?status, DateTime? fromDate,DateTime? toDate)
         {
             try
             {
-                return UnitOfWork.Procedure<PoPayment>("[sale].[PoPayment_GetAll]", new { }).ToList();
+                return UnitOfWork.Procedure<PoPayment>("[sale].[PoPayment_GetAll]", new
+                {
+                    Status = status,
+                    FromDate = fromDate,
+                    ToDate = toDate
+                }).ToList();
             }
             catch (Exception ex)
             {

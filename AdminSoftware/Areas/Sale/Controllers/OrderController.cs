@@ -108,9 +108,9 @@ namespace AdminSoftware.Areas.Sale.Controllers
             return View();
         }
 
-        public JsonResult Orders(int? keySearch = 0, int? statusSearch = null, DateTime? fromDate = null, DateTime? toDate = null)
+        public JsonResult Orders(int? keySearch, int? statusSearch, DateTime? fromDate, DateTime? toDate,int ? gmailId)
         {
-            return Json(_orderBll.GetOrders(keySearch, statusSearch,null, fromDate, toDate,true),
+            return Json(_orderBll.GetOrders(keySearch, statusSearch,null, fromDate, toDate,true, gmailId),
                 JsonRequestBehavior.AllowGet);
         }
         public ActionResult Order(string id)

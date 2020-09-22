@@ -1,4 +1,5 @@
-﻿@{
+﻿@using Microsoft.AspNet.Identity
+@{
     ViewBag.Title = "Quản lý chi thu";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
@@ -6,7 +7,7 @@
     <div class="panel-heading">@ViewBag.Title</div>
     <div class="panel-body">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-2">
                 <div class="box-action">
                     <button class="btn btn-primary btn-sm" id="btnCreate">
                         <i class="glyphicon glyphicon-plus"></i>
@@ -22,15 +23,21 @@
                     </button>
                 </div>
             </div>
-            <div class="col-md-8">
-                <div class="col-md-3">
-                    <input type="text" value="" class="form-control" id="ExpenseIdSearch" style="height: 25px; " />
+            <div class="col-md-10">
+                <div class="col-md-2">
+                    <input type="text" value="" class="form-control" id="SystemSearch" style="height: 25px; " />
                 </div>
                 <div class="col-md-2">
-                    <input type="text" value="@DateTime.Now.AddDays(-1).ToString("dd/MM/yyy")" class="form-control" id="FromDateSearch" style="height: 25px;" />
+                    <input type="text" value="" class="form-control" id="StatusSearch" style="height: 25px;" />
                 </div>
                 <div class="col-md-2">
-                    <input type="text" value="@DateTime.Now.AddDays(+1).ToString("dd/MM/yyy")" class="form-control" id="ToDateSearch" style="height: 25px;" />
+                    <input type="text" value="" class="form-control" id="ExpenseIdSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="@DateTime.Now.AddDays(-5).ToString("dd/MM/yyy")" class="form-control" id="FromDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="@DateTime.Now.AddDays(+5).ToString("dd/MM/yyy")" class="form-control" id="ToDateSearch" style="height: 25px;" />
                 </div>
                 <div class="col-md-2">
                     <button class="btn btn-primary btn-sm" id="btnSearchDate">
@@ -54,6 +61,9 @@
         var users = @Html.Raw(Json.Encode(ViewBag.Users));
         var expenseTypes = @Html.Raw(Json.Encode(ViewBag.ExpenseTypes));
         var typeMoneys = @Html.Raw(Json.Encode(ViewBag.TypeMoneys));
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var statusSearch = @Html.Raw(Json.Encode(ViewBag.StatusSearch));
+
     </script>
     <script src="~/Areas/System/JsAction/CompanyBank/index.js"></script>
 }

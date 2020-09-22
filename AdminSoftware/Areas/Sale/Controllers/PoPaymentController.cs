@@ -45,9 +45,10 @@ namespace AdminSoftware.Areas.Sale.Controllers
             return View();
         }
 
-        public JsonResult PoPayments()
+        public JsonResult PoPayments(int? status, DateTime? fromDate, DateTime? toDate)
         {
-            return Json(_poPaymentBll.GetPoPayments(), JsonRequestBehavior.AllowGet);
+            var listObj = _poPaymentBll.GetPoPayments(status, fromDate, toDate);
+            return Json(listObj, JsonRequestBehavior.AllowGet);
         }
 
         public ActionResult PoPayment(string id)

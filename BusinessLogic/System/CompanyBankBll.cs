@@ -15,9 +15,9 @@ namespace BusinessLogic.System
             _companyBankDal = SingletonIpl.GetInstance<CompanyBankDal>();
         }
 
-        public List<CompanyBank> GetCompanyBanks(bool? isActive, DateTime? fromDate, DateTime? toDate, int? expenseId)
+        public List<CompanyBank> GetCompanyBanks(bool? isActive, DateTime? fromDate, DateTime? toDate, int? expenseId, int? statusSearch, string systemSearch)
         {
-            return _companyBankDal.GetCompanyBanks(isActive, fromDate, toDate, expenseId);
+            return _companyBankDal.GetCompanyBanks(isActive, fromDate, toDate, expenseId, statusSearch, systemSearch);
         }
 
         public CompanyBank GetCompanyBank(int CompanyBankId)

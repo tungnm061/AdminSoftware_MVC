@@ -6,7 +6,7 @@
     <div class="panel-heading">@ViewBag.Title</div>
     <div class="panel-body">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-2">
                 <div class="box-action">
                     <button class="btn btn-primary btn-sm" id="btnCreate">
                         <i class="fa fa-plus"></i>
@@ -22,12 +22,15 @@
                     </button>
                 </div>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-10">
                 <div class="col-md-3">
-                    <input type="text" value="" class="form-control" id="KeySearch" style="height: 25px; " />
+                    <input type="text" value="" class="form-control" id="GmailSearch" style="height: 25px; " />
                 </div>
-                <div class="col-md-3">
-                    <input type="text" value="" class="form-control" id="StatusSearch" style="height: 25px; " />
+                <div class="col-md-2">
+                    <input type="text" value="" class="form-control" id="KeySearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="" class="form-control" id="StatusSearch" style="height: 25px;" />
                 </div>
                 <div class="col-md-2">
                     <input type="text" value="@DateTime.Now.AddDays(-1).ToString("dd/MM/yyy")" class="form-control" id="FromDateSearch" style="height: 25px;" />
@@ -35,7 +38,7 @@
                 <div class="col-md-2">
                     <input type="text" value="@DateTime.Now.AddDays(+1).ToString("dd/MM/yyy")" class="form-control" id="ToDateSearch" style="height: 25px;" />
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-1">
                     <button class="btn btn-primary btn-sm" id="btnSearchDate">
                         <i class="glyphicon glyphicon-search"></i>
                         Tìm kiếm

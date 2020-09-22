@@ -6,21 +6,39 @@
     <div class="panel-heading">@ViewBag.Title</div>
     <div class="panel-body">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-4">
                 <div class="box-action">
                     <button class="btn btn-primary btn-sm" id="btnCreate">
-                        <i class="fa fa-plus"></i>
+                        <i class="glyphicon glyphicon-plus"></i>
                         Thêm
                     </button>
                     <button class="btn btn-primary btn-sm" id="btnEdit">
-                        <i class="fa fa-edit"></i>
+                        <i class="glyphicon glyphicon-edit"></i>
                         Sửa
                     </button>
                     <button class="btn btn-primary btn-sm" id="btnDelete">
-                        <i class="fa fa-edit"></i>
+                        <i class="glyphicon glyphicon-trash"></i>
                         Xóa
                     </button>
                 </div>
+            </div>
+            <div class="col-md-8">
+                <div class="col-md-3">
+                    <input type="text" value="" class="form-control" id="StatusSearch" style="height: 25px; " />
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="@DateTime.Now.AddDays(-5).ToString("dd/MM/yyy")" class="form-control" id="FromDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="@DateTime.Now.ToString("dd/MM/yyy")" class="form-control" id="ToDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                        <i class="glyphicon glyphicon-search"></i>
+                        Tìm kiếm
+                    </button>
+                </div>
+
             </div>
         </div>
         <div class="row">

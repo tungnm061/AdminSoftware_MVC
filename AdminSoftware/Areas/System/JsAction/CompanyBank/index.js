@@ -10,37 +10,31 @@ $(document).ready(function () {
         dataTextField: "text",
         dataValueField: "value",
         dataSource: expenseTypes,
-        optionLabel: "Tất cả"
+        optionLabel: "Loại giao dịch"
+    });
+
+    $('#SystemSearch').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: departments,
+        optionLabel: "Hệ thống"
+    });
+
+    $('#StatusSearch').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: statusSearch,
+        optionLabel: "Trạng thái"
     });
 
     $("#btnSearchDate").click(function () {
         var fromDate = $("#FromDateSearch").data("kendoDatePicker").value();
         var toDate = $("#ToDateSearch").data("kendoDatePicker").value();
         var expenseIdSearch = $("#ExpenseIdSearch").data("kendoDropDownList").value();
+        var statusSearch = $("#StatusSearch").data("kendoDropDownList").value();
+        var systemSearch = $("#SystemSearch").data("kendoDropDownList").value();
 
-        //if (fromDate == null) {
-        //    $.msgBox({
-        //        title: "Hệ thống",
-        //        type: "error",
-        //        content: "Bạn phải chọn ngày bắt đầu tìm kiếm!",
-        //        buttons: [{ value: "Đồng ý" }],
-        //        success: function () {
-        //        }
-        //    });
-        //    return;
-        //}
-        //if (toDate == null) {
-        //    $.msgBox({
-        //        title: "Hệ thống",
-        //        type: "error",
-        //        content: "Bạn phải chọn ngày kết thúc tìm kiếm!",
-        //        buttons: [{ value: "Đồng ý" }],
-        //        success: function () {
-        //        }
-        //    });
-        //    return;
-        //}
-        if (fromDate != null && toDate !=null && toDate < fromDate) {
+        if (fromDate != null && toDate != null && toDate < fromDate) {
             $.msgBox({
                 title: "Hệ thống",
                 type: "error",
@@ -62,7 +56,9 @@ $(document).ready(function () {
                             data: JSON.stringify({
                                 fromDate: fromDate,
                                 toDate: toDate,
-                                expenseId: expenseIdSearch
+                                expenseId: expenseIdSearch,
+                                statusSearch: statusSearch,
+                                systemSearch: systemSearch
                             }),
                             contentType: 'application/json;charset=utf-8',
                             success: function (response) {
@@ -76,7 +72,9 @@ $(document).ready(function () {
                     id: "CompanyBankId",
                     fields: {
                         CreateDate: { type: 'date' },
-                        TradingDate: { type: 'date' }
+                        TradingDate: { type: 'date' },
+                        MoneyNumberVND: { type: 'number' },
+                        MoneyNumberUSD: { type: 'number' }
                     }
                 }
             },
@@ -84,6 +82,12 @@ $(document).ready(function () {
                 { field: "MoneyNumberVND", aggregate: "sum" },
                 { field: "MoneyNumberUSD", aggregate: "sum" }
             ],
+            group: {
+                field: "TradingDate", aggregates: [
+                    { field: "MoneyNumberVND", aggregate: "sum" },
+                    { field: "MoneyNumberUSD", aggregate: "sum" }
+                ]
+            },
             pageSize: 9999,
             serverPaging: false,
             serverFiltering: false
@@ -147,7 +151,7 @@ $(document).ready(function () {
     });
 
     $('#btnCreate').bind("click", function () {
-        InitWindowModal('/system/CompanyBank/CompanyBank?id=0', false, 600, 370, "Thêm mới giao dịch", false);
+        InitWindowModal('/system/CompanyBank/CompanyBank?id=0', false, 800, 590, "Thêm mới giao dịch", false);
 
     });
 
@@ -162,11 +166,50 @@ $(document).ready(function () {
             });
             return false;
         }
-        InitWindowModal('/system/CompanyBank/CompanyBank?id=' + id, false, 600, 370, "Cập nhật giao dịch", false);
+        InitWindowModal('/system/CompanyBank/CompanyBank?id=' + id, false, 800, 590, "Cập nhật giao dịch", false);
         return true;
     });
 
     $("#grdMain").kendoGrid({
+        toolbar: ["excel"],
+        excel: {
+            fileName: "QuanLyThuChi.xlsx",
+            filterable: true,
+            allPages: true
+        },
+        excelExport: function (e) {
+            var sheet = e.workbook.sheets[0];
+            for (var rowIndex = 1; rowIndex < sheet.rows.length; rowIndex++) {
+                var row = sheet.rows[rowIndex];
+              
+
+                if (row.type == "footer" || row.type == "group-footer") {
+                    for (var ci = 0; ci < row.cells.length; ci++) {
+                        var cell = row.cells[ci];
+                        if (cell.value) {
+                            cell.value = kendo.parseFloat(cell.value);
+                            cell.format = "###,###,###";
+                        }
+                    }
+                } else {
+                    if (row.cells.length > 1) {
+                        row.cells[3].format = "###,###,###";
+                        row.cells[2].format = "###,###,###";
+                        row.cells[6].format = "dd/MM/yyyy";
+
+                    }
+                }
+                //if (row.type == "group-header") {
+                //    for (var ci = 0; ci < row.cells.length; ci++) {
+                //        var cell = row.cells[ci];
+                //        if (cell.value) {
+                //            cell.value = $(cell.value).text();
+                //        }
+                //    }
+                //}
+            }
+            e.workbook.fileName = "QuanLyThuChi-" + $("#FromDateSearch").val() + "-" + $("#ToDateSearch").val() + ".xlsx";
+        },
         dataSource: {
             transport: {
                 read: function (options) {
@@ -178,7 +221,9 @@ $(document).ready(function () {
                             data: JSON.stringify({
                                 fromDate: $("#FromDateSearch").data("kendoDatePicker").value(),
                                 toDate: $("#ToDateSearch").data("kendoDatePicker").value(),
-                                expenseId: $("#ExpenseIdSearch").data("kendoDropDownList").value()
+                                expenseId: $("#ExpenseIdSearch").data("kendoDropDownList").value(),
+                                statusSearch : $("#StatusSearch").data("kendoDropDownList").value(),
+                                systemSearch : $("#SystemSearch").data("kendoDropDownList").value()
                             }),
                             contentType: 'application/json;charset=utf-8',
                             success: function (response) {
@@ -193,9 +238,20 @@ $(document).ready(function () {
                     fields: {
                         CreateDate: { type: 'date' },
                         TradingDate: { type: 'date' },
+                        MoneyNumberVND: { type: 'number' },
+                        MoneyNumberUSD: { type: 'number' }
                     }
                 }
             },
+            aggregate: [
+                { field: "MoneyNumberVND", aggregate: "sum" },
+                { field: "MoneyNumberUSD", aggregate: "sum" }
+            ],
+            group: {
+                field: "TradingDate", aggregates: [
+                    { field: "MoneyNumberVND", aggregate: "sum" },
+                    { field: "MoneyNumberUSD", aggregate: "sum" }
+                ] },
             pageSize: 100,
             serverPaging: false,
             serverFiltering: false
@@ -223,19 +279,33 @@ $(document).ready(function () {
                 field: "TradingDate",
                 title: "Ngày giao dịch",
                 width: 150,
-                format: "{0:dd/MM/yyyy}"
+                format: "{0:dd/MM/yyyy}",
+                hidden: true,
+                groupHeaderTemplate: "#=kendo.toString(value,\"dd/MM/yyyy\")#"
+                //groupHeaderTemplate:"#=kendo.toString(value,\"dd/MM/yyyy\")#</td><td> #=kendo.toString(aggregates.MoneyNumberVND.sum, \"n0\")#</td><td>#=kendo.toString(aggregates.MoneyNumberUSD.sum, \"n2\")#"
+                //groupHeaderTemplate: "#=  kendo.toString(value,\"dd/MM/yyyy\") # VND : #=kendo.toString(aggregates.MoneyNumberVND.sum, \"n0\")# USD : #=kendo.toString(aggregates.MoneyNumberUSD.sum, \"n2\")#" 
+                //groupFooterTemplate: function (e) {
+                //    return "Total: " + e.MoneyNumberVND.sum;
+                //}
             },
             {
                 field: "MoneyNumberVND",
                 title: "VND",
-                format: "{0:n2}",
-                width: 150
+                format: "{0:n0}",
+                width: 150,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #" + " đ",
+                groupFooterTemplate: "#=  kendo.toString(sum , \"n0\") #"
+
+
             },
             {
                 field: "MoneyNumberUSD",
                 title: "USD",
                 format: "{0:n2}",
-                width: 150
+                width: 150,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n2\") : 0 #" + " $",
+                groupFooterTemplate: "#=  kendo.toString(sum , \"n2\") #"
+
             },
             {
                 field: "ExpenseId",
@@ -263,5 +333,12 @@ $(document).ready(function () {
         dataBinding: function () {
             record = (this.dataSource.page() - 1) * this.dataSource.pageSize();
         }
+        //,dataBound: function (e) {
+        //    var firstCell = e.sender.element.find(".k-grouping-row td:first-child");
+        //    firstCell.attr("colspan",3);
+        //    var lastCell = e.sender.element.find(".k-grouping-row td:last-child");
+        //    lastCell.attr("colspan", 4);
+
+        //}
     });
 });

@@ -53,4 +53,11 @@ namespace Core.Enum
         [Description("USD")] Usd = 1,
         [Description("VND")] Vnd = 2
     }
+
+    public enum StatusCompanyBankEnum
+    {
+        [Description("Đợi phê duyệt")] WaitApproval = 1,
+        [Description("Đã xác nhận")] Approval = 3,
+        [Description("Bị trả lại")] Cancel = 2
+    }
 }

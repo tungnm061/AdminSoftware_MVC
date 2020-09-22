@@ -21,7 +21,7 @@ namespace BusinessLogic.Sale
         }
 
 
-        public List<Order> GetOrders(int? keySearch = null, int? statusSearch = 0, string keyWord = "", DateTime? fromDate = null, DateTime? toDate = null, bool isActive = true,int? gmailId = null)
+        public List<Order> GetOrders(int? keySearch, int? statusSearch, string keyWord, DateTime? fromDate, DateTime? toDate, bool isActive,int? gmailId)
         {
             return _orderDal.GetOrders(keySearch, statusSearch, keyWord, fromDate, toDate, isActive, gmailId);
         }

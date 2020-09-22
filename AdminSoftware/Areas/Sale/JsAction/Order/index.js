@@ -6,18 +6,25 @@ $(document).ready(function () {
         format: "dd/MM/yyyy"
     });
 
+    $('#GmailSearch').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: gmails,
+        optionLabel: "Chọn gmail"
+    });
+
     $('#StatusSearch').kendoDropDownList({
         dataTextField: "text",
         dataValueField: "value",
         dataSource: statusOrder,
-        optionLabel: "Tất cả"
+        optionLabel: "Chọn trạng thái"
     });
 
     $('#KeySearch').kendoDropDownList({
         dataTextField: "text",
         dataValueField: "value",
         dataSource: keySearchs,
-        optionLabel: "Tất cả"
+        optionLabel: "Chọn loại ngày"
     });
 
     $("#btnSearchDate").click(function () {
@@ -25,7 +32,7 @@ $(document).ready(function () {
         var toDate = $("#ToDateSearch").data("kendoDatePicker").value();
         var keySearch = $("#KeySearch").data("kendoDropDownList").value();
         var statusSearch = $("#StatusSearch").data("kendoDropDownList").value();
-
+        var gmailId = $("#GmailSearch").data("kendoDropDownList").value();
         if (fromDate == null) {
             $.msgBox({
                 title: "Hệ thống",
@@ -71,7 +78,8 @@ $(document).ready(function () {
                                 fromDate: fromDate,
                                 toDate: toDate,
                                 keySearch: keySearch,
-                                statusSearch: statusSearch
+                                statusSearch: statusSearch,
+                                gmailId: gmailId
                             }),
                             contentType: 'application/json;charset=utf-8',
                             success: function (response) {
@@ -87,13 +95,13 @@ $(document).ready(function () {
                         CreateDate: { type: 'date' },
                         FinishDate: { type: 'date' },
                         TotalPrince: { type: 'number' },
-                        TotalPriceVND: { type: 'number' }
+                        StartDate: { type: 'date' }
                     }
                 }
             },
             aggregate: [
                 { field: "TotalPrince", aggregate: "sum" },
-                { field: "TotalPriceVND", aggregate: "sum" }
+                { field: "OrderCode", aggregate: "count" }
             ],
             pageSize: 9999,
             serverPaging: false,
@@ -140,7 +148,8 @@ $(document).ready(function () {
                                 fromDate: $("#FromDateSearch").data("kendoDatePicker").value(),
                                 toDate: $("#ToDateSearch").data("kendoDatePicker").value(),
                                 keySearch : $("#KeySearch").data("kendoDropDownList").value(),
-                                statusSearch : $("#StatusSearch").data("kendoDropDownList").value()
+                                statusSearch: $("#StatusSearch").data("kendoDropDownList").value(),
+                                gmailId: $("#GmailSearch").data("kendoDropDownList").value()
                             }),
                             contentType: 'application/json;charset=utf-8',
                             success: function (response) {
@@ -171,7 +180,7 @@ $(document).ready(function () {
             serverFiltering: false
         },
         height: 480,
-        filterable: true,
+        //filterable: true,
         sortable: true,
         //pageable: {
         //    refresh: true
