@@ -1,7 +1,10 @@
 ﻿using System;
 using DataAccess.System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Transactions;
 using Core.Singleton;
+using Entity.Common;
 using Entity.System;
 
 namespace BusinessLogic.System
@@ -35,6 +38,38 @@ namespace BusinessLogic.System
             return _companyBankDal.Update(obj);
         }
 
+        public bool UpdateConfirmDetail(CompanyBank obj)
+        {
+            return _companyBankDal.UpdateConfirmDetail(obj);
+        }
+
+        public BizResult UpdateConfirm(List<CompanyBank> listObj)
+        {
+            BizResult rs = new BizResult();
+            rs.Status = 1;
+            using (var scope = new TransactionScope())
+            {
+                foreach (var item in listObj)
+                {
+                    if (!_companyBankDal.UpdateConfirm(item))
+                    {
+                        rs.Status = -1;
+                        break;
+                    }
+                }
+
+                if (rs.Status == 1)
+                {
+                    scope.Complete();
+                }
+                else
+                {
+                    scope.Dispose();
+                }
+
+                return rs;
+            }
+        }
         public bool Delete(int id)
         {
             return _companyBankDal.Delete(id);

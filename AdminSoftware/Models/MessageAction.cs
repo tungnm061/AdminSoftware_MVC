@@ -12,6 +12,8 @@
         public const string DataIsEmpty = "Không có dữ liệu để thao tác";
         public const string DataRelated = "Đã phát sinh nghiệp vụ liên quan. Bạn không thể xóa!";
         public const string MessageImportSuccess = "Import dữ liệu thành công!";
+        public const string TaiKhoanKhongCoQuyenTao = "Tài khoản này không được phép tạo";
+        public const string DuLieuKhongTheUpdate = "Bạn không thể cập nhật bản ghi này";
 
     }
 }

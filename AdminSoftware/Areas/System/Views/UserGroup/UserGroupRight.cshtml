@@ -15,10 +15,10 @@
                 <input type="checkbox" class="k-checkbox" id="IsCreateAll"/>
                 <label for="IsCreateAll" style="line-height: normal" class="k-checkbox-label">Thêm</label>
             </div>
-            <div class="col-md-2">
+            @*<div class="col-md-2">
                 <input type="checkbox" class="k-checkbox" id="IsEditAll"/>
                 <label for="IsEditAll" style="line-height: normal" class="k-checkbox-label">Sửa</label>
-            </div>
+            </div>*@
             <div class="col-md-2">
                 <input type="checkbox" class="k-checkbox" id="IsDeleteAll" />
                 <label for="IsDeleteAll" style="line-height: normal" class="k-checkbox-label">Xóa</label>
@@ -125,13 +125,13 @@
                     filterable: false,
                     template: '<div class="text-center"><i class="#= IsCreate ? "glyphicon glyphicon-ok" : "" #"></i></div>'
                 },
-                {
-                    field: "IsEdit",
-                    title: "Sửa",
-                    width: 70,
-                    filterable: false,
-                    template: '<div class="text-center"><i class="#= IsEdit ? "glyphicon glyphicon-ok" : "" #"></i></div>'
-                },
+                //{
+                //    field: "IsEdit",
+                //    title: "Sửa",
+                //    width: 70,
+                //    filterable: false,
+                //    template: '<div class="text-center"><i class="#= IsEdit ? "glyphicon glyphicon-ok" : "" #"></i></div>'
+                //},
                 {
                     field: "IsDelete",
                     title: "Xóa",

@@ -11,6 +11,13 @@
         format: "dd/MM/yyyy"
     });
 
+    $('#TradingBy').kendoDropDownList({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: employees,
+        filter: 'contains'
+    });
+
     $("#MoneyNumber").kendoNumericTextBox({
         format: "{0:n2}",
         step: 1
@@ -20,12 +27,15 @@
         step: 1
     });
     $('#btnSave').click(function () {
+        var status = $('input[name=optradio]:checked').val();
         var model = {
             PoPaymentId: poPaymentId,
             MoneyNumber: $('#MoneyNumber').data("kendoNumericTextBox").value(),
             RateMoney: $('#RateMoney').data("kendoNumericTextBox").value(),
             TradingDate: $('#TradingDate').data("kendoDatePicker").value(),
-            Status: $('#Status').data("kendoDropDownList").value()
+            Status: status,
+            TradingBy: $('#TradingBy').data("kendoDropDownList").value()
+
         };
 
         $('#processing').show();
@@ -35,6 +45,8 @@
             data: JSON.stringify({ model: model }),
             contentType: 'application/json; charset=utf-8',
             success: function (response) {
+                console.log(response);
+
                 $('#processing').hide();
                 var type;
                 if (response.Status === 1)

@@ -58,6 +58,8 @@ namespace DataAccess.Sale
                 param.Add("@Status", obj.Status);
                 param.Add("@CreateDate", obj.CreateDate);
                 param.Add("@CreateBy", obj.CreateBy);
+                param.Add("@TradingBy", obj.TradingBy);
+                param.Add("@Path", obj.Path);
                 if (UnitOfWork.ProcedureExecute("[sale].[PoPayment_Insert]", param))
                 {
                     return param.Get<long>("@PoPaymentId");
@@ -82,8 +84,8 @@ namespace DataAccess.Sale
                 param.Add("@TypeMoney", obj.TypeMoney);
                 param.Add("@TradingDate", obj.TradingDate);
                 param.Add("@Status", obj.Status);
-                param.Add("@ConfirmDate", obj.ConfirmDate);
-                param.Add("@ConfirmBy", obj.ConfirmBy);
+                param.Add("@TradingBy", obj.TradingBy);
+
                 return UnitOfWork.ProcedureExecute("[sale].[PoPayment_Update]", param);
             }
             catch (Exception ex)
@@ -91,6 +93,46 @@ namespace DataAccess.Sale
                 Logging.PutError(ex.Message, ex);
                 return false;
             }
+        }
+
+        public bool UpdateConfirm(PoPayment obj)
+        {
+
+            try
+            {
+                var param = new DynamicParameters();
+                param.Add("@PoPaymentId", obj.PoPaymentId);
+                param.Add("@ConfirmBy", obj.ConfirmBy);
+                param.Add("@ConfirmDate", obj.ConfirmDate);
+                param.Add("@Status", obj.Status);
+                return UnitOfWork.ProcedureExecute("[sale].[PoPayment_UpdateConfirm]", param);
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
+            }
+
+        }
+
+        public bool UpdateConfirmDetail(PoPayment obj)
+        {
+            try
+            {
+                var param = new DynamicParameters();
+                param.Add("@PoPaymentId", obj.PoPaymentId);
+                param.Add("@ConfirmBy", obj.ConfirmBy);
+                param.Add("@ConfirmDate", obj.ConfirmDate);
+                param.Add("@Status", obj.Status);
+
+                return UnitOfWork.ProcedureExecute("[sale].[PoPayment_UpdateConfirm]", param);
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
+            }
+
         }
 
 

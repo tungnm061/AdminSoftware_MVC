@@ -286,6 +286,7 @@
     <Compile Include="Areas\Hrm\Models\TimeSheetModel.cs" />
     <Compile Include="Areas\Hrm\Models\TimeSheetOtModel.cs" />
     <Compile Include="Areas\Hrm\Models\TrainingLevelModel.cs" />
+    <Compile Include="Areas\Sale\Controllers\ConfirmPoPaymentController.cs" />
     <Compile Include="Areas\Sale\Controllers\HomeController.cs" />
     <Compile Include="Areas\Sale\Controllers\ListtingController.cs" />
     <Compile Include="Areas\Sale\Controllers\OrderController.cs" />
@@ -325,11 +326,18 @@
     </Compile>
     <Compile Include="Helper\EncodeString.cs" />
     <Compile Include="Helper\ExcelHelper.cs" />
+    <Compile Include="Helper\ExtendedAttributes\CustomizeAuthorization.cs" />
+    <Compile Include="Helper\ExtendedAttributes\LocalizeDisplayName.cs" />
+    <Compile Include="Helper\ExtendedAttributes\LocalizeRegularExpression.cs" />
+    <Compile Include="Helper\ExtendedAttributes\LocalizeRequired.cs" />
+    <Compile Include="Helper\ExtendedAttributes\LocalizeStringLength.cs" />
     <Compile Include="Models\KendoDropDownTreeModel.cs" />
     <Compile Include="Models\KendoForeignKeyModel.cs" />
     <Compile Include="Models\KpiMonthReportModel.cs" />
     <Compile Include="Models\MessageAction.cs" />
+    <Compile Include="Models\SessionData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RequestFilter\IdentityRequest.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -468,6 +476,8 @@
     <Content Include="Areas\Hrm\JsAction\TimeSheet\index.js" />
     <Content Include="Areas\Hrm\JsAction\TrainingLevel\addOrEdit.js" />
     <Content Include="Areas\Hrm\JsAction\TrainingLevel\index.js" />
+    <Content Include="Areas\Sale\JsAction\ConfirmPoPayment\addOrEdit.js" />
+    <Content Include="Areas\Sale\JsAction\ConfirmPoPayment\index.js" />
     <Content Include="Areas\Sale\JsAction\Home\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Home\assignWorkAdd.js" />
     <Content Include="Areas\Sale\JsAction\Home\employees.js" />
@@ -493,6 +503,7 @@
     <Content Include="Areas\System\JsAction\Account\index.js" />
     <Content Include="Areas\System\JsAction\CompanyBank\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\CompanyBank\index.js" />
+    <Content Include="Areas\System\JsAction\ConfirmCompanyBank\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\ConfirmCompanyBank\index.js" />
     <Content Include="Areas\System\JsAction\ExpenseType\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\ExpenseType\index.js" />
@@ -909,6 +920,10 @@
     <Content Include="Areas\Sale\Views\PoPayment\PoPayment.cshtml" />
     <Content Include="Areas\System\Views\CompanyBank\TextNote.cshtml" />
     <Content Include="Areas\System\Views\ConfirmCompanyBank\Index.cshtml" />
+    <Content Include="Areas\System\Views\ConfirmCompanyBank\CompanyBank.cshtml" />
+    <Content Include="Areas\System\Views\ConfirmCompanyBank\TextNote.cshtml" />
+    <Content Include="Areas\Sale\Views\ConfirmPoPayment\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\ConfirmPoPayment\PoPayment.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

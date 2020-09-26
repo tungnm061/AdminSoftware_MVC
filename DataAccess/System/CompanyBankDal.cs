@@ -6,6 +6,7 @@ using Core.Base;
 using Core.Data;
 using Core.Helper.Logging;
 using Dapper;
+using Entity.Common;
 using Entity.System;
 
 namespace DataAccess.System
@@ -28,7 +29,6 @@ namespace DataAccess.System
                 param.Add("@CreateDate", obj.CreateDate);
                 param.Add("@CreateBy", obj.CreateBy);
                 param.Add("@IsActive", obj.IsActive);
-                param.Add("@Description", obj.Description);
                 param.Add("@Status", obj.Status);
                 param.Add("@Path", obj.Path);
                 param.Add("@TextNote", obj.TextNote);
@@ -57,11 +57,7 @@ namespace DataAccess.System
                 param.Add("@ExpenseText", obj.ExpenseText);
                 param.Add("@UpdateDate", obj.UpdateDate);
                 param.Add("@UpdateBy", obj.UpdateBy);
-                param.Add("@Description", obj.Description);
-                param.Add("@ConfirmBy", obj.ConfirmBy);
-                param.Add("@ConfirmDate", obj.ConfirmDate);
                 param.Add("@Status", obj.Status);
-                param.Add("@Path", obj.Path);
                 param.Add("@TextNote", obj.TextNote);
 
                 return UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Update]", param);
@@ -71,6 +67,47 @@ namespace DataAccess.System
                 Logging.PutError(ex.Message, ex);
                 return false;
             }
+        }
+
+        public bool UpdateConfirm(CompanyBank obj)
+        {
+
+            try
+            {
+                var param = new DynamicParameters();
+                param.Add("@CompanyBankId", obj.CompanyBankId);
+                param.Add("@ConfirmBy", obj.ConfirmBy);
+                param.Add("@ConfirmDate", obj.ConfirmDate);
+                param.Add("@Status", obj.Status);
+                return UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_UpdateConfirm]", param);
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
+            }
+
+        }
+
+        public bool UpdateConfirmDetail(CompanyBank obj)
+        {
+            try
+            {
+                var param = new DynamicParameters();
+                param.Add("@CompanyBankId", obj.CompanyBankId);
+                param.Add("@ConfirmBy", obj.ConfirmBy);
+                param.Add("@ConfirmDate", obj.ConfirmDate);
+                param.Add("@Status", obj.Status);
+                param.Add("@TextNote", obj.TextNote);
+
+                return UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_UpdateConfirmDetail]", param);
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
+            }
+
         }
 
         public List<CompanyBank> GetCompanyBanks(bool? isActive,DateTime? fromDate,DateTime? toDate,int? expenseId, int? statusSearch, string pathSystem)

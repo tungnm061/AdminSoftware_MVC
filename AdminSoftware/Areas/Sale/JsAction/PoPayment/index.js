@@ -218,7 +218,7 @@ $(document).ready(function () {
     });
 
     $('#btnCreate').click(function () {
-        InitWindowModal('/sale/PoPayment/PoPayment', false, 600, 250, 'Thêm mới PO', false);
+        InitWindowModal('/sale/PoPayment/PoPayment', false, 650, 280, 'Thêm mới PO', false);
     });
 
     $('#btnEdit').click(function () {
@@ -234,7 +234,7 @@ $(document).ready(function () {
             });
             return;
         }
-        InitWindowModal('/sale/PoPayment/PoPayment?id=' + id, false, 600, 250, 'Cập nhật PO', false);
+        InitWindowModal('/sale/PoPayment/PoPayment?id=' + id, false, 650, 280, 'Cập nhật PO', false);
     });
 
     $('#btnDelete').click(function () {

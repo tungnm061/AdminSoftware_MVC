@@ -37,8 +37,9 @@ namespace Core.Enum
     }
     public enum StatusPoEnụm
     {
-        [Description("Đang chờ")] HasIssues = 1,
-        [Description("Đã hoàn thành")] OnHold = 2
+        [Description("Chờ phê duyệt")] WaitApproval = 1,
+        [Description("Bị trả lại")] Cancel = 2,
+        [Description("Đã xác nhận")] Approval = 3
     }
 
 
@@ -56,8 +57,8 @@ namespace Core.Enum
 
     public enum StatusCompanyBankEnum
     {
-        [Description("Đợi phê duyệt")] WaitApproval = 1,
-        [Description("Đã xác nhận")] Approval = 3,
-        [Description("Bị trả lại")] Cancel = 2
+        [Description("Chờ phê duyệt")] WaitApproval = 1,
+        [Description("Bị trả lại")] Cancel = 2,
+        [Description("Đã xác nhận")] Approval = 3
     }
 }

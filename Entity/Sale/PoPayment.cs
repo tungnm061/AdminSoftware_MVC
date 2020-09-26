@@ -28,5 +28,7 @@ namespace Entity.Sale
 
         public int CreateBy { get; set; }
         public string TradingMonth { get; set; }
+        public int TradingBy { get; set; }
+        public string Path { get; set; }
     }
 }

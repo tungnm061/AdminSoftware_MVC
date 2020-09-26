@@ -82,6 +82,7 @@ namespace AdminSoftware.Areas.System.Controllers
 
         public ActionResult CompanyBank(int id)
         {
+            TextNotesInMemory = null;
             if (id == 0)
             {
                 return PartialView(new CompanyBank
@@ -123,22 +124,29 @@ namespace AdminSoftware.Areas.System.Controllers
                     }, JsonRequestBehavior.AllowGet);
                 }
 
-                var userTrading = _userBll.GetUser(model.TradingBy);
-                if (userTrading == null)
+                if (model.Status == 3)
                 {
-                    return Json(new { Status = -1, Message = MessageAction.MessageActionFailed },
+                    return Json(new { Status = -1, Message = MessageAction.DuLieuKhongTheUpdate },
                         JsonRequestBehavior.AllowGet);
                 }
-                model.Path = userTrading.Path;
+
+               
                 if (TextNotesInMemory != null)
                 {
                     model.TextNote = JsonConvert.SerializeObject(TextNotesInMemory);
                 }
                 if (model.CompanyBankId == 0)
                 {
+                    model.Path = UserLogin.Path;
+                    if (string.IsNullOrEmpty(model.Path))
+                    {
+                        return Json(new { Status = -1, Message = MessageAction.TaiKhoanKhongCoQuyenTao },
+                            JsonRequestBehavior.AllowGet);
+                    }
                     model.CreateBy = UserLogin.UserId;
                     model.CreateDate = DateTime.Now;
                     model.IsActive = true;
+                    model.Status = 1;
                     if (_companyBankBll.Insert(model) > 0)
                     {
                         return Json(new { Status = 1, Message = MessageAction.MessageCreateSuccess },
@@ -247,7 +255,7 @@ namespace AdminSoftware.Areas.System.Controllers
                         new
                         {
                             Status = 1,
-                            Message = "Cập nhật thực hiện công việc thành công!"
+                            Message = "Cập nhật ghi chú thành công!"
                         },
                         JsonRequestBehavior.AllowGet);
             }

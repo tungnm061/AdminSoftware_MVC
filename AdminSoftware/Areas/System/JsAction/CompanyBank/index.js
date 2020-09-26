@@ -74,7 +74,9 @@ $(document).ready(function () {
                         CreateDate: { type: 'date' },
                         TradingDate: { type: 'date' },
                         MoneyNumberVND: { type: 'number' },
-                        MoneyNumberUSD: { type: 'number' }
+                        MoneyNumberUSD: { type: 'number' },
+                        ConfirmDate: { type: 'date' }
+
                     }
                 }
             },
@@ -239,7 +241,8 @@ $(document).ready(function () {
                         CreateDate: { type: 'date' },
                         TradingDate: { type: 'date' },
                         MoneyNumberVND: { type: 'number' },
-                        MoneyNumberUSD: { type: 'number' }
+                        MoneyNumberUSD: { type: 'number' },
+                        ConfirmDate: { type: 'date' }
                     }
                 }
             },
@@ -313,20 +316,33 @@ $(document).ready(function () {
                 width: 150,
                 values: expenseTypes
             },
-            {
-                field: "ExpenseText",
-                title: "Mô tả",
-                width: 150
-            },
             //{
-            //    field: "Description",
-            //    title: "Ghi chú",
-            //    minwidth: 200
+            //    field: "ExpenseText",
+            //    title: "Mô tả",
+            //    width: 150
             //},
             {
                 field: "CreateDate",
                 title: "Ngày tạo",
                 width: 150,
+                format: "{0:dd/MM/yyyy}"
+            },
+            {
+                field: "Status",
+                title: "Trạng thái",
+                width: 130,
+                values: statusSearch
+            },
+            {
+                field: "ConfirmBy",
+                title: "Người xác nhận",
+                width: 150,
+                values: users
+            },
+            {
+                field: "ConfirmDate",
+                title: "Ngày xác nhận",
+                width: 130,
                 format: "{0:dd/MM/yyyy}"
             }
         ],

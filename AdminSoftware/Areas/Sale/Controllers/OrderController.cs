@@ -338,5 +338,10 @@ namespace AdminSoftware.Areas.Sale.Controllers
             }
         }
 
+        public JsonResult ClearSession()
+        {
+            return null;
+        }
+
     }
 }

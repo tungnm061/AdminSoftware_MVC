@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\BizResult.cs" />
     <Compile Include="FastAccounting\BangCanDoiKeToan.cs" />
     <Compile Include="FastAccounting\BaoCaoKetQuaSXKD.cs" />
     <Compile Include="FastAccounting\BoPhanSuDungCcDc.cs" />

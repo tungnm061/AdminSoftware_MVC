@@ -33,6 +33,7 @@
 
 
     $('#btnSave').click(function () {
+        var status = $('input[name=optradio]:checked').val();
         var model = {
             CompanyBankId: id,
             ExpenseId: $('#ExpenseId').data("kendoDropDownList").value(),
@@ -41,8 +42,8 @@
             MoneyNumber: $('#MoneyNumber').data("kendoNumericTextBox").value(),
             TradingDate: $('#TradingDate').data("kendoDatePicker").value(),
             TradingBy: $('#TradingBy').data("kendoDropDownList").value(),
-            ExpenseText: $('#ExpenseText').val()
-
+            ExpenseText: $('#ExpenseText').val(),
+            Status: status
         }
 
         $('#processing').show();
@@ -112,7 +113,7 @@
                 field: "CreateDate",
                 title: "Thời gian",
                 format: "{0:dd/MM/yyyy hh:mm:ss tt}",
-                width: 140
+                width: 160
             },
             {
                 field: "CreateBy",
@@ -131,25 +132,25 @@
     $('#btnCreateTextNote').click(function () {
         InitChildWindowModal('/system/CompanyBank/TextNote', 550, 330, "Thêm ghi chú");
     });
-    $("#grdMainTextNote[event-dbclick='1']").on("dblclick", "tr.k-state-selected", function () {
-        $('#btnEditTextNote').click();
-    });
+    //$("#grdMainTextNote[event-dbclick='1']").on("dblclick", "tr.k-state-selected", function () {
+    //    $('#btnEditTextNote').click();
+    //});
 
-    $('#btnEditTextNote').click(function () {
-        var id = GetGridRowSelectedKeyValue('#grdMainTextNote');
-        if (id == null) {
-            $.msgBox({
-                title: "Hệ thống",
-                type: "error",
-                content: "Bạn phải chọn dữ liệu trước khi cập nhật!",
-                buttons: [{ value: "Đồng ý" }],
-                success: function () {
-                }
-            });
-            return;
-        }
-        InitChildWindowModal('/system/CompanyBank/TextNote?id=' + id, 550, 330, "Cập nhật ghi chú");
-    });
+    //$('#btnEditTextNote').click(function () {
+    //    var id = GetGridRowSelectedKeyValue('#grdMainTextNote');
+    //    if (id == null) {
+    //        $.msgBox({
+    //            title: "Hệ thống",
+    //            type: "error",
+    //            content: "Bạn phải chọn dữ liệu trước khi cập nhật!",
+    //            buttons: [{ value: "Đồng ý" }],
+    //            success: function () {
+    //            }
+    //        });
+    //        return;
+    //    }
+    //    InitChildWindowModal('/system/CompanyBank/TextNote?id=' + id, 550, 330, "Cập nhật ghi chú");
+    //});
 
     $('#btnDeleteTextNote').click(function () {
         var id = GetGridRowSelectedKeyValue("#grdMainTextNote");

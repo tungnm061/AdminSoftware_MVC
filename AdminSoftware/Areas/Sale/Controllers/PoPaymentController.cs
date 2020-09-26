@@ -59,7 +59,9 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 {
                     PoPaymentId = 0,
                     RateMoney = 1,
-                    TradingDate = DateTime.Now
+                    TradingDate = DateTime.Now,
+                    TradingBy = UserLogin.UserId,
+                    Status = 1
                 });
             }
             return PartialView(_poPaymentBll.GetPoPayment(long.Parse(id)));
@@ -69,7 +71,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
         {
             try
             {
-                model.TypeMoney = 1;
+
                 if (model == null)
                 {
                     return Json(new { Status = 0, Message = MessageAction.DataIsEmpty }, JsonRequestBehavior.AllowGet);
@@ -86,8 +88,22 @@ namespace AdminSoftware.Areas.Sale.Controllers
                     }, JsonRequestBehavior.AllowGet);
                 }
 
+                if (model.Status == 3)
+                {
+                    return Json(new { Status = -1, Message = MessageAction.DuLieuKhongTheUpdate },
+                        JsonRequestBehavior.AllowGet);
+                }
+
+                model.TypeMoney = 1;
                 if (model.PoPaymentId <= 0)
                 {
+                    model.Path = UserLogin.Path;
+                    model.Status = 1;
+                    if (string.IsNullOrEmpty(model.Path))
+                    {
+                        return Json(new { Status = -1, Message = MessageAction.TaiKhoanKhongCoQuyenTao },
+                            JsonRequestBehavior.AllowGet);
+                    }
                     model.CreateDate = DateTime.Now;
                     model.CreateBy = UserLogin.UserId;
                     if (_poPaymentBll.Insert(model) > 0)
@@ -98,6 +114,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
                     return Json(new { Status = 0, Message = MessageAction.MessageActionFailed },
                         JsonRequestBehavior.AllowGet);
                 }
+
 
                 if (_poPaymentBll.Update(model))
                 {

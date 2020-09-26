@@ -127,7 +127,12 @@ namespace AdminSoftware.Areas.Sale.Controllers
             return Json(listOrderStatistical,
                 JsonRequestBehavior.AllowGet);
         }
-        
+
+        public JsonResult ClearSession()
+        {
+            return null;
+        }
+
 
     }
 }

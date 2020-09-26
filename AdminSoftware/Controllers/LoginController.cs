@@ -38,6 +38,13 @@ namespace AdminSoftware.Controllers
                     return Json(new {Status = 0, Message = "Tài khoản của bạn đã bị khóa!"},
                         JsonRequestBehavior.AllowGet);
                 }
+
+                user = _userBll.GetUser(user.UserId);
+                if (user == null)
+                {
+                    return Json(new { Status = 0, Message = "Thông tin đăng nhập không chính xác!" },
+                        JsonRequestBehavior.AllowGet);
+                }
                 Session["UserModel"] = user;
                 var ckUserId = new HttpCookie("UserId")
                 {

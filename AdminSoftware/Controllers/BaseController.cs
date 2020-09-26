@@ -51,7 +51,36 @@ namespace AdminSoftware.Controllers
                 }
             }
             else
+            {
+
+                var functionRight = (Rights)System.Web.HttpContext.Current.Session["FunctionRights"];
+                if (functionRight != null)
+                {
+                    var actionName = filterContext.ActionDescriptor.ActionName.ToString();
+                    if (actionName == "Save" && (!functionRight.IsCreate && !functionRight.IsEdit))
+                    {
+                        var jsonResult = new JsonResult();
+                        jsonResult.Data = new { Status = -1, Message = "Bạn không có quyền thêm" };
+                        jsonResult.JsonRequestBehavior = JsonRequestBehavior.AllowGet;
+
+                        filterContext.Result = jsonResult;
+                        base.OnActionExecuting(filterContext);
+                        return;
+                    }
+                    if (actionName == "Delete" && !functionRight.IsDelete)
+                    {
+                        var jsonResult = new JsonResult();
+                        jsonResult.Data = new { Status = -1, Message = "Bạn không có quyền xóa" };
+                        jsonResult.JsonRequestBehavior = JsonRequestBehavior.AllowGet;
+
+                        filterContext.Result = jsonResult;
+                        base.OnActionExecuting(filterContext);
+                        return ;
+                    }
+                }
                 base.OnActionExecuting(filterContext);
+
+            }
         }
 
         public ActionResult ChangePassword()
@@ -135,5 +164,6 @@ namespace AdminSoftware.Controllers
                 return Json(new {Status = 0, ex.Message}, JsonRequestBehavior.AllowGet);
             }
         }
+
     }
 }
