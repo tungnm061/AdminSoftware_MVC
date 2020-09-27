@@ -62,7 +62,7 @@ namespace DataAccess.Sale
             {
                 var param = new DynamicParameters();
                 param.Add("@OrderId", obj.OrderId, DbType.Int64, ParameterDirection.Output);
-                param.Add("@OrderCode", obj.OrderCode);
+                param.Add("@OrderCode", obj.OrderCode.Trim());
                 param.Add("@FirstName", obj.FirstName);
                 param.Add("@LastName", obj.LastName);
                 param.Add("@Email", obj.Email);
@@ -88,9 +88,11 @@ namespace DataAccess.Sale
                 param.Add("@RateMoney", obj.RateMoney);
                 param.Add("@StartDate", obj.StartDate);
                 param.Add("@TrackingCode", obj.TrackingCode);
-
-                if (UnitOfWork.ProcedureExecute("[sale].[Order_Insert]", param))
+                var insert = UnitOfWork.ProcedureExecute("[sale].[Order_Insert]", param);
+                if (insert)
+                {
                     return param.Get<long>("@OrderId");
+                }
                 return 0;
             }
             catch (Exception ex)
@@ -100,12 +102,14 @@ namespace DataAccess.Sale
             }
         }
 
-        public bool Update(Order obj)
+        public int Update(Order obj)
         {
             try
             {
                 var param = new DynamicParameters();
+                param.Add("@Result", null, DbType.Int32, ParameterDirection.Output);
                 param.Add("@OrderId", obj.OrderId);
+                param.Add("@OrderCode", obj.OrderCode);
                 param.Add("@FirstName", obj.FirstName);
                 param.Add("@LastName", obj.LastName);
                 param.Add("@Email", obj.Email);
@@ -130,12 +134,17 @@ namespace DataAccess.Sale
                 param.Add("@RateMoney", obj.RateMoney);
                 param.Add("@StartDate", obj.StartDate);
                 param.Add("@TrackingCode", obj.TrackingCode);
-                return UnitOfWork.ProcedureExecute("[sale].[Order_Update]", param);
+                var update = UnitOfWork.ProcedureExecute("[sale].[Order_Update]", param);
+                if (update)
+                {
+                    return param.Get<int>("@Result");
+                }
+                return 0;
             }
             catch (Exception ex)
             {
                 Logging.PutError(ex.Message, ex);
-                return false;
+                return 0;
             }
         }
 

@@ -924,6 +924,7 @@
     <Content Include="Areas\System\Views\ConfirmCompanyBank\TextNote.cshtml" />
     <Content Include="Areas\Sale\Views\ConfirmPoPayment\Index.cshtml" />
     <Content Include="Areas\Sale\Views\ConfirmPoPayment\PoPayment.cshtml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

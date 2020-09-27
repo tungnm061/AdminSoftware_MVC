@@ -1,15 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entity.Helper.ExtendedAttributes;
 
 namespace Entity.Sale
 {
     public class Order
     {
+        [LocalizeRequired]
         public long OrderId { get; set; }
 
+        [LocalizeRequired]
+        [DisplayName("Mã đơn hàng")]
         public string OrderCode { get; set; }
 
         public string FirstName { get; set; }
@@ -34,6 +39,8 @@ namespace Entity.Sale
 
         public string Description { get; set; }
 
+        [LocalizeRequired]
+        [DisplayName("Tài khoản gmail")]
         public int GmailId { get; set; }
 
         public int CreateBy { get; set; }
@@ -44,18 +51,26 @@ namespace Entity.Sale
 
         public DateTime? UpdateDate { get; set; }
 
+        [LocalizeRequired]
+        [DisplayName("Trạng thái")]
         public byte Status { get; set; }
 
         public bool IsActive { get; set; }
 
         public List<OrderDetail> OrderDetails { get; set; }
         public DateTime? FinishDate { get; set; }
-        public int ProducerId { get; set; }
+        [LocalizeRequired]
+        [DisplayName("Nhà sản xuất")]
+        public int? ProducerId { get; set; }
         public byte TypeMoney { get; set; }
-        public decimal ShipMoney { get; set; }
+        [LocalizeRequired]
+        [DisplayName("Tiền ship")]
+        public decimal? ShipMoney { get; set; }
         public decimal TotalPrince { get; set; }
         public decimal? RateMoney { get; set; }
         public string TrackingCode { get; set; }
+        [LocalizeRequired]
+        [DisplayName("Ngày đặt đơn")]
         public DateTime StartDate { get; set; }
 
     }

@@ -37,13 +37,13 @@ namespace BusinessLogic.Sale
             return _orderDal.Delete(id);
         }
 
-        public bool Insert(Order obj)
+        public long Insert(Order obj)
         {
             try
             {
                 if (obj == null || !obj.OrderDetails.Any())
                 {
-                    return false;
+                    return 0;
                 }
 
                 using (var scope = new TransactionScope())
@@ -54,53 +54,56 @@ namespace BusinessLogic.Sale
                         if (_orderDetailDal.Insert(orderId, obj.OrderDetails))
                         {
                             scope.Complete();
-                            return true;
+                            return orderId;
                         }
                         scope.Dispose();
-                        return false;
+                        return 0;
                     }
                     scope.Dispose();
-                    return false;
+                    return orderId;
                 }
             }
             catch (Exception ex)
             {
                 Logging.PutError(ex.Message, ex);
-                return false;
+                return 0;
             }
         }
 
-        public bool Update(Order Order)
+        public int Update(Order Order)
         {
             try
             {
                 if (Order == null || !Order.OrderDetails.Any())
                 {
-                    return false;
+                    return 0;
                 }
-                var OrderOld = _orderDal.GetOrder(Order.OrderId);
-                if (OrderOld == null)
+                var obj = _orderDal.GetOrder(Order.OrderId);
+                if (obj == null)
                 {
-                    return false;
+                    return 0;
                 }
                 using (var scope = new TransactionScope())
                 {
-                    if (_orderDal.Update(Order))
+                    int update = _orderDal.Update(Order);
+                    if (update > 0)
                     {
-                        if (!_orderDetailDal.Insert(Order.OrderId, Order.OrderDetails))
+                        if (_orderDetailDal.Insert(Order.OrderId, Order.OrderDetails))
                         {
-                            scope.Dispose();
-                            return false;
+                            scope.Complete();
+                            return 1;
                         }
+                        scope.Dispose();
+                        return 0;
                     }
-                    scope.Complete();
-                    return true;
+                    scope.Dispose();
+                    return update;
                 }
             }
             catch (Exception ex)
             {
                 Logging.PutError(ex.Message, ex);
-                return false;
+                return 0;
             }
         }
 

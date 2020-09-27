@@ -39,6 +39,7 @@
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net40\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -70,6 +71,11 @@
     <Compile Include="FastAccounting\TongKetSoQuy.cs" />
     <Compile Include="FastAccounting\TongKetTienGuiNh.cs" />
     <Compile Include="FastAccounting\TonKho.cs" />
+    <Compile Include="Helper\ExtendedAttributes\CustomizeAuthorization.cs" />
+    <Compile Include="Helper\ExtendedAttributes\LocalizeDisplayName.cs" />
+    <Compile Include="Helper\ExtendedAttributes\LocalizeRegularExpression.cs" />
+    <Compile Include="Helper\ExtendedAttributes\LocalizeRequired.cs" />
+    <Compile Include="Helper\ExtendedAttributes\LocalizeStringLength.cs" />
     <Compile Include="Hrm\AllocationDetail.cs" />
     <Compile Include="Hrm\Applicant.cs" />
     <Compile Include="Hrm\CheckTimeSheet.cs" />

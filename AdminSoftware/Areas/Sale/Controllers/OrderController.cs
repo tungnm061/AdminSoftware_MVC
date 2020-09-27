@@ -129,7 +129,8 @@ namespace AdminSoftware.Areas.Sale.Controllers
                     OrderId = 0,
                     StartDate = DateTime.Now,
                     Status = 1,
-                    ProducerId = 1
+                    ProducerId = 1,
+                    ShipMoney = 0
                 };
             }
             return PartialView(obj);
@@ -141,7 +142,7 @@ namespace AdminSoftware.Areas.Sale.Controllers
             {
                 if (!OrderDetailsInMemory.Any() || model == null)
                 {
-                    return Json(new { Status = 0, Message = MessageAction.DataIsEmpty }, JsonRequestBehavior.AllowGet);
+                    return Json(new { Status = 0, Message = "Bạn phải nhập dữ liệu sản phẩm đơn hàng!" }, JsonRequestBehavior.AllowGet);
                 }
                 if (!ModelState.IsValid)
                 {
@@ -156,15 +157,19 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 }
 
                 model.OrderDetails = OrderDetailsInMemory;
-                model.TotalPrince = model.OrderDetails.Sum(x => x.Price) - model.ShipMoney;
+                model.TotalPrince = model.OrderDetails.Sum(x => x.Price) - model.ShipMoney??0;
                 if (model.OrderId == 0)
                 {
                     model.CreateBy = UserLogin.UserId;
                     model.CreateDate = DateTime.Now;
-
-                    if (_orderBll.Insert(model))
+                    var insert = _orderBll.Insert(model);
+                    if (insert > 0)
                     {
                         return Json(new { Status = 1, Message = MessageAction.MessageCreateSuccess },
+                            JsonRequestBehavior.AllowGet);
+                    }else if (insert == -1)
+                    {
+                        return Json(new { Status = 0, Message = MessageAction.CodeAlreadyExists },
                             JsonRequestBehavior.AllowGet);
                     }
                     return Json(new { Status = 0, Message = MessageAction.MessageActionFailed },
@@ -172,12 +177,18 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 }
                 model.UpdateBy = UserLogin.UserId;
                 model.UpdateDate = DateTime.Now;
-                if (!_orderBll.Update(model))
+                int update = _orderBll.Update(model);
+                if (update > 0)
                 {
-                    return Json(new { Status = 0, Message = MessageAction.MessageActionFailed },
+                    return Json(new { Status = 1, Message = MessageAction.MessageUpdateSuccess },
                         JsonRequestBehavior.AllowGet);
                 }
-                return Json(new { Status = 1, Message = MessageAction.MessageUpdateSuccess },
+                else if (update == -1)
+                {
+                    return Json(new { Status = 0, Message = MessageAction.CodeAlreadyExists },
+                        JsonRequestBehavior.AllowGet);
+                }
+                return Json(new { Status = 0, Message = MessageAction.MessageActionFailed },
                     JsonRequestBehavior.AllowGet);
             }
             catch (Exception ex)

@@ -14,6 +14,7 @@
         public const string MessageImportSuccess = "Import dữ liệu thành công!";
         public const string TaiKhoanKhongCoQuyenTao = "Tài khoản này không được phép tạo";
         public const string DuLieuKhongTheUpdate = "Bạn không thể cập nhật bản ghi này";
+        public const string CodeAlreadyExists = "Mã code đã tồn tại trong hệ thống";
 
     }
 }
