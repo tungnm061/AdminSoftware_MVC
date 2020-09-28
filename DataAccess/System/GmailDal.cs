@@ -65,12 +65,12 @@ namespace DataAccess.System
             }
         }
 
-        public List<Gmail> GetGmails()
+        public List<Gmail> GetGmails(bool? isActive)
         {
             try
             {
                 return
-                    UnitOfWork.Procedure<Gmail>("[dbo].[Gmail_GetAll]", new { })
+                    UnitOfWork.Procedure<Gmail>("[dbo].[Gmail_GetAll]", new { IsActive = isActive })
                         .ToList();
             }
             catch (Exception ex)

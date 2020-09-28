@@ -1,0 +1,28 @@
+2019-05-06 10:40:00,024: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 06/05/2019 10:40 AM
+2019-05-06 10:40:00,024: ERROR Logging – Start Job NotificationWorkPlan: 06/05/2019 10:40 AM
+2019-05-06 10:40:00,024: ERROR Logging – Start Job NotificationWorkPlan: 06/05/2019 10:40 AM
+2019-05-06 10:40:00,024: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 06/05/2019 10:40 AM
+2019-05-06 10:40:03,986: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-05-06 10:40:03,986: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-05-06 10:40:53,831: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-06 10:40:53,831: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-06 10:41:49,294: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-06 10:41:49,294: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-06 10:50:00,014: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 06/05/2019 10:50 AM
+2019-05-06 10:50:00,014: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 06/05/2019 10:50 AM
+2019-05-06 10:50:00,014: ERROR Logging – Start Job NotificationWorkPlan: 06/05/2019 10:50 AM
+2019-05-06 10:50:00,014: ERROR Logging – Start Job NotificationWorkPlan: 06/05/2019 10:50 AM
+2019-05-06 11:00:00,013: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 06/05/2019 11:00 AM
+2019-05-06 11:00:00,013: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 06/05/2019 11:00 AM
+2019-05-06 11:00:00,013: ERROR Logging – Start Job NotificationWorkPlan: 06/05/2019 11:00 AM
+2019-05-06 11:00:00,013: ERROR Logging – Start Job NotificationWorkPlan: 06/05/2019 11:00 AM
+2019-05-06 11:00:00,013: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 06/05/2019 11:00 AM
+2019-05-06 11:00:00,013: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 06/05/2019 11:00 AM
+2019-05-06 11:09:01,797: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-06 11:09:01,797: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-06 11:09:05,543: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-06 11:09:05,543: ERROR Logging – The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-06 11:10:00,010: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 06/05/2019 11:10 AM
+2019-05-06 11:10:00,010: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 06/05/2019 11:10 AM
+2019-05-06 11:10:00,010: ERROR Logging – Start Job NotificationWorkPlan: 06/05/2019 11:10 AM
+2019-05-06 11:10:00,010: ERROR Logging – Start Job NotificationWorkPlan: 06/05/2019 11:10 AM

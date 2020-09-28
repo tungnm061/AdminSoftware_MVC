@@ -1,0 +1,784 @@
+2018-10-20 08:52:41,090: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 08:52:41,090: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 08:57:25,525: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 08:57:25,525: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:00:00,034: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:00 AM
+2018-10-20 09:00:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:00 AM
+2018-10-20 09:00:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:00 AM
+2018-10-20 09:00:00,034: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:00 AM
+2018-10-20 09:10:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:10 AM
+2018-10-20 09:10:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:10 AM
+2018-10-20 09:10:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:10 AM
+2018-10-20 09:10:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:10 AM
+2018-10-20 09:17:26,875: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:17:26,875: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:20:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:20 AM
+2018-10-20 09:20:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:20 AM
+2018-10-20 09:20:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:20 AM
+2018-10-20 09:20:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:20 AM
+2018-10-20 09:22:34,473: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:22:34,473: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:25:00,405: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:25:00,405: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:25:32,931: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 09:25:32,931: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 09:25:32,967: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 09:25:32,967: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 09:25:33,008: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 09:25:33,008: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 09:27:19,407: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:27:19,407: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:31:19,841: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:31:19,841: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:32:44,917: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:32:44,917: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:37:45,120: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:37:45,120: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:38:28,519: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:38:28,519: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:40:00,038: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:40 AM
+2018-10-20 09:40:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:40 AM
+2018-10-20 09:40:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:40 AM
+2018-10-20 09:40:00,038: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:40 AM
+2018-10-20 09:43:27,246: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:43:27,246: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 09:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:50 AM
+2018-10-20 09:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 09:50 AM
+2018-10-20 09:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:50 AM
+2018-10-20 09:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 09:50 AM
+2018-10-20 10:01:31,356: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:01:31,356: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:02:31,319: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 10:02:31,319: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 10:02:31,346: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 10:02:31,346: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 10:02:31,485: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 10:02:31,485: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 10:06:09,911: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:06:09,911: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:07:25,245: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:07:25,245: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:09:15,690: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:09:15,690: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:10:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:10 AM
+2018-10-20 10:10:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:10 AM
+2018-10-20 10:10:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:10 AM
+2018-10-20 10:10:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:10 AM
+2018-10-20 10:11:44,583: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:11:44,583: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:15:38,432: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:15:38,432: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:15:52,019: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:15:52,019: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:16:26,082: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:16:26,082: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:20:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:20 AM
+2018-10-20 10:20:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:20 AM
+2018-10-20 10:20:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:20 AM
+2018-10-20 10:20:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:20 AM
+2018-10-20 10:20:19,146: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:20:19,146: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:20:56,656: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:20:56,656: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:22:04,275: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:22:04,275: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:23:36,658: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:23:36,658: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 10:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:30 AM
+2018-10-20 10:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:30 AM
+2018-10-20 10:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:30 AM
+2018-10-20 10:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:30 AM
+2018-10-20 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:40 AM
+2018-10-20 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:40 AM
+2018-10-20 10:40:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:40 AM
+2018-10-20 10:40:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:40 AM
+2018-10-20 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:50 AM
+2018-10-20 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 10:50 AM
+2018-10-20 10:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:50 AM
+2018-10-20 10:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 10:50 AM
+2018-10-20 11:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:00 AM
+2018-10-20 11:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:00 AM
+2018-10-20 11:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:00 AM
+2018-10-20 11:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:00 AM
+2018-10-20 11:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 20/10/2018 11:00 AM
+2018-10-20 11:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 20/10/2018 11:00 AM
+2018-10-20 11:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:10 AM
+2018-10-20 11:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:10 AM
+2018-10-20 11:10:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:10 AM
+2018-10-20 11:10:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:10 AM
+2018-10-20 11:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:20 AM
+2018-10-20 11:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:20 AM
+2018-10-20 11:20:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:20 AM
+2018-10-20 11:20:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:20 AM
+2018-10-20 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:30 AM
+2018-10-20 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:30 AM
+2018-10-20 11:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:30 AM
+2018-10-20 11:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:30 AM
+2018-10-20 11:31:58,654: ERROR Logging ・Procedure or function 'Get_FactorWorkKpis' expects parameter '@TotalDay', which was not supplied.; Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'Get_FactorWorkKpis' expects parameter '@TotalDay', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+ClientConnectionId:87addca5-43f4-4883-9fc3-02f46afe8202
+Error Number:201,State:4,Class:16
+2018-10-20 11:31:58,654: ERROR Logging ・Procedure or function 'Get_FactorWorkKpis' expects parameter '@TotalDay', which was not supplied.; Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'Get_FactorWorkKpis' expects parameter '@TotalDay', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+ClientConnectionId:87addca5-43f4-4883-9fc3-02f46afe8202
+Error Number:201,State:4,Class:16
+2018-10-20 11:31:58,781: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 11:31:58,781: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 11:36:14,214: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 11:36:14,214: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 11:40:00,051: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:40 AM
+2018-10-20 11:40:00,051: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:40 AM
+2018-10-20 11:40:00,051: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:40 AM
+2018-10-20 11:40:00,051: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:40 AM
+2018-10-20 11:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:50 AM
+2018-10-20 11:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 11:50 AM
+2018-10-20 11:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:50 AM
+2018-10-20 11:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 11:50 AM
+2018-10-20 12:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:00 PM
+2018-10-20 12:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:00 PM
+2018-10-20 12:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:00 PM
+2018-10-20 12:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:00 PM
+2018-10-20 12:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:10 PM
+2018-10-20 12:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:10 PM
+2018-10-20 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:10 PM
+2018-10-20 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:10 PM
+2018-10-20 12:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:20 PM
+2018-10-20 12:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:20 PM
+2018-10-20 12:20:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:20 PM
+2018-10-20 12:20:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:20 PM
+2018-10-20 12:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:30 PM
+2018-10-20 12:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:30 PM
+2018-10-20 12:30:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:30 PM
+2018-10-20 12:30:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:30 PM
+2018-10-20 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:40 PM
+2018-10-20 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:40 PM
+2018-10-20 12:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:40 PM
+2018-10-20 12:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:40 PM
+2018-10-20 12:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:50 PM
+2018-10-20 12:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 12:50 PM
+2018-10-20 12:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:50 PM
+2018-10-20 12:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 12:50 PM
+2018-10-20 13:00:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:00 PM
+2018-10-20 13:00:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:00 PM
+2018-10-20 13:00:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:00 PM
+2018-10-20 13:00:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:00 PM
+2018-10-20 13:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:10 PM
+2018-10-20 13:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:10 PM
+2018-10-20 13:10:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:10 PM
+2018-10-20 13:10:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:10 PM
+2018-10-20 13:16:15,307: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:16:15,307: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:16:21,506: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:16:21,506: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:16:21,576: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:16:21,576: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:16:21,751: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:16:21,751: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:18:44,947: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:18:44,947: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:18:51,394: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:18:51,394: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:18:51,473: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:18:51,473: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:18:51,595: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:18:51,595: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:19:34,689: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:19:34,689: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:19:35,715: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:19:35,715: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:19:35,788: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:19:35,788: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:19:40,404: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:19:40,404: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:19:40,426: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:19:40,426: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:19:40,532: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:19:40,532: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:20:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:20 PM
+2018-10-20 13:20:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:20 PM
+2018-10-20 13:20:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:20 PM
+2018-10-20 13:20:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:20 PM
+2018-10-20 13:20:14,001: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:20:14,001: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:20:17,632: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:20:17,632: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:20:17,707: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:20:17,707: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:20:17,800: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:20:17,800: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:21:19,444: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:21:19,444: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:21:20,395: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:21:20,395: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:21:20,836: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:21:20,836: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:21:23,975: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:21:23,975: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:21:24,057: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:21:24,057: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:21:24,140: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:21:24,140: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:23:10,105: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:23:10,105: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:23:11,503: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:23:11,503: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:23:11,566: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:23:11,566: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:30:00,049: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:30 PM
+2018-10-20 13:30:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:30 PM
+2018-10-20 13:30:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:30 PM
+2018-10-20 13:30:00,049: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:30 PM
+2018-10-20 13:33:30,551: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:33:30,551: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:33:31,216: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:33:31,216: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:33:31,311: ERROR Logging ・Error parsing column 6 (TotalUsefulHours=6 - Int32); Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.DataException: Error parsing column 6 (TotalUsefulHours=6 - Int32) ---> System.InvalidCastException: Invalid cast from 'System.Int32' to 'System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at System.Int32.System.IConvertible.ToType(Type type, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+2018-10-20 13:33:31,311: ERROR Logging ・Error parsing column 6 (TotalUsefulHours=6 - Int32); Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.DataException: Error parsing column 6 (TotalUsefulHours=6 - Int32) ---> System.InvalidCastException: Invalid cast from 'System.Int32' to 'System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at System.Int32.System.IConvertible.ToType(Type type, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+2018-10-20 13:33:31,644: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:33:31,644: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:34:16,521: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:34:16,521: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:34:36,515: ERROR Logging ・A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.); Url: http://localhost:60603/Dashboard/Notifications; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) ---> System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.NotificationDal.GetNotifications(Int32 userId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\NotificationDal.cs:line 17
+ClientConnectionId:9b36eec4-bb13-4dec-ba75-834d439f4040
+Error Number:121,State:0,Class:20
+2018-10-20 13:34:36,515: ERROR Logging ・A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.); Url: http://localhost:60603/Dashboard/Notifications; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) ---> System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.NotificationDal.GetNotifications(Int32 userId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\NotificationDal.cs:line 17
+ClientConnectionId:9b36eec4-bb13-4dec-ba75-834d439f4040
+Error Number:121,State:0,Class:20
+2018-10-20 13:34:36,853: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:34:36,853: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:34:42,271: ERROR Logging ・Error parsing column 6 (TotalUsefulHours=6 - Int32); Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.DataException: Error parsing column 6 (TotalUsefulHours=6 - Int32) ---> System.InvalidCastException: Invalid cast from 'System.Int32' to 'System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at System.Int32.System.IConvertible.ToType(Type type, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+2018-10-20 13:34:42,271: ERROR Logging ・Error parsing column 6 (TotalUsefulHours=6 - Int32); Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.DataException: Error parsing column 6 (TotalUsefulHours=6 - Int32) ---> System.InvalidCastException: Invalid cast from 'System.Int32' to 'System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at System.Int32.System.IConvertible.ToType(Type type, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+2018-10-20 13:34:42,516: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:34:42,516: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:34:43,239: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:34:43,239: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:34:43,985: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:34:43,985: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:34:44,081: ERROR Logging ・Error parsing column 6 (TotalUsefulHours=6 - Int32); Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.DataException: Error parsing column 6 (TotalUsefulHours=6 - Int32) ---> System.InvalidCastException: Invalid cast from 'System.Int32' to 'System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at System.Int32.System.IConvertible.ToType(Type type, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+2018-10-20 13:34:44,081: ERROR Logging ・Error parsing column 6 (TotalUsefulHours=6 - Int32); Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.DataException: Error parsing column 6 (TotalUsefulHours=6 - Int32) ---> System.InvalidCastException: Invalid cast from 'System.Int32' to 'System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at System.Int32.System.IConvertible.ToType(Type type, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+2018-10-20 13:34:44,425: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:34:44,425: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:34:53,925: ERROR Logging ・Error parsing column 6 (TotalUsefulHours=6 - Int32); Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.DataException: Error parsing column 6 (TotalUsefulHours=6 - Int32) ---> System.InvalidCastException: Invalid cast from 'System.Int32' to 'System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at System.Int32.System.IConvertible.ToType(Type type, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+2018-10-20 13:34:53,925: ERROR Logging ・Error parsing column 6 (TotalUsefulHours=6 - Int32); Url: http://localhost:60603/hrm/StatisticalFactorWork/StatisticalFactorWorks; Error: 
+System.Data.DataException: Error parsing column 6 (TotalUsefulHours=6 - Int32) ---> System.InvalidCastException: Invalid cast from 'System.Int32' to 'System.Nullable`1[[System.Decimal, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at System.Int32.System.IConvertible.ToType(Type type, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec60bc0ee-cbc0-438e-9c3f-91c14e54be37(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 69
+2018-10-20 13:47:00,023: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:47:00,023: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:47:30,911: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:47:30,911: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:49:29,183: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:49:29,183: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:49:39,777: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:49:39,777: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:50:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:50 PM
+2018-10-20 13:50:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:50 PM
+2018-10-20 13:50:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 01:50 PM
+2018-10-20 13:50:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 01:50 PM
+2018-10-20 13:50:17,150: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:50:17,150: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:51:02,038: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:51:02,038: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:54:57,742: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:54:57,742: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 13:55:06,685: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:55:06,685: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:55:06,778: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:55:06,778: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 13:55:07,079: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:55:07,079: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:55:07,278: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:55:07,278: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 13:55:08,472: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 13:55:08,472: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:00:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:00 PM
+2018-10-20 14:00:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:00 PM
+2018-10-20 14:00:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:00 PM
+2018-10-20 14:00:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:00 PM
+2018-10-20 14:01:20,130: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:01:20,130: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:02:36,585: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:02:36,585: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:10:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:10 PM
+2018-10-20 14:10:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:10 PM
+2018-10-20 14:10:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:10 PM
+2018-10-20 14:10:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:10 PM
+2018-10-20 14:12:53,128: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 14:12:53,128: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 14:12:53,226: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 14:12:53,226: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 14:12:53,682: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 14:12:53,682: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 14:13:01,880: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:13:01,880: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:16:34,422: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:16:34,422: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:16:41,182: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:16:41,182: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:20:00,047: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:20 PM
+2018-10-20 14:20:00,048: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:20 PM
+2018-10-20 14:20:00,048: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:20 PM
+2018-10-20 14:20:00,047: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:20 PM
+2018-10-20 14:23:14,682: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:23:14,682: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:29:16,774: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:29:16,774: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:29:27,446: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:29:27,446: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:30 PM
+2018-10-20 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:30 PM
+2018-10-20 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:30 PM
+2018-10-20 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:30 PM
+2018-10-20 14:32:22,927: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:32:22,927: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:34:05,277: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:34:05,277: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:34:24,866: ERROR Logging ・A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.); Url: http://localhost:60603/hrm/UsefulHourAdmin/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) ---> System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 104
+ClientConnectionId:2cd95a61-bc3b-40ff-92f8-880c3fb1c04a
+Error Number:121,State:0,Class:20
+2018-10-20 14:34:24,866: ERROR Logging ・A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.); Url: http://localhost:60603/hrm/UsefulHourAdmin/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) ---> System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 104
+ClientConnectionId:2cd95a61-bc3b-40ff-92f8-880c3fb1c04a
+Error Number:121,State:0,Class:20
+2018-10-20 14:34:38,868: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:34:38,868: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:37:24,604: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:37:24,604: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:39:07,171: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:39:07,171: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:39:14,252: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 14:39:14,252: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 14:39:14,267: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 14:39:14,267: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 14:39:14,303: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 14:39:14,303: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 14:39:34,490: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:39:34,490: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:40:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:40 PM
+2018-10-20 14:40:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:40 PM
+2018-10-20 14:40:00,026: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:40 PM
+2018-10-20 14:40:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:40 PM
+2018-10-20 14:41:20,006: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:41:20,006: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:41:24,838: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 14:41:24,838: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 14:41:24,888: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 14:41:24,888: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 14:41:24,906: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 14:41:24,906: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 14:41:56,422: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:41:56,422: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:42:28,586: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:42:28,586: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:47:13,045: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:47:13,045: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:48:49,168: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:48:49,168: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:49:52,189: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:49:52,189: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:50:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:50 PM
+2018-10-20 14:50:00,047: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:50 PM
+2018-10-20 14:50:00,047: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 02:50 PM
+2018-10-20 14:50:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 02:50 PM
+2018-10-20 14:55:28,897: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:55:28,897: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:57:44,184: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 14:57:44,184: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 14:57:44,245: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 14:57:44,245: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 14:57:44,292: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 14:57:44,292: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 14:58:43,386: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:58:43,386: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:59:10,198: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 14:59:10,198: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:00:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:00 PM
+2018-10-20 15:00:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:00 PM
+2018-10-20 15:00:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:00 PM
+2018-10-20 15:00:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:00 PM
+2018-10-20 15:02:03,154: ERROR Logging ・The controller for path '/sale' was not found or does not implement IController.
+2018-10-20 15:02:03,154: ERROR Logging ・The controller for path '/sale' was not found or does not implement IController.
+2018-10-20 15:02:52,827: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:02:52,827: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:05:51,371: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:05:51,371: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:06:00,539: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:06:00,539: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:06:00,605: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:06:00,605: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:06:00,737: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:06:00,737: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:08:51,380: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:08:51,380: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:08:55,225: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:08:55,225: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:08:55,239: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:08:55,239: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:08:55,272: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:08:55,272: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:09:48,568: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:09:48,568: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:09:51,125: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:09:51,125: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:09:51,193: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:09:51,193: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:09:51,256: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:09:51,256: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:10:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:10 PM
+2018-10-20 15:10:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:10 PM
+2018-10-20 15:10:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:10 PM
+2018-10-20 15:10:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:10 PM
+2018-10-20 15:10:20,016: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:10:20,016: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:10:20,798: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:10:20,798: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:10:20,913: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:10:20,913: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:11:09,920: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:11:09,920: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:11:49,567: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:11:49,567: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:12:08,835: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:12:08,835: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:12:42,840: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:12:42,840: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:13:03,668: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:13:03,668: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:15:41,905: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:15:41,905: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:17:54,161: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:17:54,161: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:20 PM
+2018-10-20 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:20 PM
+2018-10-20 15:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:20 PM
+2018-10-20 15:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:20 PM
+2018-10-20 15:20:14,475: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:20:14,475: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:22:08,749: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:22:08,749: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:24:04,202: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:24:04,202: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:24:30,220: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:24:30,220: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:26:56,795: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:26:56,795: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:29:06,383: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:29:06,383: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:30 PM
+2018-10-20 15:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:30 PM
+2018-10-20 15:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:30 PM
+2018-10-20 15:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:30 PM
+2018-10-20 15:30:47,741: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:30:47,741: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:30:47,749: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:30:47,749: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:30:47,776: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:30:47,776: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:33:11,666: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-10-20 15:33:11,666: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-10-20 15:34:34,291: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-10-20 15:34:34,291: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-10-20 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:40 PM
+2018-10-20 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:40 PM
+2018-10-20 15:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:40 PM
+2018-10-20 15:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:40 PM
+2018-10-20 15:43:56,372: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:43:56,372: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:44:44,206: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:44:44,206: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:46:07,714: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:46:07,714: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 15:50:00,051: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:50 PM
+2018-10-20 15:50:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:50 PM
+2018-10-20 15:50:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 03:50 PM
+2018-10-20 15:50:00,051: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 03:50 PM
+2018-10-20 15:58:40,822: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:58:40,822: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 15:58:41,368: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:58:41,368: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 15:58:41,402: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 15:58:41,402: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 16:00:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 20/10/2018 04:00 PM
+2018-10-20 16:00:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 04:00 PM
+2018-10-20 16:00:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 04:00 PM
+2018-10-20 16:00:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 04:00 PM
+2018-10-20 16:00:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 20/10/2018 04:00 PM
+2018-10-20 16:00:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 04:00 PM
+2018-10-20 16:00:50,090: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 16:00:50,090: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 16:02:25,944: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 16:02:25,944: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 16:02:45,168: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 16:02:45,168: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-20 16:02:45,232: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 16:02:45,232: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-20 16:02:45,263: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 16:02:45,263: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-20 16:10:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 04:10 PM
+2018-10-20 16:10:00,044: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 04:10 PM
+2018-10-20 16:10:00,044: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 04:10 PM
+2018-10-20 16:10:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 04:10 PM
+2018-10-20 16:13:46,988: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 16:13:46,988: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-20 16:20:00,040: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 04:20 PM
+2018-10-20 16:20:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 04:20 PM
+2018-10-20 16:20:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 04:20 PM
+2018-10-20 16:20:00,040: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 04:20 PM
+2018-10-20 16:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 04:30 PM
+2018-10-20 16:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 20/10/2018 04:30 PM
+2018-10-20 16:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 04:30 PM
+2018-10-20 16:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 20/10/2018 04:30 PM

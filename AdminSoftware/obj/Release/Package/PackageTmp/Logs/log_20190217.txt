@@ -1,0 +1,12 @@
+2019-02-17 22:48:14,806: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-17 22:48:14,806: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-17 22:48:31,716: ERROR Logging – The controller for path '/sale/ClearSession' was not found or does not implement IController.
+2019-02-17 22:48:31,716: ERROR Logging – The controller for path '/sale/ClearSession' was not found or does not implement IController.
+2019-02-17 22:50:00,056: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/02/2019 10:50 PM
+2019-02-17 22:50:00,056: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/02/2019 10:50 PM
+2019-02-17 23:00:00,054: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/02/2019 11:00 PM
+2019-02-17 23:00:00,054: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/02/2019 11:00 PM
+2019-02-17 23:10:00,014: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/02/2019 11:10 PM
+2019-02-17 23:10:00,014: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/02/2019 11:10 PM
+2019-02-17 23:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/02/2019 11:20 PM
+2019-02-17 23:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/02/2019 11:20 PM

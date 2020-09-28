@@ -97,13 +97,13 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 model.TypeMoney = 1;
                 if (model.PoPaymentId <= 0)
                 {
-                    model.Path = UserLogin.Path;
                     model.Status = 1;
-                    if (string.IsNullOrEmpty(model.Path))
-                    {
-                        return Json(new { Status = -1, Message = MessageAction.TaiKhoanKhongCoQuyenTao },
-                            JsonRequestBehavior.AllowGet);
-                    }
+                    //model.Path = UserLogin.Path;
+                    //if (string.IsNullOrEmpty(model.Path))
+                    //{
+                    //    return Json(new { Status = -1, Message = MessageAction.TaiKhoanKhongCoQuyenTao },
+                    //        JsonRequestBehavior.AllowGet);
+                    //}
                     model.CreateDate = DateTime.Now;
                     model.CreateBy = UserLogin.UserId;
                     if (_poPaymentBll.Insert(model) > 0)

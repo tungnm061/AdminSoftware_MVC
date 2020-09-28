@@ -1,0 +1,64 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Xác nhận giao dịch";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="box-action">
+                    <button class="btn btn-success btn-sm" id="btnConfirm">
+                        <i class="glyphicon glyphicon-ok"></i>
+                        Xác nhận
+                    </button>
+                    <button class="btn btn-danger btn-sm" id="btnCancel">
+                        <i class="glyphicon glyphicon-remove"></i>
+                        Trả về
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-10">
+                <div class="col-md-2">
+                    <input type="text" value="1" class="form-control" id="SystemSearch" style="height: 25px; " />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="1" class="form-control" id="StatusSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="" class="form-control" id="ExpenseIdSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="@DateTime.Now.AddDays(-5).ToString("dd/MM/yyy")" class="form-control" id="FromDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="@DateTime.Now.AddDays(+5).ToString("dd/MM/yyy")" class="form-control" id="ToDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                        <i class="glyphicon glyphicon-search"></i>
+                        Tìm kiếm
+                    </button>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var users = @Html.Raw(Json.Encode(ViewBag.Users));
+        @*var expenseTypes = @Html.Raw(Json.Encode(ViewBag.ExpenseTypes));*@
+        var typeMoneys = @Html.Raw(Json.Encode(ViewBag.TypeMoneys));
+        var statusSearch = @Html.Raw(Json.Encode(ViewBag.StatusSearch));
+        var expenseTypes = @Html.Raw(Json.Encode(ViewBag.ExpenseTypesAll)); 
+    </script>
+    <script src="~/Areas/System/JsAction/ConfirmCompanyBank/index.js"></script>
+}

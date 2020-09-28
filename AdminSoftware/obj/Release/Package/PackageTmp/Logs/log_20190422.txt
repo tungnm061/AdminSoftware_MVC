@@ -1,0 +1,74 @@
+2019-04-22 09:31:58,220: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:31:58,220: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:34:33,170: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-04-22 09:34:33,174: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-04-22 09:34:33,174: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-04-22 09:34:33,170: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-04-22 09:34:33,350: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-04-22 09:34:33,350: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-04-22 09:35:05,366: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:35:05,366: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:40:24,479: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:40:24,479: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:41:39,601: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:41:39,601: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:49:54,300: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:49:54,300: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 09:50:00,028: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 09:50 AM
+2019-04-22 09:50:00,028: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 09:50 AM
+2019-04-22 09:50:00,028: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 09:50 AM
+2019-04-22 09:50:00,028: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 09:50 AM
+2019-04-22 10:05:08,108: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:05:08,108: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:08:47,838: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:08:47,838: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:13:28,774: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:13:28,774: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:14:28,978: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:14:28,978: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:16:01,505: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:16:01,505: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:29:07,492: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:29:07,492: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:30:00,052: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 10:30 AM
+2019-04-22 10:30:00,052: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 10:30 AM
+2019-04-22 10:30:00,052: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 10:30 AM
+2019-04-22 10:30:00,052: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 10:30 AM
+2019-04-22 10:35:36,599: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:35:36,599: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:39:52,440: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:39:52,440: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:40:00,063: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 10:40 AM
+2019-04-22 10:40:00,064: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 10:40 AM
+2019-04-22 10:40:00,064: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 10:40 AM
+2019-04-22 10:40:00,063: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 10:40 AM
+2019-04-22 10:42:04,565: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:42:04,565: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:58:28,102: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 10:58:28,102: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 11:00:00,055: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 11:00 AM
+2019-04-22 11:00:00,055: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 11:00 AM
+2019-04-22 11:00:00,055: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 22/04/2019 11:00 AM
+2019-04-22 11:00:00,055: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 22/04/2019 11:00 AM
+2019-04-22 11:00:00,055: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 11:00 AM
+2019-04-22 11:00:00,055: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 11:00 AM
+2019-04-22 14:09:37,249: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:09:37,249: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:10:00,060: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 02:10 PM
+2019-04-22 14:10:00,157: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 02:10 PM
+2019-04-22 14:10:00,157: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 02:10 PM
+2019-04-22 14:10:00,060: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 02:10 PM
+2019-04-22 14:23:55,914: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:23:55,914: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:33:36,362: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:33:36,362: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:36:36,636: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:36:36,636: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:53:09,736: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 14:53:09,736: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 15:45:38,238: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 15:45:38,238: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-04-22 15:50:01,201: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 03:50 PM
+2019-04-22 15:50:01,201: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 03:50 PM
+2019-04-22 15:50:01,201: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 22/04/2019 03:50 PM
+2019-04-22 15:50:01,201: ERROR Logging – Start Job NotificationWorkPlan: 22/04/2019 03:50 PM

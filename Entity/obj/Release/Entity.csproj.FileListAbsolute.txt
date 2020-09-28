@@ -1,0 +1,8 @@
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Release\Entity.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Release\Entity.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Release\Newtonsoft.Json.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\bin\Release\Newtonsoft.Json.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Release\Entity.csprojAssemblyReference.cache
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Release\Entity.csproj.CopyComplete
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Release\Entity.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Entity\obj\Release\Entity.pdb

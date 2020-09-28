@@ -15,7 +15,6 @@ namespace AdminSoftware.Areas.System.Models
         [Required]
         public int? UserGroupId { get; set; }
 
-        [Required]
         public int? ModuleGroupId { get; set; }
 
         [Required]

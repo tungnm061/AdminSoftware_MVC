@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Login.cshtml";
+}
+<p class="text-muted text-center">
+    Nhập tên đăng nhập và mật khẩu của bạn!
+</p>
+<input type="text" id="UserName" tabindex="1" placeholder="Tên đăng nhập" class="form-control top">
+<input type="password" id="Password" tabindex="2" placeholder="Mật khẩu" class="form-control bottom">
+<button class="btn btn-lg btn-primary btn-block" tabindex="3" type="submit" id="btnLogin">Đăng Nhập</button>
+@section scripts
+{
+    <script type="text/javascript">
+        function Login() {
+            var userName = $('#UserName').val();
+            var password = $('#Password').val();
+            if (userName == null || userName.trim() === "") {
+                $.msgBox({
+                    title: "Hệ thống",
+                    type: "error",
+                    content: "Tên đăng nhập không được để trống!",
+                    buttons: [{ value: "Đồng ý" }]
+                });
+                return;
+            }
+            if (password == null || password.trim() === "") {
+                $.msgBox({
+                    title: "Hệ thống",
+                    type: "error",
+                    content: "Mật khẩu không được để trống!",
+                    buttons: [{ value: "Đồng ý" }]
+                });
+                return;
+            }
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("Login", "Login")',
+                data: JSON.stringify({ userName: userName, password: password }),
+                contentType: 'application/json;charset=utf-8',
+                success: function (response) {
+                    if (response.Status === 0) {
+                        $.msgBox({
+                            title: "Hệ thống",
+                            type: "error",
+                            content: response.Message,
+                            buttons: [{ value: "Đồng ý" }]
+                        });
+                    } else {
+                        window.location.href = '@Url.Action("Index","Order",new {Area = "sale"})';
+                    }
+                }
+            });
+        }
+        $(document).keypress(function (e) {
+            if (e.which === 13) {
+                Login();
+            }
+        });
+        $(document).ready(function() {
+            $('#btnLogin').click(function() {
+                Login();
+            });
+        });
+    </script>
+}
+

@@ -1,0 +1,1066 @@
+2018-11-19 09:31:47,844: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 09:31:47,844: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 09:40:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 09:40 AM
+2018-11-19 09:40:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 09:40 AM
+2018-11-19 09:40:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 09:40 AM
+2018-11-19 09:40:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 09:40 AM
+2018-11-19 10:10:00,139: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:10 AM
+2018-11-19 10:10:00,140: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:10 AM
+2018-11-19 10:10:00,140: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:10 AM
+2018-11-19 10:10:00,139: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:10 AM
+2018-11-19 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:20 AM
+2018-11-19 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:20 AM
+2018-11-19 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:20 AM
+2018-11-19 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:20 AM
+2018-11-19 10:30:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:30 AM
+2018-11-19 10:30:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:30 AM
+2018-11-19 10:30:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:30 AM
+2018-11-19 10:30:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:30 AM
+2018-11-19 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:40 AM
+2018-11-19 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:40 AM
+2018-11-19 10:40:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:40 AM
+2018-11-19 10:40:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:40 AM
+2018-11-19 10:50:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:50 AM
+2018-11-19 10:50:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 10:50 AM
+2018-11-19 10:50:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:50 AM
+2018-11-19 10:50:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 10:50 AM
+2018-11-19 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 11:00 AM
+2018-11-19 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 11:00 AM
+2018-11-19 11:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 11:00 AM
+2018-11-19 11:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 11:00 AM
+2018-11-19 11:00:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 19/11/2018 11:00 AM
+2018-11-19 11:00:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 19/11/2018 11:00 AM
+2018-11-19 11:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 11:10 AM
+2018-11-19 11:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 11:10 AM
+2018-11-19 11:10:00,007: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 11:10 AM
+2018-11-19 11:10:00,007: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 11:10 AM
+2018-11-19 11:30:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 11:30 AM
+2018-11-19 11:30:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 11:30 AM
+2018-11-19 11:30:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 11:30 AM
+2018-11-19 11:30:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 11:30 AM
+2018-11-19 11:40:00,048: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 11:40 AM
+2018-11-19 11:40:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 11:40 AM
+2018-11-19 11:40:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 11:40 AM
+2018-11-19 11:40:00,048: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 11:40 AM
+2018-11-19 13:21:29,350: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 13:21:29,350: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 13:21:29,448: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 13:21:29,448: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 13:21:29,472: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 13:21:29,472: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 13:28:01,798: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 13:28:01,798: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 13:30:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 01:30 PM
+2018-11-19 13:30:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 01:30 PM
+2018-11-19 13:30:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 01:30 PM
+2018-11-19 13:30:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 01:30 PM
+2018-11-19 13:40:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 01:40 PM
+2018-11-19 13:40:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 01:40 PM
+2018-11-19 13:40:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 01:40 PM
+2018-11-19 13:40:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 01:40 PM
+2018-11-19 13:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 01:50 PM
+2018-11-19 13:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 01:50 PM
+2018-11-19 13:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 01:50 PM
+2018-11-19 13:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 01:50 PM
+2018-11-19 14:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 02:00 PM
+2018-11-19 14:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 02:00 PM
+2018-11-19 14:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 02:00 PM
+2018-11-19 14:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 02:00 PM
+2018-11-19 14:24:34,683: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:24:34,683: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:25:18,232: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:25:18,232: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:26:05,532: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:26:05,532: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:26:47,514: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:26:47,514: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:27:00,620: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:27:00,620: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:27:05,432: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:27:05,432: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:26,395: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:26,395: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:27,165: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:27,165: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:27,347: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:27,347: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:27,516: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:27,516: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:27,676: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:27,676: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:29,081: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:29,081: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:29,275: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:29,275: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:7a1cc6b6-2b65-4cb1-9ddc-db25291ca090
+Error Number:2812,State:62,Class:16
+2018-11-19 14:28:32,076: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 14:28:32,076: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 14:28:32,083: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 14:28:32,083: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 14:28:32,166: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 14:28:32,166: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 14:30:50,813: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:30:50,813: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:30:59,196: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:5b1f74dd-e4ab-4435-9aef-5f45788ef441
+Error Number:2812,State:62,Class:16
+2018-11-19 14:30:59,196: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:5b1f74dd-e4ab-4435-9aef-5f45788ef441
+Error Number:2812,State:62,Class:16
+2018-11-19 14:34:52,428: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:06602a55-763e-4d58-9fce-1cbf8957de39
+Error Number:2812,State:62,Class:16
+2018-11-19 14:34:52,428: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:06602a55-763e-4d58-9fce-1cbf8957de39
+Error Number:2812,State:62,Class:16
+2018-11-19 14:38:08,954: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:38:08,954: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 14:38:16,452: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:06602a55-763e-4d58-9fce-1cbf8957de39
+Error Number:2812,State:62,Class:16
+2018-11-19 14:38:16,452: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:06602a55-763e-4d58-9fce-1cbf8957de39
+Error Number:2812,State:62,Class:16
+2018-11-19 14:40:00,040: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 02:40 PM
+2018-11-19 14:40:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 02:40 PM
+2018-11-19 14:40:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 02:40 PM
+2018-11-19 14:40:00,040: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 02:40 PM
+2018-11-19 14:42:13,171: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:ee421ea1-fc02-4690-b22a-0dae62d3604c
+Error Number:2812,State:62,Class:16
+2018-11-19 14:42:13,171: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:ee421ea1-fc02-4690-b22a-0dae62d3604c
+Error Number:2812,State:62,Class:16
+2018-11-19 14:42:28,210: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:ee421ea1-fc02-4690-b22a-0dae62d3604c
+Error Number:2812,State:62,Class:16
+2018-11-19 14:42:28,210: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:ee421ea1-fc02-4690-b22a-0dae62d3604c
+Error Number:2812,State:62,Class:16
+2018-11-19 14:44:16,131: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:ee421ea1-fc02-4690-b22a-0dae62d3604c
+Error Number:2812,State:62,Class:16
+2018-11-19 14:44:16,131: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:ee421ea1-fc02-4690-b22a-0dae62d3604c
+Error Number:2812,State:62,Class:16
+2018-11-19 14:44:22,377: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:ee421ea1-fc02-4690-b22a-0dae62d3604c
+Error Number:2812,State:62,Class:16
+2018-11-19 14:44:22,377: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:ee421ea1-fc02-4690-b22a-0dae62d3604c
+Error Number:2812,State:62,Class:16
+2018-11-19 14:49:55,965: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:9e40c582-e2f2-4206-82f0-065ca13ebded
+Error Number:2812,State:62,Class:16
+2018-11-19 14:49:55,965: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:9e40c582-e2f2-4206-82f0-065ca13ebded
+Error Number:2812,State:62,Class:16
+2018-11-19 14:50:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 02:50 PM
+2018-11-19 14:50:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 02:50 PM
+2018-11-19 14:50:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 02:50 PM
+2018-11-19 14:50:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 02:50 PM
+2018-11-19 14:55:22,277: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:66a4fa75-7367-4e8c-96d1-f56092db464f
+Error Number:2812,State:62,Class:16
+2018-11-19 14:55:22,277: ERROR Logging ・Could not find stored procedure 'kpi.Get_FactorWorkKpi'.; Url: http://localhost:60603/Dashboard/EmployeeKpi; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'kpi.Get_FactorWorkKpi'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFactorWorkKpi(Nullable`1 fromDate, Nullable`1 toDate, Int32 totalDay, Nullable`1 employeeId, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 110
+ClientConnectionId:66a4fa75-7367-4e8c-96d1-f56092db464f
+Error Number:2812,State:62,Class:16
+2018-11-19 15:10:00,326: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 03:10 PM
+2018-11-19 15:10:00,327: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 03:10 PM
+2018-11-19 15:10:00,327: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 03:10 PM
+2018-11-19 15:10:00,326: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 03:10 PM
+2018-11-19 15:10:30,123: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:10:30,123: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:10:31,853: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:10:31,853: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:10:43,312: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:10:43,312: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:10:44,331: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:10:44,331: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:10:47,111: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'employeeId' of non-nullable type 'System.Int64' for method 'System.Web.Mvc.JsonResult EmployeeKpi(System.DateTime, System.DateTime, Int64)' in 'AdminSoftware.Controllers.DashboardController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-11-19 15:10:47,111: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'employeeId' of non-nullable type 'System.Int64' for method 'System.Web.Mvc.JsonResult EmployeeKpi(System.DateTime, System.DateTime, Int64)' in 'AdminSoftware.Controllers.DashboardController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-11-19 15:10:52,502: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'employeeId' of non-nullable type 'System.Int64' for method 'System.Web.Mvc.JsonResult EmployeeKpi(System.DateTime, System.DateTime, Int64)' in 'AdminSoftware.Controllers.DashboardController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-11-19 15:10:52,502: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'employeeId' of non-nullable type 'System.Int64' for method 'System.Web.Mvc.JsonResult EmployeeKpi(System.DateTime, System.DateTime, Int64)' in 'AdminSoftware.Controllers.DashboardController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-11-19 15:10:56,651: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 15:10:56,651: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 15:10:56,656: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 15:10:56,656: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 15:10:56,727: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 15:10:56,727: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 15:11:08,294: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:11:08,294: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:11:09,588: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:11:09,588: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:12:59,357: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:12:59,357: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:13:00,313: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:13:00,313: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:13:29,536: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:13:29,536: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:13:30,361: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:13:30,361: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:13:38,515: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 15:13:38,515: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 15:13:38,565: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 15:13:38,565: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 15:13:38,592: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 15:13:38,592: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 15:13:58,421: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:13:58,421: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:13:59,717: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:13:59,717: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:14:42,706: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:14:42,706: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:14:43,863: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:14:43,863: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:14:47,997: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 15:14:47,997: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-19 15:14:48,048: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 15:14:48,048: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-19 15:14:48,077: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 15:14:48,077: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-19 15:18:29,633: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:18:29,633: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:18:30,865: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:18:30,865: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 03:20 PM
+2018-11-19 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 03:20 PM
+2018-11-19 15:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 03:20 PM
+2018-11-19 15:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 03:20 PM
+2018-11-19 15:20:06,619: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:20:06,619: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:20:07,948: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:20:07,948: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:20:17,590: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:20:17,590: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:20:18,444: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:20:18,444: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:20:31,069: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:20:31,069: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:20:31,872: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:20:31,872: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 15:37:16,300: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:37:16,300: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 15:40:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 03:40 PM
+2018-11-19 15:40:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 03:40 PM
+2018-11-19 15:40:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 03:40 PM
+2018-11-19 15:40:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 03:40 PM
+2018-11-19 15:50:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 03:50 PM
+2018-11-19 15:50:00,034: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 03:50 PM
+2018-11-19 15:50:00,034: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 03:50 PM
+2018-11-19 15:50:00,034: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 03:50 PM
+2018-11-19 16:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 04:00 PM
+2018-11-19 16:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 04:00 PM
+2018-11-19 16:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 04:00 PM
+2018-11-19 16:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 04:00 PM
+2018-11-19 16:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 19/11/2018 04:00 PM
+2018-11-19 16:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 19/11/2018 04:00 PM
+2018-11-19 16:41:24,828: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 16:41:24,828: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 16:41:55,139: ERROR Logging ・Error parsing column 0 (WorkStreamId=7049fbbe-4b07-4424-9ebb-2aaac2da350e - Object)
+2018-11-19 16:41:55,139: ERROR Logging ・Error parsing column 0 (WorkStreamId=7049fbbe-4b07-4424-9ebb-2aaac2da350e - Object)
+2018-11-19 16:41:58,299: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 16:41:58,299: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 16:51:05,109: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 16:51:05,109: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 16:51:16,604: ERROR Logging ・Error parsing column 0 (WorkStreamId=7049fbbe-4b07-4424-9ebb-2aaac2da350e - Object)
+2018-11-19 16:51:16,604: ERROR Logging ・Error parsing column 0 (WorkStreamId=7049fbbe-4b07-4424-9ebb-2aaac2da350e - Object)
+2018-11-19 17:00:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 05:00 PM
+2018-11-19 17:00:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 05:00 PM
+2018-11-19 17:00:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 05:00 PM
+2018-11-19 17:00:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 05:00 PM
+2018-11-19 17:00:32,088: ERROR Logging ・EOF in header; Url: http://localhost:60603/system/Task/ImportExcel; Error: 
+ICSharpCode.SharpZipLib.Zip.ZipException: EOF in header
+   at ICSharpCode.SharpZipLib.Zip.Compression.Streams.InflaterInputBuffer.ReadLeByte()
+   at ICSharpCode.SharpZipLib.Zip.Compression.Streams.InflaterInputBuffer.ReadLeInt()
+   at ICSharpCode.SharpZipLib.Zip.ZipInputStream.GetNextEntry()
+   at NPOI.OpenXml4Net.Util.ZipInputStreamZipEntrySource..ctor(ZipInputStream inp)
+   at NPOI.OpenXml4Net.OPC.ZipPackage..ctor(Stream filestream, PackageAccess access)
+   at NPOI.OpenXml4Net.OPC.OPCPackage.Open(Stream in1)
+   at NPOI.Util.PackageHelper.Open(Stream is1)
+   at NPOI.XSSF.UserModel.XSSFWorkbook..ctor(Stream is1)
+   at AdminSoftware.Helper.ExcelHelper.ReadExcelDictionary(Stream file, Boolean freezeHeader, List`1 columHeader, Int32 rownumStart, Int32 maxColumn, Boolean formatAllString) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Helper\ExcelHelper.cs:line 186
+   at AdminSoftware.Areas.System.Controllers.Kpi.TaskController.ImportExcel() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\System\Controllers\Kpi\TaskController.cs:line 130
+2018-11-19 17:00:32,088: ERROR Logging ・EOF in header; Url: http://localhost:60603/system/Task/ImportExcel; Error: 
+ICSharpCode.SharpZipLib.Zip.ZipException: EOF in header
+   at ICSharpCode.SharpZipLib.Zip.Compression.Streams.InflaterInputBuffer.ReadLeByte()
+   at ICSharpCode.SharpZipLib.Zip.Compression.Streams.InflaterInputBuffer.ReadLeInt()
+   at ICSharpCode.SharpZipLib.Zip.ZipInputStream.GetNextEntry()
+   at NPOI.OpenXml4Net.Util.ZipInputStreamZipEntrySource..ctor(ZipInputStream inp)
+   at NPOI.OpenXml4Net.OPC.ZipPackage..ctor(Stream filestream, PackageAccess access)
+   at NPOI.OpenXml4Net.OPC.OPCPackage.Open(Stream in1)
+   at NPOI.Util.PackageHelper.Open(Stream is1)
+   at NPOI.XSSF.UserModel.XSSFWorkbook..ctor(Stream is1)
+   at AdminSoftware.Helper.ExcelHelper.ReadExcelDictionary(Stream file, Boolean freezeHeader, List`1 columHeader, Int32 rownumStart, Int32 maxColumn, Boolean formatAllString) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Helper\ExcelHelper.cs:line 186
+   at AdminSoftware.Areas.System.Controllers.Kpi.TaskController.ImportExcel() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\System\Controllers\Kpi\TaskController.cs:line 130
+2018-11-19 17:08:05,456: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 17:08:05,456: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 17:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 05:10 PM
+2018-11-19 17:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 19/11/2018 05:10 PM
+2018-11-19 17:10:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 05:10 PM
+2018-11-19 17:10:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/11/2018 05:10 PM
+2018-11-19 17:22:31,711: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 17:22:31,711: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-19 17:22:49,609: ERROR Logging ・Error parsing column 0 (WorkStreamId=7049fbbe-4b07-4424-9ebb-2aaac2da350e - Object)
+2018-11-19 17:22:49,609: ERROR Logging ・Error parsing column 0 (WorkStreamId=7049fbbe-4b07-4424-9ebb-2aaac2da350e - Object)
+2018-11-19 17:32:02,287: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-19 17:32:02,287: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.

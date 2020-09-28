@@ -29,10 +29,8 @@ namespace AdminSoftware.Areas.Hrm.Models
         [Required]
         public long DepartmentId { get; set; }
 
-        [Required]
         public int CountryId { get; set; }
 
-        [Required]
         public int NationId { get; set; }
 
         [Required]

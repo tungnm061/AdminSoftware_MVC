@@ -1,0 +1,136 @@
+2019-02-01 08:53:59,138: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 08:53:59,138: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 08:57:41,798: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-02-01 08:57:41,798: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-02-01 08:58:38,026: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-02-01 08:58:38,026: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-02-01 08:58:38,038: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-02-01 08:58:38,038: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-02-01 08:58:38,153: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-02-01 08:58:38,153: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-02-01 08:58:54,277: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 08:58:54,277: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 08:59:16,741: ERROR Logging ・A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.); Url: http://localhost:60603/investment/Home/WorkOutDates; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) ---> System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetWorkDetails(Nullable`1 userId, Int32 action, Nullable`1 fromDate, Nullable`1 toDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 17
+ClientConnectionId:4710c707-fe41-429e-945e-245c1ada3a18
+Error Number:121,State:0,Class:20
+2019-02-01 08:59:16,741: ERROR Logging ・A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.); Url: http://localhost:60603/investment/Home/WorkOutDates; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.) ---> System.ComponentModel.Win32Exception (0x80004005): The semaphore timeout period has expired
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetWorkDetails(Nullable`1 userId, Int32 action, Nullable`1 fromDate, Nullable`1 toDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 17
+ClientConnectionId:4710c707-fe41-429e-945e-245c1ada3a18
+Error Number:121,State:0,Class:20
+2019-02-01 08:59:17,035: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-02-01 08:59:17,035: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-02-01 08:59:17,115: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-02-01 08:59:17,115: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-02-01 08:59:17,505: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-02-01 08:59:17,505: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-02-01 08:59:20,135: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 08:59:20,135: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:00:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:00 AM
+2019-02-01 09:00:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:00 AM
+2019-02-01 09:00:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:00 AM
+2019-02-01 09:00:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:00 AM
+2019-02-01 09:00:31,567: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:00:31,567: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:00:46,751: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:00:46,751: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:00:49,754: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-02-01 09:00:49,754: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-02-01 09:01:14,449: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:01:14,449: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:01:28,274: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:01:28,274: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:01:31,379: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-02-01 09:01:31,379: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-02-01 09:02:43,102: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:02:43,102: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-01 09:06:47,827: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-02-01 09:06:47,827: ERROR Logging ・The controller for path '/investment/ClearSession' was not found or does not implement IController.
+2019-02-01 09:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:10 AM
+2019-02-01 09:10:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:10 AM
+2019-02-01 09:10:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:10 AM
+2019-02-01 09:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:10 AM
+2019-02-01 09:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:20 AM
+2019-02-01 09:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:20 AM
+2019-02-01 09:20:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:20 AM
+2019-02-01 09:20:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:20 AM
+2019-02-01 09:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:30 AM
+2019-02-01 09:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:30 AM
+2019-02-01 09:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:30 AM
+2019-02-01 09:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:30 AM
+2019-02-01 09:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:40 AM
+2019-02-01 09:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:40 AM
+2019-02-01 09:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:40 AM
+2019-02-01 09:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:40 AM
+2019-02-01 09:50:00,088: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:50 AM
+2019-02-01 09:50:00,088: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:50 AM
+2019-02-01 09:50:00,088: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 09:50 AM
+2019-02-01 09:50:00,088: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 09:50 AM
+2019-02-01 10:00:00,141: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:00 AM
+2019-02-01 10:00:00,141: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:00 AM
+2019-02-01 10:00:00,141: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:00 AM
+2019-02-01 10:00:00,141: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:00 AM
+2019-02-01 10:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:10 AM
+2019-02-01 10:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:10 AM
+2019-02-01 10:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:10 AM
+2019-02-01 10:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:10 AM
+2019-02-01 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:20 AM
+2019-02-01 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:20 AM
+2019-02-01 10:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:20 AM
+2019-02-01 10:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:20 AM
+2019-02-01 10:30:00,011: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:30 AM
+2019-02-01 10:30:00,011: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:30 AM
+2019-02-01 10:30:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:30 AM
+2019-02-01 10:30:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:30 AM
+2019-02-01 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:40 AM
+2019-02-01 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/02/2019 10:40 AM
+2019-02-01 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:40 AM
+2019-02-01 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/02/2019 10:40 AM

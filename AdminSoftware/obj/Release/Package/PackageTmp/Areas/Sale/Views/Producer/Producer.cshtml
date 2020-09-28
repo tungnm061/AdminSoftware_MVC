@@ -1,0 +1,85 @@
+﻿@model Entity.Sale.Producer
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Mã nhà SX(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.ProducerCode" readonly="readonly" class="form-control" id="ProducerCode" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Tên nhà SX (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.ProducerName" class="form-control" id="ProducerName" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ghi Chú</label>
+                    </div>
+                    <div class="col-md-8">
+                        <textarea type="text" value="@Model.Description" rows="3" class="form-control" id="Description"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                    </div>
+                    <div class="col-md-8">
+                        <span style="float: left">
+                            <input type="checkbox" class="k-checkbox" id="IsActive" @if (Model.IsActive) { <text> checked="checked" </text> } />
+                            <label for="IsActive" class="k-checkbox-label">Trạng thái</label>
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var ProducerId = '@Model.ProducerId';
+</script>
+<script src="~/Areas/Sale/JsAction/Producer/addOrEdit.js"></script>
+
+
+
+

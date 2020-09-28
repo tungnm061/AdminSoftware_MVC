@@ -1,0 +1,140 @@
+﻿@{
+    ViewBag.Title = "Tổng hợp đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var days = (List<String>)ViewBag.Days;
+
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <input type="text" value="@ViewBag.GmailId" class="form-control" id="GmailSearch" style="height: 25px; " />
+            </div>
+            <div class="col-md-2">
+                <input type="text" value="@ViewBag.FromDate" class="form-control" id="FromDateSearch" style="height: 25px;" />
+            </div>
+            <div class="col-md-2">
+                <input type="text" value="@ViewBag.ToDate" class="form-control" id="ToDateSearch" style="height: 25px;" />
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                    <i class="glyphicon glyphicon-search"></i>
+                    Tìm kiếm
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var gmails = @Html.Raw(Json.Encode(ViewBag.Gmails));
+        var columns = [
+            {
+                title: "STT",
+                template: "#= ++record #",
+                width: 40,
+                locked: true
+            },
+            {
+                field: "GmailId",
+                title: "Tài khoản",
+                width: 180,
+                values: gmails,
+                locked: true,
+                footerTemplate: "Tổng hợp"
+            },
+            {
+                field: "LinkUrl",
+                title: "Đường dẫn",
+                width: 160,
+                locked: true,
+                template: "<a href=\"#=LinkUrl#\" target=\"_blank\">#:LinkUrl#</a>"
+
+            },
+            {
+                field: "TotalOrder",
+                title: "Total",
+                width: 60,
+                locked: true,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #"
+            },
+            {
+                field: "TotalFinish",
+                title: "Finish",
+                width: 60,
+                locked: true,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #" 
+            },
+            {
+                field: "TotalCancel",
+                title: "Cancel",
+                width: 60,
+                locked: true,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #"
+            },
+            {
+                field: "TotalOrderPrice",
+                title: "Tổng tiền",
+                width: 80,
+                locked: true,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n2\") : 0 #",
+                format: '{0:n2}'
+            },
+            {
+                field: "FinishOrderPrice",
+                title: "Đã HT",
+                width: 60,
+                format: '{0:n0}',
+                locked: true,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n2\") : 0 #" 
+            }
+        ];
+        var aggregates = [{ field: "TotalOrderPrice", aggregate: "sum" },
+            { field: "FinishOrderPrice", aggregate: "sum" },
+            { field: "TotalOrder", aggregate: "sum" },
+            { field: "TotalFinish", aggregate: "sum" },
+            { field: "TotalCancel", aggregate: "sum" }];
+        @if (days.Any())
+        {
+            int i = 0;
+            foreach (var day in days)
+            {
+                var title = day;
+                <text>
+                columns.push({
+                    title: '@title',
+                    columns: [
+                        {
+                            title: 'TD',
+                            field: 'StatisticalDetails[' +@i +'].TotalOrder',
+                            width:50,
+                            filterable: false,
+                            footerTemplate :function(data) { return data["StatisticalDetails["+ @i+"].TotalOrder"].sum; }
+                        },
+                        {
+                            title: 'HT',
+                            field: 'StatisticalDetails[' + @i + '].FinishOrder',
+                            width: 50,
+                            filterable: false,
+                            footerTemplate :function(data) { return data["StatisticalDetails["+ @i+"].FinishOrder"].sum; }
+                        }
+                    ]
+                });
+                aggregates.push({ field: "StatisticalDetails[" + @i + "].TotalOrder", aggregate: "sum" });
+                aggregates.push({ field: "StatisticalDetails[" + @i + "].FinishOrder", aggregate: "sum" });
+                </text>
+                i ++;
+            }
+        }
+
+
+    </script>
+    <script src="~/Areas/Sale/JsAction/OrderStatistical/index.js"></script>
+}

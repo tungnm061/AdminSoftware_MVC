@@ -1,0 +1,616 @@
+2019-01-23 09:10:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:10 AM
+2019-01-23 09:10:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:10 AM
+2019-01-23 09:10:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:10 AM
+2019-01-23 09:10:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:10 AM
+2019-01-23 09:10:09,038: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:10:09,038: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:10:51,240: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:10:51,240: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:10:51,290: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:10:51,290: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:10:51,373: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:10:51,373: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:14:40,568: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:14:40,568: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:17:15,038: ERROR Logging ・Procedure or function 'Get_TrainingLevel_ByCode' expects parameter '@LevelCode', which was not supplied.; Url: http://localhost:60603/hrm/Employee/SaveTrainingLevel; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'Get_TrainingLevel_ByCode' expects parameter '@LevelCode', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TrainingLevelDal.GetTrainingLevel(String trainingLevelCode) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TrainingLevelDal.cs:line 47
+ClientConnectionId:1060f173-a826-4aae-9eea-66909f4e9171
+Error Number:201,State:4,Class:16
+2019-01-23 09:17:15,038: ERROR Logging ・Procedure or function 'Get_TrainingLevel_ByCode' expects parameter '@LevelCode', which was not supplied.; Url: http://localhost:60603/hrm/Employee/SaveTrainingLevel; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'Get_TrainingLevel_ByCode' expects parameter '@LevelCode', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TrainingLevelDal.GetTrainingLevel(String trainingLevelCode) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TrainingLevelDal.cs:line 47
+ClientConnectionId:1060f173-a826-4aae-9eea-66909f4e9171
+Error Number:201,State:4,Class:16
+2019-01-23 09:18:43,202: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:18:43,202: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:20 AM
+2019-01-23 09:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:20 AM
+2019-01-23 09:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:20 AM
+2019-01-23 09:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:20 AM
+2019-01-23 09:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:30 AM
+2019-01-23 09:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:30 AM
+2019-01-23 09:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:30 AM
+2019-01-23 09:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:30 AM
+2019-01-23 09:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:40 AM
+2019-01-23 09:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:40 AM
+2019-01-23 09:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:40 AM
+2019-01-23 09:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:40 AM
+2019-01-23 09:41:14,762: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:41:14,762: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:41:17,501: ERROR Logging ・e:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Views\Employee\Employee.cshtml(117): error CS1061: 'Entity.Hrm.Employee' does not contain a definition for 'CountryName' and no extension method 'CountryName' accepting a first argument of type 'Entity.Hrm.Employee' could be found (are you missing a using directive or an assembly reference?)
+2019-01-23 09:41:17,501: ERROR Logging ・e:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Views\Employee\Employee.cshtml(117): error CS1061: 'Entity.Hrm.Employee' does not contain a definition for 'CountryName' and no extension method 'CountryName' accepting a first argument of type 'Entity.Hrm.Employee' could be found (are you missing a using directive or an assembly reference?)
+2019-01-23 09:43:03,142: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:43:03,142: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:43:03,209: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:43:03,209: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:43:03,278: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:43:03,278: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:43:07,906: ERROR Logging ・e:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Views\Employee\Employee.cshtml(117): error CS1061: 'Entity.Hrm.Employee' does not contain a definition for 'CountryName' and no extension method 'CountryName' accepting a first argument of type 'Entity.Hrm.Employee' could be found (are you missing a using directive or an assembly reference?)
+2019-01-23 09:43:07,906: ERROR Logging ・e:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Views\Employee\Employee.cshtml(117): error CS1061: 'Entity.Hrm.Employee' does not contain a definition for 'CountryName' and no extension method 'CountryName' accepting a first argument of type 'Entity.Hrm.Employee' could be found (are you missing a using directive or an assembly reference?)
+2019-01-23 09:44:02,324: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:44:02,324: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:44:02,868: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:44:02,868: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:44:02,878: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:44:02,878: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:44:03,103: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:44:03,103: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:45:18,141: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:45:18,141: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:45:18,202: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:45:18,202: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:45:18,236: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:45:18,236: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:46:36,186: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:46:36,186: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 09:46:38,086: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:46:38,086: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 09:46:38,259: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:46:38,259: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 09:46:39,063: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:46:39,063: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 09:50:00,056: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:50 AM
+2019-01-23 09:50:00,056: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:50 AM
+2019-01-23 09:50:00,056: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 09:50 AM
+2019-01-23 09:50:00,056: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 09:50 AM
+2019-01-23 10:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:00 AM
+2019-01-23 10:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:00 AM
+2019-01-23 10:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:00 AM
+2019-01-23 10:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:00 AM
+2019-01-23 10:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:10 AM
+2019-01-23 10:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:10 AM
+2019-01-23 10:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:10 AM
+2019-01-23 10:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:10 AM
+2019-01-23 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:20 AM
+2019-01-23 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:20 AM
+2019-01-23 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:20 AM
+2019-01-23 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:20 AM
+2019-01-23 10:30:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:30 AM
+2019-01-23 10:30:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:30 AM
+2019-01-23 10:30:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:30 AM
+2019-01-23 10:30:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:30 AM
+2019-01-23 10:40:00,016: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:40 AM
+2019-01-23 10:40:00,016: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:40 AM
+2019-01-23 10:40:00,016: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:40 AM
+2019-01-23 10:40:00,016: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:40 AM
+2019-01-23 10:50:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:50 AM
+2019-01-23 10:50:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:50 AM
+2019-01-23 10:50:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 10:50 AM
+2019-01-23 10:50:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 10:50 AM
+2019-01-23 11:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 23/01/2019 11:00 AM
+2019-01-23 11:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:00 AM
+2019-01-23 11:00:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:00 AM
+2019-01-23 11:00:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:00 AM
+2019-01-23 11:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:00 AM
+2019-01-23 11:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 23/01/2019 11:00 AM
+2019-01-23 11:00:00,179: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:dbb2d714-302d-4dc4-9b5b-efe756a4d9d8
+Error Number:64,State:0,Class:20
+2019-01-23 11:00:00,179: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:dbb2d714-302d-4dc4-9b5b-efe756a4d9d8
+Error Number:64,State:0,Class:20
+2019-01-23 11:00:00,178: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:dbb2d714-302d-4dc4-9b5b-efe756a4d9d8
+Error Number:64,State:0,Class:20
+2019-01-23 11:00:00,178: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:dbb2d714-302d-4dc4-9b5b-efe756a4d9d8
+Error Number:64,State:0,Class:20
+2019-01-23 11:00:00,179: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:dbb2d714-302d-4dc4-9b5b-efe756a4d9d8
+Error Number:64,State:0,Class:20
+2019-01-23 11:00:00,179: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:dbb2d714-302d-4dc4-9b5b-efe756a4d9d8
+Error Number:64,State:0,Class:20
+2019-01-23 11:10:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:10 AM
+2019-01-23 11:10:00,032: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:10 AM
+2019-01-23 11:10:00,032: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:10 AM
+2019-01-23 11:10:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:10 AM
+2019-01-23 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:20 AM
+2019-01-23 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:20 AM
+2019-01-23 11:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:20 AM
+2019-01-23 11:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:20 AM
+2019-01-23 11:30:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:30 AM
+2019-01-23 11:30:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:30 AM
+2019-01-23 11:30:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:30 AM
+2019-01-23 11:30:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:30 AM
+2019-01-23 11:40:00,055: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:40 AM
+2019-01-23 11:40:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:40 AM
+2019-01-23 11:40:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:40 AM
+2019-01-23 11:40:00,055: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:40 AM
+2019-01-23 11:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:50 AM
+2019-01-23 11:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 11:50 AM
+2019-01-23 11:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:50 AM
+2019-01-23 11:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 11:50 AM
+2019-01-23 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:00 PM
+2019-01-23 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:00 PM
+2019-01-23 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:00 PM
+2019-01-23 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:00 PM
+2019-01-23 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:10 PM
+2019-01-23 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:10 PM
+2019-01-23 12:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:10 PM
+2019-01-23 12:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:10 PM
+2019-01-23 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:20 PM
+2019-01-23 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:20 PM
+2019-01-23 12:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:20 PM
+2019-01-23 12:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:20 PM
+2019-01-23 12:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:30 PM
+2019-01-23 12:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:30 PM
+2019-01-23 12:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:30 PM
+2019-01-23 12:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:30 PM
+2019-01-23 12:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:40 PM
+2019-01-23 12:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:40 PM
+2019-01-23 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:40 PM
+2019-01-23 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:40 PM
+2019-01-23 12:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:50 PM
+2019-01-23 12:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 12:50 PM
+2019-01-23 12:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:50 PM
+2019-01-23 12:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 12:50 PM
+2019-01-23 13:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:00 PM
+2019-01-23 13:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:00 PM
+2019-01-23 13:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:00 PM
+2019-01-23 13:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:00 PM
+2019-01-23 13:00:00,025: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:82e2e8c2-1189-45b1-bd2b-d39368bc41cb
+Error Number:64,State:0,Class:20
+2019-01-23 13:00:00,026: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:82e2e8c2-1189-45b1-bd2b-d39368bc41cb
+Error Number:64,State:0,Class:20
+2019-01-23 13:00:00,026: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:82e2e8c2-1189-45b1-bd2b-d39368bc41cb
+Error Number:64,State:0,Class:20
+2019-01-23 13:00:00,025: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:82e2e8c2-1189-45b1-bd2b-d39368bc41cb
+Error Number:64,State:0,Class:20
+2019-01-23 13:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:10 PM
+2019-01-23 13:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:10 PM
+2019-01-23 13:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:10 PM
+2019-01-23 13:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:10 PM
+2019-01-23 13:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:20 PM
+2019-01-23 13:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:20 PM
+2019-01-23 13:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:20 PM
+2019-01-23 13:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:20 PM
+2019-01-23 13:30:00,032: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:30 PM
+2019-01-23 13:30:00,032: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:30 PM
+2019-01-23 13:30:00,032: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:30 PM
+2019-01-23 13:30:00,032: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:30 PM
+2019-01-23 13:40:00,070: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:40 PM
+2019-01-23 13:40:00,071: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:40 PM
+2019-01-23 13:40:00,071: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:40 PM
+2019-01-23 13:40:00,070: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:40 PM
+2019-01-23 13:40:59,341: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:40:59,341: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:40:59,895: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:40:59,895: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:40:59,927: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:40:59,927: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:46:04,021: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:46:04,021: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:46:04,378: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:46:04,378: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:46:04,631: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:46:04,631: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:46:17,285: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:46:17,285: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:46:17,354: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:46:17,354: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:46:17,395: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:46:17,395: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:46:49,759: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:46:49,759: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:46:49,825: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:46:49,825: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:46:49,881: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:46:49,881: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:47:24,535: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:47:24,535: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:47:33,403: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:47:33,403: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:47:33,445: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:47:33,445: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:47:33,474: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:47:33,474: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:47:47,985: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:47:47,985: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:47:48,048: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:47:48,048: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:47:48,161: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:47:48,161: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:49:07,082: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:49:07,082: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:49:08,414: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:49:08,414: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:49:08,574: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:49:08,574: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:49:08,950: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:49:08,950: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:49:17,775: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:49:17,775: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:49:17,824: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:49:17,824: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:49:17,858: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:49:17,858: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:50:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:50 PM
+2019-01-23 13:50:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:50 PM
+2019-01-23 13:50:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 01:50 PM
+2019-01-23 13:50:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 01:50 PM
+2019-01-23 13:52:04,022: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:52:04,022: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:52:26,476: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:52:26,476: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:52:26,558: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:52:26,558: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:52:26,609: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:52:26,609: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:52:43,049: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:52:43,049: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:52:43,081: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:52:43,081: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:52:43,118: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:52:43,118: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:53:10,604: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:53:10,604: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:53:30,346: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:53:30,346: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:53:30,407: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:53:30,407: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:53:30,438: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:53:30,438: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:54:54,729: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:54:54,729: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:54:55,920: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:54:55,920: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:55:42,346: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:55:42,346: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:58:21,066: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:58:21,066: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 13:58:44,974: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:58:44,974: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:58:45,046: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:58:45,046: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:58:45,078: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:58:45,078: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:59:28,557: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:59:28,557: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:59:28,650: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:59:28,650: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:59:28,700: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:59:28,700: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:59:54,762: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:59:54,762: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 13:59:54,818: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:59:54,818: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 13:59:54,901: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 13:59:54,901: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 14:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:00 PM
+2019-01-23 14:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:00 PM
+2019-01-23 14:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:00 PM
+2019-01-23 14:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:00 PM
+2019-01-23 14:00:58,282: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 14:00:58,282: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 14:00:59,715: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 14:00:59,715: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 14:00:59,799: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 14:00:59,799: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 14:01:01,082: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 14:01:01,082: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 14:03:15,903: ERROR Logging ・Object reference not set to an instance of an object.; Url: http://localhost:60603/hrm/Employee/SavePraise; Error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AdminSoftware.Areas.Hrm.Controllers.EmployeeController.SavePraise(PraiseDisciplineModel model, Int64 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Controllers\EmployeeController.cs:line 1255
+2019-01-23 14:03:15,903: ERROR Logging ・Object reference not set to an instance of an object.; Url: http://localhost:60603/hrm/Employee/SavePraise; Error: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AdminSoftware.Areas.Hrm.Controllers.EmployeeController.SavePraise(PraiseDisciplineModel model, Int64 employeeId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Controllers\EmployeeController.cs:line 1255
+2019-01-23 14:03:30,174: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 14:03:30,174: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-23 14:03:30,229: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 14:03:30,229: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-23 14:03:30,266: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 14:03:30,266: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-23 14:09:12,375: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 14:09:12,375: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:10 PM
+2019-01-23 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:10 PM
+2019-01-23 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:10 PM
+2019-01-23 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:10 PM
+2019-01-23 14:18:34,322: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 14:18:34,322: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-23 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:20 PM
+2019-01-23 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:20 PM
+2019-01-23 14:20:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:20 PM
+2019-01-23 14:20:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:20 PM
+2019-01-23 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:30 PM
+2019-01-23 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:30 PM
+2019-01-23 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:30 PM
+2019-01-23 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:30 PM
+2019-01-23 14:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:40 PM
+2019-01-23 14:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:40 PM
+2019-01-23 14:40:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:40 PM
+2019-01-23 14:40:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:40 PM
+2019-01-23 14:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:50 PM
+2019-01-23 14:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 02:50 PM
+2019-01-23 14:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:50 PM
+2019-01-23 14:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 02:50 PM
+2019-01-23 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:00 PM
+2019-01-23 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:00 PM
+2019-01-23 15:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:00 PM
+2019-01-23 15:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:00 PM
+2019-01-23 15:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:10 PM
+2019-01-23 15:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:10 PM
+2019-01-23 15:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:10 PM
+2019-01-23 15:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:10 PM
+2019-01-23 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:20 PM
+2019-01-23 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:20 PM
+2019-01-23 15:20:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:20 PM
+2019-01-23 15:20:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:20 PM
+2019-01-23 15:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:30 PM
+2019-01-23 15:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:30 PM
+2019-01-23 15:30:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:30 PM
+2019-01-23 15:30:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:30 PM
+2019-01-23 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:40 PM
+2019-01-23 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:40 PM
+2019-01-23 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:40 PM
+2019-01-23 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:40 PM
+2019-01-23 15:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:50 PM
+2019-01-23 15:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 03:50 PM
+2019-01-23 15:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:50 PM
+2019-01-23 15:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 03:50 PM
+2019-01-23 16:00:00,008: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:00 PM
+2019-01-23 16:00:00,008: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:00 PM
+2019-01-23 16:00:00,010: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:00 PM
+2019-01-23 16:00:00,010: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:00 PM
+2019-01-23 16:00:00,014: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 23/01/2019 04:00 PM
+2019-01-23 16:00:00,014: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 23/01/2019 04:00 PM
+2019-01-23 16:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:10 PM
+2019-01-23 16:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:10 PM
+2019-01-23 16:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:10 PM
+2019-01-23 16:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:10 PM
+2019-01-23 16:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:20 PM
+2019-01-23 16:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:20 PM
+2019-01-23 16:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:20 PM
+2019-01-23 16:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:20 PM
+2019-01-23 16:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:30 PM
+2019-01-23 16:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:30 PM
+2019-01-23 16:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:30 PM
+2019-01-23 16:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:30 PM
+2019-01-23 16:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:40 PM
+2019-01-23 16:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:40 PM
+2019-01-23 16:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:40 PM
+2019-01-23 16:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:40 PM
+2019-01-23 16:50:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:50 PM
+2019-01-23 16:50:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:50 PM
+2019-01-23 16:50:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 04:50 PM
+2019-01-23 16:50:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 04:50 PM
+2019-01-23 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 05:00 PM
+2019-01-23 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 05:00 PM
+2019-01-23 17:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 05:00 PM
+2019-01-23 17:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 05:00 PM
+2019-01-23 17:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 05:10 PM
+2019-01-23 17:10:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 05:10 PM
+2019-01-23 17:10:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/01/2019 05:10 PM
+2019-01-23 17:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 23/01/2019 05:10 PM

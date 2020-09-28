@@ -1,0 +1,101 @@
+﻿@model Entity.Hrm.TimeSheetOt
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Mã nhân viên(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="hidden" value="@Model.EmployeeId" class="form-control" id="EmployeeId" />
+                        <input type="text" readonly="readonly" value="@Model.EmployeeCode @Model.FullName" class="form-control" id="EmployeeCode" />
+                        <button class="btn btn-primary btn-xs" id="ModalEmployee" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                            Tìm Kiếm
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" >
+                        <label>Ngày (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.DayDate.ToString("dd/MM/yyyy")" class="form-control" id="DayDate" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" >
+                        <label>Số giờ(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Hours" class="form-control" id="Hours" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label> Hê số(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text"  value="@Model.CoefficientPoint" class="form-control" id="CoefficientPoint" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ghi Chú</label>
+                    </div>
+                    <div class="col-md-8">
+                        <textarea type="text" value="@Model.Description" rows="3" class="form-control" id="Description"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var timeSheetOtId = '@Model.TimeSheetOtId';
+    var createDate = '@Model.CreateDate';
+</script>
+<script src="~/Areas/Hrm/JsAction/TimeSheetOt/addOrEdit.js"></script>
+
+
+
+
+

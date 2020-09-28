@@ -40,28 +40,28 @@ namespace AdminSoftware.Areas.Sale.Models
 
         public string Description { get; set; }
 
-        public Investor ToObject()
-        {
-            return new Investor
-            {
-                InvestorId = InvestorId,
-                InvestorCode = InvestorCode,
-                FullName = FullName,
-                Company = Company,
-                CompanyAddress = CompanyAddress,
-                Address = Address,
-                CityId = CityId,
-                DistrictId = DistrictId,
-                Position = Position,
-                MsEnterprise = MsEnterprise,
-                FoundedYear = FoundedYear,
-                CharterCapital = CharterCapital,
-                Status = Status,
-                CreateBy = CreateBy,
-                CreateDate = CreateDate,
-                Description = Description
-            };
-        }
+        //public Investor ToObject()
+        //{
+        //    return new Investor
+        //    {
+        //        InvestorId = InvestorId,
+        //        InvestorCode = InvestorCode,
+        //        FullName = FullName,
+        //        Company = Company,
+        //        CompanyAddress = CompanyAddress,
+        //        Address = Address,
+        //        CityId = CityId,
+        //        DistrictId = DistrictId,
+        //        Position = Position,
+        //        MsEnterprise = MsEnterprise,
+        //        FoundedYear = FoundedYear,
+        //        CharterCapital = CharterCapital,
+        //        Status = Status,
+        //        CreateBy = CreateBy,
+        //        CreateDate = CreateDate,
+        //        Description = Description
+        //    };
+        //}
 
     }
 }

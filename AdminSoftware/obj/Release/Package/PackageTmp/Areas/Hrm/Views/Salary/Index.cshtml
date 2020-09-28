@@ -1,0 +1,124 @@
+﻿
+@{
+    ViewBag.Title = "Lương nhân viên";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box-action">
+                    <button class="btn btn-primary btn-sm" id="btnDetail">
+                        <i class="fa fa-edit"></i>
+                        Chi tiết
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var users = @Html.Raw(Json.Encode(ViewBag.Users));
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var record = 0;
+        $(document).ready(function() {
+            $("#grdMain").kendoGrid({
+                dataSource: {
+                    transport: {
+                        read: '/hrm/Salary/Salaries',
+                        dataType: "json"
+                    },
+                    schema: {
+                        model: {
+                            id: "EmployeeId",
+                            fields: {
+                                BasicSalary: { type: 'number' }
+                            }
+                        }
+                    },
+                    pageSize: 100,
+                    serverPaging: false,
+                    serverFiltering: false,
+                    group:{field:'DepartmentId'}
+                },
+                height: gridHeight,
+                filterable: true,
+                sortable: true,
+                pageable: {
+                    refresh: true
+                },
+                selectable: 'row',
+                columns: [
+                    {
+                        title: "STT",
+                        template: "#= ++record #",
+                        width: 60
+                    },
+                    {
+                        field: "EmployeeCode",
+                        title: "Mã nhân viên",
+                        width: 170
+                    },
+                    {
+                        field: "FullName",
+                        title: "Tên nhân viên",
+                        width: 200
+                    },
+                    {
+                        field: "DepartmentId",
+                        title: "Phòng",
+                        width: 200,
+                        hidden: true,
+                        values:departments
+                    },
+                    {
+                        field: "BasicSalary",
+                        title: "Mức lương cơ sở",
+                        width: 200,
+                        format: '{0:###,###}'
+                    },
+                    {
+                        field: "BasicCoefficient",
+                        title: "Hệ số CB",
+                        width: 150
+                    },
+                    {
+                        field: "ProfessionalCoefficient",
+                        title: "Hệ số CM",
+                        width: 150
+                    },
+                    {
+                        field: "ResponsibilityCoefficient",
+                        title: "Hệ số TN",
+                        width: 150
+                    }
+                ],
+                dataBinding: function() {
+                    record = (this.dataSource.page() - 1) * this.dataSource.pageSize();
+                }
+            });
+            $('#btnDetail').click(function() {
+                var employee = GetGridRowSelected('#grdMain');
+                if (employee == null || employee == typeof undefined) {
+                    $.msgBox({
+                        title: "Hệ thống",
+                        type: "error",
+                        content: "Bạn chưa chọn nhân viên!",
+                        buttons: [{ value: "Đồng ý" }]
+                    });
+                    return;
+                }
+                InitWindowModal('/hrm/Salary/SalariesEmployee?employeeId=' + employee.EmployeeId, true, 500, 270, "Quá trình tăng giảm lương nhân viên: "+employee.EmployeeCode +" - "+employee.FullName, false);
+            });
+        });
+    </script>
+}
+

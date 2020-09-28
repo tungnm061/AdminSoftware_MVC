@@ -1,0 +1,144 @@
+﻿@using Entity.System
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/css/ionicons.min.css" rel="stylesheet" />
+    <link href="~/Content/css/main.css" rel="stylesheet" />
+    <link href="~/Content/css/msgBoxLight.css" rel="stylesheet" />
+    <link href="~/Content/css/kendo/kendo.common.min.css" rel="stylesheet" />
+    <link href="~/Content/css/kendo/kendo.silver.min.css" rel="stylesheet" />
+    <link href="~/Content/toastr.min.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="processing">
+        <div class="img-load-ajax">
+            <img src="@Url.Content("~/Content/images/default.gif")" />
+            <p>Đang xử lý ...</p>
+        </div>
+    </div>
+    <div id="wrap">
+        <div id="top">
+            <!-- .navbar -->
+            <nav class="navbar navbar-inverse navbar-static-top">
+                <div class="container-fluid">
+                    <header class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a href="/dashboard" class="navbar-brand"><img src="~/Content/images/logo.png" alt=""></a>
+                    </header>
+                    <div class="topnav">
+                        <div class="btn-group circle">
+                            <a href="#" data-toggle="dropdown" title="Thông tin tài khoản">
+                                <i class="fa fa-user"></i>
+                            </a>
+                            <ul class="dropdown-menu" style="left: auto; right: 0">
+                                <!-- Menu Footer-->
+                                <li>
+                                    <a href="#" onclick="ChangeInfomation()">
+                                        <span class="label" style="color: #333"><i class="fa fa-user" style="float: none"></i> @(((User)Session["UserModel"]).UserName)</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" onclick="ChangePassword()">
+                                        <span class="label" style="color: #333"><i class="fa fa-lock" style="float: none"></i> Đổi mật khẩu</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("Logout", "Login", new {Area = ""})">
+                                        <span class="label" style="color: #333"> <i class="fa fa-power-off" style="float: none"></i>Thoát</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        @*<div class="btn-group circle">
+                            <a href="#" data-toggle="control-sidebar" data-action="load-message" title="Chat">
+                                <i class="fa fa-comment"></i>
+                            </a>
+                        </div>*@
+                    </div>
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <!-- .nav -->
+                        <ul class="nav navbar-nav">
+                            @Html.Partial("_Menu")
+                        </ul>
+                        <!-- /.nav -->
+                    </div>
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
+            <!-- /.navbar -->
+        </div>
+        <!-- /#top -->
+        <div id="content">
+            <div class="outer">
+                <div class="inner">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+        <footer class="Footer">
+            <p>Copyright &copy; 2018</p>
+        </footer>
+    </div>
+    <aside class="control-sidebar control-sidebar-dark">
+        <!-- Create the tabs -->
+        <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
+            <li class="active"><a href="#control-sidebar-theme-demo-options-tab" data-toggle="tab" aria-expanded="true">Tin nhắn</a></li>
+            <li class=""><a href="#control-sidebar-settings-tab" data-toggle="tab" aria-expanded="false">Người dùng</a></li>
+            <li class=""><a href="#" data-toggle="control-sidebar">Đóng</a></li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <!-- Home tab content -->
+            <div id="control-sidebar-theme-demo-options-tab" class="tab-pane active">
+                <div class="chat-box">
+                    <div class="chat-content" data-display="messages">
+                        
+                    </div>
+                    <div class="chat-action">
+                        <div class="chat-input">
+                            <input type="text" id="chat-message" placeholder="Nhập nội dung và ấn phím Enter" class="form-control" />
+                        </div>
+                        <div class="chat-attach" title="Chọn ảnh">
+                            <a href="javascript:;" onclick="$('#chat-attach-image').click();"><i class="fa fa-image"></i></a>
+                            <input type="file" id="chat-attach-image" accept=".jpg,.png,.bmp,.gif" style="display: none"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.tab-pane -->
+            <!-- Settings tab content -->
+            <div class="tab-pane" id="control-sidebar-settings-tab">
+                
+            </div>
+            <!-- /.tab-pane -->
+        </div>
+    </aside>
+    <div id="windowBase"></div>
+    <div id="childWindoModal"></div>
+    <div id="childOfChildWindoModal"></div>
+    <script type="text/javascript">
+        var gridHeight = '400';
+    </script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-github/jquery.msgBox.js"></script>
+    <script src="~/Scripts/kendo/jszip.min.js"></script>
+    <script src="~/Scripts/kendo/kendo.all.min.js"></script>
+    <script src="~/Scripts/toastr.min.js"></script>
+    @*<script src="~/Scripts/jquery.signalR-2.1.2.min.js"></script>
+    <script src="~/signalr/hubs"></script>*@
+    <script src="~/Scripts/base-common.js"></script>
+    @*<script src="~/Scripts/chat-action.js"></script>*@
+    @RenderSection("scripts", required: false)
+</body>
+</html>

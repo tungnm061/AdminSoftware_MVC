@@ -1,0 +1,308 @@
+2018-11-23 08:50:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 08:50 AM
+2018-11-23 08:50:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 08:50 AM
+2018-11-23 08:50:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 08:50 AM
+2018-11-23 08:50:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 08:50 AM
+2018-11-23 08:54:03,860: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 08:54:03,860: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 08:54:05,186: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 08:54:05,186: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:00 AM
+2018-11-23 09:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:00 AM
+2018-11-23 09:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:00 AM
+2018-11-23 09:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:00 AM
+2018-11-23 09:06:27,497: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.WeekReportController'.
+2018-11-23 09:06:27,497: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.WeekReportController'.
+2018-11-23 09:06:36,946: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:06:36,946: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:09:47,227: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:09:47,227: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:09:57,219: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:09:57,219: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:10:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:10 AM
+2018-11-23 09:10:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:10 AM
+2018-11-23 09:10:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:10 AM
+2018-11-23 09:10:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:10 AM
+2018-11-23 09:11:24,281: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:11:24,281: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:11:28,925: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 09:11:28,925: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 09:11:28,988: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 09:11:28,988: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 09:11:29,325: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:11:29,325: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:11:42,519: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:11:42,519: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:11:44,175: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:11:44,175: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:12:02,361: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:12:02,361: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:12:16,004: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:12:16,004: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:12:30,059: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:12:30,059: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:13:04,837: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:13:04,837: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:13:14,066: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 09:13:14,066: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 09:13:14,135: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 09:13:14,135: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 09:13:14,158: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:13:14,158: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:13:25,967: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:13:25,967: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:13:39,893: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:13:39,893: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:13:51,224: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:13:51,224: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:14:40,471: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:14:40,471: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:14:49,515: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:14:49,515: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:14:52,713: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 09:14:52,713: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 09:14:52,722: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 09:14:52,722: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 09:14:52,770: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:14:52,770: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:15:05,059: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:15:05,059: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:15:48,525: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:15:48,525: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:15:51,231: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 09:15:51,231: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 09:15:51,276: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 09:15:51,276: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 09:15:51,322: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:15:51,322: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 09:16:17,790: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:16:17,790: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:16:30,099: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:16:30,099: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 09:20:00,154: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:20 AM
+2018-11-23 09:20:00,154: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:20 AM
+2018-11-23 09:20:00,154: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:20 AM
+2018-11-23 09:20:00,154: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:20 AM
+2018-11-23 09:30:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:30 AM
+2018-11-23 09:30:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:30 AM
+2018-11-23 09:30:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:30 AM
+2018-11-23 09:30:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:30 AM
+2018-11-23 09:40:00,052: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:40 AM
+2018-11-23 09:40:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:40 AM
+2018-11-23 09:40:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:40 AM
+2018-11-23 09:40:00,052: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:40 AM
+2018-11-23 09:46:47,554: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 09:46:47,554: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 09:49:39,289: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 09:49:39,289: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 09:50:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:50 AM
+2018-11-23 09:50:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:50 AM
+2018-11-23 09:50:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 09:50 AM
+2018-11-23 09:50:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 09:50 AM
+2018-11-23 10:00:00,055: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:00 AM
+2018-11-23 10:00:00,056: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:00 AM
+2018-11-23 10:00:00,056: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:00 AM
+2018-11-23 10:00:00,055: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:00 AM
+2018-11-23 10:01:53,295: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 10:01:53,295: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 10:03:34,932: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 10:03:34,932: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 10:04:05,121: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 10:04:05,121: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 10:07:08,830: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 10:07:08,830: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 10:10:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:10 AM
+2018-11-23 10:10:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:10 AM
+2018-11-23 10:10:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:10 AM
+2018-11-23 10:10:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:10 AM
+2018-11-23 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:20 AM
+2018-11-23 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:20 AM
+2018-11-23 10:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:20 AM
+2018-11-23 10:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:20 AM
+2018-11-23 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:30 AM
+2018-11-23 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:30 AM
+2018-11-23 10:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:30 AM
+2018-11-23 10:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:30 AM
+2018-11-23 10:40:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:40 AM
+2018-11-23 10:40:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:40 AM
+2018-11-23 10:40:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:40 AM
+2018-11-23 10:40:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:40 AM
+2018-11-23 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:50 AM
+2018-11-23 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 10:50 AM
+2018-11-23 10:50:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:50 AM
+2018-11-23 10:50:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 10:50 AM
+2018-11-23 10:52:16,879: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 10:52:16,879: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 11:00:00,055: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:00 AM
+2018-11-23 11:00:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:00 AM
+2018-11-23 11:00:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 23/11/2018 11:00 AM
+2018-11-23 11:00:00,055: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:00 AM
+2018-11-23 11:00:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 23/11/2018 11:00 AM
+2018-11-23 11:00:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:00 AM
+2018-11-23 11:00:00,412: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2018-11-23 11:00:00,412: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2018-11-23 11:10:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:10 AM
+2018-11-23 11:10:00,055: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:10 AM
+2018-11-23 11:10:00,055: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:10 AM
+2018-11-23 11:10:00,055: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:10 AM
+2018-11-23 11:20:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:20 AM
+2018-11-23 11:20:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:20 AM
+2018-11-23 11:20:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:20 AM
+2018-11-23 11:20:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:20 AM
+2018-11-23 11:30:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:30 AM
+2018-11-23 11:30:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:30 AM
+2018-11-23 11:30:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:30 AM
+2018-11-23 11:30:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:30 AM
+2018-11-23 11:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:40 AM
+2018-11-23 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:40 AM
+2018-11-23 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:40 AM
+2018-11-23 11:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:40 AM
+2018-11-23 11:50:00,053: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:50 AM
+2018-11-23 11:50:00,053: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:50 AM
+2018-11-23 11:50:00,053: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 11:50 AM
+2018-11-23 11:50:00,053: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 11:50 AM
+2018-11-23 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:00 PM
+2018-11-23 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:00 PM
+2018-11-23 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:00 PM
+2018-11-23 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:00 PM
+2018-11-23 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:10 PM
+2018-11-23 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:10 PM
+2018-11-23 12:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:10 PM
+2018-11-23 12:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:10 PM
+2018-11-23 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:20 PM
+2018-11-23 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:20 PM
+2018-11-23 12:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:20 PM
+2018-11-23 12:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:20 PM
+2018-11-23 12:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:30 PM
+2018-11-23 12:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:30 PM
+2018-11-23 12:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:30 PM
+2018-11-23 12:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:30 PM
+2018-11-23 12:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:40 PM
+2018-11-23 12:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:40 PM
+2018-11-23 12:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 12:40 PM
+2018-11-23 12:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 12:40 PM
+2018-11-23 13:01:34,676: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 01:01 PM
+2018-11-23 13:01:34,676: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 01:01 PM
+2018-11-23 13:01:34,676: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 01:01 PM
+2018-11-23 13:01:34,676: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 01:01 PM
+2018-11-23 13:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 01:10 PM
+2018-11-23 13:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 01:10 PM
+2018-11-23 13:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 01:10 PM
+2018-11-23 13:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 01:10 PM
+2018-11-23 13:26:51,577: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 13:26:51,577: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 13:30:56,561: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 13:30:56,561: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 13:32:28,527: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 13:32:28,527: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 13:34:29,906: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 13:34:29,906: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 13:40:44,671: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 13:40:44,671: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 14:06:14,809: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 14:06:14,809: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 14:07:31,315: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 14:07:31,315: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 14:10:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:10 PM
+2018-11-23 14:10:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:10 PM
+2018-11-23 14:10:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:10 PM
+2018-11-23 14:10:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:10 PM
+2018-11-23 14:20:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:20 PM
+2018-11-23 14:20:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:20 PM
+2018-11-23 14:20:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:20 PM
+2018-11-23 14:20:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:20 PM
+2018-11-23 14:30:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:30 PM
+2018-11-23 14:30:00,040: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:30 PM
+2018-11-23 14:30:00,040: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:30 PM
+2018-11-23 14:30:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:30 PM
+2018-11-23 14:40:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:40 PM
+2018-11-23 14:40:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:40 PM
+2018-11-23 14:40:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:40 PM
+2018-11-23 14:40:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:40 PM
+2018-11-23 14:50:00,032: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:50 PM
+2018-11-23 14:50:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:50 PM
+2018-11-23 14:50:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 02:50 PM
+2018-11-23 14:50:00,032: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 02:50 PM
+2018-11-23 15:00:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:00 PM
+2018-11-23 15:00:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:00 PM
+2018-11-23 15:00:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:00 PM
+2018-11-23 15:00:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:00 PM
+2018-11-23 15:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:10 PM
+2018-11-23 15:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:10 PM
+2018-11-23 15:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:10 PM
+2018-11-23 15:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:10 PM
+2018-11-23 15:20:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:20 PM
+2018-11-23 15:20:00,041: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:20 PM
+2018-11-23 15:20:00,041: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:20 PM
+2018-11-23 15:20:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:20 PM
+2018-11-23 15:30:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:30 PM
+2018-11-23 15:30:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:30 PM
+2018-11-23 15:30:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:30 PM
+2018-11-23 15:30:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:30 PM
+2018-11-23 15:40:00,049: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:40 PM
+2018-11-23 15:40:00,049: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:40 PM
+2018-11-23 15:40:00,049: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:40 PM
+2018-11-23 15:40:00,049: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:40 PM
+2018-11-23 15:41:30,042: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 15:41:30,042: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 15:41:50,427: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 15:41:50,427: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 15:42:17,312: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 15:42:17,312: ERROR Logging ・The controller for path '/Content/images/employee.png' was not found or does not implement IController.
+2018-11-23 15:46:12,972: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 15:46:12,972: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 15:50:00,029: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:50 PM
+2018-11-23 15:50:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:50 PM
+2018-11-23 15:50:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 03:50 PM
+2018-11-23 15:50:00,029: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 03:50 PM
+2018-11-23 15:54:33,930: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 15:54:33,930: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 15:55:28,911: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 15:55:28,911: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 15:55:28,935: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 15:55:28,935: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 15:55:28,963: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 15:55:28,963: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 15:56:42,143: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 15:56:42,143: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 15:56:43,386: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 15:56:43,386: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 15:56:43,573: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 15:56:43,573: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 15:56:43,820: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 15:56:43,820: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 15:57:44,151: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 15:57:44,151: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 15:57:44,654: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 15:57:44,654: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 15:57:45,164: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 15:57:45,164: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 15:57:45,665: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 15:57:45,665: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-23 15:57:46,179: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 15:57:46,179: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-23 15:57:46,678: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 15:57:46,678: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-23 16:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 04:00 PM
+2018-11-23 16:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 04:00 PM
+2018-11-23 16:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 04:00 PM
+2018-11-23 16:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 04:00 PM
+2018-11-23 16:00:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 23/11/2018 04:00 PM
+2018-11-23 16:00:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 23/11/2018 04:00 PM
+2018-11-23 16:00:00,314: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2018-11-23 16:00:00,314: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2018-11-23 16:10:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 04:10 PM
+2018-11-23 16:10:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 04:10 PM
+2018-11-23 16:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 04:10 PM
+2018-11-23 16:10:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 04:10 PM
+2018-11-23 16:20:00,650: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 04:20 PM
+2018-11-23 16:20:00,650: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 04:20 PM
+2018-11-23 16:20:00,650: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 04:20 PM
+2018-11-23 16:20:00,650: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 04:20 PM
+2018-11-23 16:29:15,081: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 16:29:15,081: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 16:29:38,672: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 16:29:38,672: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-23 16:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 04:30 PM
+2018-11-23 16:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 23/11/2018 04:30 PM
+2018-11-23 16:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 04:30 PM
+2018-11-23 16:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 23/11/2018 04:30 PM

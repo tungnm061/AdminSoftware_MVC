@@ -1,0 +1,102 @@
+﻿@model Entity.Hrm.Contract
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Số HĐ (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.ContractCode" id="ContractCode" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Loại HĐ (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.ContractTypeId" id="ContractTypeId"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Từ ngày (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.StartDate.ToString("dd/MM/yyyy")" id="StartDate"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Đến ngày (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" class="form-control" value="@Model.EndDate.ToString("dd/MM/yyyy")" id="EndDate"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Hợp đồng</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" readonly="readonly" class="form-control" value="@Model.ContractFile" id="ContractFile"/>
+                <input type="file" style="display: none" id="UploadContractFile"/>
+                <div style="position: absolute;top: 0;right: 15px;">
+                    <div class="btn-group">
+                        <button type="button" id="btnUploadContractFile" title="Upload file" class="btn btn-default btn-xs">
+                            <i class="glyphicon glyphicon-upload"></i>
+                        </button>
+                        <button type="button" id="btnRemoveContractFile" title="Xóa file" class="btn btn-default btn-xs">
+                            <i class="glyphicon glyphicon-remove"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Phụ lục</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" readonly="readonly" class="form-control" value="@Model.ContractOthorFile" id="ContractOthorFile"/>
+                <input type="file" style="display: none" id="UploadContractOthorFile" />
+                <div style="position: absolute;top: 0;right: 15px;">
+                    <div class="btn-group">
+                        <button type="button" id="btnContractOthorFile" title="Upload file" class="btn btn-default btn-xs">
+                            <i class="glyphicon glyphicon-upload"></i>
+                        </button>
+                        <button type="button" id="btnRemoveContractOthorFile" title="Xóa file" class="btn btn-default btn-xs">
+                            <i class="glyphicon glyphicon-remove"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <textarea id="Description" class="form-control" rows="2" placeholder="Ghi chú">@Model.Description</textarea>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var contractId = '@Model.ContractId';
+    var contractTypes = @Html.Raw(Json.Encode(ViewBag.ContractTypes));
+</script>
+<script src="~/Areas/Hrm/JsAction/Contract/addOrEdit.js"></script>
+
+
+
+

@@ -1,0 +1,62 @@
+﻿@model Entity.Hrm.Department
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <label>Mã phòng ban (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.DepartmentCode" class="form-control" id="DepartmentCode"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Tên phòng ban (*)</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.DepartmentName" class="form-control" id="DepartmentName" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Nhóm cha</label>
+            </div>
+            <div class="col-md-9">
+                <input type="text" value="@Model.ParentId" class="form-control" id="ParentId" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>Ghi chú</label>
+            </div>
+            <div class="col-md-9">
+                <textarea id="Description" rows="2" class="form-control">@Model.Description</textarea>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+            </div>
+            <div class="col-md-9">
+                <input type="checkbox" class="k-checkbox" id="IsActive" @if (Model.IsActive) { <text> checked="checked" </text>      } />
+                <label for="IsActive" class="k-checkbox-label">Theo dõi</label>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var departmentTrees = @Html.Raw(Json.Encode(ViewBag.DepartmentTrees));
+    var departmentId = '@Model.DepartmentId';
+</script>
+<script src="~/Areas/Hrm/JsAction/Department/addOrEdit.js"></script>

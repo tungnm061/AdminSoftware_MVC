@@ -1,0 +1,192 @@
+2018-11-02 09:25:38,402: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:25:38,402: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:33:18,364: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 09:33 AM
+2018-11-02 09:33:18,365: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 09:33 AM
+2018-11-02 09:33:18,365: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 09:33 AM
+2018-11-02 09:33:18,364: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 09:33 AM
+2018-11-02 09:34:05,212: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:34:05,212: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:41:14,243: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-02 09:41:14,242: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-02 09:41:14,242: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-02 09:41:14,242: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-11-02 09:41:14,242: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-11-02 09:41:14,243: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-11-02 09:42:03,803: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-11-02 09:42:03,803: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-11-02 09:50:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 09:50 AM
+2018-11-02 09:50:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 09:50 AM
+2018-11-02 09:50:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 09:50 AM
+2018-11-02 09:50:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 09:50 AM
+2018-11-02 09:53:00,723: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:53:00,723: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:53:46,613: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:53:46,613: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:59:47,792: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 09:59:47,792: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:00:00,056: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 10:00 AM
+2018-11-02 10:00:00,057: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 10:00 AM
+2018-11-02 10:00:00,057: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 10:00 AM
+2018-11-02 10:00:00,056: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 10:00 AM
+2018-11-02 10:00:21,579: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:00:21,579: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:09:39,213: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:09:39,213: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:10:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 10:10 AM
+2018-11-02 10:10:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 10:10 AM
+2018-11-02 10:10:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 10:10 AM
+2018-11-02 10:10:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 10:10 AM
+2018-11-02 10:19:12,503: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:19:12,503: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:20:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 10:20 AM
+2018-11-02 10:20:00,044: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 10:20 AM
+2018-11-02 10:20:00,044: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 10:20 AM
+2018-11-02 10:20:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 10:20 AM
+2018-11-02 10:28:00,871: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:28:00,871: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:36:38,233: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 10:36:38,233: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 13:20:00,140: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 01:20 PM
+2018-11-02 13:20:00,140: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 01:20 PM
+2018-11-02 13:20:00,140: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 01:20 PM
+2018-11-02 13:20:00,140: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 01:20 PM
+2018-11-02 13:21:57,428: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 13:21:57,428: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 13:22:43,334: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 13:22:43,334: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 01:30 PM
+2018-11-02 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 01:30 PM
+2018-11-02 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 01:30 PM
+2018-11-02 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 01:30 PM
+2018-11-02 13:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 01:40 PM
+2018-11-02 13:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 01:40 PM
+2018-11-02 13:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 01:40 PM
+2018-11-02 13:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 01:40 PM
+2018-11-02 13:42:00,763: ERROR Logging ・The controller for path '/sale/ApproveWorkStream/Index' was not found or does not implement IController.
+2018-11-02 13:42:00,763: ERROR Logging ・The controller for path '/sale/ApproveWorkStream/Index' was not found or does not implement IController.
+2018-11-02 13:42:29,455: ERROR Logging ・The controller for path '/sale/ApproveComplain/Index' was not found or does not implement IController.
+2018-11-02 13:42:29,455: ERROR Logging ・The controller for path '/sale/ApproveComplain/Index' was not found or does not implement IController.
+2018-11-02 13:45:09,134: ERROR Logging ・The controller for path '/sale/ApproveComplain/Index' was not found or does not implement IController.
+2018-11-02 13:45:09,134: ERROR Logging ・The controller for path '/sale/ApproveComplain/Index' was not found or does not implement IController.
+2018-11-02 13:45:14,681: ERROR Logging ・The controller for path '/sale/ApproveWorkStream/Index' was not found or does not implement IController.
+2018-11-02 13:45:14,681: ERROR Logging ・The controller for path '/sale/ApproveWorkStream/Index' was not found or does not implement IController.
+2018-11-02 13:45:26,836: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 13:45:26,836: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 13:45:38,836: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Sale.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-11-02 13:45:38,836: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Sale.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-11-02 13:45:43,000: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Sale.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-11-02 13:45:43,000: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Sale.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-11-02 13:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 01:50 PM
+2018-11-02 13:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 01:50 PM
+2018-11-02 13:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 01:50 PM
+2018-11-02 13:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 01:50 PM
+2018-11-02 14:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 02:00 PM
+2018-11-02 14:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 02:00 PM
+2018-11-02 14:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 02:00 PM
+2018-11-02 14:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 02:00 PM
+2018-11-02 14:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 02:10 PM
+2018-11-02 14:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 02:10 PM
+2018-11-02 14:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 02:10 PM
+2018-11-02 14:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 02:10 PM
+2018-11-02 14:20:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 02:20 PM
+2018-11-02 14:20:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 02:20 PM
+2018-11-02 14:20:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 02:20 PM
+2018-11-02 14:20:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 02:20 PM
+2018-11-02 14:20:15,789: ERROR Logging ・A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:258,State:0,Class:20
+2018-11-02 14:20:15,789: ERROR Logging ・A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:258,State:0,Class:20
+2018-11-02 14:20:29,334: ERROR Logging ・A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.) ---> System.ComponentModel.Win32Exception (0x80004005): The network location cannot be reached. For information about network troubleshooting, see Windows Help
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:1232,State:0,Class:20
+2018-11-02 14:20:29,334: ERROR Logging ・A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - The network location cannot be reached. For information about network troubleshooting, see Windows Help.) ---> System.ComponentModel.Win32Exception (0x80004005): The network location cannot be reached. For information about network troubleshooting, see Windows Help
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:1232,State:0,Class:20
+2018-11-02 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 02:30 PM
+2018-11-02 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 02/11/2018 02:30 PM
+2018-11-02 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 02:30 PM
+2018-11-02 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 02/11/2018 02:30 PM
+2018-11-02 14:34:11,872: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-02 14:34:11,872: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <!--IE Compatibility modes-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--Mobile first-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title</title>
+    <link rel="shortcut icon" href="/Content/images/logo.png" type="image/png">
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/css/main.css" rel="stylesheet" />
+    <link href="~/Content/css/msgBoxLight.css" rel="stylesheet" />
+</head>
+<body class="login">
+<div class="form-signin">
+    <div class="text-center">
+        <img src="~/Content/images/logo.png" alt="Teraco">
+    </div>
+    <hr>
+    <div class="tab-content">
+        <div id="login" class="tab-pane active">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-github/jquery.msgBox.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

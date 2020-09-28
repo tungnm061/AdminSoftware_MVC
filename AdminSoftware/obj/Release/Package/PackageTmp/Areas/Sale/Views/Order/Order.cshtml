@@ -1,0 +1,258 @@
+﻿@model Entity.Sale.Order
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Gmail(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.GmailId" id="GmailId" class="form-control"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Mã Code(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.OrderCode" id="OrderCode"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Ngày đặt đơn(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.StartDate.ToString("dd/MM/yyyy")" id="StartDate" />
+                    </div>
+                </div>
+            </div>
+            @*<div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>FirstName(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.FirstName" id="FirstName" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>LastName(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.LastName" id="LastName" />
+                    </div>
+                </div>
+            </div>*@
+        </div>
+
+        @*<div class="row">
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Mã Code(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.OrderCode" id="OrderCode" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Email(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Email" id="Email" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Phone(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.Phone" id="Phone" />
+                    </div>
+                </div>
+            </div>
+        </div>*@
+        @*<div class="row">
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Quốc gia</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.CountryId" id="CountryId" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Khu vực</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Region" id="Region" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Thành phố</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.City" id="City" />
+                    </div>
+                </div>
+            </div>
+        </div>*@
+        <div class="row">
+
+            @*<div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Postal/Code</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.PostalZipCode" id="PostalZipCode" />
+                    </div>
+                </div>
+            </div>*@
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Trạng thái(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.Status" id="Status" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Mã Tracking</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.TrackingCode" id="TrackingCode"/>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Ngày hoàn thành</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@(Model.FinishDate == null ? "" : Model.FinishDate.Value.ToString("dd/MM/yyyy")) " id="FinishDate" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Nhà sản xuất(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.ProducerId" id="ProducerId" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Phí ship(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.ShipMoney" id="ShipMoney" />
+                    </div>
+                </div>
+            </div>
+            @*<div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Tỷ giá NT</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control" value="@Model.RateMoney"  id="RateMoney" />
+                    </div>
+                </div>
+            </div>*@
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <textarea class="form-control" rows="3" id="Description" placeholder="Ghi chú..." style="min-height: 50px;">@Model.Description</textarea>
+            </div>
+        </div>
+        @*<div class="row">
+            <div class="col-md-12">
+                <textarea class="form-control" rows="3" id="Address2" placeholder="Address2...." style="min-height: 50px;">@Model.Address2</textarea>
+            </div>
+        </div>*@
+        @*<div class="row">
+            <div class="col-md-12">
+                <textarea class="form-control" rows="3" id="Description" placeholder="Mô tả ...." style="min-height: 60px;">@Model.Description</textarea>
+            </div>
+        </div>*@
+        <div class="row">
+            <div class="col-md-12">
+                <button class="btn btn-primary btn-xs" id="btnAddOrderDetail" style="padding: 3px 5px;">
+                    <i class="glyphicon glyphicon-plus"></i>
+                    Thêm
+                </button>
+                <button class="btn btn-primary btn-xs" id="btnEditOrderDetail" style="padding: 3px 5px;">
+                    <i class="glyphicon glyphicon-edit"></i>
+                    Sửa
+                </button>
+                <button class="btn btn-primary btn-xs" id="btnRemoveOrderDetail" style="padding: 3px 5px;">
+                    <i class="glyphicon glyphicon-remove"></i>
+                    Xóa
+                </button>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdOrderDetail" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+</style>
+<script type="text/javascript">
+    var orderId = '@Model.OrderId';
+</script>
+<script src="~/Areas/Sale/JsAction/Order/addOrEdit.js"></script>
+
+

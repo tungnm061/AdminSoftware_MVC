@@ -1,0 +1,54 @@
+2019-02-25 09:43:24,921: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-25 09:43:24,921: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-25 09:50:00,059: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 09:50 AM
+2019-02-25 09:50:00,059: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 09:50 AM
+2019-02-25 09:50:00,059: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 09:50 AM
+2019-02-25 09:50:00,059: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 09:50 AM
+2019-02-25 10:00:00,000: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:00 AM
+2019-02-25 10:00:00,000: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:00 AM
+2019-02-25 10:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:00 AM
+2019-02-25 10:00:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:00 AM
+2019-02-25 10:10:00,013: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:10 AM
+2019-02-25 10:10:00,013: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:10 AM
+2019-02-25 10:10:00,013: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:10 AM
+2019-02-25 10:10:00,013: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:10 AM
+2019-02-25 10:20:00,000: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:20 AM
+2019-02-25 10:20:00,000: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:20 AM
+2019-02-25 10:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:20 AM
+2019-02-25 10:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:20 AM
+2019-02-25 10:23:11,256: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-25 10:23:11,256: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-25 10:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:30 AM
+2019-02-25 10:30:00,000: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:30 AM
+2019-02-25 10:30:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:30 AM
+2019-02-25 10:30:00,001: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:30 AM
+2019-02-25 10:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:40 AM
+2019-02-25 10:40:00,001: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:40 AM
+2019-02-25 10:40:00,004: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:40 AM
+2019-02-25 10:40:00,004: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:40 AM
+2019-02-25 10:43:44,513: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-25 10:43:44,513: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-25 10:45:24,775: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-25 10:45:24,775: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-02-25 10:50:00,030: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:50 AM
+2019-02-25 10:50:00,031: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:50 AM
+2019-02-25 10:50:00,031: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 10:50 AM
+2019-02-25 10:50:00,030: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 10:50 AM
+2019-02-25 11:00:00,047: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 25/02/2019 11:00 AM
+2019-02-25 11:00:00,048: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 11:00 AM
+2019-02-25 11:00:00,047: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 11:00 AM
+2019-02-25 11:00:00,047: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 11:00 AM
+2019-02-25 11:00:00,048: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 11:00 AM
+2019-02-25 11:00:00,047: ERROR Logging – Start Job NotificationCompletedWorkPlanJob: 25/02/2019 11:00 AM
+2019-02-25 11:10:00,004: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 11:10 AM
+2019-02-25 11:10:00,004: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 11:10 AM
+2019-02-25 11:10:00,004: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 11:10 AM
+2019-02-25 11:10:00,004: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 11:10 AM
+2019-02-25 11:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 11:20 AM
+2019-02-25 11:20:00,000: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 11:20 AM
+2019-02-25 11:20:00,004: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 11:20 AM
+2019-02-25 11:20:00,004: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 11:20 AM
+2019-02-25 11:30:00,004: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 11:30 AM
+2019-02-25 11:30:00,004: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 25/02/2019 11:30 AM
+2019-02-25 11:30:00,004: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 11:30 AM
+2019-02-25 11:30:00,004: ERROR Logging – Start Job NotificationWorkPlan: 25/02/2019 11:30 AM

@@ -1,0 +1,136 @@
+2018-12-28 09:10:16,157: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-28 09:10:16,157: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-28 09:20:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 09:20 AM
+2018-12-28 09:20:00,029: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 09:20 AM
+2018-12-28 09:20:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 09:20 AM
+2018-12-28 09:20:00,029: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 09:20 AM
+2018-12-28 09:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 09:30 AM
+2018-12-28 09:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 09:30 AM
+2018-12-28 09:30:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 09:30 AM
+2018-12-28 09:30:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 09:30 AM
+2018-12-28 09:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 09:40 AM
+2018-12-28 09:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 09:40 AM
+2018-12-28 09:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 09:40 AM
+2018-12-28 09:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 09:40 AM
+2018-12-28 09:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 09:50 AM
+2018-12-28 09:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 09:50 AM
+2018-12-28 09:50:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 09:50 AM
+2018-12-28 09:50:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 09:50 AM
+2018-12-28 09:57:46,460: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-28 09:57:46,460: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-28 10:00:00,061: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:00 AM
+2018-12-28 10:00:00,061: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:00 AM
+2018-12-28 10:00:00,061: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:00 AM
+2018-12-28 10:00:00,061: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:00 AM
+2018-12-28 10:10:00,032: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:10 AM
+2018-12-28 10:10:00,032: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:10 AM
+2018-12-28 10:10:00,032: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:10 AM
+2018-12-28 10:10:00,032: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:10 AM
+2018-12-28 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:20 AM
+2018-12-28 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:20 AM
+2018-12-28 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:20 AM
+2018-12-28 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:20 AM
+2018-12-28 10:26:31,517: ERROR Logging ・Procedure Get_Project has no parameters and arguments were supplied.; Url: http://localhost:60603/sale/Project/Project?id=6B091C14-A9D2-4624-A7BD-50EED579987F&_=1545966064234; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Procedure Get_Project has no parameters and arguments were supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Sale.ProjectDal.GetProject(String id) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Sale\ProjectDal.cs:line 34
+ClientConnectionId:4c344dcb-600f-48f8-9888-bc627a454cba
+Error Number:8146,State:2,Class:16
+2018-12-28 10:26:31,517: ERROR Logging ・Procedure Get_Project has no parameters and arguments were supplied.; Url: http://localhost:60603/sale/Project/Project?id=6B091C14-A9D2-4624-A7BD-50EED579987F&_=1545966064234; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Procedure Get_Project has no parameters and arguments were supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Sale.ProjectDal.GetProject(String id) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Sale\ProjectDal.cs:line 34
+ClientConnectionId:4c344dcb-600f-48f8-9888-bc627a454cba
+Error Number:8146,State:2,Class:16
+2018-12-28 10:30:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:30 AM
+2018-12-28 10:30:00,030: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:30 AM
+2018-12-28 10:30:00,030: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:30 AM
+2018-12-28 10:30:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:30 AM
+2018-12-28 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:40 AM
+2018-12-28 10:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:40 AM
+2018-12-28 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:40 AM
+2018-12-28 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:40 AM
+2018-12-28 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:50 AM
+2018-12-28 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 10:50 AM
+2018-12-28 10:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:50 AM
+2018-12-28 10:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 10:50 AM
+2018-12-28 11:00:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:00 AM
+2018-12-28 11:00:00,008: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:00 AM
+2018-12-28 11:00:00,008: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:00 AM
+2018-12-28 11:00:00,008: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:00 AM
+2018-12-28 11:00:00,013: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 28/12/2018 11:00 AM
+2018-12-28 11:00:00,013: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 28/12/2018 11:00 AM
+2018-12-28 11:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:10 AM
+2018-12-28 11:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:10 AM
+2018-12-28 11:10:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:10 AM
+2018-12-28 11:10:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:10 AM
+2018-12-28 11:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:20 AM
+2018-12-28 11:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:20 AM
+2018-12-28 11:20:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:20 AM
+2018-12-28 11:20:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:20 AM
+2018-12-28 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:30 AM
+2018-12-28 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:30 AM
+2018-12-28 11:30:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:30 AM
+2018-12-28 11:30:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:30 AM
+2018-12-28 11:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:40 AM
+2018-12-28 11:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:40 AM
+2018-12-28 11:40:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:40 AM
+2018-12-28 11:40:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:40 AM
+2018-12-28 11:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:50 AM
+2018-12-28 11:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 11:50 AM
+2018-12-28 11:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:50 AM
+2018-12-28 11:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 11:50 AM
+2018-12-28 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:00 PM
+2018-12-28 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:00 PM
+2018-12-28 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:00 PM
+2018-12-28 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:00 PM
+2018-12-28 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:10 PM
+2018-12-28 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:10 PM
+2018-12-28 12:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:10 PM
+2018-12-28 12:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:10 PM
+2018-12-28 12:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:20 PM
+2018-12-28 12:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:20 PM
+2018-12-28 12:20:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:20 PM
+2018-12-28 12:20:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:20 PM
+2018-12-28 12:30:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:30 PM
+2018-12-28 12:30:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:30 PM
+2018-12-28 12:30:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:30 PM
+2018-12-28 12:30:00,006: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:30 PM
+2018-12-28 12:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:40 PM
+2018-12-28 12:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 28/12/2018 12:40 PM
+2018-12-28 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:40 PM
+2018-12-28 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 28/12/2018 12:40 PM

@@ -1,0 +1,109 @@
+﻿@model Entity.Hrm.EmployeeHoliday
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Mã nhân viên(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="hidden" value="@Model.EmployeeId" class="form-control"   id="EmployeeId" />
+                        <input type="text" readonly="readonly" value="@Model.EmployeeCode @Model.FullName" class="form-control" id="EmployeeCode"/>
+                        <button class="btn btn-primary btn-xs" id="ModalEmployee" style="position: absolute; top: 1.0px; right: 15px; height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                            Tìm Kiếm
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Giờ tối thiểu">
+                        <label>Lí do nghỉ (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="hidden" value="@Model.HolidayReasonId" class="form-control" id="HolidayReasonId"/>
+                        <input type="text" readonly="readonly" value="@Model.ReasonName" class="form-control" id="ReasonName" />
+                        <div class="btn-group" style="position: absolute; top: 1.5px; right: 15px; height: 20px;">
+                            <button class="btn btn-primary btn-xs" id="BtnSearchHolidayReason" style="height: 20px;">
+                                <i class="glyphicon glyphicon-search"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4" title="Giờ tối đa">
+                        <label>Từ ngày(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.FromDate.ToString("dd/MM/yyyy")" class="form-control" id="FromDate" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label> Đến ngày(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.ToDate.ToString("dd/MM/yyyy")" class="form-control" id="ToDate"/>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ghi Chú</label>
+                    </div>
+                    <div class="col-md-8">
+                        <textarea type="text" value="@Model.Description" rows="3" class="form-control" id="Description"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMainHolidayDetail" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var employeeHolidayId = '@Model.EmployeeHolidayId';
+    var createDate = '@Model.CreateDate';
+</script>
+<script src="~/Areas/Hrm/JsAction/EmployeeHoliday/addOrEdit.js"></script>
+
+
+
+

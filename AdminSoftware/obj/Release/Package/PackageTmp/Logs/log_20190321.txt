@@ -1,0 +1,6 @@
+2019-03-21 13:29:01,340: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-21 13:29:01,340: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-03-21 13:30:00,028: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 21/03/2019 01:30 PM
+2019-03-21 13:30:00,031: ERROR Logging – Start Job NotificationWorkPlan: 21/03/2019 01:30 PM
+2019-03-21 13:30:00,031: ERROR Logging – Start Job NotificationWorkPlan: 21/03/2019 01:30 PM
+2019-03-21 13:30:00,028: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 21/03/2019 01:30 PM

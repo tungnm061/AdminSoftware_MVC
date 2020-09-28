@@ -141,5 +141,3 @@ D:\TungNM\TEST\AdminSoftware_MVC\Core\bin\Debug\System.Web.WebPages.Deployment.x
 D:\TungNM\TEST\AdminSoftware_MVC\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
 D:\TungNM\TEST\AdminSoftware_MVC\Core\obj\Debug\Core.dll
 D:\TungNM\TEST\AdminSoftware_MVC\Core\obj\Debug\Core.pdb
-G:\GIT-AdminSoftware\AdminSoftware_MVC\Core\bin\Debug\Microsoft.Web.Infrastructure.dll
-G:\GIT-AdminSoftware\AdminSoftware_MVC\Core\bin\Debug\Microsoft.Web.Infrastructure.xml

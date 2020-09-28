@@ -1,0 +1,95 @@
+﻿<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>File Excel (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="file"  id="attachment" accept=".xlsx" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>File mẫu</label>
+                    </div>
+                    <div class="col-md-8">
+                        <label><a href="/Template/ImportTimeSheet.xlsx">Tải file excel mẫu.</a></label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Đồng ý
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#btnSave').click(function() {
+            var files = document.getElementById("attachment").files;
+            if (files.length <= 0) {
+                $.msgBox({
+                    title: "Hệ thống",
+                    type: "error",
+                    content: "Bạn chưa chọn file!",
+                    buttons: [{ value: "Đồng ý" }]
+                });
+                return;
+            }
+            var formData = new FormData();
+            var file = document.getElementById("attachment").files[0];
+            formData.append("files", file);
+            $('#processing').show();
+            $.ajax({
+                type: "POST",
+                url: '/Hrm/TimeSheet/ImportExcel',
+                data: formData,
+                contentType: false,
+                processData: false,
+                success: function (response) {
+                    $('#processing').hide();
+                    var type;
+                    if (response.Status === 1)
+                        type = 'info';
+                    else
+                        type = 'error';
+                    $.msgBox({
+                        title: "Hệ thống",
+                        type: type,
+                        content: response.Message,
+                        buttons: [{ value: "Đồng ý" }],
+                        success: function (result) {
+                            if (result === 'Đồng ý' && response.Status === 1) {
+                                CloseWindowModal();
+                            }
+                        } //
+                    });
+                },
+                error: function (response) {
+                    $('#processing').hide();
+                    $.msgBox({
+                        title: "Hệ thống",
+                        type: "error",
+                        content: response.Msg,
+                        buttons: [{ value: "Đồng ý" }]
+                    });
+                }
+            });
+        });
+    });
+</script>

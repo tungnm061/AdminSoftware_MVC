@@ -18,14 +18,12 @@ namespace AdminSoftware.Areas.System.Controllers
     public class AccountController : BaseController
     {
         private readonly EmployeeBll _employeeBll;
-        private readonly ModuleGroupBll _moduleGroupBll;
         private readonly UserBll _userBll;
         private readonly UserGroupBll _userGroupBll;
 
         public AccountController()
         {
             _userBll = SingletonIpl.GetInstance<UserBll>();
-            _moduleGroupBll = SingletonIpl.GetInstance<ModuleGroupBll>();
             _userGroupBll = SingletonIpl.GetInstance<UserGroupBll>();
             _employeeBll = SingletonIpl.GetInstance<EmployeeBll>();
         }
@@ -36,9 +34,9 @@ namespace AdminSoftware.Areas.System.Controllers
             ViewBag.UserGroups =
                 _userGroupBll.GetUserGroups()
                     .Select(x => new KendoForeignKeyModel(x.GroupName, x.UserGroupId.ToString()));
-            ViewBag.ModuleGroups =
-                _moduleGroupBll.GetModuleGroups()
-                    .Select(x => new KendoForeignKeyModel(x.GroupName, x.ModuleGroupId.ToString()));
+            //ViewBag.ModuleGroups =
+            //    _moduleGroupBll.GetModuleGroups()
+            //        .Select(x => new KendoForeignKeyModel(x.GroupName, x.ModuleGroupId.ToString()));
             ViewBag.Employees =
                 _employeeBll.GetEmployees(null)
                     .Select(x => new KendoForeignKeyModel(x.EmployeeCode + "-" + x.FullName, x.EmployeeId.ToString()));
@@ -65,7 +63,8 @@ namespace AdminSoftware.Areas.System.Controllers
             {
                 return PartialView(new User
                 {
-                    IsActive = true
+                    IsActive = true,
+                    RoleId = 2
                 });
             }
             return PartialView(_userBll.GetUser(int.Parse(id)));
@@ -83,6 +82,7 @@ namespace AdminSoftware.Areas.System.Controllers
         {
             try
             {
+                
                 if (!ModelState.IsValid)
                 {
                     var message = ModelState.Where(modelState => modelState.Value.Errors.Count > 0)
@@ -94,15 +94,22 @@ namespace AdminSoftware.Areas.System.Controllers
                         Message = message == null ? MessageAction.ModelStateNotValid : message.Errors[0].ErrorMessage
                     }, JsonRequestBehavior.AllowGet);
                 }
-                if (model.RoleId != (byte) Role.Admin && (model.ModuleGroupId == null || model.ModuleGroupId == 0))
+
+                if (model.RoleId == 1 && UserLogin.RoleId != 1)
                 {
-                    return Json(new {Status = 0, Message = "Bạn phải chọn phân hệ!"}, JsonRequestBehavior.AllowGet);
+                    return Json(new { Status = 0, Message = "Bạn không có quyền cập nhật tài khoản quản trị" }, JsonRequestBehavior.AllowGet);
                 }
-                if (model.EmployeeId != null && model.RoleId == (byte) Role.Admin)
-                {
-                    return Json(new {Status = 0, Message = "Không thể gán nhân viên cho tài khoản quản trị!"},
-                        JsonRequestBehavior.AllowGet);
-                }
+                //if (model.RoleId != (byte) Role.Admin && (model.ModuleGroupId == null || model.ModuleGroupId == 0))
+                //{
+                //    return Json(new {Status = 0, Message = "Bạn phải chọn phân hệ!"}, JsonRequestBehavior.AllowGet);
+                //}
+                //if (model.EmployeeId != null && model.RoleId == (byte) Role.Admin)
+                //{
+                //    return Json(new {Status = 0, Message = "Không thể gán nhân viên cho tài khoản quản trị!"},
+                //        JsonRequestBehavior.AllowGet);
+                //}
+
+                model.ModuleGroupId = 1;
                 var user = _userBll.GetUser(model.UserName);
                 var employeeAccount = _userBll.GetUserByEmployeeId(model.EmployeeId ?? 0);
                 model.CreateDate = DateTime.Now;

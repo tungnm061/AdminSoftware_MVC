@@ -1,0 +1,2218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>G:\Deploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Applicant/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Applicant/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Career/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Career/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Contract/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Contract/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/ContractType/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/ContractType/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Country/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Country/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Department/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Department/index.js">
+      <publishTime>09/28/2020 22:06:38</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Discipline/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Discipline/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Discipline/selectEmployee.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/EducationLevel/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/EducationLevel/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Employee/addOrEdit.js">
+      <publishTime>09/28/2020 23:08:40</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Employee/index.js">
+      <publishTime>09/28/2020 23:11:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/EmployeeHoliday/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/EmployeeHoliday/employees.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/EmployeeHoliday/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/EmployeeTimeSheet/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/HolidayReason/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/HolidayReason/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Home/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Home/assignWorkAdd.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Home/employees.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Home/explanation.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Home/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Home/taskSearch.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/IncurredSalary/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/IncurredSalary/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Insurance/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Insurance/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/InsuranceMedical/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/InsuranceMedical/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/InsuranceProcess/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/InsuranceProcess/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/JobChange/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/JobChange/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ApprovedComplain/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ApprovedComplain/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ApproveSugges/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ApproveSugges/suggesWork.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/AssignWork/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/AssignWork/employees.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/AssignWork/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/AssignWork/tasks.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/Complain/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/Complain/employee.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/Complain/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ConfirmWork/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ConfirmWork/explanation.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ConfirmWork/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ConfirmWork/renewal.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/DepartmentConfirm/cancelFinish.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/DepartmentConfirm/confirmFinish.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/DepartmentConfirm/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ManagerAdmin/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ManagerAdmin/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ManagerConfirm/cancelFinish.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ManagerConfirm/confirmFinish.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ManagerConfirm/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ManagerDepartment/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ManagerDepartment/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/MonthlyReport/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/MonthReportDepartment/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/MonthReportEmployee/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalComplainAdmin/complainDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalComplainAdmin/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalComplainDepartment/complainDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalComplainDepartment/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalFactorDepartment/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalFactorWork/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalFinish/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalFinish/workDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalFinishDepartment/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalFinishDepartment/workDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalSuggesAdmin/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalSuggesAdmin/workDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalSuggesDepartment/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/StatisticalSuggesDepartment/workDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/SuggesWork/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/SuggesWork/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/SuggesWork/taskSearch.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/UsefulHourAdmin/index.js">
+      <publishTime>09/12/2020 07:18:09</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/UsefulHourAdmin/workDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/UsefulHourDepartment/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/UsefulHourDepartment/workDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ViewAssignWork/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/ViewAssignWork/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WeekReport/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkPlan/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkPlan/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkPlan/tasks.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkPlan/workPlanDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkStream/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkStream/assignWorks.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkStream/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkStream/tasks.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Kpi/WorkStream/workStreamDetail.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Maternity/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Maternity/employees.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Maternity/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Medical/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Medical/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Nation/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Nation/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Position/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Position/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Praise/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Praise/index.js">
+      <publishTime>09/12/2020 07:18:08</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Praise/selectEmployee.js">
+      <publishTime>09/12/2020 07:18:07</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/RecruitChanel/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:07</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/RecruitChanel/index.js">
+      <publishTime>09/12/2020 07:18:07</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/RecruitPlan/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:07</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/RecruitPlan/index.js">
+      <publishTime>09/12/2020 07:18:07</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/RecruitResult/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:06</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/RecruitResult/index.js">
+      <publishTime>09/12/2020 07:18:06</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Religion/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:06</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Religion/index.js">
+      <publishTime>09/12/2020 07:18:06</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Salary/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:06</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/Salary/index.js">
+      <publishTime>09/12/2020 07:18:06</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/SalaryTimeSheet/index.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/School/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/School/index.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/ShiftWork/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/ShiftWork/index.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/TimeSheet/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/TimeSheetOt/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/TimeSheetOt/employees.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/TimeSheetOt/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/TrainingLevel/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/JsAction/TrainingLevel/index.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Applicant/Applicant.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Applicant/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ApprovedComplain/Complain.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ApprovedComplain/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ApproveSugges/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ApproveSugges/SuggesWork.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/AssignWork/AssignWork.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/AssignWork/Employees.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/AssignWork/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/AssignWork/Tasks.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Career/Career.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Career/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Complain/Complain.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Complain/Employee.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Complain/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ConfirmWork/Explanation.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ConfirmWork/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ConfirmWork/Renewal.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ConfirmWork/WorkDetail.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ConfirmWork/WorkingNote.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Contract/Contract.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Contract/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ContractType/ContractType.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ContractType/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Country/Country.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Country/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Department/Department.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Department/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/DepartmentConfirm/CancelFinish.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/DepartmentConfirm/ConfirmFinish.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/DepartmentConfirm/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Discipline/Discipline.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Discipline/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Discipline/SearchEmployee.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/EducationLevel/EducationLevel.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/EducationLevel/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Career.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/CareerSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Contract.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/ContractType.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Country.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/CountrySearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Discipline.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/EducationLevel.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/EducationLevelSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Employee.cshtml">
+      <publishTime>09/28/2020 23:09:30</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/IncurredSalary.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Index.cshtml">
+      <publishTime>09/28/2020 23:05:34</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/IndexContractType.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/IndexInsurance.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/IndexMedical.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/IndexProcess.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Insurance.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/InsuranceMedical.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/InsuranceProcess.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/JobChange.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Medical.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Nation.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/NationSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Position.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/PositionSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Praise.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Religion.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/ReligionSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/Salary.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/School.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/SchoolSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/TrainingLevel.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/TrainingLevelSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/ViewReport.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Employee/ViewReportPartialResult.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/EmployeeHoliday/EmployeeHoliday.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/EmployeeHoliday/Employees.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/EmployeeHoliday/HolidayReason.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/EmployeeHoliday/HolidayReasonSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/EmployeeHoliday/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/EmployeeTimeSheet/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Holiday/Index.cshtml">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/HolidayConfig/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/HolidayReason/HolidayReason.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/HolidayReason/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Home/Index.cshtml">
+      <publishTime>09/15/2020 22:26:06</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/IncurredSalary/IncurredSalary.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/IncurredSalary/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Insurance/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Insurance/Insurance.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/InsuranceMedical/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/InsuranceMedical/InsuranceMedical.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/InsuranceProcess/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/InsuranceProcess/InsuranceProcess.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/JobChange/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/JobChange/JobChange.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ManagerAdmin/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ManagerAdmin/WorkPlan.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ManagerConfirm/CancelFinish.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ManagerConfirm/ConfirmFinish.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ManagerConfirm/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ManagerDepartment/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ManagerDepartment/WorkPlan.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Maternity/Employees.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Maternity/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Maternity/Maternity.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Medical/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Medical/Medical.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Nation/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Nation/Nation.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Position/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Position/Position.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Praise/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Praise/Praise.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Praise/SearchEmployee.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/RecruitChanel/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/RecruitChanel/RecruitChanel.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/RecruitPlan/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/RecruitPlan/RecruitPlan.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/RecruitResult/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/RecruitResult/RecruitResult.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/RecruitResult/RecruitResultDetail.cshtml">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Religion/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Religion/Religion.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Salary/Index.cshtml">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Salary/SalariesEmployee.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Salary/Salary.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/SalaryTimeSheet/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/SalaryTimeSheet/ViewReport.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/SalaryTimeSheet/ViewReportPartialResult.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/School/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/School/School.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/Shared/_Layout.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ShiftWork/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/ShiftWork/ShiftWork.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/SuggesWork/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/SuggesWork/SuggesWork.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/SuggesWork/TaskSearch.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/TimeSheet/Import.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/TimeSheet/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/TimeSheetOt/Employees.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/TimeSheetOt/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/TimeSheetOt/TimeSheetOt.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/TrainingLevel/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/TrainingLevel/TrainingLevel.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Hrm/Views/web.config">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/ConfirmPoPayment/addOrEdit.js">
+      <publishTime>09/27/2020 02:33:32</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/ConfirmPoPayment/index.js">
+      <publishTime>09/29/2020 00:27:46</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Home/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Home/assignWorkAdd.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Home/employees.js">
+      <publishTime>09/12/2020 07:18:05</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Home/explanation.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Home/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Home/taskSearch.js">
+      <publishTime>09/12/2020 07:18:04</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Listting/addOrEdit.js">
+      <publishTime>09/17/2020 20:17:09</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Listting/excel.js">
+      <publishTime>09/19/2020 11:28:58</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Listting/index.js">
+      <publishTime>09/19/2020 11:17:13</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Order/addOrEdit.js">
+      <publishTime>09/19/2020 10:47:10</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Order/index.js">
+      <publishTime>09/29/2020 00:37:17</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Order/orderDetail.js">
+      <publishTime>09/19/2020 10:53:43</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/OrderStatistical/index.js">
+      <publishTime>09/29/2020 00:39:48</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/PoPayment/addOrEdit.js">
+      <publishTime>09/27/2020 03:23:18</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/PoPayment/index.js">
+      <publishTime>09/29/2020 00:37:29</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Producer/addOrEdit.js">
+      <publishTime>09/12/2020 00:13:14</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Producer/index.js">
+      <publishTime>09/19/2020 15:47:40</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Product/addOrEdit.js">
+      <publishTime>09/11/2020 00:53:50</publishTime>
+    </File>
+    <File Include="Areas/Sale/JsAction/Product/index.js">
+      <publishTime>09/12/2020 12:23:38</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/ConfirmPoPayment/Index.cshtml">
+      <publishTime>09/27/2020 02:38:14</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/ConfirmPoPayment/PoPayment.cshtml">
+      <publishTime>09/27/2020 02:16:39</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Home/Index.cshtml">
+      <publishTime>09/29/2020 00:48:41</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Listting/Index.cshtml">
+      <publishTime>09/17/2020 20:12:49</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Listting/Listting.cshtml">
+      <publishTime>09/17/2020 20:17:38</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Listting/ViewExcel.cshtml">
+      <publishTime>09/17/2020 20:16:01</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Order/Index.cshtml">
+      <publishTime>09/20/2020 09:36:00</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Order/Order.cshtml">
+      <publishTime>09/27/2020 12:40:14</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Order/OrderDetail.cshtml">
+      <publishTime>09/27/2020 12:39:14</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/OrderStatistical/Index.cshtml">
+      <publishTime>09/20/2020 11:01:26</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/PoPayment/Index.cshtml">
+      <publishTime>09/28/2020 21:18:07</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/PoPayment/PoPayment.cshtml">
+      <publishTime>09/27/2020 12:32:35</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Producer/Index.cshtml">
+      <publishTime>09/12/2020 00:15:04</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Producer/Producer.cshtml">
+      <publishTime>09/29/2020 00:32:01</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Product/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/Product/Product.cshtml">
+      <publishTime>09/11/2020 00:51:09</publishTime>
+    </File>
+    <File Include="Areas/Sale/Views/web.config">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Account/addOrEdit.js">
+      <publishTime>09/28/2020 21:28:14</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Account/index.js">
+      <publishTime>09/29/2020 00:45:18</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/AccountPrintify/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/AccountPrintify/index.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/CompanyBank/addOrEdit.js">
+      <publishTime>09/27/2020 02:09:09</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/CompanyBank/index.js">
+      <publishTime>09/29/2020 00:38:45</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/ConfirmCompanyBank/addOrEdit.js">
+      <publishTime>09/27/2020 01:21:33</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/ConfirmCompanyBank/index.js">
+      <publishTime>09/29/2020 00:13:37</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/ExpenseType/addOrEdit.js">
+      <publishTime>09/19/2020 13:10:06</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/ExpenseType/index.js">
+      <publishTime>09/19/2020 13:03:45</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Gmail/addOrEdit.js">
+      <publishTime>09/18/2020 00:10:46</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Gmail/addOrEditSku.js">
+      <publishTime>09/12/2020 07:18:10</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Gmail/index.js">
+      <publishTime>09/19/2020 11:12:37</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Gmail/skuView.js">
+      <publishTime>09/28/2020 23:26:51</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Kpi/ApprovedWorkStream/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:04</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Kpi/ApprovedWorkStream/index.js">
+      <publishTime>09/12/2020 07:18:04</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Kpi/CategoryKpi/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Kpi/CategoryKpi/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Kpi/KpiConfig/index.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Kpi/Task/addOrEdit.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Kpi/Task/excel.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Kpi/Task/index.js">
+      <publishTime>09/08/2020 00:56:45</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Post/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:04</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/Post/index.js">
+      <publishTime>09/12/2020 07:18:04</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/UserGroup/addOrEdit.js">
+      <publishTime>09/12/2020 07:18:04</publishTime>
+    </File>
+    <File Include="Areas/System/JsAction/UserGroup/index.js">
+      <publishTime>09/12/2020 07:18:04</publishTime>
+    </File>
+    <File Include="Areas/System/Views/Account/Account.cshtml">
+      <publishTime>09/28/2020 21:47:14</publishTime>
+    </File>
+    <File Include="Areas/System/Views/Account/Index.cshtml">
+      <publishTime>09/28/2020 21:21:59</publishTime>
+    </File>
+    <File Include="Areas/System/Views/Account/UserRight.cshtml">
+      <publishTime>09/27/2020 03:43:12</publishTime>
+    </File>
+    <File Include="Areas/System/Views/AccountPrintify/AccountPrintify.cshtml">
+      <publishTime>09/08/2020 22:16:38</publishTime>
+    </File>
+    <File Include="Areas/System/Views/AccountPrintify/Index.cshtml">
+      <publishTime>09/19/2020 12:47:01</publishTime>
+    </File>
+    <File Include="Areas/System/Views/CompanyBank/CompanyBank.cshtml">
+      <publishTime>09/27/2020 00:03:51</publishTime>
+    </File>
+    <File Include="Areas/System/Views/CompanyBank/Index.cshtml">
+      <publishTime>09/28/2020 23:36:45</publishTime>
+    </File>
+    <File Include="Areas/System/Views/CompanyBank/TextNote.cshtml">
+      <publishTime>09/27/2020 00:07:24</publishTime>
+    </File>
+    <File Include="Areas/System/Views/ConfirmCompanyBank/CompanyBank.cshtml">
+      <publishTime>09/27/2020 00:18:54</publishTime>
+    </File>
+    <File Include="Areas/System/Views/ConfirmCompanyBank/Index.cshtml">
+      <publishTime>09/28/2020 23:35:59</publishTime>
+    </File>
+    <File Include="Areas/System/Views/ConfirmCompanyBank/TextNote.cshtml">
+      <publishTime>09/27/2020 00:31:03</publishTime>
+    </File>
+    <File Include="Areas/System/Views/ExpenseType/ExpenseType.cshtml">
+      <publishTime>09/19/2020 13:01:16</publishTime>
+    </File>
+    <File Include="Areas/System/Views/ExpenseType/Index.cshtml">
+      <publishTime>09/19/2020 13:02:04</publishTime>
+    </File>
+    <File Include="Areas/System/Views/Gmail/Gmail.cshtml">
+      <publishTime>09/18/2020 00:34:38</publishTime>
+    </File>
+    <File Include="Areas/System/Views/Gmail/Index.cshtml">
+      <publishTime>09/08/2020 22:21:43</publishTime>
+    </File>
+    <File Include="Areas/System/Views/Gmail/Sku.cshtml">
+      <publishTime>09/08/2020 22:21:42</publishTime>
+    </File>
+    <File Include="Areas/System/Views/Gmail/SkuView.cshtml">
+      <publishTime>09/08/2020 22:16:23</publishTime>
+    </File>
+    <File Include="Areas/System/Views/Home/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/Views/UserGroup/Index.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/Views/UserGroup/UserGroup.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Areas/System/Views/UserGroup/UserGroupRight.cshtml">
+      <publishTime>09/27/2020 03:43:50</publishTime>
+    </File>
+    <File Include="Areas/System/Views/web.config">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="bin/AdminSoftware.dll">
+      <publishTime>09/29/2020 01:10:04</publishTime>
+    </File>
+    <File Include="bin/AdminSoftware.pdb">
+      <publishTime>09/29/2020 01:10:04</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/BusinessLogic.dll">
+      <publishTime>09/29/2020 01:09:57</publishTime>
+    </File>
+    <File Include="bin/BusinessLogic.pdb">
+      <publishTime>09/29/2020 01:09:57</publishTime>
+    </File>
+    <File Include="bin/Core.dll">
+      <publishTime>09/28/2020 01:51:28</publishTime>
+    </File>
+    <File Include="bin/Core.pdb">
+      <publishTime>09/28/2020 01:51:28</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>09/28/2020 01:51:27</publishTime>
+    </File>
+    <File Include="bin/Dapper.pdb">
+      <publishTime>09/28/2020 01:51:27</publishTime>
+    </File>
+    <File Include="bin/DataAccess.dll">
+      <publishTime>09/29/2020 01:09:56</publishTime>
+    </File>
+    <File Include="bin/DataAccess.pdb">
+      <publishTime>09/29/2020 01:09:56</publishTime>
+    </File>
+    <File Include="bin/Entity.dll">
+      <publishTime>09/29/2020 01:09:55</publishTime>
+    </File>
+    <File Include="bin/Entity.pdb">
+      <publishTime>09/29/2020 01:09:55</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Enyim.Caching.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.pdb">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/MiniProfiler.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/MiniProfiler.pdb">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/NPOI.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/NPOI.OOXML.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/NPOI.OpenXml4Net.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/NPOI.OpenXmlFormats.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/01/2020 19:39:42</publishTime>
+    </File>
+    <File Include="CkEditor/ckeditor.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/ckeditor.js.map">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ar.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ast.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/bg.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ca.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/cs.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/da.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/de-ch.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/de.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/el.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/en-au.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/eo.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/es.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/et.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/eu.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/fa.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/fi.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/fr.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/gl.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/gu.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/he.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/hr.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/hu.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/it.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ja.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/km.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/kn.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ko.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ku.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/lv.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/nb.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ne.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/nl.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/no.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/oc.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/pl.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/pt-br.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/pt.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ro.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ru.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/si.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/sk.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/sq.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/sv.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/tr.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/tt.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/ug.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/uk.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/vi.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/zh-cn.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="CkEditor/translations/zh.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/bootstrap.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/bootstrap.min.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/font-awesome.min.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/ionicons.min.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/kendo/fonts/glyphs/WebComponentsIcons.ttf">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/kendo/images/kendoui.woff">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/kendo/kendo.common.min.css">
+      <publishTime>09/12/2020 00:39:16</publishTime>
+    </File>
+    <File Include="Content/css/kendo/kendo.silver.min.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/kendo/silver/loading-image.gif">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/kendo/silver/loading.gif">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/css/main.css">
+      <publishTime>09/29/2020 00:01:52</publishTime>
+    </File>
+    <File Include="Content/css/msgBoxLight.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.eot">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.svg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.ttf">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff2">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/FontAwesome.otf">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/ionicons.eot">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/ionicons.svg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/ionicons.ttf">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/fonts/ionicons.woff">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/ajax-loader.gif">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/alert.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/arrow.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/avatar-img.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/background_cmd_popup.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/background_headerpopup.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/confirm.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/DAUTU.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/default.gif">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/error.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/GD.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/HCNS.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/HDQT.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/HeThong.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/info.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/KD.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/KeToan.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/images/logo.png">
+      <publishTime>08/13/2020 23:28:27</publishTime>
+    </File>
+    <File Include="Content/images/msgBoxBackGround.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/toastr.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Content/toastr.min.css">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181018.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181019.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181020.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181022.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181023.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181024.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181025.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181026.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181029.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181031.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181101.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181102.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181103.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181105.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181106.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181107.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181108.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181109.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181112.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181113.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181114.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181115.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181119.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181120.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181121.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181122.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181123.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181126.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181127.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181128.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181129.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181130.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181201.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181203.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181205.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181210.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181212.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181213.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181214.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181215.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181217.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181218.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181219.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181220.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181221.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181224.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181225.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181226.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181227.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181228.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20181229.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190102.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190103.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190104.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190107.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190108.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190109.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190110.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190111.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190114.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190115.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190116.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190117.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190118.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190121.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190122.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190123.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190124.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190125.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190126.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190128.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190130.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190131.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190201.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190215.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190216.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190217.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190218.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190219.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190220.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190222.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190225.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190228.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190301.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190302.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190304.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190305.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190306.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190307.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190308.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190311.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190313.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190314.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190315.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190319.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190320.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190321.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190322.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190325.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190401.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190404.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190409.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190412.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190420.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190422.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190424.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190425.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190506.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Logs/log_20190507.txt">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/base-common.js">
+      <publishTime>09/11/2020 23:05:20</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/dashboard.js">
+      <publishTime>09/12/2020 07:18:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-github/jquery.msgBox.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-github/pStrength.jquery.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/kendo/jszip.min.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/kendo/kendo.all.min.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/toastr.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Scripts/toastr.min.js">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Template/ImportTimeSheet.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Template/Listting.xlsx">
+      <publishTime>09/15/2020 22:59:48</publishTime>
+    </File>
+    <File Include="Template/Task.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Contract/2018636803804501335658-Capture1.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Contract/2018636804833989863655-TA.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Contract/2019636862540788982153-3.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Employee/Avatar/636839371955397507-47466685_1564206640278243_4980762943403589632_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Hrm/JobChangeFile/636862721589234888-4.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Hrm/JobChangeFile/636862721648002967-50428885_130985514599718_8834593285143003136_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/2018636806505107575478-TA.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/2018636806505217077611-SaoSao.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/2018636806530436633219-IT.png">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636808977075401415-SaoSao.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636808977727637288-309471_119413131536653_791671913_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636809837009057307-SaoSao.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636809988847997395-SaoSao.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636831474266677692-SaoSao.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636831556971144202-diennuoc.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636831559859029063-diennuoc.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636832429268397712-diennuoc.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636870283872505188-3.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636870524534148176-4.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636871195092158298-4.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636876565941388530-47466685_1564206640278243_4980762943403589632_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636876601936163416-50428885_130985514599718_8834593285143003136_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636878960599239144-browser.exe">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636878960813671455-47466685_1564206640278243_4980762943403589632_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636878960908941877-50428885_130985514599718_8834593285143003136_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636879083177322246-3.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636879084473445655-50428885_130985514599718_8834593285143003136_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636879084654226113-browser.exe">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/Kpi/WorkDetail/636927376593306804-57044239_152322079143451_5802586527263358976_n.jpg">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636804860386121215-TA.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636804860820032922-Task.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636804862725326361-Task.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636804864360273706-Task.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636804873505298574-TA.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636804873882154022-TA.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636806340641634497-Task.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636806341073924878-TA.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636806341104376897-Task.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636806341478732647-SaoSao.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636806341558584731-Task.xlsx">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Upload/WorkDetail/2018636806347904425114-SaoSao.PNG">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Base/ChangeInfomation.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Base/ChangePassword.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Dashboard/DepartmentIndex.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Dashboard/Index.cshtml">
+      <publishTime>09/12/2020 10:52:26</publishTime>
+    </File>
+    <File Include="Views/Login/Index.cshtml">
+      <publishTime>09/12/2020 11:16:57</publishTime>
+    </File>
+    <File Include="Views/Shared/DisplayTemplates/Boolean.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Boolean.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/DateTime.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Decimal.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/EmailAddress.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/MultilineText.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Password.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/String.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/01/2020 19:58:26</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutDev.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/_Login.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/Shared/_Menu.cshtml">
+      <publishTime>09/29/2020 00:15:38</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/01/2020 19:39:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/29/2020 01:10:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

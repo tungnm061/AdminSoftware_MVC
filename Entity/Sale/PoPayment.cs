@@ -46,5 +46,7 @@ namespace Entity.Sale
         public string Path { get; set; }
 
         public string TradingMonth { get; set; }
+
+        public decimal MoneyNumberVND => MoneyNumber * RateMoney;
     }
 }

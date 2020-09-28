@@ -55,29 +55,29 @@ namespace AdminSoftware.Areas.Hrm.Controllers
         public EmployeeController()
         {
             _holidayConfigBll = SingletonIpl.GetInstance<HolidayConfigBll>();
-            _insuranceMedicalBll = SingletonIpl.GetInstance<InsuranceMedicalBll>();
-            _medicalBll = SingletonIpl.GetInstance<MedicalBll>();
-            _praiseDisciplineBll = SingletonIpl.GetInstance<PraiseDisciplineBll>();
+            //_insuranceMedicalBll = SingletonIpl.GetInstance<InsuranceMedicalBll>();
+            //_medicalBll = SingletonIpl.GetInstance<MedicalBll>();
+            //_praiseDisciplineBll = SingletonIpl.GetInstance<PraiseDisciplineBll>();
             _departmentBll = SingletonIpl.GetInstance<DepartmentBll>();
-            _countryBll = SingletonIpl.GetInstance<CountryBll>();
-            _nationBll = SingletonIpl.GetInstance<NationBll>();
-            _religionBll = SingletonIpl.GetInstance<ReligionBll>();
+            //_countryBll = SingletonIpl.GetInstance<CountryBll>();
+            //_nationBll = SingletonIpl.GetInstance<NationBll>();
+            //_religionBll = SingletonIpl.GetInstance<ReligionBll>();
             _addressBll = SingletonIpl.GetInstance<AddressBll>();
             _positionBll = SingletonIpl.GetInstance<PositionBll>();
-            _trainingLevelBll = SingletonIpl.GetInstance<TrainingLevelBll>();
+            //_trainingLevelBll = SingletonIpl.GetInstance<TrainingLevelBll>();
             _autoNumberBll = SingletonIpl.GetInstance<AutoNumberBll>();
             _employeeBll = SingletonIpl.GetInstance<EmployeeBll>();
-            _educationLevelBll = SingletonIpl.GetInstance<EducationLevelBll>();
-            _careerBll = SingletonIpl.GetInstance<CareerBll>();
-            _schoolBll = SingletonIpl.GetInstance<SchoolBll>();
+            //_educationLevelBll = SingletonIpl.GetInstance<EducationLevelBll>();
+            //_careerBll = SingletonIpl.GetInstance<CareerBll>();
+            //_schoolBll = SingletonIpl.GetInstance<SchoolBll>();
             _userBll = SingletonIpl.GetInstance<UserBll>();
-            _contractBll = SingletonIpl.GetInstance<ContractBll>();
+            //_contractBll = SingletonIpl.GetInstance<ContractBll>();
             _contractTypeBll = SingletonIpl.GetInstance<ContractTypeBll>();
-            _jobChangeBll = SingletonIpl.GetInstance<JobChangeBll>();
+            //_jobChangeBll = SingletonIpl.GetInstance<JobChangeBll>();
             _salaryBll = SingletonIpl.GetInstance<SalaryBll>();
             _incurredSalaryBll = SingletonIpl.GetInstance<IncurredSalaryBll>();
             _insuranceProcessBll = SingletonIpl.GetInstance<InsuranceProcessBll>();
-            _insuranceBll = SingletonIpl.GetInstance<InsuranceBll>();
+            //_insuranceBll = SingletonIpl.GetInstance<InsuranceBll>();
             _shiftWorkBll = SingletonIpl.GetInstance<ShiftWorkBll>();
 
         }
@@ -88,11 +88,11 @@ namespace AdminSoftware.Areas.Hrm.Controllers
             var shiftWorks = _shiftWorkBll.GetShiftWorks();
             var departments = _departmentBll.GetDepartments(true);
             var cities = _addressBll.GetCities();
-            var countries = _countryBll.GetCountries();
+            //var countries = _countryBll.GetCountries();
             //var nations = _nationBll.GetNations();
             //var religions = _religionBll.GetReligions();
             var users = _userBll.GetUsers(true);
-            var positions = _positionBll.GetPositions();
+            //var positions = _positionBll.GetPositions();
             //var categoryKpis = _categoryKpiBll.GetCategoryKpis();
             //ViewBag.CategoryKpi =
             //    categoryKpis.Select(x => new KendoForeignKeyModel(x.KpiName, x.CategoryKpiId.ToString())
@@ -111,9 +111,9 @@ namespace AdminSoftware.Areas.Hrm.Controllers
             ViewBag.Years = years;
             //ViewBag.Medicals =
             //    _medicalBll.GetMedicals().Select(x => new KendoForeignKeyModel(x.MedicalName, x.MedicalId.ToString()));
-            ViewBag.Positions = positions.Select(x => new KendoForeignKeyModel(x.PositionName, x.PositionId.ToString()));
-            ViewBag.Countries =
-               countries.Select(x => new KendoForeignKeyModel { value = x.CountryId.ToString(), text = x.CountryName });
+            //ViewBag.Positions = positions.Select(x => new KendoForeignKeyModel(x.PositionName, x.PositionId.ToString()));
+            //ViewBag.Countries =
+            //   countries.Select(x => new KendoForeignKeyModel { value = x.CountryId.ToString(), text = x.CountryName });
             //ViewBag.Religions =
             //   religions.Select(x => new KendoForeignKeyModel { value = x.ReligionId.ToString(), text = x.ReligionName });
             //ViewBag.Nations =
@@ -137,24 +137,24 @@ namespace AdminSoftware.Areas.Hrm.Controllers
                             .SingleOrDefault()
                 where singleOrDefault != null
                 select new KendoForeignKeyModel {value = ((byte) s).ToString(), text = singleOrDefault.Description};
-            //ViewBag.MaritalStatuses = from MaritalStatus s in Enum.GetValues(typeof (MaritalStatus))
-            //    let singleOrDefault =
-            //        (DescriptionAttribute)
-            //            s.GetType()
-            //                .GetField(s.ToString())
-            //                .GetCustomAttributes(typeof (DescriptionAttribute), false)
-            //                .SingleOrDefault()
-            //    where singleOrDefault != null
-            //    select new KendoForeignKeyModel {value = ((byte) s).ToString(), text = singleOrDefault.Description};
-            //ViewBag.DepartmentConpanyEnums = from DepartmentConpanyEnum s in Enum.GetValues(typeof(DepartmentConpanyEnum))
-            //                              let singleOrDefault =
-            //                                  (DescriptionAttribute)
-            //                                      s.GetType()
-            //                                          .GetField(s.ToString())
-            //                                          .GetCustomAttributes(typeof(DescriptionAttribute), false)
-            //                                          .SingleOrDefault()
-            //                              where singleOrDefault != null
-            //                              select new KendoForeignKeyModel { value = ((byte)s).ToString(), text = singleOrDefault.Description };
+            ViewBag.MaritalStatuses = from MaritalStatus s in Enum.GetValues(typeof(MaritalStatus))
+                                      let singleOrDefault =
+                                          (DescriptionAttribute)
+                                              s.GetType()
+                                                  .GetField(s.ToString())
+                                                  .GetCustomAttributes(typeof(DescriptionAttribute), false)
+                                                  .SingleOrDefault()
+                                      where singleOrDefault != null
+                                      select new KendoForeignKeyModel { value = ((byte)s).ToString(), text = singleOrDefault.Description };
+            ViewBag.DepartmentConpanyEnums = from DepartmentConpanyEnum s in Enum.GetValues(typeof(DepartmentConpanyEnum))
+                                             let singleOrDefault =
+                                                 (DescriptionAttribute)
+                                                     s.GetType()
+                                                         .GetField(s.ToString())
+                                                         .GetCustomAttributes(typeof(DescriptionAttribute), false)
+                                                         .SingleOrDefault()
+                                             where singleOrDefault != null
+                                             select new KendoForeignKeyModel { value = ((byte)s).ToString(), text = singleOrDefault.Description };
             ViewBag.EmployeeStatusEnums = from EmployeeStatusEnum s in Enum.GetValues(typeof (EmployeeStatusEnum))
                 let singleOrDefault =
                     (DescriptionAttribute)
@@ -1775,11 +1775,11 @@ namespace AdminSoftware.Areas.Hrm.Controllers
             return Json(_salaryBll.GetSalaries((long)employeeId), JsonRequestBehavior.AllowGet);
         }
         
-        public ActionResult SalariesEmployee(long employeeId)
-        {
-            ViewBag.EmployeeId = employeeId;
-            return PartialView();
-        }
+        //public ActionResult SalariesEmployee(long employeeId)
+        //{
+        //    ViewBag.EmployeeId = employeeId;
+        //    return PartialView();
+        //}
 
         public ActionResult Salary(string id)
         {

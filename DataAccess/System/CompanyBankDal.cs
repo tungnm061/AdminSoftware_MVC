@@ -110,7 +110,7 @@ namespace DataAccess.System
 
         }
 
-        public List<CompanyBank> GetCompanyBanks(bool? isActive,DateTime? fromDate,DateTime? toDate,int? expenseId, int? statusSearch, string pathSystem)
+        public List<CompanyBank> GetCompanyBanks(bool? isActive,DateTime? fromDate,DateTime? toDate,int? expenseId, int? statusSearch)
         {
             try
             {
@@ -122,8 +122,7 @@ namespace DataAccess.System
                                 FromDate = fromDate,
                                 ToDate = toDate,
                                 ExpenseId = expenseId,
-                                Status = statusSearch,
-                                Path = pathSystem
+                                Status = statusSearch
                             })
                         .ToList();
             }

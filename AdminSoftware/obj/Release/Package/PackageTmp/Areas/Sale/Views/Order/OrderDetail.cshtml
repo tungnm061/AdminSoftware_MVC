@@ -1,0 +1,96 @@
+﻿@model Entity.Sale.OrderDetail
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Sản phẩm(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="hidden" value="@Model.ProductName" id="ProductName" />
+                        <input type="hidden" value="@Model.ProductCode" id="ProductCode" />
+                        <input type="text" class="form-control" value="@Model.ProductId"  id="ProductId" />
+                        @*<button class="btn btn-primary btn-xs" id="ModalProduct" style="position: absolute; top: 1.0px; right: 15px; height: 20px;">
+                            <i class="glyphicon glyphicon-search"></i>
+                            Tìm Kiếm
+                        </button>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Kích thước(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Size" class="form-control" id="Size" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Màu sắc(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Color" class="form-control" id="Color" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Số lượng (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.Quantity" class="form-control" id="Quantity" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        @*<div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Đơn giá</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.UnitPrince" readonly="readonly" class="form-control" id="UnitPrince" />
+                    </div>
+                </div>
+            </div>
+        </div>*@
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSaveAdd" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var orderDetailId = '@Model.OrderDetailId';
+</script>
+<script src="~/Areas/Sale/JsAction/Order/orderDetail.js"></script>
+
+
+

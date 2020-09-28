@@ -22,14 +22,14 @@ namespace AdminSoftware.Areas.System.Controllers
         private readonly CompanyBankBll _companyBankBll;
         private readonly UserBll _userBll;
         private readonly ExpenseTypeBll _expenseTypeBll;
-        private readonly DepartmentBll _departmentBll;
+        //private readonly DepartmentBll _departmentBll;
 
         public CompanyBankController()
         {
             _expenseTypeBll = SingletonIpl.GetInstance<ExpenseTypeBll>();
             _userBll = SingletonIpl.GetInstance<UserBll>();
             _companyBankBll = SingletonIpl.GetInstance<CompanyBankBll>();
-            _departmentBll = SingletonIpl.GetInstance<DepartmentBll>();
+            //_departmentBll = SingletonIpl.GetInstance<DepartmentBll>();
         }
 
         private List<TextNote> TextNotesInMemory
@@ -49,10 +49,13 @@ namespace AdminSoftware.Areas.System.Controllers
         {
             var users = _userBll.GetUsers(null);
             var expenseTypes = _expenseTypeBll.GetExpenseTypes(true);
-            var departments = _departmentBll.GetDepartments(0);
+            var expenseTypesAll = _expenseTypeBll.GetExpenseTypes(null);
+            ViewBag.ExpenseTypesAll = expenseTypesAll.Select(x => new KendoForeignKeyModel { value = x.ExpenseId.ToString(), text = x.ExpenseName });
+
+            //var departments = _departmentBll.GetDepartments(0);
             ViewBag.Users = users.Select(x => new KendoForeignKeyModel { value = x.UserId.ToString(), text = x.FullName });
             ViewBag.ExpenseTypes = expenseTypes.Select(x => new KendoForeignKeyModel { value = x.ExpenseId.ToString(), text = x.ExpenseName });
-            ViewBag.Departments = departments.Select(x => new KendoForeignKeyModel { value = x.Path.ToString(), text = x.DepartmentName }); ;
+            //ViewBag.Departments = departments.Select(x => new KendoForeignKeyModel { value = x.Path.ToString(), text = x.DepartmentName }); ;
             ViewBag.TypeMoneys = from TypeMoneyEnum s in Enum.GetValues(typeof(TypeMoneyEnum))
                 let singleOrDefault =
                     (DescriptionAttribute)
@@ -74,9 +77,9 @@ namespace AdminSoftware.Areas.System.Controllers
             return View();
         }
 
-        public ActionResult CompanyBanks(DateTime? fromDate,DateTime? toDate,int? expenseId,int? statusSearch, string systemSearch)
+        public ActionResult CompanyBanks(DateTime? fromDate,DateTime? toDate,int? expenseId,int? statusSearch)
         {
-            var listObj = _companyBankBll.GetCompanyBanks(true, fromDate,toDate,expenseId, statusSearch, systemSearch);
+            var listObj = _companyBankBll.GetCompanyBanks(true, fromDate,toDate,expenseId, statusSearch);
             return Json(listObj, JsonRequestBehavior.AllowGet);
         }
 
@@ -137,12 +140,12 @@ namespace AdminSoftware.Areas.System.Controllers
                 }
                 if (model.CompanyBankId == 0)
                 {
-                    model.Path = UserLogin.Path;
-                    if (string.IsNullOrEmpty(model.Path))
-                    {
-                        return Json(new { Status = -1, Message = MessageAction.TaiKhoanKhongCoQuyenTao },
-                            JsonRequestBehavior.AllowGet);
-                    }
+                    //model.Path = UserLogin.Path;
+                    //if (string.IsNullOrEmpty(model.Path))
+                    //{
+                    //    return Json(new { Status = -1, Message = MessageAction.TaiKhoanKhongCoQuyenTao },
+                    //        JsonRequestBehavior.AllowGet);
+                    //}
                     model.CreateBy = UserLogin.UserId;
                     model.CreateDate = DateTime.Now;
                     model.IsActive = true;

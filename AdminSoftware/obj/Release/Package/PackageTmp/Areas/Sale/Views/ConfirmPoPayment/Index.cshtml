@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Xác nhận tiền PO";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="box-action">
+                    <button class="btn btn-success btn-sm" id="btnConfirm">
+                        <i class="glyphicon glyphicon-ok"></i>
+                        Xác nhận
+                    </button>
+                    <button class="btn btn-danger btn-sm" id="btnCancel">
+                        <i class="glyphicon glyphicon-remove"></i>
+                        Trả về
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="col-md-3">
+                    <input type="text" value="" class="form-control" id="StatusSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="@DateTime.Now.AddDays(-5).ToString("dd/MM/yyy")" class="form-control" id="FromDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="@DateTime.Now.ToString("dd/MM/yyy")" class="form-control" id="ToDateSearch" style="height: 25px;" />
+                </div>
+                <div class="col-md-2">
+                    <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                        <i class="glyphicon glyphicon-search"></i>
+                        Tìm kiếm
+                    </button>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var employees = @Html.Raw(Json.Encode(ViewBag.Users));
+        var statusPo = @Html.Raw(Json.Encode(ViewBag.Status));
+    </script>
+    <script src="~/Areas/Sale/JsAction/ConfirmPoPayment/index.js"></script>
+}

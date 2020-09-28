@@ -1,0 +1,196 @@
+﻿@using AdminSoftware.Models
+@{
+    ViewBag.Title = "Tổng hợp công";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var days = (List<String>)ViewBag.Days;
+
+}
+<style>.k-radio:checked + .k-radio-label:after {
+        top: 7px;
+        margin-left: -1px;
+    }
+    .k-radio-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-2">
+                <input type="text" value="@ViewBag.FromDate" class="form-control" id="FromDateSearch" style="height: 25px; " />
+            </div>
+            <div class="col-md-2">
+                <input type="text" value="@ViewBag.ToDate" class="form-control" id="ToDateSearch" style="height: 25px;" />
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                    <i class="glyphicon glyphicon-search"></i>
+                    Tìm kiếm
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var departments = @Html.Raw(Json.Encode(ViewBag.Departments));
+        var columns = [
+            {
+                title: "STT",
+                template: "#= ++record #",
+                width: 60,
+                locked: true
+            },
+            {
+                field: "EmployeeCode",
+                title: "Mã NV",
+                width: 150,
+                locked: true
+            },
+            {
+                field: "FullName",
+                title: "Họ tên",
+                width: 200,
+                filterable: false,
+                locked: true
+            },
+            {
+                field: "DepartmentId",
+                title: "Phòng",
+                width: 200,
+                values: departments,
+                hidden: true
+            }
+        ];
+        @if (days.Any())
+        {
+            int i = 0;
+            foreach (var day in days)
+            {
+                var title = day;
+                <text>
+                columns.push({
+                    title: '@title',
+                    columns: [
+                        {
+                            title: 'Vào',
+                            field: 'CheckTimeSheets[' +@i +'].CheckIn',
+                            width:70,
+                            filterable: false,
+                            format:'{0:HH:mm}'
+                        },
+                        {
+                            title: 'Ra',
+                            field: 'CheckTimeSheets[' + @i + '].CheckOut',
+                            width: 70,
+                            filterable: false,
+                            format:'{0:HH:mm}'
+                        }
+                    ]
+                });
+                </text>
+                i ++;
+            }
+        }   
+        columns.push({
+            title: 'Giờ công',
+            columns: [
+                {
+                    title: 'QĐ',
+                    field: 'FixedHour',
+                    width: 60,
+                    filterable: false
+                },
+                {
+                    title: 'TT',
+                    field: 'ActualHour',
+                    width: 60,
+                    filterable: false
+                }
+            ]
+        });
+        columns.push({
+            title: 'Vào trễ',
+            columns: [
+                {
+                    title: 'Lần',
+                    field: 'LateNumber',
+                    width: 60,
+                    filterable: false
+                },
+                {
+                    title: 'Phút',
+                    field: 'LateMinutes',
+                    width: 60,
+                    filterable: false
+                }
+            ]
+        });
+        columns.push({
+            title: 'Ra sớm',
+            columns: [
+                {
+                    title: 'Lần',
+                    field: 'EarlyNumber',
+                    width: 60,
+                    filterable: false
+                },
+                {
+                    title: 'Phút',
+                    field: 'EarlyMinutes',
+                    width: 60,
+                    filterable: false
+                }
+            ]
+        });
+        columns.push({
+            title: 'Ngày công',
+            columns: [
+                {
+                    title: 'QĐ',
+                    field: 'RealPoint',
+                    width: 60,
+                    filterable: false
+                },
+                {
+                    title: 'Nghỉ có lương',
+                    field: 'TotalDayHoliday',
+                    width: 120,
+                    filterable: false
+                },
+                {
+                    title: 'OT',
+                    field: 'DayPointOt',
+                    width: 60,
+                    filterable: false
+                },
+                {
+                    title: 'Đi làm',
+                    field: 'TotalPoint',
+                    width: 90,
+                    filterable: false
+                },
+                {
+                    title: 'Tổng cộng',
+                    field: 'TotalDayPoint',
+                    width: 100,
+                    filterable: false
+                },
+                {
+                    title: 'Hệ số công',
+                    field: 'FactorDay',
+                    width: 100,
+                    filterable: false
+                }
+            ]
+        });
+    </script>
+    <script src="~/Areas/Hrm/JsAction/EmployeeTimeSheet/index.js"></script>
+}

@@ -1,0 +1,498 @@
+2019-01-22 09:48:27,803: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:48:27,803: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:48:40,745: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 09:48:40,745: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 09:48:40,829: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 09:48:40,829: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 09:48:40,862: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 09:48:40,862: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 09:50:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 09:50 AM
+2019-01-22 09:50:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 09:50 AM
+2019-01-22 09:50:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 09:50 AM
+2019-01-22 09:50:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 09:50 AM
+2019-01-22 09:51:27,693: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:51:27,693: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:57:39,659: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:57:39,659: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:58:20,519: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:58:20,519: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:58:48,914: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 09:58:48,914: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 09:58:48,924: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 09:58:48,924: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 09:58:49,020: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 09:58:49,020: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 09:59:06,986: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:59:06,986: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 09:59:11,623: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 09:59:11,623: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 09:59:11,681: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 09:59:11,681: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 09:59:11,737: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 09:59:11,737: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:00:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:00 AM
+2019-01-22 10:00:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:00 AM
+2019-01-22 10:00:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:00 AM
+2019-01-22 10:00:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:00 AM
+2019-01-22 10:10:00,053: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:10 AM
+2019-01-22 10:10:00,053: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:10 AM
+2019-01-22 10:10:00,053: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:10 AM
+2019-01-22 10:10:00,053: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:10 AM
+2019-01-22 10:11:04,785: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:11:04,785: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:11:12,795: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:11:12,795: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:11:12,844: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:11:12,844: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:11:12,902: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:11:12,902: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:12:12,993: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:12:12,993: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:12:13,841: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:12:13,841: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:12:13,916: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:12:13,916: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:12:14,213: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:12:14,213: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:12:17,405: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:12:17,405: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:12:17,452: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:12:17,452: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:12:17,515: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:12:17,515: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:13:16,565: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:13:16,565: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:13:18,862: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:13:18,862: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:13:18,915: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:13:18,915: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:13:18,987: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:13:18,987: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:20 AM
+2019-01-22 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:20 AM
+2019-01-22 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:20 AM
+2019-01-22 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:20 AM
+2019-01-22 10:24:59,571: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:24:59,571: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:25:07,882: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:25:07,882: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:25:07,933: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:25:07,933: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:25:08,000: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:25:08,000: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:26:19,019: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:26:19,019: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:26:20,006: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:26:20,006: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:26:20,483: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:26:20,483: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:26:20,601: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:26:20,601: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:26:26,735: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:26:26,735: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:26:26,787: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:26:26,787: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:26:26,845: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:26:26,845: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:26:42,904: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:26:42,904: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:26:44,032: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:26:44,032: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:26:58,292: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:26:58,292: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:26:58,375: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:26:58,375: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:26:58,430: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:26:58,430: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:27:34,003: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:27:34,003: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:30:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:30 AM
+2019-01-22 10:30:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:30 AM
+2019-01-22 10:30:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:30 AM
+2019-01-22 10:30:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:30 AM
+2019-01-22 10:34:40,284: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:34:40,284: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:40:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:40 AM
+2019-01-22 10:40:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:40 AM
+2019-01-22 10:40:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:40 AM
+2019-01-22 10:40:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:40 AM
+2019-01-22 10:47:46,459: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:47:46,459: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:47:47,373: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 10:47:47,373: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 10:47:52,659: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:47:52,659: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:47:52,707: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:47:52,707: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:47:52,766: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:47:52,766: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:47:54,587: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 10:47:54,587: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 10:48:10,100: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:48:10,100: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:48:14,593: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:48:14,593: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 10:48:15,661: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:48:15,661: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 10:48:16,163: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:48:16,163: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:48:16,286: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:48:16,286: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:50 AM
+2019-01-22 10:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 10:50 AM
+2019-01-22 10:50:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:50 AM
+2019-01-22 10:50:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 10:50 AM
+2019-01-22 10:58:10,113: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 10:58:10,113: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:00:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 22/01/2019 11:00 AM
+2019-01-22 11:00:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:00 AM
+2019-01-22 11:00:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:00 AM
+2019-01-22 11:00:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 22/01/2019 11:00 AM
+2019-01-22 11:00:00,052: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:00 AM
+2019-01-22 11:00:00,052: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:00 AM
+2019-01-22 11:05:42,395: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:05:42,395: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:10 AM
+2019-01-22 11:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:10 AM
+2019-01-22 11:10:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:10 AM
+2019-01-22 11:10:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:10 AM
+2019-01-22 11:20:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:20 AM
+2019-01-22 11:20:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:20 AM
+2019-01-22 11:20:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:20 AM
+2019-01-22 11:20:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:20 AM
+2019-01-22 11:24:36,615: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:24:36,615: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:28:23,177: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:28:23,177: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:30:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:30 AM
+2019-01-22 11:30:00,035: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:30 AM
+2019-01-22 11:30:00,035: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:30 AM
+2019-01-22 11:30:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:30 AM
+2019-01-22 11:31:59,739: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:31:59,739: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 11:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:40 AM
+2019-01-22 11:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:40 AM
+2019-01-22 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:40 AM
+2019-01-22 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:40 AM
+2019-01-22 11:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:50 AM
+2019-01-22 11:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 11:50 AM
+2019-01-22 11:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:50 AM
+2019-01-22 11:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 11:50 AM
+2019-01-22 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 12:00 PM
+2019-01-22 12:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 12:00 PM
+2019-01-22 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 12:00 PM
+2019-01-22 12:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 12:00 PM
+2019-01-22 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 12:10 PM
+2019-01-22 12:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 12:10 PM
+2019-01-22 12:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 12:10 PM
+2019-01-22 12:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 12:10 PM
+2019-01-22 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 12:20 PM
+2019-01-22 12:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 12:20 PM
+2019-01-22 12:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 12:20 PM
+2019-01-22 12:20:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 12:20 PM
+2019-01-22 13:09:40,456: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:09 PM
+2019-01-22 13:09:40,456: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:09 PM
+2019-01-22 13:09:40,456: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:09 PM
+2019-01-22 13:09:40,456: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:09 PM
+2019-01-22 13:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:10 PM
+2019-01-22 13:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:10 PM
+2019-01-22 13:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:10 PM
+2019-01-22 13:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:10 PM
+2019-01-22 13:15:57,427: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:15:57,427: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:20:00,015: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:20 PM
+2019-01-22 13:20:00,015: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:20 PM
+2019-01-22 13:20:00,016: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:20 PM
+2019-01-22 13:20:00,016: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:20 PM
+2019-01-22 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:30 PM
+2019-01-22 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:30 PM
+2019-01-22 13:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:30 PM
+2019-01-22 13:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:30 PM
+2019-01-22 13:33:23,246: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:33:23,246: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:33:23,267: ERROR Logging ・The given key was not present in the dictionary.
+2019-01-22 13:33:23,267: ERROR Logging ・The given key was not present in the dictionary.
+2019-01-22 13:33:49,706: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:33:49,706: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:33:49,722: ERROR Logging ・The given key was not present in the dictionary.
+2019-01-22 13:33:49,722: ERROR Logging ・The given key was not present in the dictionary.
+2019-01-22 13:39:03,197: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:39:03,197: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:39:53,233: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 13:39:53,233: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 13:39:53,296: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 13:39:53,296: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 13:39:53,326: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 13:39:53,326: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 13:40:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:40 PM
+2019-01-22 13:40:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:40 PM
+2019-01-22 13:40:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:40 PM
+2019-01-22 13:40:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:40 PM
+2019-01-22 13:40:57,130: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 13:40:57,130: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 13:41:01,941: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:41:01,941: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:42:25,001: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:42:25,001: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:43:08,552: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 13:43:08,552: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 13:43:17,764: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 13:43:17,764: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 13:43:17,825: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 13:43:17,825: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 13:43:17,879: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 13:43:17,879: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 13:43:20,188: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 13:43:20,188: ERROR Logging ・Object reference not set to an instance of an object.
+2019-01-22 13:43:35,522: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:43:35,522: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:47:58,141: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:47:58,141: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 13:50:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:50 PM
+2019-01-22 13:50:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:50 PM
+2019-01-22 13:50:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 01:50 PM
+2019-01-22 13:50:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 01:50 PM
+2019-01-22 14:00:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:00 PM
+2019-01-22 14:00:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:00 PM
+2019-01-22 14:00:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:00 PM
+2019-01-22 14:00:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:00 PM
+2019-01-22 14:10:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:10 PM
+2019-01-22 14:10:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:10 PM
+2019-01-22 14:10:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:10 PM
+2019-01-22 14:10:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:10 PM
+2019-01-22 14:20:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:20 PM
+2019-01-22 14:20:00,045: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:20 PM
+2019-01-22 14:20:00,045: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:20 PM
+2019-01-22 14:20:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:20 PM
+2019-01-22 14:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:30 PM
+2019-01-22 14:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:30 PM
+2019-01-22 14:30:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:30 PM
+2019-01-22 14:30:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:30 PM
+2019-01-22 14:40:00,048: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:40 PM
+2019-01-22 14:40:00,048: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:40 PM
+2019-01-22 14:40:00,048: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:40 PM
+2019-01-22 14:40:00,048: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:40 PM
+2019-01-22 14:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:50 PM
+2019-01-22 14:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 02:50 PM
+2019-01-22 14:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:50 PM
+2019-01-22 14:50:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 02:50 PM
+2019-01-22 15:00:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:00 PM
+2019-01-22 15:00:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:00 PM
+2019-01-22 15:00:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:00 PM
+2019-01-22 15:00:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:00 PM
+2019-01-22 15:10:00,045: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:10 PM
+2019-01-22 15:10:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:10 PM
+2019-01-22 15:10:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:10 PM
+2019-01-22 15:10:00,045: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:10 PM
+2019-01-22 15:20:00,013: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:20 PM
+2019-01-22 15:20:00,013: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:20 PM
+2019-01-22 15:20:00,013: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:20 PM
+2019-01-22 15:20:00,013: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:20 PM
+2019-01-22 15:30:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:30 PM
+2019-01-22 15:30:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:30 PM
+2019-01-22 15:30:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:30 PM
+2019-01-22 15:30:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:30 PM
+2019-01-22 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:40 PM
+2019-01-22 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:40 PM
+2019-01-22 15:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:40 PM
+2019-01-22 15:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:40 PM
+2019-01-22 15:50:00,041: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:50 PM
+2019-01-22 15:50:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:50 PM
+2019-01-22 15:50:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 03:50 PM
+2019-01-22 15:50:00,041: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 03:50 PM
+2019-01-22 16:00:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:00 PM
+2019-01-22 16:00:00,035: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:00 PM
+2019-01-22 16:00:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 22/01/2019 04:00 PM
+2019-01-22 16:00:00,035: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:00 PM
+2019-01-22 16:00:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:00 PM
+2019-01-22 16:00:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 22/01/2019 04:00 PM
+2019-01-22 16:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:10 PM
+2019-01-22 16:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:10 PM
+2019-01-22 16:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:10 PM
+2019-01-22 16:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:10 PM
+2019-01-22 16:20:00,060: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:20 PM
+2019-01-22 16:20:00,060: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:20 PM
+2019-01-22 16:20:00,060: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:20 PM
+2019-01-22 16:20:00,060: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:20 PM
+2019-01-22 16:30:00,047: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:30 PM
+2019-01-22 16:30:00,047: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:30 PM
+2019-01-22 16:30:00,047: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:30 PM
+2019-01-22 16:30:00,047: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:30 PM
+2019-01-22 16:40:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:40 PM
+2019-01-22 16:40:00,052: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:40 PM
+2019-01-22 16:40:00,052: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:40 PM
+2019-01-22 16:40:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:40 PM
+2019-01-22 16:45:25,516: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 16:45:25,516: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 16:45:25,591: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 16:45:25,591: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 16:45:26,068: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 16:45:26,068: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 16:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:50 PM
+2019-01-22 16:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 04:50 PM
+2019-01-22 16:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:50 PM
+2019-01-22 16:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 04:50 PM
+2019-01-22 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 05:00 PM
+2019-01-22 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 05:00 PM
+2019-01-22 17:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 05:00 PM
+2019-01-22 17:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 05:00 PM
+2019-01-22 17:00:00,100: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:12fe5224-60ae-4400-a4e8-f5df44a911ed
+Error Number:64,State:0,Class:20
+2019-01-22 17:00:00,100: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:12fe5224-60ae-4400-a4e8-f5df44a911ed
+Error Number:64,State:0,Class:20
+2019-01-22 17:00:00,100: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:12fe5224-60ae-4400-a4e8-f5df44a911ed
+Error Number:64,State:0,Class:20
+2019-01-22 17:00:00,100: ERROR Logging ・A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.); Error: 
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - The specified network name is no longer available.) ---> System.ComponentModel.Win32Exception (0x80004005): The specified network name is no longer available
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.KpiConfigDal.GetKpiConfig() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\KpiConfigDal.cs:line 17
+ClientConnectionId:12fe5224-60ae-4400-a4e8-f5df44a911ed
+Error Number:64,State:0,Class:20
+2019-01-22 17:02:39,420: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:02:39,420: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:02:40,539: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:02:40,539: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:02:40,632: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:02:40,632: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:02:40,934: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:02:40,934: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:03:14,068: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:03:14,068: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:03:31,806: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:03:31,806: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:04:13,705: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:04:13,705: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:04:16,615: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:04:16,615: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:04:21,851: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:04:21,851: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:04:24,144: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:04:24,144: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:04:24,194: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:04:24,194: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:04:24,262: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:04:24,262: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:04:26,688: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:04:26,688: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:10:00,011: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 05:10 PM
+2019-01-22 17:10:00,011: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 05:10 PM
+2019-01-22 17:10:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 05:10 PM
+2019-01-22 17:10:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 05:10 PM
+2019-01-22 17:15:01,232: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:15:01,232: ERROR Logging ・A public action method 'Countrys' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.EmployeeController'.
+2019-01-22 17:15:11,426: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:15:11,426: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:15:11,513: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:15:11,513: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:15:12,049: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:15:12,049: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:15:12,527: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:15:12,527: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:20:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 05:20 PM
+2019-01-22 17:20:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 05:20 PM
+2019-01-22 17:20:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 22/01/2019 05:20 PM
+2019-01-22 17:20:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 22/01/2019 05:20 PM
+2019-01-22 17:21:36,370: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:21:36,370: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:21:36,439: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:21:36,439: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:21:36,514: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:21:36,514: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:21:50,569: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:21:50,569: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:21:50,623: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:21:50,623: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:21:50,661: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:21:50,661: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:22:33,937: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:22:33,937: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:22:34,016: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:22:34,016: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:22:34,059: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:22:34,059: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:22:59,880: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:22:59,880: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:23:00,669: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:23:00,669: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:23:00,761: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:23:00,761: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:23:01,125: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:23:01,125: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:23:07,540: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:23:07,540: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-22 17:23:07,620: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:23:07,620: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-22 17:23:07,662: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:23:07,662: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-22 17:24:58,167: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-22 17:24:58,167: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.

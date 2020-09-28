@@ -1,0 +1,22 @@
+2018-10-18 17:23:45,292: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-18 17:23:45,292: ERROR Logging – The controller for path '/sale' was not found or does not implement IController.
+2018-10-18 17:23:57,962: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-18 17:23:57,962: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-18 17:23:57,992: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-18 17:23:57,992: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-18 17:23:58,117: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-18 17:23:58,117: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-18 17:24:10,055: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-18 17:24:10,055: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-18 17:24:10,071: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-18 17:24:10,071: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-18 17:24:10,205: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-18 17:24:10,205: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-18 17:30:00,050: ERROR Logging – Start Job NotificationWorkPlan: 18/10/2018 05:30 PM
+2018-10-18 17:30:00,050: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 18/10/2018 05:30 PM
+2018-10-18 17:30:00,050: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 18/10/2018 05:30 PM
+2018-10-18 17:30:00,050: ERROR Logging – Start Job NotificationWorkPlan: 18/10/2018 05:30 PM
+2018-10-18 17:30:18,864: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-18 17:30:18,864: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-18 17:30:53,696: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-18 17:30:53,696: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.

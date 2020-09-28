@@ -1,0 +1,420 @@
+2018-12-27 09:12:53,042: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:12:53,042: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:14:56,296: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:14:56,296: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:20:17,114: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:20:17,114: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:21:31,655: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:21:31,655: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:30:00,988: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 09:30 AM
+2018-12-27 09:30:00,988: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 09:30 AM
+2018-12-27 09:30:00,988: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 09:30 AM
+2018-12-27 09:30:00,988: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 09:30 AM
+2018-12-27 09:31:43,246: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:31:43,246: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:35:49,892: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:35:49,892: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:38:56,093: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:38:56,093: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 09:40:00,051: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 09:40 AM
+2018-12-27 09:40:00,051: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 09:40 AM
+2018-12-27 09:40:00,051: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 09:40 AM
+2018-12-27 09:40:00,051: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 09:40 AM
+2018-12-27 10:09:55,433: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:09:55,433: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:10 AM
+2018-12-27 10:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:10 AM
+2018-12-27 10:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:10 AM
+2018-12-27 10:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:10 AM
+2018-12-27 10:10:11,179: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:10:11,179: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:10:16,997: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:10:16,997: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:10:55,410: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:10:55,410: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:11:43,499: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:11:43,499: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:11:56,396: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-27 10:11:56,396: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-27 10:11:56,459: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-27 10:11:56,459: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-27 10:11:56,501: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-27 10:11:56,501: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-27 10:13:50,376: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-27 10:13:50,376: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-27 10:13:51,181: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-27 10:13:51,181: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-27 10:13:51,303: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-27 10:13:51,303: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-27 10:13:51,423: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:13:51,423: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:14:11,048: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:14:11,048: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:16:02,526: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:16:02,526: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:20:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:20 AM
+2018-12-27 10:20:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:20 AM
+2018-12-27 10:20:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:20 AM
+2018-12-27 10:20:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:20 AM
+2018-12-27 10:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:30 AM
+2018-12-27 10:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:30 AM
+2018-12-27 10:30:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:30 AM
+2018-12-27 10:30:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:30 AM
+2018-12-27 10:36:09,827: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-27 10:36:09,827: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-27 10:36:09,882: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-27 10:36:09,882: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-27 10:36:09,918: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-27 10:36:09,918: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-27 10:36:26,469: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:36:26,469: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 10:40:00,029: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:40 AM
+2018-12-27 10:40:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:40 AM
+2018-12-27 10:40:00,029: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:40 AM
+2018-12-27 10:40:00,029: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:40 AM
+2018-12-27 10:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:50 AM
+2018-12-27 10:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 10:50 AM
+2018-12-27 10:50:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:50 AM
+2018-12-27 10:50:00,002: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 10:50 AM
+2018-12-27 11:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:00 AM
+2018-12-27 11:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:00 AM
+2018-12-27 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:00 AM
+2018-12-27 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:00 AM
+2018-12-27 11:00:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 27/12/2018 11:00 AM
+2018-12-27 11:00:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 27/12/2018 11:00 AM
+2018-12-27 11:02:53,218: ERROR Logging ・Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=32; handshake=14993; ; Url: http://localhost:60603/dashboard; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=32; handshake=14993;  ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.GetUser(Int32 userId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 140
+ClientConnectionId:97178976-8ca9-406d-9140-113b82a03360
+Error Number:-2,State:0,Class:11
+2018-12-27 11:02:53,218: ERROR Logging ・Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=32; handshake=14993; ; Url: http://localhost:60603/dashboard; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=32; handshake=14993;  ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.GetUser(Int32 userId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 140
+ClientConnectionId:97178976-8ca9-406d-9140-113b82a03360
+Error Number:-2,State:0,Class:11
+2018-12-27 11:02:56,776: ERROR Logging ・Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=32; handshake=14993; ; Url: http://localhost:60603/Login/Login; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=32; handshake=14993;  ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.Login(String userName, String password) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 56
+ClientConnectionId:97178976-8ca9-406d-9140-113b82a03360
+Error Number:-2,State:0,Class:11
+2018-12-27 11:02:56,776: ERROR Logging ・Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=32; handshake=14993; ; Url: http://localhost:60603/Login/Login; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=32; handshake=14993;  ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.Login(String userName, String password) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 56
+ClientConnectionId:97178976-8ca9-406d-9140-113b82a03360
+Error Number:-2,State:0,Class:11
+2018-12-27 11:03:09,300: ERROR Logging ・Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.; Url: http://localhost:60603/dashboard; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.GetUser(Int32 userId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 140
+ClientConnectionId:bf857995-d685-49b6-a4be-9acbd6598529
+Error Number:4060,State:1,Class:11
+2018-12-27 11:03:09,300: ERROR Logging ・Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.; Url: http://localhost:60603/dashboard; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.GetUser(Int32 userId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 140
+ClientConnectionId:bf857995-d685-49b6-a4be-9acbd6598529
+Error Number:4060,State:1,Class:11
+2018-12-27 11:03:09,300: ERROR Logging ・Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.; Url: http://localhost:60603/Login/Login; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.Login(String userName, String password) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 56
+ClientConnectionId:bf857995-d685-49b6-a4be-9acbd6598529
+Error Number:4060,State:1,Class:11
+2018-12-27 11:03:09,300: ERROR Logging ・Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.; Url: http://localhost:60603/Login/Login; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.Login(String userName, String password) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 56
+ClientConnectionId:bf857995-d685-49b6-a4be-9acbd6598529
+Error Number:4060,State:1,Class:11
+2018-12-27 11:03:10,628: ERROR Logging ・Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.; Url: http://localhost:60603/Login/Login; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.Login(String userName, String password) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 56
+ClientConnectionId:bf857995-d685-49b6-a4be-9acbd6598529
+Error Number:4060,State:1,Class:11
+2018-12-27 11:03:10,628: ERROR Logging ・Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.; Url: http://localhost:60603/Login/Login; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Cannot open database "AdminSoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.System.UserDal.Login(String userName, String password) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\System\UserDal.cs:line 56
+ClientConnectionId:bf857995-d685-49b6-a4be-9acbd6598529
+Error Number:4060,State:1,Class:11
+2018-12-27 11:10:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:10 AM
+2018-12-27 11:10:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:10 AM
+2018-12-27 11:10:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:10 AM
+2018-12-27 11:10:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:10 AM
+2018-12-27 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:20 AM
+2018-12-27 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:20 AM
+2018-12-27 11:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:20 AM
+2018-12-27 11:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:20 AM
+2018-12-27 11:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:30 AM
+2018-12-27 11:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:30 AM
+2018-12-27 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:30 AM
+2018-12-27 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:30 AM
+2018-12-27 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:40 AM
+2018-12-27 11:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 11:40 AM
+2018-12-27 11:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:40 AM
+2018-12-27 11:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 11:40 AM
+2018-12-27 13:18:09,211: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 01:18 PM
+2018-12-27 13:18:09,211: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 01:18 PM
+2018-12-27 13:18:09,211: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 01:18 PM
+2018-12-27 13:18:09,211: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 01:18 PM
+2018-12-27 13:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 01:20 PM
+2018-12-27 13:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 01:20 PM
+2018-12-27 13:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 01:20 PM
+2018-12-27 13:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 01:20 PM
+2018-12-27 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 01:30 PM
+2018-12-27 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 01:30 PM
+2018-12-27 13:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 01:30 PM
+2018-12-27 13:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 01:30 PM
+2018-12-27 13:42:22,551: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 13:42:22,551: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 13:50:00,045: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 01:50 PM
+2018-12-27 13:50:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 01:50 PM
+2018-12-27 13:50:00,045: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 01:50 PM
+2018-12-27 13:50:00,045: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 01:50 PM
+2018-12-27 13:50:07,791: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 13:50:07,791: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 14:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:00 PM
+2018-12-27 14:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:00 PM
+2018-12-27 14:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:00 PM
+2018-12-27 14:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:00 PM
+2018-12-27 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:10 PM
+2018-12-27 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:10 PM
+2018-12-27 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:10 PM
+2018-12-27 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:10 PM
+2018-12-27 14:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:20 PM
+2018-12-27 14:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:20 PM
+2018-12-27 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:20 PM
+2018-12-27 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:20 PM
+2018-12-27 14:30:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:30 PM
+2018-12-27 14:30:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:30 PM
+2018-12-27 14:30:00,020: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:30 PM
+2018-12-27 14:30:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:30 PM
+2018-12-27 14:40:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:40 PM
+2018-12-27 14:40:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:40 PM
+2018-12-27 14:40:00,050: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:40 PM
+2018-12-27 14:40:00,050: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:40 PM
+2018-12-27 14:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:50 PM
+2018-12-27 14:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 02:50 PM
+2018-12-27 14:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:50 PM
+2018-12-27 14:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 02:50 PM
+2018-12-27 15:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:00 PM
+2018-12-27 15:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:00 PM
+2018-12-27 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:00 PM
+2018-12-27 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:00 PM
+2018-12-27 15:10:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:10 PM
+2018-12-27 15:10:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:10 PM
+2018-12-27 15:10:00,037: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:10 PM
+2018-12-27 15:10:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:10 PM
+2018-12-27 15:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:20 PM
+2018-12-27 15:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:20 PM
+2018-12-27 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:20 PM
+2018-12-27 15:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:20 PM
+2018-12-27 15:30:00,038: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:30 PM
+2018-12-27 15:30:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:30 PM
+2018-12-27 15:30:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:30 PM
+2018-12-27 15:30:00,038: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:30 PM
+2018-12-27 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:40 PM
+2018-12-27 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:40 PM
+2018-12-27 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:40 PM
+2018-12-27 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:40 PM
+2018-12-27 15:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:50 PM
+2018-12-27 15:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 03:50 PM
+2018-12-27 15:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:50 PM
+2018-12-27 15:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 03:50 PM
+2018-12-27 16:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:00 PM
+2018-12-27 16:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:00 PM
+2018-12-27 16:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:00 PM
+2018-12-27 16:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:00 PM
+2018-12-27 16:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 27/12/2018 04:00 PM
+2018-12-27 16:00:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 27/12/2018 04:00 PM
+2018-12-27 16:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:10 PM
+2018-12-27 16:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:10 PM
+2018-12-27 16:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:10 PM
+2018-12-27 16:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:10 PM
+2018-12-27 16:19:00,466: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 16:19:00,466: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-27 16:20:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:20 PM
+2018-12-27 16:20:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:20 PM
+2018-12-27 16:20:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:20 PM
+2018-12-27 16:20:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:20 PM
+2018-12-27 16:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:30 PM
+2018-12-27 16:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:30 PM
+2018-12-27 16:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:30 PM
+2018-12-27 16:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:30 PM
+2018-12-27 16:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:40 PM
+2018-12-27 16:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:40 PM
+2018-12-27 16:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:40 PM
+2018-12-27 16:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:40 PM
+2018-12-27 16:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:50 PM
+2018-12-27 16:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 04:50 PM
+2018-12-27 16:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:50 PM
+2018-12-27 16:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 04:50 PM
+2018-12-27 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 05:00 PM
+2018-12-27 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 05:00 PM
+2018-12-27 17:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 05:00 PM
+2018-12-27 17:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 05:00 PM
+2018-12-27 17:10:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 05:10 PM
+2018-12-27 17:10:00,041: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 05:10 PM
+2018-12-27 17:10:00,041: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 05:10 PM
+2018-12-27 17:10:00,041: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 05:10 PM
+2018-12-27 17:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 05:20 PM
+2018-12-27 17:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 27/12/2018 05:20 PM
+2018-12-27 17:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 05:20 PM
+2018-12-27 17:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 27/12/2018 05:20 PM

@@ -1,23 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entity.Helper.ExtendedAttributes;
 
 namespace Entity.Sale
 {
      public class Listting
     {
         public int ListtingId { get; set; }
-
+        [LocalizeRequired]
+        [DisplayName("Tài khoản gmail")]
         public int GmailId { get; set; }
-
+        [LocalizeRequired]
+        [DisplayName("Ba số PayOnner")]
         public int? ThreeNumberPayOnner { get; set; }
-
+        [LocalizeRequired]
+        [DisplayName("PayOnner")]
         public int? PayOnner { get; set; }
-
+        [LocalizeRequired]
+        [DisplayName("Listting")]
         public int? ListProduct { get; set; }
-
+        [LocalizeRequired]
+        [DisplayName("Balance")]
         public decimal? Balance { get; set; }
 
         public bool IsActive { get; set; }

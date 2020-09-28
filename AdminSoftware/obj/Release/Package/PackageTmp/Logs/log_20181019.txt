@@ -1,0 +1,1396 @@
+2018-10-19 13:39:16,073: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 13:39:16,073: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 13:40:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 01:40 PM
+2018-10-19 13:40:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 01:40 PM
+2018-10-19 13:40:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 01:40 PM
+2018-10-19 13:40:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 01:40 PM
+2018-10-19 13:50:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 01:50 PM
+2018-10-19 13:50:00,018: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 01:50 PM
+2018-10-19 13:50:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 01:50 PM
+2018-10-19 13:50:00,018: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 01:50 PM
+2018-10-19 14:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:00 PM
+2018-10-19 14:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:00 PM
+2018-10-19 14:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:00 PM
+2018-10-19 14:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:00 PM
+2018-10-19 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:10 PM
+2018-10-19 14:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:10 PM
+2018-10-19 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:10 PM
+2018-10-19 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:10 PM
+2018-10-19 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:20 PM
+2018-10-19 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:20 PM
+2018-10-19 14:20:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:20 PM
+2018-10-19 14:20:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:20 PM
+2018-10-19 14:30:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:30 PM
+2018-10-19 14:30:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:30 PM
+2018-10-19 14:30:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:30 PM
+2018-10-19 14:30:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:30 PM
+2018-10-19 14:40:00,013: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:40 PM
+2018-10-19 14:40:00,013: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:40 PM
+2018-10-19 14:40:00,013: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:40 PM
+2018-10-19 14:40:00,013: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:40 PM
+2018-10-19 14:50:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:50 PM
+2018-10-19 14:50:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:50 PM
+2018-10-19 14:50:00,043: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 02:50 PM
+2018-10-19 14:50:00,043: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 02:50 PM
+2018-10-19 14:51:13,863: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:51:13,863: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:51:23,518: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:51:23,518: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:51:29,518: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 14:51:29,518: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 14:51:29,530: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 14:51:29,530: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 14:51:29,573: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 14:51:29,573: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 14:55:15,990: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:55:15,990: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:56:20,123: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:56:20,123: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:56:43,193: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 14:56:43,193: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 14:56:43,197: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 14:56:43,197: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 14:56:43,229: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 14:56:43,229: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 14:56:55,488: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 14:56:55,488: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:00:00,033: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:00 PM
+2018-10-19 15:00:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:00 PM
+2018-10-19 15:00:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:00 PM
+2018-10-19 15:00:00,033: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:00 PM
+2018-10-19 15:00:02,444: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:00:02,444: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:10:00,010: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:10 PM
+2018-10-19 15:10:00,010: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:10 PM
+2018-10-19 15:10:00,010: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:10 PM
+2018-10-19 15:10:00,010: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:10 PM
+2018-10-19 15:19:02,079: ERROR Logging ・e:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Views\ApproveSugges\SuggesWork.cshtml(40): error CS1061: 'Entity.Kpi.SuggesWork' does not contain a definition for 'MinHours' and no extension method 'MinHours' accepting a first argument of type 'Entity.Kpi.SuggesWork' could be found (are you missing a using directive or an assembly reference?)
+2018-10-19 15:19:02,079: ERROR Logging ・e:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Views\ApproveSugges\SuggesWork.cshtml(40): error CS1061: 'Entity.Kpi.SuggesWork' does not contain a definition for 'MinHours' and no extension method 'MinHours' accepting a first argument of type 'Entity.Kpi.SuggesWork' could be found (are you missing a using directive or an assembly reference?)
+2018-10-19 15:19:03,907: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:19:03,907: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:19:03,964: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:19:03,964: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:19:04,007: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:19:04,007: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:19:05,872: ERROR Logging ・e:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Views\ApproveSugges\SuggesWork.cshtml(40): error CS1061: 'Entity.Kpi.SuggesWork' does not contain a definition for 'MinHours' and no extension method 'MinHours' accepting a first argument of type 'Entity.Kpi.SuggesWork' could be found (are you missing a using directive or an assembly reference?)
+2018-10-19 15:19:05,872: ERROR Logging ・e:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\AdminSoftware\Areas\Hrm\Views\ApproveSugges\SuggesWork.cshtml(40): error CS1061: 'Entity.Kpi.SuggesWork' does not contain a definition for 'MinHours' and no extension method 'MinHours' accepting a first argument of type 'Entity.Kpi.SuggesWork' could be found (are you missing a using directive or an assembly reference?)
+2018-10-19 15:20:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:20 PM
+2018-10-19 15:20:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:20 PM
+2018-10-19 15:20:00,024: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:20 PM
+2018-10-19 15:20:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:20 PM
+2018-10-19 15:21:11,502: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:21:11,502: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:21:12,582: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:21:12,582: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:21:12,698: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:21:12,698: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:21:21,154: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:21:21,154: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:25:00,265: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:25:00,265: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:28:50,369: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:28:50,369: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:30:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:30 PM
+2018-10-19 15:30:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:30 PM
+2018-10-19 15:30:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:30 PM
+2018-10-19 15:30:00,026: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:30 PM
+2018-10-19 15:34:54,859: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:34:54,859: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:35:36,356: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:35:36,356: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:37:25,373: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourDepartment/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:25,373: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourDepartment/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:25,530: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourDepartment/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:25,530: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourDepartment/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:33,861: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourAdmin/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:33,861: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourAdmin/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:34,473: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourAdmin/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:34,473: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourAdmin/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:34,641: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourAdmin/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:34,641: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/UsefulHourAdmin/EmployeeUsefulHours; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetEmployeeUsefulHours(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 102
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:39,498: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:39,498: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:39,710: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:39,710: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:39,876: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:39,876: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:40,044: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:40,044: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:40,214: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:40,214: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:40,390: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:40,390: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:40,541: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:40,541: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/StatisticalFinishDepartment/StatisticalFinishs; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetFinishWorkKpis(Nullable`1 fromDate, Nullable`1 toDate, Nullable`1 departmentId) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 52
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:37:42,049: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:37:42,049: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:37:42,055: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:37:42,055: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:37:42,131: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:37:42,131: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:38:01,152: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/ConfirmWork/WorkDetails; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetWorkDetails(Nullable`1 userId, Int32 action, Nullable`1 fromDate, Nullable`1 toDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 17
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:38:01,152: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/ConfirmWork/WorkDetails; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetWorkDetails(Nullable`1 userId, Int32 action, Nullable`1 fromDate, Nullable`1 toDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 17
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:38:04,212: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:38:04,212: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:38:04,222: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:38:04,222: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:38:04,294: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:38:04,294: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:38:37,421: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-10-19 15:38:37,421: ERROR Logging ・A public action method 'ClearSession' was not found on controller 'AdminSoftware.Areas.Hrm.Controllers.Kpi.ApprovedWorkStreamController'.
+2018-10-19 15:38:40,783: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+2018-10-19 15:38:40,783: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+2018-10-19 15:38:43,933: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:38:43,933: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:38:43,941: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:38:43,941: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:38:44,046: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:38:44,046: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:38:45,895: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'action' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.JsonResult WorkStreamDetails(System.Nullable`1[System.DateTime], System.Nullable`1[System.DateTime], Int32)' in 'AdminSoftware.Areas.Hrm.Controllers.Kpi.ApprovedWorkStreamDetailController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-10-19 15:38:45,895: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'action' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.JsonResult WorkStreamDetails(System.Nullable`1[System.DateTime], System.Nullable`1[System.DateTime], Int32)' in 'AdminSoftware.Areas.Hrm.Controllers.Kpi.ApprovedWorkStreamDetailController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-10-19 15:40:00,060: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:40 PM
+2018-10-19 15:40:00,060: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:40 PM
+2018-10-19 15:40:00,060: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:40 PM
+2018-10-19 15:40:00,060: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:40 PM
+2018-10-19 15:40:04,491: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+2018-10-19 15:40:04,491: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+2018-10-19 15:40:07,677: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:40:07,677: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:40:07,685: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:40:07,685: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:40:07,743: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:40:07,743: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:41:43,392: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:41:43,392: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:41:44,201: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:41:44,201: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:41:44,282: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:41:44,282: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:41:54,787: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:41:54,787: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:42:13,997: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/ConfirmWork/WorkDetails; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetWorkDetails(Nullable`1 userId, Int32 action, Nullable`1 fromDate, Nullable`1 toDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 17
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:42:13,997: ERROR Logging ・Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.; Url: http://localhost:60603/hrm/ConfirmWork/WorkDetails; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Ambiguous column name 'UsefulHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Invalid column name 'MinHours'.
+Invalid column name 'MaxHours'.
+Could not use view or function 'kpi.WorkDetail' because of binding errors.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Kpi.WorkDetailDal.GetWorkDetails(Nullable`1 userId, Int32 action, Nullable`1 fromDate, Nullable`1 toDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Kpi\WorkDetailDal.cs:line 17
+ClientConnectionId:555c5a9e-e463-4fd8-ba12-f562d77d261c
+Error Number:209,State:1,Class:16
+2018-10-19 15:42:16,295: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:42:16,295: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 15:42:16,353: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:42:16,353: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 15:42:16,388: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:42:16,388: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 15:50:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:50 PM
+2018-10-19 15:50:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:50 PM
+2018-10-19 15:50:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 03:50 PM
+2018-10-19 15:50:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 03:50 PM
+2018-10-19 15:53:19,719: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:53:19,719: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:56:02,581: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:56:02,581: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:56:10,293: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:56:10,293: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:57:46,371: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 15:57:46,371: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:00:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 19/10/2018 04:00 PM
+2018-10-19 16:00:00,038: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 04:00 PM
+2018-10-19 16:00:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 04:00 PM
+2018-10-19 16:00:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 04:00 PM
+2018-10-19 16:00:00,038: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 04:00 PM
+2018-10-19 16:00:00,037: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 19/10/2018 04:00 PM
+2018-10-19 16:00:00,160: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2018-10-19 16:00:00,160: ERROR Logging ・Run Job NotificationCompletedWorkPlanJob error : Divide by zero error encountered.
+2018-10-19 16:03:25,651: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:03:25,651: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:03:48,251: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:03:48,251: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:13:31,252: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:13:31,252: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:18:14,891: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:18:14,891: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:18:37,063: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:18:37,063: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:18:59,674: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:18:59,674: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:20:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 04:20 PM
+2018-10-19 16:20:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 04:20 PM
+2018-10-19 16:20:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 04:20 PM
+2018-10-19 16:20:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 04:20 PM
+2018-10-19 16:30:12,751: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:30:12,751: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:30:18,416: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 16:30:18,416: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 16:30:18,421: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 16:30:18,421: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 16:30:18,531: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 16:30:18,531: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 16:31:34,813: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:31:34,813: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:31:57,627: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:31:57,627: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:32:22,764: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 16:32:22,764: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 16:32:23,370: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 16:32:23,370: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 16:32:23,417: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 16:32:23,417: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 16:32:23,480: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 16:32:23,480: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-19 16:32:23,510: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 16:32:23,510: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-19 16:32:24,011: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 16:32:24,011: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-19 16:40:00,630: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 04:40 PM
+2018-10-19 16:40:00,630: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 04:40 PM
+2018-10-19 16:40:00,630: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 04:40 PM
+2018-10-19 16:40:00,630: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 04:40 PM
+2018-10-19 16:40:51,335: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:40:51,335: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:46:03,350: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:46:03,350: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:50:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 04:50 PM
+2018-10-19 16:50:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 04:50 PM
+2018-10-19 16:50:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 04:50 PM
+2018-10-19 16:50:00,036: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 04:50 PM
+2018-10-19 16:54:05,320: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:54:05,320: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:55:46,237: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:55:46,237: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:57:36,010: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:57:36,010: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:59:55,213: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 16:59:55,213: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-19 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 05:00 PM
+2018-10-19 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 05:00 PM
+2018-10-19 17:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 05:00 PM
+2018-10-19 17:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 05:00 PM
+2018-10-19 17:10:00,035: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 05:10 PM
+2018-10-19 17:10:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 05:10 PM
+2018-10-19 17:10:00,035: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 05:10 PM
+2018-10-19 17:10:00,035: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 05:10 PM
+2018-10-19 17:20:00,200: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 05:20 PM
+2018-10-19 17:20:00,200: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 05:20 PM
+2018-10-19 17:20:00,200: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 05:20 PM
+2018-10-19 17:20:00,200: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 05:20 PM
+2018-10-19 17:30:00,054: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 05:30 PM
+2018-10-19 17:30:00,054: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 05:30 PM
+2018-10-19 17:30:00,054: ERROR Logging ・Start Job NotificationWorkPlan: 19/10/2018 05:30 PM
+2018-10-19 17:30:00,054: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 19/10/2018 05:30 PM

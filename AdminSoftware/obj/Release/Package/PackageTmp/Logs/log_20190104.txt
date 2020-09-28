@@ -1,0 +1,1066 @@
+2019-01-04 09:24:10,219: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:24:10,219: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:25:59,657: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:25:59,657: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:31:59,338: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:31:59,338: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:32:21,045: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:32:21,045: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:32:21,087: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:32:21,087: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:32:21,112: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:32:21,112: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:33:10,515: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:33:10,515: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:33:11,238: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:33:11,238: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:33:11,326: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:33:11,326: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:33:11,556: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:33:11,556: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:33:22,218: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:33:22,218: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:33:22,279: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:33:22,279: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:33:22,321: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:33:22,321: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:33:36,542: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:33:36,542: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:33:36,596: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:33:36,596: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:33:36,607: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:33:36,607: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:34:33,389: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:34:33,389: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:34:34,365: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:34:34,365: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:40:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 09:40 AM
+2019-01-04 09:40:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 09:40 AM
+2019-01-04 09:40:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 09:40 AM
+2019-01-04 09:40:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 09:40 AM
+2019-01-04 09:44:52,662: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:44:52,662: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:44:58,358: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:44:58,358: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 09:44:58,401: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:44:58,401: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 09:44:58,425: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:44:58,425: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 09:45:11,116: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:45:11,116: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:46:18,136: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:46:18,136: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:46:45,713: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:46:45,713: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:46:59,428: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:46:59,428: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:47:19,755: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:47:19,755: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 09:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 09:50 AM
+2019-01-04 09:50:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 09:50 AM
+2019-01-04 09:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 09:50 AM
+2019-01-04 09:50:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 09:50 AM
+2019-01-04 10:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:00 AM
+2019-01-04 10:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:00 AM
+2019-01-04 10:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:00 AM
+2019-01-04 10:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:00 AM
+2019-01-04 10:10:00,071: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:10 AM
+2019-01-04 10:10:00,071: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:10 AM
+2019-01-04 10:10:00,071: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:10 AM
+2019-01-04 10:10:00,071: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:10 AM
+2019-01-04 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:20 AM
+2019-01-04 10:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:20 AM
+2019-01-04 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:20 AM
+2019-01-04 10:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:20 AM
+2019-01-04 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:30 AM
+2019-01-04 10:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:30 AM
+2019-01-04 10:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:30 AM
+2019-01-04 10:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:30 AM
+2019-01-04 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:40 AM
+2019-01-04 10:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:40 AM
+2019-01-04 10:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:40 AM
+2019-01-04 10:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:40 AM
+2019-01-04 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:50 AM
+2019-01-04 10:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 10:50 AM
+2019-01-04 10:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:50 AM
+2019-01-04 10:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 10:50 AM
+2019-01-04 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:00 AM
+2019-01-04 11:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:00 AM
+2019-01-04 11:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:00 AM
+2019-01-04 11:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:00 AM
+2019-01-04 11:00:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 04/01/2019 11:00 AM
+2019-01-04 11:00:00,020: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 04/01/2019 11:00 AM
+2019-01-04 11:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:10 AM
+2019-01-04 11:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:10 AM
+2019-01-04 11:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:10 AM
+2019-01-04 11:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:10 AM
+2019-01-04 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:20 AM
+2019-01-04 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:20 AM
+2019-01-04 11:20:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:20 AM
+2019-01-04 11:20:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:20 AM
+2019-01-04 11:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:30 AM
+2019-01-04 11:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:30 AM
+2019-01-04 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:30 AM
+2019-01-04 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:30 AM
+2019-01-04 11:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:40 AM
+2019-01-04 11:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:40 AM
+2019-01-04 11:40:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:40 AM
+2019-01-04 11:40:00,005: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:40 AM
+2019-01-04 11:50:00,052: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:50 AM
+2019-01-04 11:50:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:50 AM
+2019-01-04 11:50:00,052: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 11:50 AM
+2019-01-04 11:50:00,052: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 11:50 AM
+2019-01-04 12:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:00 PM
+2019-01-04 12:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:00 PM
+2019-01-04 12:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:00 PM
+2019-01-04 12:00:00,002: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:00 PM
+2019-01-04 12:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:10 PM
+2019-01-04 12:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:10 PM
+2019-01-04 12:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:10 PM
+2019-01-04 12:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:10 PM
+2019-01-04 12:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:20 PM
+2019-01-04 12:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:20 PM
+2019-01-04 12:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:20 PM
+2019-01-04 12:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:20 PM
+2019-01-04 12:34:32,423: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:34 PM
+2019-01-04 12:34:32,423: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:34 PM
+2019-01-04 12:34:32,423: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:34 PM
+2019-01-04 12:34:32,423: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:34 PM
+2019-01-04 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:40 PM
+2019-01-04 12:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 12:40 PM
+2019-01-04 12:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:40 PM
+2019-01-04 12:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 12:40 PM
+2019-01-04 13:07:36,491: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 13:07:36,491: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 13:07:37,093: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 13:07:37,093: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 13:07:37,592: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 13:07:37,592: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 13:09:32,233: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 13:09:32,233: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 13:09:32,603: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 13:09:32,603: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 13:09:32,652: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 13:09:32,652: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 13:09:32,690: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 13:09:32,690: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 13:10:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:10 PM
+2019-01-04 13:10:00,040: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:10 PM
+2019-01-04 13:10:00,040: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:10 PM
+2019-01-04 13:10:00,040: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:10 PM
+2019-01-04 13:20:00,062: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:20 PM
+2019-01-04 13:20:00,062: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:20 PM
+2019-01-04 13:20:00,062: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:20 PM
+2019-01-04 13:20:00,062: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:20 PM
+2019-01-04 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:30 PM
+2019-01-04 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:30 PM
+2019-01-04 13:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:30 PM
+2019-01-04 13:30:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:30 PM
+2019-01-04 13:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:40 PM
+2019-01-04 13:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:40 PM
+2019-01-04 13:40:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:40 PM
+2019-01-04 13:40:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:40 PM
+2019-01-04 13:50:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:50 PM
+2019-01-04 13:50:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:50 PM
+2019-01-04 13:50:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 01:50 PM
+2019-01-04 13:50:00,033: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 01:50 PM
+2019-01-04 14:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:00 PM
+2019-01-04 14:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:00 PM
+2019-01-04 14:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:00 PM
+2019-01-04 14:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:00 PM
+2019-01-04 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:10 PM
+2019-01-04 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:10 PM
+2019-01-04 14:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:10 PM
+2019-01-04 14:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:10 PM
+2019-01-04 14:20:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:20 PM
+2019-01-04 14:20:00,047: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:20 PM
+2019-01-04 14:20:00,047: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:20 PM
+2019-01-04 14:20:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:20 PM
+2019-01-04 14:30:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:30 PM
+2019-01-04 14:30:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:30 PM
+2019-01-04 14:30:00,036: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:30 PM
+2019-01-04 14:30:00,027: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:30 PM
+2019-01-04 14:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:40 PM
+2019-01-04 14:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:40 PM
+2019-01-04 14:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:40 PM
+2019-01-04 14:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:40 PM
+2019-01-04 14:44:38,924: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 14:44:38,924: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 14:44:39,616: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 14:44:39,616: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 14:44:40,131: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 14:44:40,131: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 14:46:08,376: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000208' AND ma_dvcs like ''DEMODV % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000208' AND ma_dvcs like ''DEMODV % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:e443770e-188d-4ba4-beea-ca861453b19d
+Error Number:102,State:1,Class:15
+2019-01-04 14:46:08,376: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000208' AND ma_dvcs like ''DEMODV % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000208' AND ma_dvcs like ''DEMODV % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:e443770e-188d-4ba4-beea-ca861453b19d
+Error Number:102,State:1,Class:15
+2019-01-04 14:46:11,749: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 14:46:11,749: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 14:46:11,808: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 14:46:11,808: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 14:46:11,841: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 14:46:11,841: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 14:47:27,997: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 14:47:27,997: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 14:50:30,349: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:50 PM
+2019-01-04 14:50:30,349: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:50 PM
+2019-01-04 14:50:30,349: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 02:50 PM
+2019-01-04 14:50:30,349: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 02:50 PM
+2019-01-04 14:53:11,230: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:c3a500ff-f14f-4768-b9b9-dd7ad99fd2b0
+Error Number:102,State:1,Class:15
+2019-01-04 14:53:11,230: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:c3a500ff-f14f-4768-b9b9-dd7ad99fd2b0
+Error Number:102,State:1,Class:15
+2019-01-04 14:54:00,752: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 14:54:00,752: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 14:54:31,451: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000229' AND ma_dvcs like ''DEMODV%'' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000229' AND ma_dvcs like ''DEMODV%'' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:408db686-25dd-4ef1-8628-115919871f74
+Error Number:102,State:1,Class:15
+2019-01-04 14:54:31,451: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000229' AND ma_dvcs like ''DEMODV%'' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000229' AND ma_dvcs like ''DEMODV%'' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:408db686-25dd-4ef1-8628-115919871f74
+Error Number:102,State:1,Class:15
+2019-01-04 14:59:06,967: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 14:59:06,967: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 15:01:39,258: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 15:01:39,258: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 15:01:54,540: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:61d75752-24c5-41fe-896a-1d1ece90734a
+Error Number:102,State:1,Class:15
+2019-01-04 15:01:54,540: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:61d75752-24c5-41fe-896a-1d1ece90734a
+Error Number:102,State:1,Class:15
+2019-01-04 15:01:58,118: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 15:01:58,118: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 15:01:58,157: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 15:01:58,157: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 15:01:58,213: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 15:01:58,213: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 15:06:57,124: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:61d75752-24c5-41fe-896a-1d1ece90734a
+Error Number:102,State:1,Class:15
+2019-01-04 15:06:57,124: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000131' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:61d75752-24c5-41fe-896a-1d1ece90734a
+Error Number:102,State:1,Class:15
+2019-01-04 16:44:21,571: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000210' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000210' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:7aeeb54e-e5a5-4429-b9ce-09936a860c6c
+Error Number:102,State:1,Class:15
+2019-01-04 16:44:21,571: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000210' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000210' AND ma_dvcs like ''DEMODV   % '' AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:7aeeb54e-e5a5-4429-b9ce-09936a860c6c
+Error Number:102,State:1,Class:15
+2019-01-04 16:47:23,146: ERROR Logging ・Incorrect syntax near '%'.
+Incorrect syntax near the keyword 'AND'.
+Incorrect syntax near the keyword 'AND'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20090101' AND '20081231' AND ma_dvcs like DEMODV% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '%'.
+Incorrect syntax near the keyword 'AND'.
+Incorrect syntax near the keyword 'AND'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20090101' AND '20081231' AND ma_dvcs like DEMODV% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:8c95cd1a-3e4e-468d-83b2-66aaad952006
+Error Number:102,State:1,Class:15
+2019-01-04 16:47:23,146: ERROR Logging ・Incorrect syntax near '%'.
+Incorrect syntax near the keyword 'AND'.
+Incorrect syntax near the keyword 'AND'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20090101' AND '20081231' AND ma_dvcs like DEMODV% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '%'.
+Incorrect syntax near the keyword 'AND'.
+Incorrect syntax near the keyword 'AND'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20090101' AND '20081231' AND ma_dvcs like DEMODV% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:8c95cd1a-3e4e-468d-83b2-66aaad952006
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:26,658: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:26,658: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:28,517: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:28,517: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:28,579: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:28,579: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:28,886: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:28,886: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:29,246: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:49:29,246: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:20f26f69-c242-451c-9d56-2ad345781019
+Error Number:102,State:1,Class:15
+2019-01-04 16:50:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 04:50 PM
+2019-01-04 16:50:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 04:50 PM
+2019-01-04 16:50:00,027: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 04:50 PM
+2019-01-04 16:50:00,023: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 04:50 PM
+2019-01-04 16:52:09,818: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:fed2c22b-ab77-4734-b3fc-b0b51c6c794e
+Error Number:102,State:1,Class:15
+2019-01-04 16:52:09,818: ERROR Logging ・Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+Incorrect syntax near 'DEMODV'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000201' AND ma_dvcs like ''DEMODV''% AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:fed2c22b-ab77-4734-b3fc-b0b51c6c794e
+Error Number:102,State:1,Class:15
+2019-01-04 16:54:20,582: ERROR Logging ・Incorrect syntax near '%'.
+Incorrect syntax near the keyword 'AND'.
+Incorrect syntax near the keyword 'AND'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000630' AND ma_dvcs like DEMODV  % AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '%'.
+Incorrect syntax near the keyword 'AND'.
+Incorrect syntax near the keyword 'AND'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000630' AND ma_dvcs like DEMODV  % AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:82137d7c-4d4e-4f34-8e50-86a779b9d587
+Error Number:102,State:1,Class:15
+2019-01-04 16:54:20,582: ERROR Logging ・Incorrect syntax near '%'.
+Incorrect syntax near the keyword 'AND'.
+Incorrect syntax near the keyword 'AND'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000630' AND ma_dvcs like DEMODV  % AND tk LIKE '131%'; Url: http://localhost:60603/accounting/CongNoKhachHang/CongNoKhachHang; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '%'.
+Incorrect syntax near the keyword 'AND'.
+Incorrect syntax near the keyword 'AND'.
+SELECT ma_kh, tk, ps_no, ps_co, ps_no_nt, ps_co_nt FROM v_ct00  WHERE tk in (select tk from #listtk_cn) and ngay_ct BETWEEN '20000101' AND '20000630' AND ma_dvcs like DEMODV  % AND tk LIKE '131%'
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.CongNoKhachHangDal.GetCongNoKhachHangs(String tK, Nullable`1 fromDate, Nullable`1 toDate, String advance) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\CongNoKhachHangDal.cs:line 17
+ClientConnectionId:82137d7c-4d4e-4f34-8e50-86a779b9d587
+Error Number:102,State:1,Class:15
+2019-01-04 16:59:14,273: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 16:59:14,273: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 16:59:47,195: ERROR Logging ・String must be exactly one character long.
+2019-01-04 16:59:47,195: ERROR Logging ・String must be exactly one character long.
+2019-01-04 16:59:52,656: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 16:59:52,656: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 16:59:52,704: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 16:59:52,704: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 16:59:52,757: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 16:59:52,757: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 17:00:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 05:00 PM
+2019-01-04 17:00:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 05:00 PM
+2019-01-04 17:00:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 04/01/2019 05:00 PM
+2019-01-04 17:00:00,038: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 04/01/2019 05:00 PM
+2019-01-04 17:01:27,221: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 17:01:27,221: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 17:01:46,589: ERROR Logging ・String must be exactly one character long.
+2019-01-04 17:01:46,589: ERROR Logging ・String must be exactly one character long.
+2019-01-04 17:02:04,187: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 17:02:04,187: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 17:02:04,256: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 17:02:04,256: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 17:02:04,279: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 17:02:04,279: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 17:03:08,060: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 17:03:08,060: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 17:24:54,803: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 17:24:54,803: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-01-04 17:25:09,249: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 17:25:09,249: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2019-01-04 17:25:09,288: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 17:25:09,288: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2019-01-04 17:25:09,409: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2019-01-04 17:25:09,409: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.

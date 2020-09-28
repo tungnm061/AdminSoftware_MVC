@@ -1,0 +1,64 @@
+2018-12-17 09:00:00,036: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 09:00 AM
+2018-12-17 09:00:00,036: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 09:00 AM
+2018-12-17 09:00:00,036: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 09:00 AM
+2018-12-17 09:00:00,036: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 09:00 AM
+2018-12-17 09:00:14,159: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:00:14,159: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:00:14,511: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:00:14,511: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:02:10,928: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-17 09:02:10,928: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-17 09:02:10,945: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-17 09:02:10,945: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-17 09:02:11,306: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-17 09:02:11,306: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-17 09:06:44,834: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:06:44,834: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:08:11,317: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:08:11,317: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:09:21,585: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:09:21,585: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:12:45,629: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:12:45,629: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:15:18,276: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:15:18,276: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:16:23,338: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:16:23,338: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 09:30:00,123: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 09:30 AM
+2018-12-17 09:30:00,123: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 09:30 AM
+2018-12-17 09:30:00,123: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 09:30 AM
+2018-12-17 09:30:00,123: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 09:30 AM
+2018-12-17 13:10:00,163: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 01:10 PM
+2018-12-17 13:10:00,163: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 01:10 PM
+2018-12-17 13:10:00,163: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 01:10 PM
+2018-12-17 13:10:00,163: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 01:10 PM
+2018-12-17 13:24:24,317: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 13:24:24,317: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 13:24:40,958: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-17 13:24:40,958: ERROR Logging – The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-12-17 13:24:41,035: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-17 13:24:41,035: ERROR Logging – The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-12-17 13:24:41,415: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-17 13:24:41,415: ERROR Logging – The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-12-17 13:25:06,629: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 13:25:06,629: ERROR Logging – The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-12-17 13:30:00,190: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 01:30 PM
+2018-12-17 13:30:00,190: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 01:30 PM
+2018-12-17 13:30:00,190: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 01:30 PM
+2018-12-17 13:30:00,190: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 01:30 PM
+2018-12-17 13:40:00,065: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 01:40 PM
+2018-12-17 13:40:00,066: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 01:40 PM
+2018-12-17 13:40:00,066: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 01:40 PM
+2018-12-17 13:40:00,065: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 01:40 PM
+2018-12-17 13:50:00,001: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 01:50 PM
+2018-12-17 13:50:00,001: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 01:50 PM
+2018-12-17 13:50:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 01:50 PM
+2018-12-17 13:50:00,002: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 01:50 PM
+2018-12-17 14:00:00,007: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 02:00 PM
+2018-12-17 14:00:00,007: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 02:00 PM
+2018-12-17 14:00:00,007: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 02:00 PM
+2018-12-17 14:00:00,007: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 02:00 PM
+2018-12-17 14:10:00,000: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 02:10 PM
+2018-12-17 14:10:00,000: ERROR Logging – Start Job NotificationWorkPlan: 17/12/2018 02:10 PM
+2018-12-17 14:10:00,005: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 02:10 PM
+2018-12-17 14:10:00,005: ERROR Logging – Start Job NotificationCompletedWorkPlanDetail: 17/12/2018 02:10 PM

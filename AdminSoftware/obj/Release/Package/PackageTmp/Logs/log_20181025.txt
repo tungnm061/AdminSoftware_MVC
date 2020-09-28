@@ -1,0 +1,522 @@
+2018-10-25 08:48:48,098: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 08:48:48,098: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 08:50:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 08:50 AM
+2018-10-25 08:50:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 08:50 AM
+2018-10-25 08:50:00,039: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 08:50 AM
+2018-10-25 08:50:00,039: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 08:50 AM
+2018-10-25 09:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:00 AM
+2018-10-25 09:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:00 AM
+2018-10-25 09:00:00,011: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:00 AM
+2018-10-25 09:00:00,011: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:00 AM
+2018-10-25 09:10:00,009: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:10 AM
+2018-10-25 09:10:00,009: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:10 AM
+2018-10-25 09:10:00,009: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:10 AM
+2018-10-25 09:10:00,009: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:10 AM
+2018-10-25 09:20:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:20 AM
+2018-10-25 09:20:00,058: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:20 AM
+2018-10-25 09:20:00,058: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:20 AM
+2018-10-25 09:20:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:20 AM
+2018-10-25 09:30:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:30 AM
+2018-10-25 09:30:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:30 AM
+2018-10-25 09:30:00,028: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:30 AM
+2018-10-25 09:30:00,028: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:30 AM
+2018-10-25 09:40:00,014: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:40 AM
+2018-10-25 09:40:00,014: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:40 AM
+2018-10-25 09:40:00,014: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:40 AM
+2018-10-25 09:40:00,014: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:40 AM
+2018-10-25 09:50:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:50 AM
+2018-10-25 09:50:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:50 AM
+2018-10-25 09:50:00,022: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 09:50 AM
+2018-10-25 09:50:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 09:50 AM
+2018-10-25 09:59:18,074: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 09:59:18,074: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 10:00:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:00 AM
+2018-10-25 10:00:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:00 AM
+2018-10-25 10:00:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:00 AM
+2018-10-25 10:00:00,021: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:00 AM
+2018-10-25 10:02:37,294: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize9ce609b2-d82f-4da2-bc1c-f5650f848a70(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize9ce609b2-d82f-4da2-bc1c-f5650f848a70(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 10:02:37,294: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize9ce609b2-d82f-4da2-bc1c-f5650f848a70(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize9ce609b2-d82f-4da2-bc1c-f5650f848a70(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 10:10:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:10 AM
+2018-10-25 10:10:00,003: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:10 AM
+2018-10-25 10:10:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:10 AM
+2018-10-25 10:10:00,003: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:10 AM
+2018-10-25 10:20:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:20 AM
+2018-10-25 10:20:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:20 AM
+2018-10-25 10:20:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:20 AM
+2018-10-25 10:20:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:20 AM
+2018-10-25 10:30:00,030: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:30 AM
+2018-10-25 10:30:00,030: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:30 AM
+2018-10-25 10:30:00,030: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:30 AM
+2018-10-25 10:30:00,030: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:30 AM
+2018-10-25 10:30:47,122: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 10:30:47,122: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 10:40:00,058: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:40 AM
+2018-10-25 10:40:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:40 AM
+2018-10-25 10:40:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:40 AM
+2018-10-25 10:40:00,058: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:40 AM
+2018-10-25 10:50:00,015: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:50 AM
+2018-10-25 10:50:00,015: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 10:50 AM
+2018-10-25 10:50:00,015: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:50 AM
+2018-10-25 10:50:00,015: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 10:50 AM
+2018-10-25 11:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 25/10/2018 11:00 AM
+2018-10-25 11:00:00,011: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:00 AM
+2018-10-25 11:00:00,012: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:00 AM
+2018-10-25 11:00:00,012: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:00 AM
+2018-10-25 11:00:00,011: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:00 AM
+2018-10-25 11:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 25/10/2018 11:00 AM
+2018-10-25 11:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:10 AM
+2018-10-25 11:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:10 AM
+2018-10-25 11:10:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:10 AM
+2018-10-25 11:10:00,004: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:10 AM
+2018-10-25 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:20 AM
+2018-10-25 11:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:20 AM
+2018-10-25 11:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:20 AM
+2018-10-25 11:20:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:20 AM
+2018-10-25 11:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:30 AM
+2018-10-25 11:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:30 AM
+2018-10-25 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:30 AM
+2018-10-25 11:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:30 AM
+2018-10-25 11:40:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:40 AM
+2018-10-25 11:40:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:40 AM
+2018-10-25 11:40:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:40 AM
+2018-10-25 11:40:00,046: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:40 AM
+2018-10-25 11:46:22,092: ERROR Logging ・Object reference not set to an instance of an object.
+2018-10-25 11:46:22,092: ERROR Logging ・Object reference not set to an instance of an object.
+2018-10-25 11:46:22,358: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 11:46:22,358: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 11:49:07,227: ERROR Logging ・Object reference not set to an instance of an object.
+2018-10-25 11:49:07,227: ERROR Logging ・Object reference not set to an instance of an object.
+2018-10-25 11:49:07,527: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 11:49:07,527: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 11:49:09,361: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-25 11:49:09,361: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-25 11:49:09,399: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-25 11:49:09,399: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-25 11:49:09,425: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-25 11:49:09,425: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-25 11:49:11,711: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'fromDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult SalaryTimeSheets(System.DateTime, System.DateTime)' in 'AdminSoftware.Areas.Hrm.Controllers.SalaryTimeSheetController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-10-25 11:49:11,711: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'fromDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult SalaryTimeSheets(System.DateTime, System.DateTime)' in 'AdminSoftware.Areas.Hrm.Controllers.SalaryTimeSheetController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-10-25 11:50:02,419: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:50 AM
+2018-10-25 11:50:02,419: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:50 AM
+2018-10-25 11:50:02,419: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 11:50 AM
+2018-10-25 11:50:02,419: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 11:50 AM
+2018-10-25 13:14:30,957: ERROR Logging ・Object reference not set to an instance of an object.
+2018-10-25 13:14:30,957: ERROR Logging ・Object reference not set to an instance of an object.
+2018-10-25 13:14:31,432: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:14:31,432: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:16:16,592: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:16:16,592: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:17:19,412: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:17:19,412: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:17:32,084: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:17:32,084: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:18:00,169: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:18:00,169: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:20:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 01:20 PM
+2018-10-25 13:20:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 01:20 PM
+2018-10-25 13:20:00,042: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 01:20 PM
+2018-10-25 13:20:00,042: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 01:20 PM
+2018-10-25 13:22:23,054: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 13:22:23,054: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 13:22:29,568: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 13:22:29,568: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 13:22:30,827: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 13:22:30,827: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize7a91f594-9a5e-4f01-9bc9-c12e3d20cfa8(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 13:25:42,536: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:25:42,536: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:26:51,197: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:26:51,197: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:27:13,703: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:27:13,703: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 01:30 PM
+2018-10-25 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 01:30 PM
+2018-10-25 13:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 01:30 PM
+2018-10-25 13:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 01:30 PM
+2018-10-25 13:30:59,319: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:30:59,319: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:32:42,279: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:32:42,279: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:33:37,558: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:33:37,558: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 01:40 PM
+2018-10-25 13:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 01:40 PM
+2018-10-25 13:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 01:40 PM
+2018-10-25 13:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 01:40 PM
+2018-10-25 13:43:20,323: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:43:20,323: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:47:35,003: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:47:35,003: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:48:51,770: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-10-25 13:48:51,770: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-10-25 13:50:00,057: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 01:50 PM
+2018-10-25 13:50:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 01:50 PM
+2018-10-25 13:50:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 01:50 PM
+2018-10-25 13:50:00,057: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 01:50 PM
+2018-10-25 13:50:11,653: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:50:11,653: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:52:39,020: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:52:39,020: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:56:19,125: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:56:19,125: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:59:07,208: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 13:59:07,208: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 14:00:00,056: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:00 PM
+2018-10-25 14:00:00,056: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:00 PM
+2018-10-25 14:00:00,056: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:00 PM
+2018-10-25 14:00:00,056: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:00 PM
+2018-10-25 14:02:34,407: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 14:02:34,407: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:10 PM
+2018-10-25 14:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:10 PM
+2018-10-25 14:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:10 PM
+2018-10-25 14:10:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:10 PM
+2018-10-25 14:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:20 PM
+2018-10-25 14:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:20 PM
+2018-10-25 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:20 PM
+2018-10-25 14:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:20 PM
+2018-10-25 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:30 PM
+2018-10-25 14:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:30 PM
+2018-10-25 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:30 PM
+2018-10-25 14:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:30 PM
+2018-10-25 14:50:00,048: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:50 PM
+2018-10-25 14:50:00,048: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:50 PM
+2018-10-25 14:50:00,048: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 02:50 PM
+2018-10-25 14:50:00,048: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 02:50 PM
+2018-10-25 15:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:00 PM
+2018-10-25 15:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:00 PM
+2018-10-25 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:00 PM
+2018-10-25 15:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:00 PM
+2018-10-25 15:03:49,866: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:03:49,866: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:03:59,935: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:03:59,935: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:04:07,255: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:04:07,255: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:04:26,603: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:04:26,603: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:10:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:10 PM
+2018-10-25 15:10:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:10 PM
+2018-10-25 15:10:00,019: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:10 PM
+2018-10-25 15:10:00,019: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:10 PM
+2018-10-25 15:10:40,184: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:10:40,184: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:13:46,073: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize44d8fc02-c954-466b-b811-74841d57f6fe(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize44d8fc02-c954-466b-b811-74841d57f6fe(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 15:13:46,073: ERROR Logging ・Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=40732590-e5f9-4f26-a0d5-0dd599470cb5 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserialize44d8fc02-c954-466b-b811-74841d57f6fe(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserialize44d8fc02-c954-466b-b811-74841d57f6fe(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2018-10-25 15:19:50,384: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:19:50,384: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:19:50,604: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:19:50,604: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:20:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:20 PM
+2018-10-25 15:20:00,048: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:20 PM
+2018-10-25 15:20:00,048: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:20 PM
+2018-10-25 15:20:00,046: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:20 PM
+2018-10-25 15:21:58,992: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:21:58,992: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:22:20,720: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:22:20,720: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 15:27:17,912: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2018; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:48c6c79c-77a2-461f-89fa-bc57eea20d0c
+Error Number:2812,State:62,Class:16
+2018-10-25 15:27:17,912: ERROR Logging ・Could not find stored procedure 'hrm.Get_HolidayConfig'.; Url: http://localhost:60603/hrm/HolidayConfig/HolidayConfigs?year=2018; Error: 
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'hrm.Get_HolidayConfig'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 861
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.HolidayConfigDal.GetHolidayConfigs(Int32 year) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayConfigDal.cs:line 17
+ClientConnectionId:48c6c79c-77a2-461f-89fa-bc57eea20d0c
+Error Number:2812,State:62,Class:16
+2018-10-25 15:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:30 PM
+2018-10-25 15:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:30 PM
+2018-10-25 15:30:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:30 PM
+2018-10-25 15:30:00,004: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:30 PM
+2018-10-25 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:40 PM
+2018-10-25 15:40:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:40 PM
+2018-10-25 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:40 PM
+2018-10-25 15:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:40 PM
+2018-10-25 15:50:00,051: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:50 PM
+2018-10-25 15:50:00,051: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:50 PM
+2018-10-25 15:50:00,051: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 03:50 PM
+2018-10-25 15:50:00,051: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 03:50 PM
+2018-10-25 16:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:00 PM
+2018-10-25 16:00:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:00 PM
+2018-10-25 16:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:00 PM
+2018-10-25 16:00:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:00 PM
+2018-10-25 16:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 25/10/2018 04:00 PM
+2018-10-25 16:00:00,011: ERROR Logging ・Start Job NotificationCompletedWorkPlanJob: 25/10/2018 04:00 PM
+2018-10-25 16:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:10 PM
+2018-10-25 16:10:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:10 PM
+2018-10-25 16:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:10 PM
+2018-10-25 16:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:10 PM
+2018-10-25 16:20:00,053: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:20 PM
+2018-10-25 16:20:00,053: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:20 PM
+2018-10-25 16:20:00,053: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:20 PM
+2018-10-25 16:20:00,053: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:20 PM
+2018-10-25 16:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:30 PM
+2018-10-25 16:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:30 PM
+2018-10-25 16:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:30 PM
+2018-10-25 16:30:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:30 PM
+2018-10-25 16:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:40 PM
+2018-10-25 16:40:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:40 PM
+2018-10-25 16:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:40 PM
+2018-10-25 16:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:40 PM
+2018-10-25 16:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:50 PM
+2018-10-25 16:50:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 04:50 PM
+2018-10-25 16:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:50 PM
+2018-10-25 16:50:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 04:50 PM
+2018-10-25 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 05:00 PM
+2018-10-25 17:00:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 05:00 PM
+2018-10-25 17:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 05:00 PM
+2018-10-25 17:00:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 05:00 PM
+2018-10-25 17:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 05:10 PM
+2018-10-25 17:10:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 05:10 PM
+2018-10-25 17:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 05:10 PM
+2018-10-25 17:10:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 05:10 PM
+2018-10-25 17:15:37,952: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-25 17:15:37,952: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-25 17:15:38,036: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-25 17:15:38,036: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-25 17:15:38,072: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-25 17:15:38,072: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-25 17:16:24,517: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:16:24,517: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:17:40,027: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-25 17:17:40,028: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-25 17:17:40,028: ERROR Logging ・The controller for path '/Content/css/bootstrap.min.css.map' was not found or does not implement IController.
+2018-10-25 17:17:40,027: ERROR Logging ・The controller for path '/Scripts/kendo/kendo.all.min.js.map' was not found or does not implement IController.
+2018-10-25 17:17:40,121: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-25 17:17:40,121: ERROR Logging ・The controller for path '/Scripts/toastr.js.map' was not found or does not implement IController.
+2018-10-25 17:17:53,408: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:17:53,408: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:21:12,369: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:21:12,369: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:25:02,382: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:25:02,382: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:25:20,554: ERROR Logging ・There was an error generating the XML document.; Url: http://localhost:60603/hrm/EmployeeHoliday/Save; Error: 
+System.InvalidOperationException: There was an error generating the XML document. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[Entity.Hrm.HolidayDetail]' to type 'System.Collections.Generic.List`1[Entity.Kpi.WorkPlanDetail]'.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterList1.Write3_ArrayOfWorkPlanDetail(Object o)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o)
+   at Core.Helper.XmlHelper.SerializeXml[T](Object obj) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Helper\XMLHelper.cs:line 29
+   at DataAccess.Hrm.HolidayDetailDal.Insert(String employeeHolidayId, List`1 holidayDetails) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayDetailDal.cs:line 21
+2018-10-25 17:25:20,554: ERROR Logging ・There was an error generating the XML document.; Url: http://localhost:60603/hrm/EmployeeHoliday/Save; Error: 
+System.InvalidOperationException: There was an error generating the XML document. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[Entity.Hrm.HolidayDetail]' to type 'System.Collections.Generic.List`1[Entity.Kpi.WorkPlanDetail]'.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterList1.Write3_ArrayOfWorkPlanDetail(Object o)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o)
+   at Core.Helper.XmlHelper.SerializeXml[T](Object obj) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Helper\XMLHelper.cs:line 29
+   at DataAccess.Hrm.HolidayDetailDal.Insert(String employeeHolidayId, List`1 holidayDetails) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayDetailDal.cs:line 21
+2018-10-25 17:25:41,510: ERROR Logging ・There was an error generating the XML document.; Url: http://localhost:60603/hrm/EmployeeHoliday/Save; Error: 
+System.InvalidOperationException: There was an error generating the XML document. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[Entity.Hrm.HolidayDetail]' to type 'System.Collections.Generic.List`1[Entity.Kpi.WorkPlanDetail]'.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterList1.Write3_ArrayOfWorkPlanDetail(Object o)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o)
+   at Core.Helper.XmlHelper.SerializeXml[T](Object obj) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Helper\XMLHelper.cs:line 29
+   at DataAccess.Hrm.HolidayDetailDal.Insert(String employeeHolidayId, List`1 holidayDetails) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayDetailDal.cs:line 21
+2018-10-25 17:25:41,510: ERROR Logging ・There was an error generating the XML document.; Url: http://localhost:60603/hrm/EmployeeHoliday/Save; Error: 
+System.InvalidOperationException: There was an error generating the XML document. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[Entity.Hrm.HolidayDetail]' to type 'System.Collections.Generic.List`1[Entity.Kpi.WorkPlanDetail]'.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterList1.Write3_ArrayOfWorkPlanDetail(Object o)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o)
+   at Core.Helper.XmlHelper.SerializeXml[T](Object obj) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Helper\XMLHelper.cs:line 29
+   at DataAccess.Hrm.HolidayDetailDal.Insert(String employeeHolidayId, List`1 holidayDetails) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\HolidayDetailDal.cs:line 21
+2018-10-25 17:26:21,643: ERROR Logging ・There was an error generating the XML document.; Url: http://localhost:60603/hrm/EmployeeHoliday/Save; Error: 
+System.InvalidOperationException: There was an error generating the XML document. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[Entity.Hrm.HolidayDetail]' to type 'System.Collections.Generic.List`1[Entity.Kpi.WorkPlanDetail]'.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterList1.Write3_ArrayOfWorkPlanDetail(Object o)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o)
+   at Core.Helper.XmlHelper.SerializeXml[T](Object obj) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Helper\XMLHelper.cs:line 29
+   at DataAccess.Hrm.HolidayDetailDal.Insert(String employeeHolidayId, List`1 holidayDetails)
+2018-10-25 17:26:21,643: ERROR Logging ・There was an error generating the XML document.; Url: http://localhost:60603/hrm/EmployeeHoliday/Save; Error: 
+System.InvalidOperationException: There was an error generating the XML document. ---> System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[Entity.Hrm.HolidayDetail]' to type 'System.Collections.Generic.List`1[Entity.Kpi.WorkPlanDetail]'.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterList1.Write3_ArrayOfWorkPlanDetail(Object o)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o)
+   at Core.Helper.XmlHelper.SerializeXml[T](Object obj) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Helper\XMLHelper.cs:line 29
+   at DataAccess.Hrm.HolidayDetailDal.Insert(String employeeHolidayId, List`1 holidayDetails)
+2018-10-25 17:27:01,002: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:27:01,002: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:29:59,559: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:29:59,559: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:30:00,057: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 05:30 PM
+2018-10-25 17:30:00,057: ERROR Logging ・Start Job NotificationWorkPlan: 25/10/2018 05:30 PM
+2018-10-25 17:30:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 05:30 PM
+2018-10-25 17:30:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 25/10/2018 05:30 PM
+2018-10-25 17:30:20,191: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:30:20,191: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:30:40,210: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:30:40,210: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:30:52,128: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-10-25 17:30:52,128: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.

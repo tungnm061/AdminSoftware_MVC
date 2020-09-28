@@ -1,0 +1,162 @@
+2018-11-01 15:21:36,904: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:21:36,904: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:30:00,172: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 03:30 PM
+2018-11-01 15:30:00,172: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 03:30 PM
+2018-11-01 15:30:00,172: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 03:30 PM
+2018-11-01 15:30:00,172: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 03:30 PM
+2018-11-01 15:36:29,052: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:36:29,052: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:41:40,709: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:41:40,709: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:42:04,576: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:42:04,576: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:49:48,021: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-11-01 15:49:48,021: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-11-01 15:50:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 03:50 PM
+2018-11-01 15:50:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 03:50 PM
+2018-11-01 15:50:00,022: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 03:50 PM
+2018-11-01 15:50:00,021: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 03:50 PM
+2018-11-01 15:50:55,003: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:50:55,003: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:50:57,097: ERROR Logging ・The controller for path '/sale' was not found or does not implement IController.
+2018-11-01 15:50:57,097: ERROR Logging ・The controller for path '/sale' was not found or does not implement IController.
+2018-11-01 15:51:03,002: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:51:03,002: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:51:21,535: ERROR Logging ・A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server); Url: http://localhost:60603/accounting/Inventory/Index; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): Access is denied
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.DanhMucDonViCoSoDal.GetDanhMucDonViCoSos() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\DanhMucDonViCoSoDal.cs:line 17
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:5,State:0,Class:20
+2018-11-01 15:51:21,535: ERROR Logging ・A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server); Url: http://localhost:60603/accounting/Inventory/Index; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): Access is denied
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.DanhMucDonViCoSoDal.GetDanhMucDonViCoSos() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\DanhMucDonViCoSoDal.cs:line 17
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:5,State:0,Class:20
+2018-11-01 15:51:24,172: ERROR Logging ・A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server); Url: http://localhost:60603/accounting/inventory/tonkhos; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): Access is denied
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.TonKhoDal.TonKhos(String date, String filter, String condition) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\TonKhoDal.cs:line 17
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:5,State:0,Class:20
+2018-11-01 15:51:24,172: ERROR Logging ・A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server); Url: http://localhost:60603/accounting/inventory/tonkhos; Error: 
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): Access is denied
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 860
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.FastADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\FastADOProvider.cs:line 222
+   at DataAccess.FastAccounting.TonKhoDal.TonKhos(String date, String filter, String condition) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\FastAccounting\TonKhoDal.cs:line 17
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:5,State:0,Class:20
+2018-11-01 15:51:27,058: ERROR Logging ・The controller for path '/accounting/WorkPlan/Index' was not found or does not implement IController.
+2018-11-01 15:51:27,058: ERROR Logging ・The controller for path '/accounting/WorkPlan/Index' was not found or does not implement IController.
+2018-11-01 15:51:29,318: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult TonKhos(System.DateTime, System.String, System.String)' in 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.InventoryController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-11-01 15:51:29,318: ERROR Logging ・The parameters dictionary contains a null entry for parameter 'toDate' of non-nullable type 'System.DateTime' for method 'System.Web.Mvc.JsonResult TonKhos(System.DateTime, System.String, System.String)' in 'AdminSoftware.Areas.Accounting.Controllers.FastAccounting.InventoryController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2018-11-01 15:52:08,102: ERROR Logging ・The controller for path '/director' was not found or does not implement IController.
+2018-11-01 15:52:08,102: ERROR Logging ・The controller for path '/director' was not found or does not implement IController.
+2018-11-01 15:56:03,429: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-11-01 15:56:03,429: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-11-01 15:56:05,536: ERROR Logging ・The controller for path '/director' was not found or does not implement IController.
+2018-11-01 15:56:05,536: ERROR Logging ・The controller for path '/director' was not found or does not implement IController.
+2018-11-01 15:56:15,050: ERROR Logging ・The controller for path '/sale' was not found or does not implement IController.
+2018-11-01 15:56:15,050: ERROR Logging ・The controller for path '/sale' was not found or does not implement IController.
+2018-11-01 15:56:16,826: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:56:16,826: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:57:36,795: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:57:36,795: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:57:36,926: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:57:36,926: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:57:46,726: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:57:46,726: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2018-11-01 15:57:47,326: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:57:47,326: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:59:20,672: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 15:59:20,672: ERROR Logging ・The controller for path '/investment' was not found or does not implement IController.
+2018-11-01 16:05:05,868: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-11-01 16:05:05,868: ERROR Logging ・The controller for path '/bod' was not found or does not implement IController.
+2018-11-01 16:05:18,163: ERROR Logging ・The controller for path '/accounting/UsefulHourDepartment/Index' was not found or does not implement IController.
+2018-11-01 16:05:18,163: ERROR Logging ・The controller for path '/accounting/UsefulHourDepartment/Index' was not found or does not implement IController.
+2018-11-01 16:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:10 PM
+2018-11-01 16:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:10 PM
+2018-11-01 16:10:00,025: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:10 PM
+2018-11-01 16:10:00,025: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:10 PM
+2018-11-01 16:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:20 PM
+2018-11-01 16:20:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:20 PM
+2018-11-01 16:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:20 PM
+2018-11-01 16:20:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:20 PM
+2018-11-01 16:27:22,135: ERROR Logging ・The controller for path '/accounting/ManagerConfirm/Index' was not found or does not implement IController.
+2018-11-01 16:27:22,135: ERROR Logging ・The controller for path '/accounting/ManagerConfirm/Index' was not found or does not implement IController.
+2018-11-01 16:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:30 PM
+2018-11-01 16:30:00,000: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:30 PM
+2018-11-01 16:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:30 PM
+2018-11-01 16:30:00,000: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:30 PM
+2018-11-01 16:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:40 PM
+2018-11-01 16:40:00,001: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:40 PM
+2018-11-01 16:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:40 PM
+2018-11-01 16:40:00,001: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:40 PM
+2018-11-01 16:50:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:50 PM
+2018-11-01 16:50:00,005: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 04:50 PM
+2018-11-01 16:50:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:50 PM
+2018-11-01 16:50:00,006: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 04:50 PM
+2018-11-01 17:00:00,059: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 05:00 PM
+2018-11-01 17:00:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 05:00 PM
+2018-11-01 17:00:00,058: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 01/11/2018 05:00 PM
+2018-11-01 17:00:00,059: ERROR Logging ・Start Job NotificationWorkPlan: 01/11/2018 05:00 PM

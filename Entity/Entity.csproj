@@ -140,9 +140,7 @@
     <Compile Include="Kpi\Task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sale\Customer.cs" />
-    <Compile Include="Sale\Investor.cs" />
     <Compile Include="Sale\Product.cs" />
-    <Compile Include="Sale\Project.cs" />
     <Compile Include="System\AutoNumber.cs" />
     <Compile Include="System\City.cs" />
     <Compile Include="System\Country.cs" />

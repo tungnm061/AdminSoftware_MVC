@@ -1,0 +1,252 @@
+﻿@model List<Entity.System.UserGroupRights>
+    
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <input type="checkbox" class="k-checkbox" id="IsSelectAll"/>
+                <label for="IsSelectAll" style="line-height: normal" class="k-checkbox-label">Chọn tất cả</label>
+            </div>
+            <div class="col-md-2">
+                <input type="checkbox" class="k-checkbox" id="IsViewAll"/>
+                <label for="IsViewAll" style="line-height: normal" class="k-checkbox-label">Xem</label>
+            </div>
+            <div class="col-md-2">
+                <input type="checkbox" class="k-checkbox" id="IsCreateAll"/>
+                <label for="IsCreateAll" style="line-height: normal" class="k-checkbox-label">Thêm</label>
+            </div>
+            @*<div class="col-md-2">
+                <input type="checkbox" class="k-checkbox" id="IsEditAll"/>
+                <label for="IsEditAll" style="line-height: normal" class="k-checkbox-label">Sửa</label>
+            </div>*@
+            <div class="col-md-2">
+                <input type="checkbox" class="k-checkbox" id="IsDeleteAll" />
+                <label for="IsDeleteAll" style="line-height: normal" class="k-checkbox-label">Xóa</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdFunctions"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 text-right">
+                <button class="btn btn-primary" id="btnSave">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var userFunctions = @Html.Raw(Json.Encode(Model));
+    var userGroupId = '@ViewBag.UserGroupId';
+    function UnSelectFunction(functionId) {
+        userFunctions.find(x=>x.FunctionId === parseInt(functionId)).IsView = false;
+        userFunctions.find(x=>x.FunctionId === parseInt(functionId)).IsCreate = false;
+        userFunctions.find(x=>x.FunctionId === parseInt(functionId)).IsEdit = false;
+        userFunctions.find(x=>x.FunctionId === parseInt(functionId)).IsDelete = false;
+        GridCallback('#grdFunctions');
+    }
+    function SelectFunction(functionId) {
+        userFunctions.find(x=>x.FunctionId === parseInt(functionId)).IsView = true;
+        userFunctions.find(x=>x.FunctionId === parseInt(functionId)).IsCreate = true;
+        userFunctions.find(x=>x.FunctionId === parseInt(functionId)).IsEdit = true;
+        userFunctions.find(x=>x.FunctionId === parseInt(functionId)).IsDelete = true;
+        GridCallback('#grdFunctions');
+    }
+    $(document).ready(function() {
+        $("#grdFunctions").kendoGrid({
+            dataSource: {
+                data: userFunctions,
+                schema: {
+                    model: {
+                        id: "FunctionId",
+                        fields: {
+                            FunctionName: { editable: false },
+                            IsView: { type: 'boolean', editable: true, nullable: false },
+                            IsCreate: { type: 'boolean', editable: true, nullable: false },
+                            IsEdit: { type: 'boolean', editable: true, nullable: false },
+                            IsDelete: { type: 'boolean', editable: true, nullable: false }
+                        }
+                    }
+                },
+                group: [{ field: "GroupName" },{ field: "ModuleName" }],
+                pageSize: 1000,
+                serverPaging: false,
+                serverFiltering: false
+            },
+            height: 330,
+            filterable: true,
+            sortable: false,
+            pageable: false,
+            selectable: 'row',
+            editable: true,
+            columns: [
+                {
+                    field: "GroupName",
+                    title: "Phân hệ",
+                    hidden:true
+                },
+                {
+                    field: "ModuleName",
+                    title: "Module",
+                    hidden:true
+                },
+                {
+                    field: "FunctionName",
+                    title: "Chức năng"
+                },
+                {
+                    field: "",
+                    title: "#",
+                    width: 60,
+                    filterable: false,
+                    template:'<div><a href="javascript:void(0)" title="Chọn tất cả" onclick="SelectFunction(#=FunctionId#)"><i class="glyphicon glyphicon-ok"></i></a> &nbsp ' +
+                        '<a href="javascript:void(0)" title="Bỏ chọn" onclick="UnSelectFunction(#=FunctionId#)"><i class="glyphicon glyphicon-ban-circle"></i></a>' +
+                        '</div>'
+                },
+                {
+                    field: "IsView",
+                    title: "Xem",
+                    width: 70,
+                    filterable: false,
+                    template: '<div class="text-center"><i class="#= IsView ? "glyphicon glyphicon-ok" : "" #"></i></div>'
+                },
+                {
+                    field: "IsCreate",
+                    title: "Thêm",
+                    width: 70,
+                    filterable: false,
+                    template: '<div class="text-center"><i class="#= IsCreate ? "glyphicon glyphicon-ok" : "" #"></i></div>'
+                },
+                //{
+                //    field: "IsEdit",
+                //    title: "Sửa",
+                //    width: 70,
+                //    filterable: false,
+                //    template: '<div class="text-center"><i class="#= IsEdit ? "glyphicon glyphicon-ok" : "" #"></i></div>'
+                //},
+                {
+                    field: "IsDelete",
+                    title: "Xóa",
+                    width: 70,
+                    filterable: false,
+                    template: '<div class="text-center"><i class="#= IsDelete ? "glyphicon glyphicon-ok" : "" #"></i></div>'
+                }
+            ],
+            edit:function(e) {
+                var input = e.container.find("input[type='checkbox']");
+                input.change(function() {
+                    $('#processing').show();
+                    var rowSelected = GetGridRowSelected('#grdFunctions');
+                    if (rowSelected == null || rowSelected == typeof undefined)
+                        return;
+                    var functionId = rowSelected.FunctionId;
+                    var isView = e.container.find("input[name='IsView']").is(":checked");
+                    var isCreate = e.container.find("input[name='IsCreate']").is(":checked");
+                    var isEdit = e.container.find("input[name='IsEdit']").is(":checked");
+                    var isDelete = e.container.find("input[name='IsDelete']").is(":checked");
+                    if (isView != null && isView !== typeof undefined && e.container.find("input[name='IsView']").length > 0) {
+                        userFunctions.find(x=>x.FunctionId == functionId).IsView = isView;
+                    }
+                    if (isCreate != null && isCreate !== typeof undefined && e.container.find("input[name='IsCreate']").length > 0) {
+                        userFunctions.find(x=>x.FunctionId == functionId).IsCreate = isCreate;
+                    }
+                    if (isEdit != null && isEdit !== typeof undefined && e.container.find("input[name='IsEdit']").length > 0) {
+                        userFunctions.find(x=>x.FunctionId == functionId).IsEdit = isEdit;
+                    }
+                    if (isDelete != null && isDelete !== typeof undefined && e.container.find("input[name='IsDelete']").length > 0) {
+                        userFunctions.find(x=>x.FunctionId == functionId).IsDelete = isDelete;
+                    }
+                    GridCallback('#grdFunctions');
+                    $('#processing').hide();
+                });
+            }
+        });
+        $('#IsSelectAll').change(function() {
+            $('#processing').show();
+            for (var i = 0; i < userFunctions.length; i++) {
+                userFunctions[i].IsView = $('#IsSelectAll').is(":checked");
+                userFunctions[i].IsCreate = $('#IsSelectAll').is(":checked");
+                userFunctions[i].IsEdit = $('#IsSelectAll').is(":checked");
+                userFunctions[i].IsDelete = $('#IsSelectAll').is(":checked");
+            }
+            GridCallback('#grdFunctions');
+            $('#processing').hide();
+        });
+        $('#IsViewAll').change(function() {
+            $('#processing').show();
+            for (var i = 0; i < userFunctions.length; i++) {
+                userFunctions[i].IsView = $('#IsViewAll').is(":checked");
+            }
+            GridCallback('#grdFunctions');
+            $('#processing').hide();
+        });
+        $('#IsCreateAll').change(function() {
+            $('#processing').show();
+            for (var i = 0; i < userFunctions.length; i++) {
+                userFunctions[i].IsCreate = $('#IsCreateAll').is(":checked");
+            }
+            GridCallback('#grdFunctions');
+            $('#processing').hide();
+        });
+        $('#IsEditAll').change(function() {
+            $('#processing').show();
+            for (var i = 0; i < userFunctions.length; i++) {
+                userFunctions[i].IsEdit = $('#IsEditAll').is(":checked");
+            }
+            GridCallback('#grdFunctions');
+            $('#processing').hide();
+        });
+        $('#IsDeleteAll').change(function() {
+            $('#processing').show();
+            for (var i = 0; i < userFunctions.length; i++) {
+                userFunctions[i].IsDelete = $('#IsDeleteAll').is(":checked");
+            }
+            GridCallback('#grdFunctions');
+            $('#processing').hide();
+        });
+        $('#btnSave').click(function() {
+            $('#processing').show();
+            $.ajax({
+                type: 'POST',
+                url: '/system/UserGroup/SaveUserGroupFunction',
+                data: JSON.stringify({ model: userFunctions, id: userGroupId }),
+                contentType: 'application/json;charset=utf-8',
+                success: function(response) {
+                    $('#processing').hide();
+                    if (response.Status === 0) {
+                        $.msgBox({
+                            title: "Hệ thống",
+                            type: "error",
+                            content: response.Message,
+                            buttons: [{ value: "Đồng ý" }],
+                            success: function() {
+                            }
+                        });
+                    } else {
+                        $.msgBox({
+                            title: "Hệ thống",
+                            type: "info",
+                            content: response.Message,
+                            buttons: [{ value: "Đồng ý" }],
+                            success: function() {
+                            }
+                        });
+                    }
+                }
+            });
+        });
+    });
+</script>
+<style>
+    .k-dirty-cell,.k-edit-cell {
+        text-align: center;
+    }
+</style>

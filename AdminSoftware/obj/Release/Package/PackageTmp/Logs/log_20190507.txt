@@ -1,0 +1,42 @@
+2019-05-07 21:38:28,097: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-05-07 21:38:28,097: ERROR Logging ・The controller for path '/favicon.ico' was not found or does not implement IController.
+2019-05-07 21:38:47,194: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-07 21:38:47,194: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-07 21:38:49,191: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-07 21:38:49,191: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-07 21:38:55,697: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-07 21:38:55,697: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-07 21:39:07,980: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-07 21:39:07,980: ERROR Logging ・The controller for path '/hrm/ClearSession' was not found or does not implement IController.
+2019-05-07 21:39:28,396: ERROR Logging ・Error parsing column 0 (TimeSheetId=03c80ec3-b0d3-4b78-855e-61ad73649960 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=03c80ec3-b0d3-4b78-855e-61ad73649960 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec4969a44-4847-4207-815d-256a4f4c0e16(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec4969a44-4847-4207-815d-256a4f4c0e16(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2019-05-07 21:39:28,396: ERROR Logging ・Error parsing column 0 (TimeSheetId=03c80ec3-b0d3-4b78-855e-61ad73649960 - Object); Url: http://localhost:60603/hrm/TimeSheet/TimeSheets; Error: 
+System.Data.DataException: Error parsing column 0 (TimeSheetId=03c80ec3-b0d3-4b78-855e-61ad73649960 - Object) ---> System.InvalidCastException: Object must implement IConvertible.
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at Deserializec4969a44-4847-4207-815d-256a4f4c0e16(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 2561
+   at Deserializec4969a44-4847-4207-815d-256a4f4c0e16(IDataReader )
+   at Dapper.SqlMapper.<QueryInternal>d__36`1.MoveNext() in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 878
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Dapper\SqlMapper.cs:line 797
+   at Core.Data.ADOProvider.Procedure[T](String procedure, Object oParams, Boolean useCache) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\Core\Data\ADOProvider.cs:line 225
+   at DataAccess.Hrm.TimeSheetDal.GetTimeSheetCheckDate(DateTime timeSheetDate) in E:\MichitaSource\AdminSoftwareProject\AdminSoftwareERP\AdminSoftware\DataAccess\Hrm\TimeSheetDal.cs:line 50
+2019-05-07 21:40:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 07/05/2019 09:40 PM
+2019-05-07 21:40:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 07/05/2019 09:40 PM
+2019-05-07 21:40:00,024: ERROR Logging ・Start Job NotificationWorkPlan: 07/05/2019 09:40 PM
+2019-05-07 21:40:00,023: ERROR Logging ・Start Job NotificationCompletedWorkPlanDetail: 07/05/2019 09:40 PM

@@ -1,0 +1,8 @@
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\bin\Release\Dapper.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\bin\Release\Dapper.pdb
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\bin\Release\Enyim.Caching.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\bin\Release\Enyim.Caching.xml
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\obj\Release\Dapper.csprojAssemblyReference.cache
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\obj\Release\Dapper.csproj.CopyComplete
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\obj\Release\Dapper.dll
+G:\GIT-AdminSoftware\AdminSoftware_MVC\Dapper\obj\Release\Dapper.pdb

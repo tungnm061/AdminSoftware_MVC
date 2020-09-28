@@ -1,0 +1,99 @@
+﻿@model Entity.System.TextNote
+
+<div class="panel panel-default">
+    <div class="panel-body">
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-2">
+                        <label>Thời gian</label>
+                    </div>
+                    <div class="col-md-10">
+                        <input type="hidden" readonly="readonly" value="@Model.TextNoteId" id="TextNoteId" class="form-control" />
+                        <input type="text" readonly="readonly" value="@Model.CreateDate" id="CreateDate" class="form-control" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-2">
+                        <label>Nội dung</label>
+                    </div>
+                    <div class="col-md-10">
+                        <textarea class="form-control" rows="3" id="Text" style="min-height: 160px">@Model.Text</textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSaveTextNote" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#btnSaveTextNote").click(function() {
+
+            var model = {
+                CreateDate: $("#CreateDate").val(),
+                Text: $("#Text").val(),
+                TextNoteId: $("#TextNoteId").val()
+            }
+            $('#processing').show();
+            $.ajax({
+                type: 'POST',
+                url: '/system/ConfirmCompanyBank/SaveTextNoteMemory',
+                data: JSON.stringify({
+                    model: model
+                }),
+                contentType: 'application/json;charset=utf-8',
+                success: function (response) {
+                    $('#processing').hide();
+                    if (response.Status === 0) {
+                        $.msgBox({
+                            title: "Hệ thống",
+                            type: "error",
+                            content: response.Message,
+                            buttons: [{ value: "Đồng ý" }],
+                            success: function () {
+                            }
+                        });
+                    } else {
+                        CloseChildWindowModal();
+                        GridCallback('#grdMainTextNote');
+                        //$.msgBox({
+                        //    title: "Hệ thống",
+                        //    type: "info",
+                        //    content: response.Message,
+                        //    buttons: [{ value: "Đồng ý" }],
+                        //    success: function () {
+                        //        CloseChildWindowModal();
+                        //        GridCallback('#grdMainTextNote');
+                        //    }
+                        //});
+                    }
+                }
+            });
+        });
+
+    });
+</script>
+
+
+
+
+
+

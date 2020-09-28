@@ -1,0 +1,109 @@
+﻿@model Entity.Sale.PoPayment
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+
+    .k-radio:checked + .k-radio-label:after {
+        top: 8px;
+    }
+
+    .k-radio-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Người giao dịch (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.TradingBy" class="form-control" id="TradingBy" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Ngày giao dịch(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.TradingDate.ToString("dd/MM/yyyy")" class="form-control" id="TradingDate" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Số tiền (USD) (*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.MoneyNumber" class="form-control" id="MoneyNumber" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Tỷ lệ(*)</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@Model.RateMoney" class="form-control" id="RateMoney" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-3">
+                        <label>Trạng Thái</label>
+                    </div>
+                    <div class="col-md-9">
+                        <input value="1" class="k-radio" id="engine1" type="radio" name="optradio"
+                               @if (Model.Status == 1) { <text> checked="checked" </text>  } else if (Model.Status == 3) { <text> disabled="disabled" </text>  }>
+                        <label for="engine1" class="k-radio-label">Chờ phê duyệt</label>
+                        <input value="2" id="engine2" class="k-radio" type="radio" name="optradio"
+                               @if (Model.Status == 2) { <text> checked="checked" </text>  } else { <text> disabled="disabled" </text>  }>
+                        <label for="engine2" class="k-radio-label">Bị trả lại</label>
+                        <input value="5" id="engine3" class="k-radio" type="radio" name="optradio"
+                               @if (Model.Status == 3) { <text> checked="checked" </text>  } else { <text> disabled="disabled" </text>  }>
+                        <label for="engine3" class="k-radio-label">Đã xác nhận</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSave"  @if (Model.Status == 3) { <text> disabled="disabled" </text> } style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Lưu
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var poPaymentId = '@Model.PoPaymentId';
+</script>
+<script src="~/Areas/Sale/JsAction/PoPayment/addOrEdit.js"></script>
+
+
+
+

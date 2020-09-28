@@ -16,9 +16,9 @@ namespace BusinessLogic.System
             _gmailDal = SingletonIpl.GetInstance<GmailDal>();
         }
 
-        public List<Gmail> GetGmails()
+        public List<Gmail> GetGmails(bool? isActive = true)
         {
-            return _gmailDal.GetGmails();
+            return _gmailDal.GetGmails(isActive);
         }
 
         public Gmail GetGmail(int GmailId)
