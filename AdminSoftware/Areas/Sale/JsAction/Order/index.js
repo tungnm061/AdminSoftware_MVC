@@ -179,7 +179,7 @@ $(document).ready(function () {
             serverPaging: false,
             serverFiltering: false
         },
-        height: 460,
+        height: gridHeight,
         //filterable: true,
         sortable: true,
         //pageable: {
