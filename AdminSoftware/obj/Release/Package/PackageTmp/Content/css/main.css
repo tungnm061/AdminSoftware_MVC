@@ -716,3 +716,7 @@ div.k-grid-footer, div.k-grid-header,.k-grid-content {
 .navbar-brand {
     margin-left: 0 !important;
 }
+
+/*.k-grid-content {
+    min-height: 400px;
+}*/

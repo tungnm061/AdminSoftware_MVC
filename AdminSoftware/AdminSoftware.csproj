@@ -262,6 +262,7 @@
     <Compile Include="Areas\Hrm\Models\TimeSheetOtModel.cs" />
     <Compile Include="Areas\Hrm\Models\TrainingLevelModel.cs" />
     <Compile Include="Areas\Sale\Controllers\ConfirmPoPaymentController.cs" />
+    <Compile Include="Areas\Sale\Controllers\GmailOrderController.cs" />
     <Compile Include="Areas\Sale\Controllers\HomeController.cs" />
     <Compile Include="Areas\Sale\Controllers\ListtingController.cs" />
     <Compile Include="Areas\Sale\Controllers\OrderController.cs" />
@@ -453,6 +454,8 @@
     <Content Include="Areas\Hrm\JsAction\TrainingLevel\index.js" />
     <Content Include="Areas\Sale\JsAction\ConfirmPoPayment\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\ConfirmPoPayment\index.js" />
+    <Content Include="Areas\Sale\JsAction\GmailOrder\excel.js" />
+    <Content Include="Areas\Sale\JsAction\GmailOrder\index.js" />
     <Content Include="Areas\Sale\JsAction\Home\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Home\assignWorkAdd.js" />
     <Content Include="Areas\Sale\JsAction\Home\employees.js" />
@@ -816,6 +819,8 @@
     <Content Include="Areas\System\Views\ConfirmCompanyBank\TextNote.cshtml" />
     <Content Include="Areas\Sale\Views\ConfirmPoPayment\Index.cshtml" />
     <Content Include="Areas\Sale\Views\ConfirmPoPayment\PoPayment.cshtml" />
+    <Content Include="Areas\Sale\Views\GmailOrder\Index.cshtml" />
+    <Content Include="Areas\Sale\Views\GmailOrder\ViewExcel.cshtml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
@@ -903,12 +908,14 @@
     <Content Include="Views\Shared\EditorTemplates\String.cshtml" />
     <Content Include="Views\Shared\_LayoutDev.cshtml" />
     <Content Include="Template\Listting.xlsx" />
+    <Content Include="Template\Order_New.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Hrm\Models\Kpi\" />
     <Folder Include="Filters\" />
     <Folder Include="Reports\" />
+    <Folder Include="Upload\CompanyBank\File\" />
     <Folder Include="Upload\Contract\2018\" />
     <Folder Include="Upload\Contract\2019\" />
     <Folder Include="Upload\Hrm\WorkDetail\" />

@@ -43,6 +43,7 @@
             TradingDate: $('#TradingDate').data("kendoDatePicker").value(),
             TradingBy: $('#TradingBy').data("kendoDropDownList").value(),
             ExpenseText: $('#ExpenseText').val(),
+            FilePath: $('#FileConfirm').val(),
             Status: status
         }
 
@@ -129,6 +130,7 @@
 
         ]
     });
+
     $('#btnCreateTextNote').click(function () {
         InitChildWindowModal('/system/CompanyBank/TextNote', 550, 330, "Thêm ghi chú");
     });
@@ -199,5 +201,89 @@
             });
             return;
         }
+    });
+
+    $('#btnUploadFileConfirm').click(function () {
+        $('#UploadFileConfirm').click();
+    });
+    $('#UploadFileConfirm').change(function () {
+        var data = new FormData();
+        var files = $("#UploadFileConfirm").get(0).files;
+        if (files.length > 0) {
+            data.append("File", files[0]);
+        }
+        $('#processing').show();
+        $.ajax({
+            url: '/system/CompanyBank/UploadFile',
+            type: "POST",
+            processData: false,
+            contentType: false,
+            data: data,
+            success: function (response) {
+                $('#processing').hide();
+                if (response.Status === 1) {
+                    $.msgBox({
+                        title: "Hệ thống ERP",
+                        type: "info",
+                        content: response.Message,
+                        buttons: [{ value: "Đồng ý" }],
+                        success: function () {
+                            $('#FileConfirm').val(response.Url);
+                        }
+                    });
+                } else {
+                    $.msgBox({
+                        title: "Hệ thống ERP",
+                        type: "error",
+                        content: response.Message,
+                        buttons: [{ value: "Đồng ý" }],
+                        success: function () {
+                        }
+                    });
+                }
+            },
+            error: function (er) {
+                $('#processing').hide();
+                $.msgBox({
+                    title: "Hệ thống ERP",
+                    type: "error",
+                    content: er,
+                    buttons: [{ value: "Đồng ý" }]
+                });
+            }
+        });
+    });
+    $('#btnRemoveFileConfirm').click(function () {
+        var filePath = $('#FileConfirm').val();
+        $('#processing').show();
+        $.ajax({
+            type: 'POST',
+            url: '/system/CompanyBank/DeleteFile',
+            data: JSON.stringify({ filePath: filePath }),
+            contentType: 'application/json;charset=utf-8',
+            success: function (response) {
+                $('#processing').hide();
+                if (response.Status === 1) {
+                    $.msgBox({
+                        title: "Hệ thống ERP",
+                        type: "info",
+                        content: response.Message,
+                        buttons: [{ value: "Đồng ý" }],
+                        success: function () {
+                            $('#FileConfirm').val('');
+                        }
+                    });
+                } else {
+                    $.msgBox({
+                        title: "Hệ thống ERP",
+                        type: "error",
+                        content: response.Message,
+                        buttons: [{ value: "Đồng ý" }],
+                        success: function () {
+                        }
+                    });
+                }
+            }
+        });
     });
 });

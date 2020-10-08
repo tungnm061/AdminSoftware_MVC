@@ -127,7 +127,10 @@
     <div id="childWindoModal"></div>
     <div id="childOfChildWindoModal"></div>
     <script type="text/javascript">
-        var gridHeight = '400';
+        var gridHeight = window.innerHeight - 210;
+        if (gridHeight <= 400) {
+            gridHeight = 400;
+        }
     </script>
     <script src="~/Scripts/jquery-1.10.2.min.js"></script>
     <script src="~/Scripts/bootstrap.min.js"></script>

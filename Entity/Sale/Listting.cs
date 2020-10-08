@@ -19,7 +19,7 @@ namespace Entity.Sale
         public int? ThreeNumberPayOnner { get; set; }
         [LocalizeRequired]
         [DisplayName("PayOnner")]
-        public int? PayOnner { get; set; }
+        public long? PayOnner { get; set; }
         [LocalizeRequired]
         [DisplayName("Listting")]
         public int? ListProduct { get; set; }

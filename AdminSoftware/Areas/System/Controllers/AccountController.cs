@@ -111,7 +111,12 @@ namespace AdminSoftware.Areas.System.Controllers
 
                 model.ModuleGroupId = 1;
                 var user = _userBll.GetUser(model.UserName);
-                var employeeAccount = _userBll.GetUserByEmployeeId(model.EmployeeId ?? 0);
+                User employeeAccount = null;
+                if (model.EmployeeId > 0 )
+                {
+                    employeeAccount = _userBll.GetUserByEmployeeId(model.EmployeeId ?? 0);
+                }
+
                 model.CreateDate = DateTime.Now;
 
                 if (model.UserId <= 0)

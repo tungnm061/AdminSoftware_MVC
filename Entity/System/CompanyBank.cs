@@ -44,7 +44,7 @@ namespace Entity.System
         
         public  string TradingMonth { get; set; }
 
-        public  string Path { get; set; }
+        public  string FilePath { get; set; }
 
         public  string TextNote { get; set; }
 

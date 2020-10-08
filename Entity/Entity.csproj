@@ -94,6 +94,8 @@
     <Compile Include="Hrm\InsuranceMedical.cs" />
     <Compile Include="Hrm\InsuranceProcess.cs" />
     <Compile Include="Hrm\JobChange.cs" />
+    <Compile Include="Sale\GmailOrder.cs" />
+    <Compile Include="Sale\GmailOrderDetail.cs" />
     <Compile Include="Sale\Listting.cs" />
     <Compile Include="Sale\Order.cs" />
     <Compile Include="Sale\OrderDetail.cs" />

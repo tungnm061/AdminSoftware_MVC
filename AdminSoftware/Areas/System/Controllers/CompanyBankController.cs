@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.IO;
 using System.Linq;
+using System.Security.AccessControl;
+using System.Security.Principal;
+using System.Web.Hosting;
 using System.Web.Mvc;
 using BusinessLogic.Hrm;
 using BusinessLogic.System;
@@ -296,6 +300,92 @@ namespace AdminSoftware.Areas.System.Controllers
             }
         }
 
+
+        public JsonResult UploadFile()
+        {
+            try
+            {
+                var path = HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload/CompanyBank/File/";
+                var file = global::System.Web.HttpContext.Current.Request.Files["File"];
+                string shortPath = "/Upload/CompanyBank/File/";
+                if (!Directory.Exists(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload"))
+                {
+                    Directory.CreateDirectory(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload");
+                    var dInfo = new DirectoryInfo(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload");
+                    var dSecurity = dInfo.GetAccessControl();
+                    dSecurity.AddAccessRule(
+                        new FileSystemAccessRule(
+                            new SecurityIdentifier(WellKnownSidType.WorldSid, null),
+                            FileSystemRights.FullControl,
+                            InheritanceFlags.ObjectInherit | InheritanceFlags.ContainerInherit,
+                            PropagationFlags.NoPropagateInherit, AccessControlType.Allow));
+                    dInfo.SetAccessControl(dSecurity);
+                }
+                if (!Directory.Exists(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload/CompanyBank"))
+                {
+                    Directory.CreateDirectory(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload/CompanyBank");
+                    var dInfo = new DirectoryInfo(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload/CompanyBank");
+                    var dSecurity = dInfo.GetAccessControl();
+                    dSecurity.AddAccessRule(
+                        new FileSystemAccessRule(
+                            new SecurityIdentifier(WellKnownSidType.WorldSid, null),
+                            FileSystemRights.FullControl,
+                            InheritanceFlags.ObjectInherit | InheritanceFlags.ContainerInherit,
+                            PropagationFlags.NoPropagateInherit, AccessControlType.Allow));
+                    dInfo.SetAccessControl(dSecurity);
+                }
+                if (!Directory.Exists(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload/CompanyBank/File"))
+                {
+                    Directory.CreateDirectory(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload/CompanyBank/File");
+                    var dInfo = new DirectoryInfo(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/Upload/CompanyBank/File");
+                    var dSecurity = dInfo.GetAccessControl();
+                    dSecurity.AddAccessRule(
+                        new FileSystemAccessRule(
+                            new SecurityIdentifier(WellKnownSidType.WorldSid, null),
+                            FileSystemRights.FullControl,
+                            InheritanceFlags.ObjectInherit | InheritanceFlags.ContainerInherit,
+                            PropagationFlags.NoPropagateInherit, AccessControlType.Allow));
+                    dInfo.SetAccessControl(dSecurity);
+                }
+                if (file == null || file.ContentLength == 0)
+                {
+                    return Json(new { Status = 0, Message = MessageAction.DataIsEmpty }, JsonRequestBehavior.AllowGet);
+                }
+                if (!Directory.Exists(path))
+                {
+                    Directory.CreateDirectory(path);
+                }
+                string fileName = DateTime.Now.Ticks + "-" + file.FileName;
+                path += fileName;
+                shortPath += fileName;
+                file.SaveAs(path);
+                return Json(new { Status = 1, Message = "Tải file thành công!", Url = shortPath }, JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                return Json(new { Status = 0, ex.Message }, JsonRequestBehavior.AllowGet);
+            }
+        }
+
+        public JsonResult DeleteFile(string filePath)
+        {
+            try
+            {
+                if (filePath == null)
+                {
+                    return Json(new { Status = 0, Message = "File không tồn tại!" },
+                        JsonRequestBehavior.AllowGet);
+                }
+
+                global::System.IO.File.Delete(HostingEnvironment.ApplicationHost.GetPhysicalPath() + "/" + filePath);
+                return Json(new { Status = 1, Message = "Xóa file thành công!" },
+                    JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                return Json(new { Status = 0, ex.Message }, JsonRequestBehavior.AllowGet);
+            }
+        }
 
         public JsonResult ClearSession()
         {

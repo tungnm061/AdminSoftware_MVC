@@ -30,7 +30,7 @@ namespace DataAccess.System
                 param.Add("@CreateBy", obj.CreateBy);
                 param.Add("@IsActive", obj.IsActive);
                 param.Add("@Status", obj.Status);
-                param.Add("@Path", obj.Path);
+                param.Add("@FilePath", obj.FilePath);
                 param.Add("@TextNote", obj.TextNote);
                 if (UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Insert]", param))
                     return param.Get<int>("@CompanyBankId");
@@ -59,6 +59,7 @@ namespace DataAccess.System
                 param.Add("@UpdateBy", obj.UpdateBy);
                 param.Add("@Status", obj.Status);
                 param.Add("@TextNote", obj.TextNote);
+                param.Add("@FilePath", obj.FilePath);
 
                 return UnitOfWork.ProcedureExecute("[dbo].[CompanyBank_Update]", param);
             }

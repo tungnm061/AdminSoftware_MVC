@@ -65,12 +65,12 @@ $(document).ready(function () {
             serverPaging: false,
             serverFiltering: false
         },
-        height: 460,
+        height: gridHeight,
         //filterable: true,
         sortable: true,
-        pageable: {
-            refresh: true
-        },
+        //pageable: {
+        //    refresh: true
+        //},
         selectable: 'row',
         columns: columns,
         dataBinding: function () {

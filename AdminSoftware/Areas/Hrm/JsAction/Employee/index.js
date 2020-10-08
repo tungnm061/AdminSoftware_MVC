@@ -67,7 +67,7 @@ $(document).ready(function () {
                                     content: response.Message,
                                     buttons: [{ value: "Đồng ý" }],
                                     success: function () {
-                                        GridCallback('#grdMain');
+                                        GridCallback('#grdMainEmployee');
                                     }
                                 });
                             }

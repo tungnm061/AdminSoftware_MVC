@@ -347,6 +347,14 @@ $(document).ready(function () {
                 width: 130,
                 format: "{0:dd/MM/yyyy}"
             },
+            {
+                field: "FilePath",
+                title: "File xác nhận",
+                width: 160,
+                template: "#if(FilePath != null){#" + "<a href='#=FilePath#' target='_blank' style='text-align:center'><i class='glyphicon glyphicon-download'></i></a>" + "#}#",
+                filterable: false,
+                sortable: false
+            }
         ],
         dataBinding: function () {
             record = (this.dataSource.page() - 1) * this.dataSource.pageSize();

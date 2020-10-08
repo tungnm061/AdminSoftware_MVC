@@ -94,6 +94,8 @@
     <Compile Include="Hrm\TrainingLevelDal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sale\CustomerDal.cs" />
+    <Compile Include="Sale\GmailOrderDal.cs" />
+    <Compile Include="Sale\GmailOrderDetailDal.cs" />
     <Compile Include="Sale\ListtingDal.cs" />
     <Compile Include="Sale\OrderDal.cs" />
     <Compile Include="Sale\OrderDetailDal.cs" />
