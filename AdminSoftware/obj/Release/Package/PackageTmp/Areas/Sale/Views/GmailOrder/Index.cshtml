@@ -1,0 +1,137 @@
+﻿@{
+    ViewBag.Title = "Thống kê đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var days = (List<String>)ViewBag.Days;
+
+}
+<div class="panel panel-default">
+    <div class="panel-heading">@ViewBag.Title</div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="box-action">
+                    <button class="btn btn-primary btn-sm" id="btnExcel">
+                        <i class="fa fa-plus"></i>
+                        Import từ Excel
+                    </button>
+                </div>
+            </div>
+            <div class="col-md-10">
+                <div class="col-md-3">
+                    <input type="text" value="@ViewBag.GmailId" class="form-control" id="GmailSearch" style="height: 25px; " />
+                </div>
+                <div class="col-md-3">
+                    <input type="text" value="@ViewBag.FromDate" class="form-control" id="FromDateSearch" style="height: 25px;" />
+                </div>
+                @*<div class="col-md-1">
+                    Đến ngày
+                </div>
+                <div class="col-md-2">
+                    <input type="text" value="" class="form-control" id="ToDateSearch" />
+                </div>*@
+
+                <div class="col-md-1">
+                    <button class="btn btn-primary btn-sm" id="btnSearchDate">
+                        <i class="glyphicon glyphicon-search"></i>
+                        Tìm kiếm
+                    </button>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="grdMain" event-dbclick="1"></div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        var gmails = @Html.Raw(Json.Encode(ViewBag.Gmails));
+
+               var columns = [
+            {
+                title: "STT",
+                template: "#= ++record #",
+                width: 40,
+                locked: true
+            },
+            {
+                field: "GmailId",
+                title: "Tài khoản",
+                width: 180,
+                values: gmails,
+                locked: true,
+                footerTemplate: "Tổng hợp"
+            },
+            {
+                field: "LinkOrder",
+                title: "Link đơn",
+                width: 160,
+                locked: true,
+                template: "<a href=\"#=LinkOrder#\" target=\"_blank\">#:LinkOrder#</a>"
+
+            },
+            {
+                field: "CancelOrder",
+                title: "Đơn hủy",
+                width: 100,
+                locked: true,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #"
+            },
+            {
+                field: "RefundOrder",
+                title: "Đơn refund",
+                width: 100,
+                locked: true,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #" 
+            },
+            {
+                field: "Description",
+                title: "Lý do refund",
+                width: 100,
+                locked: true
+            },
+            {
+                field: "TotalOrder",
+                title: "Tổng đơn",
+                width: 80,
+                locked: true,
+                footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #" 
+            }
+               ];
+        var aggregates = [
+            { field: "CancelOrder", aggregate: "sum" },
+            { field: "TotalOrder", aggregate: "sum" },
+            { field: "RefundOrder", aggregate: "sum" }
+            ];
+        @if (days.Any())
+        {
+            int i = 0;
+            foreach (var day in days)
+            {
+                var title = day;
+                <text>
+                columns.push({
+                    title: '@title',
+                    columns: [
+                        {
+                            title: 'Số đơn',
+                            field: 'GmailOrderDetails[' +@i +'].TotalOrder',
+                            width:100,
+                            filterable: false,
+                            footerTemplate :function(data) { return data["GmailOrderDetails["+ @i+"].TotalOrder"].sum ? data["GmailOrderDetails["+ @i+"].TotalOrder"].sum : 0 ; }
+                        }
+                    ]
+                });
+                aggregates.push({ field: "GmailOrderDetails[" + @i + "].TotalOrder", aggregate: "sum" });
+                </text>
+                i ++;
+            }
+        }
+
+    </script>
+    <script src="~/Areas/Sale/JsAction/GmailOrder/index.js"></script>
+}

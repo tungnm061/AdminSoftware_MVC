@@ -107,6 +107,8 @@
     <Compile Include="System\CountryBll.cs" />
     <Compile Include="System\ExpenseTypeBll.cs" />
     <Compile Include="System\GmailBll.cs" />
+    <Compile Include="System\GmailRegBll.cs" />
+    <Compile Include="System\GmailRemoveBll.cs" />
     <Compile Include="System\ModuleGroupBll.cs" />
     <Compile Include="System\RightsBll.cs" />
     <Compile Include="System\SkuBll.cs" />

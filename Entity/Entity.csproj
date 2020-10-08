@@ -106,6 +106,8 @@
     <Compile Include="System\CompanyBank.cs" />
     <Compile Include="System\ExpenseType.cs" />
     <Compile Include="System\Gmail.cs" />
+    <Compile Include="System\GmailReg.cs" />
+    <Compile Include="System\GmailRemove.cs" />
     <Compile Include="System\Post.cs" />
     <Compile Include="Hrm\TimeSheet.cs" />
     <Compile Include="Hrm\TimeSheetOt.cs" />

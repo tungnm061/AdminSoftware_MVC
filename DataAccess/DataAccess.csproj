@@ -109,6 +109,8 @@
     <Compile Include="System\CountryDal.cs" />
     <Compile Include="System\ExpenseTypeDal.cs" />
     <Compile Include="System\GmailDal.cs" />
+    <Compile Include="System\GmailRegDal.cs" />
+    <Compile Include="System\GmailRemoveDal.cs" />
     <Compile Include="System\ModuleGroupDal.cs" />
     <Compile Include="System\RightDal.cs" />
     <Compile Include="System\SkuDal.cs" />

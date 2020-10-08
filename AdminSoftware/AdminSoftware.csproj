@@ -283,6 +283,8 @@
     <Compile Include="Areas\System\Controllers\ConfirmCompanyBankController.cs" />
     <Compile Include="Areas\System\Controllers\ExpenseTypeController.cs" />
     <Compile Include="Areas\System\Controllers\GmailController.cs" />
+    <Compile Include="Areas\System\Controllers\GmailRegController.cs" />
+    <Compile Include="Areas\System\Controllers\GmailRemoveController.cs" />
     <Compile Include="Areas\System\Controllers\HomeController.cs" />
     <Compile Include="Areas\System\Controllers\UserGroupController.cs" />
     <Compile Include="Areas\System\Models\AccountPrintifyModel.cs" />
@@ -485,6 +487,10 @@
     <Content Include="Areas\System\JsAction\ConfirmCompanyBank\index.js" />
     <Content Include="Areas\System\JsAction\ExpenseType\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\ExpenseType\index.js" />
+    <Content Include="Areas\System\JsAction\GmailReg\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\GmailReg\index.js" />
+    <Content Include="Areas\System\JsAction\GmailRemove\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\GmailRemove\index.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEditSku.js" />
     <Content Include="Areas\System\JsAction\Gmail\index.js" />
@@ -821,6 +827,10 @@
     <Content Include="Areas\Sale\Views\ConfirmPoPayment\PoPayment.cshtml" />
     <Content Include="Areas\Sale\Views\GmailOrder\Index.cshtml" />
     <Content Include="Areas\Sale\Views\GmailOrder\ViewExcel.cshtml" />
+    <Content Include="Areas\System\Views\GmailReg\GmailReg.cshtml" />
+    <Content Include="Areas\System\Views\GmailReg\Index.cshtml" />
+    <Content Include="Areas\System\Views\GmailRemove\GmailRemove.cshtml" />
+    <Content Include="Areas\System\Views\GmailRemove\Index.cshtml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />

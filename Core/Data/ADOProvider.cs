@@ -11,6 +11,7 @@ using Core.Helper.Attributes;
 using Core.Helper.Cache;
 using Dapper;
 using Core.Helper.Extensions;
+using Core.Helper.Logging;
 using Core.Security.Crypt;
 using StackExchange.Profiling;
 
@@ -311,6 +312,7 @@ namespace Core.Data
             }
             catch (Exception ex)
             {
+                Logging.PutError(ex.Message, ex);
                 return false;
             }
         }
@@ -330,6 +332,7 @@ namespace Core.Data
             }
             catch (Exception ex)
             {
+                Logging.PutError(ex.Message, ex);
                 return false;
             }
         }
