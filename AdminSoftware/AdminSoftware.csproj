@@ -155,6 +155,12 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
+    <Reference Include="WebDriver, Version=3.141.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.WebDriver.3.141.0\lib\net45\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver.Support, Version=3.141.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.Support.3.141.0\lib\net45\WebDriver.Support.dll</HintPath>
+    </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
       <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
@@ -270,6 +276,7 @@
     <Compile Include="Areas\Sale\Controllers\PoPaymentController.cs" />
     <Compile Include="Areas\Sale\Controllers\ProducerController.cs" />
     <Compile Include="Areas\Sale\Controllers\ProductController.cs" />
+    <Compile Include="Areas\Sale\Controllers\ToolAmzSearchController.cs" />
     <Compile Include="Areas\Sale\Models\CustomerModel.cs" />
     <Compile Include="Areas\Sale\Models\InvestorModel.cs" />
     <Compile Include="Areas\Sale\Models\OrderDetailModel.cs" />
@@ -478,6 +485,7 @@
     <Content Include="Areas\Sale\JsAction\Producer\index.js" />
     <Content Include="Areas\Sale\JsAction\Product\addOrEdit.js" />
     <Content Include="Areas\Sale\JsAction\Product\index.js" />
+    <Content Include="Areas\Sale\JsAction\ToolAmzSearch\index.js" />
     <Content Include="Areas\System\JsAction\AccountPrintify\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\AccountPrintify\index.js" />
     <Content Include="Areas\System\JsAction\Account\addOrEdit.js" />
@@ -836,6 +844,7 @@
     <Content Include="Areas\System\Views\GmailRemove\Index.cshtml" />
     <Content Include="Areas\System\Views\GmailReg\ViewExcel.cshtml" />
     <Content Include="Areas\System\Views\GmailRemove\ViewExcel.cshtml" />
+    <Content Include="Areas\Sale\Views\ToolAmzSearch\Index.cshtml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
@@ -924,6 +933,7 @@
     <Content Include="Views\Shared\_LayoutDev.cshtml" />
     <Content Include="Template\Listting.xlsx" />
     <Content Include="Template\ImportOrder.xlsx" />
+    <Content Include="Tool\jkompbllimaoekaogchhkmkdogpkhojg-3.0.2-Crx4Chrome.com.crx" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -997,7 +1007,9 @@
     </PropertyGroup>
     <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
     <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\Selenium.WebDriver.ChromeDriver.86.0.4240.2200\build\Selenium.WebDriver.ChromeDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.WebDriver.ChromeDriver.86.0.4240.2200\build\Selenium.WebDriver.ChromeDriver.targets'))" />
   </Target>
+  <Import Project="..\packages\Selenium.WebDriver.ChromeDriver.86.0.4240.2200\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('..\packages\Selenium.WebDriver.ChromeDriver.86.0.4240.2200\build\Selenium.WebDriver.ChromeDriver.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
