@@ -23,3 +23,10 @@ D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\bin\Debug\Enyim.Caching.xml
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\obj\Debug\Dapper.dll
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\obj\Debug\Dapper.pdb
 D:\TungNM\WEB MVC\TUNGNM\AdminSoftware\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache
+G:\Git-AdminSoftware_TestTool\AdminSoftware_MVC\Dapper\bin\Debug\Dapper.dll
+G:\Git-AdminSoftware_TestTool\AdminSoftware_MVC\Dapper\bin\Debug\Dapper.pdb
+G:\Git-AdminSoftware_TestTool\AdminSoftware_MVC\Dapper\bin\Debug\Enyim.Caching.dll
+G:\Git-AdminSoftware_TestTool\AdminSoftware_MVC\Dapper\bin\Debug\Enyim.Caching.xml
+G:\Git-AdminSoftware_TestTool\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.csproj.CopyComplete
+G:\Git-AdminSoftware_TestTool\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.dll
+G:\Git-AdminSoftware_TestTool\AdminSoftware_MVC\Dapper\obj\Debug\Dapper.pdb
