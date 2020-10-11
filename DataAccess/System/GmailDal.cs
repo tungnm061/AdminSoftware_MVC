@@ -4,6 +4,7 @@ using System.Data;
 using System.Linq;
 using Core.Base;
 using Core.Data;
+using Core.Helper;
 using Core.Helper.Logging;
 using Dapper;
 using Entity.System;
@@ -114,6 +115,22 @@ namespace DataAccess.System
             try
             {
                 return UnitOfWork.ProcedureExecute("[dbo].[Gmail_Delete]", new { Id = id });
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
+            }
+        }
+
+
+        public bool Inserts(List<Gmail> listObj)
+        {
+            try
+            {
+                var param = new DynamicParameters();
+                param.Add("@XML", XmlHelper.SerializeXml<List<Gmail>>(listObj));
+                return UnitOfWork.ProcedureExecute("[dbo].[Gmail_Inserts]", param);
             }
             catch (Exception ex)
             {

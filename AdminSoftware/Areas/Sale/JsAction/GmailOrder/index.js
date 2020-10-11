@@ -1,21 +1,16 @@
 ﻿var record = 0;
 function BuildDateString(date) {
-    return (date.getMonth() + 1) + "/" + 1 + "/" + date.getFullYear();
+    return (date.getMonth() + 1) + "/" + date.getDate() + "/" + date.getFullYear();
 }
 $(document).ready(function () {
     $("#FromDateSearch").kendoDatePicker({
-        start: "year",
-        depth: "year",
-        format: "MM yyyy",
-        dateInput: true
-
+        dateInput: true,
+        format: "dd/MM/yyyy"
     });
-    $("#ToDateSearch").kendoDatePicker({
-        start: "year",
-        depth: "year",
-        format: "MM yyyy",
-        dateInput: true
 
+    $("#ToDateSearch").kendoDatePicker({
+        dateInput: true,
+        format: "dd/MM/yyyy"
     });
 
     $('#GmailSearch').kendoDropDownList({
@@ -27,9 +22,10 @@ $(document).ready(function () {
 
     $("#btnSearchDate").click(function () {
         var fromDate = $("#FromDateSearch").data("kendoDatePicker").value();
+        var toDate = $("#ToDateSearch").data("kendoDatePicker").value();
         var gmailId = $("#GmailSearch").data("kendoDropDownList").value();
 
-        window.location.href = '/sale/GmailOrder/Index?fromDate=' + BuildDateString(fromDate) + '&gmailId=' + gmailId;
+        window.location.href = '/sale/GmailOrder/Index?fromDate=' + BuildDateString(fromDate) + '&toDate=' + BuildDateString(toDate) + '&gmailId=' + gmailId;
     });
 
 
@@ -50,6 +46,7 @@ $(document).ready(function () {
                             dataType: "json",
                             data: JSON.stringify({
                                 fromDate: $("#FromDateSearch").data("kendoDatePicker").value(),
+                                toDate: $("#ToDateSearch").data("kendoDatePicker").value(),
                                 gmailId: $("#GmailSearch").data("kendoDropDownList").value()
                             }),
                             contentType: 'application/json;charset=utf-8',
@@ -63,9 +60,9 @@ $(document).ready(function () {
                 model: {
                     id: "GmailId",
                     fields: {
-                        CancelOrder: { type: 'number' },
+                        TotalCancelOrder: { type: 'number' },
                         TotalOrder: { type: 'number' },
-                        RefundOrder: { type: 'number' },
+                        TotalRefundOrder: { type: 'number' },
                     }
                 }
             },
@@ -89,8 +86,9 @@ $(document).ready(function () {
             var sheet = e.workbook.sheets[0];
             for (var rowIndex = 1; rowIndex < sheet.rows.length; rowIndex++) {
                 var row = sheet.rows[rowIndex];
-                row.cells[4].format = "#,##0.00";
-                row.cells[5].format = "#,##0.00";
+                row.cells[2].format = "#,##0";
+                row.cells[3].format = "#,##0";
+                row.cells[5].format = "#,##0";
                 if (row.type == "footer") {
                     for (var ci = 0; ci < row.cells.length; ci++) {
                         var cell = row.cells[ci];
@@ -105,7 +103,7 @@ $(document).ready(function () {
     });
 
     $('#btnExcel').click(function () {
-        InitWindowModal('/sale/GmailOrder/ViewExcel', false, 550, 240, 'Import file Excel', false);
+        InitWindowModal('/sale/GmailOrder/ViewExcel', false, 550, 200, 'Import Order đơn hàng', false);
     });
 
 });

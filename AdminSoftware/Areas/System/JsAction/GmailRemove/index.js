@@ -188,4 +188,8 @@ $(document).ready(function () {
             record = (this.dataSource.page() - 1) * this.dataSource.pageSize();
         }
     });
+
+    $('#btnExcel').click(function () {
+        InitWindowModal('/system/GmailRemove/ViewExcel', false, 550, 200, 'Import dữ liệu', false);
+    });
 });

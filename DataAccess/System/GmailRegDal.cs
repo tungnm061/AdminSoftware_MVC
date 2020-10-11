@@ -67,6 +67,28 @@ namespace DataAccess.System
             }
         }
 
+        public bool UpdateByGmailId(GmailReg obj)
+        {
+            try
+            {
+                var param = new DynamicParameters();
+                param.Add("@GmailId", obj.GmailId);
+                param.Add("@UpdateDate", obj.UpdateDate);
+                param.Add("@UpdateBy", obj.UpdateBy);
+                param.Add("@IsActive", obj.IsActive);
+                param.Add("@Description", obj.Description);
+                param.Add("@GmailRestoreId", obj.GmailRestoreId);
+                param.Add("@Password", obj.Password);
+                var update = UnitOfWork.ProcedureExecute("[dbo].[GmailReg_UpdateByGmailId]", param);
+                return update;
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
+            }
+        }
+
         public List<GmailReg> GetGmailRegs(bool? isActive)
         {
             try

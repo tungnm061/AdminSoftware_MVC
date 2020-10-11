@@ -73,6 +73,31 @@ namespace DataAccess.System
             }
         }
 
+        public bool UpdateByGmailId(GmailRemove obj)
+        {
+            try
+            {
+                var param = new DynamicParameters();
+                param.Add("@GmailId", obj.GmailId);
+                param.Add("@GmailRestoreId", obj.GmailRestoreId);
+                param.Add("@Password", obj.Password);
+                param.Add("@GmailChangeId", obj.GmailChangeId);
+                param.Add("@PasswordGmailChange", obj.PasswordGmailChange);
+                param.Add("@GmailRestoreChangeId", obj.GmailRestoreChangeId);
+                param.Add("@UpdateDate", obj.UpdateDate);
+                param.Add("@UpdateBy", obj.UpdateBy);
+                param.Add("@IsActive", obj.IsActive);
+                param.Add("@Description", obj.Description);
+                var update = UnitOfWork.ProcedureExecute("[dbo].[GmailRemove_UpdateByGmailId]", param);
+                return update;
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
+            }
+        }
+
         public List<GmailRemove> GetGmailRemoves(bool? isActive)
         {
             try

@@ -309,6 +309,7 @@
     <Compile Include="Helper\ExtendedAttributes\LocalizeRegularExpression.cs" />
     <Compile Include="Helper\ExtendedAttributes\LocalizeRequired.cs" />
     <Compile Include="Helper\ExtendedAttributes\LocalizeStringLength.cs" />
+    <Compile Include="Models\DataExcel.cs" />
     <Compile Include="Models\KendoDropDownTreeModel.cs" />
     <Compile Include="Models\KendoForeignKeyModel.cs" />
     <Compile Include="Models\KpiMonthReportModel.cs" />
@@ -488,8 +489,10 @@
     <Content Include="Areas\System\JsAction\ExpenseType\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\ExpenseType\index.js" />
     <Content Include="Areas\System\JsAction\GmailReg\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\GmailReg\excel.js" />
     <Content Include="Areas\System\JsAction\GmailReg\index.js" />
     <Content Include="Areas\System\JsAction\GmailRemove\addOrEdit.js" />
+    <Content Include="Areas\System\JsAction\GmailRemove\excel.js" />
     <Content Include="Areas\System\JsAction\GmailRemove\index.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEdit.js" />
     <Content Include="Areas\System\JsAction\Gmail\addOrEditSku.js" />
@@ -831,6 +834,8 @@
     <Content Include="Areas\System\Views\GmailReg\Index.cshtml" />
     <Content Include="Areas\System\Views\GmailRemove\GmailRemove.cshtml" />
     <Content Include="Areas\System\Views\GmailRemove\Index.cshtml" />
+    <Content Include="Areas\System\Views\GmailReg\ViewExcel.cshtml" />
+    <Content Include="Areas\System\Views\GmailRemove\ViewExcel.cshtml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />
@@ -918,7 +923,7 @@
     <Content Include="Views\Shared\EditorTemplates\String.cshtml" />
     <Content Include="Views\Shared\_LayoutDev.cshtml" />
     <Content Include="Template\Listting.xlsx" />
-    <Content Include="Template\Order_New.xlsx" />
+    <Content Include="Template\ImportOrder.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

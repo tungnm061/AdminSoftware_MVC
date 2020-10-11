@@ -11,26 +11,24 @@ $(document).ready(function () {
     });
     $('#btnSave').click(function () {
         var formData = new FormData();
-        var orderDate = $('#OrderDate').data('kendoDatePicker').value()
-        if (orderDate == null) {
-            $.msgBox({
-                title: "Hệ thống",
-                type: "error",
-                content: "Bạn phải chọn tháng Import!",
-                buttons: [{ value: "Đồng ý" }],
-                success: function () {
-                }
-            });
-            return;
-        }
+        //var orderDate = $('#OrderDate').data('kendoDatePicker').value()
+        //if (orderDate == null) {
+        //    $.msgBox({
+        //        title: "Hệ thống",
+        //        type: "error",
+        //        content: "Bạn phải chọn tháng Import!",
+        //        buttons: [{ value: "Đồng ý" }],
+        //        success: function () {
+        //        }
+        //    });
+        //    return;
+        //}
         var file = document.getElementById("attachment").files[0];
         formData.append("files", file);
-        formData.append("DateOrder", orderDate.toDateString());
-
         $('#processing').show();
         $.ajax({
             type: "POST",
-            url: '/sale/GmailOrder/ImportExcel?fromDate=' + BuildDateString(orderDate),
+            url: '/sale/GmailOrder/ImportExcel',
             data: formData,
             contentType: false,
             processData: false,

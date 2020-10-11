@@ -118,19 +118,21 @@ $(document).ready(function () {
             {
                 title: "STT",
                 template: "#= ++record #",
-                width: 50
+                width: 50,
+                locked: true
             },
             {
                 field: "FullName",
                 title: "Tài khoản",
-                width: 200
+                width: 300,
+                locked : true
             },
             {
                 field: "LinkUrl",
                 title: "Đường dẫn",
                 width: 160,
-                template: "<a href=\"#=LinkUrl#\" target=\"_blank\">#:LinkUrl#</a>"
-
+                template: "<a href=\"#=LinkUrl#\" target=\"_blank\">#:LinkUrl#</a>",
+                locked: true
             },
             {
                 field: "CreateUser",

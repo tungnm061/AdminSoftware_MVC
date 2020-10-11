@@ -12,6 +12,7 @@ using AdminSoftware.Controllers;
 using AdminSoftware.Models;
 using DuyAmazone.Areas.Printify.Models;
 using Entity.System;
+using AdminSoftware.Helper;
 
 namespace AdminSoftware.Areas.System.Controllers
 {
@@ -151,6 +152,103 @@ namespace AdminSoftware.Areas.System.Controllers
                 Logging.PutError(ex.Message, ex);
                 return Json(new { Status = 0, ex.Message },
                     JsonRequestBehavior.AllowGet);
+            }
+        }
+
+        public ActionResult ViewExcel()
+        {
+            return PartialView();
+        }
+
+        public JsonResult ImportExcel()
+        {
+            if (Request.Files["files"] == null)
+                return Json(new { Status = 0, Message = "Không có dữ liệu để import!" }, JsonRequestBehavior.AllowGet);
+            var stringCategoryKpi = Request.Form["CategoryKpiId"];
+            
+            try
+            {
+                var file = Request.Files["files"];
+                var dataLst = ExcelHelper.ReadExcelDictionary(file.InputStream);
+                var listObj = new List<GmailReg>();
+                if (dataLst.Count == 0)
+                {
+                    return Json(new { Status = 0, Message = MessageAction.DataIsEmpty }, JsonRequestBehavior.AllowGet);
+
+                }
+                var gmails = _gmailBll.GetGmails(true);
+                var tempDict = gmails.ToDictionary(x => x.FullName.Trim(), x => x.Id);
+
+                foreach (var data in dataLst)
+                {
+                    if (
+                        data.ContainsKey("GMAIL REG TÀI KHOẢN AMZ") &&
+                        data.ContainsKey("MẬT KHẨU") &&
+                        data.ContainsKey("MAIL KHÔI PHỤC"))
+                        //data.ContainsKey("GMAIL GỠ TK AMZ") &&
+                        //data.ContainsKey("MẬT KHẨU") &&
+                        //data.ContainsKey("MAIL KHÔI PHỤC") &&
+                        //data.ContainsKey("THAY GMAIL") &&
+                        //data.ContainsKey("MẬT KHẨU MAIL THAY") &&
+                        //data.ContainsKey("MAIL KHÔI PHỤC")
+                    {
+                        string gmailReg = data["GMAIL REG TÀI KHOẢN AMZ"];
+                        string gmailRestore = data["MAIL KHÔI PHỤC"];
+                        string passWord = data["MẬT KHẨU"];
+
+                        if (string.IsNullOrEmpty(gmailReg) || string.IsNullOrEmpty(gmailRestore))
+                        {
+                            return Json(new { Status = 0, Message = "Tài khoản reg và tài khoản khôi phục không được để trống !" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+                        if (string.IsNullOrEmpty(passWord))
+                        {
+                            return Json(new { Status = 0, Message = "Mật khẩu không được để trống !" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+                        if (!tempDict.ContainsKey(gmailReg.Trim()))
+                        {
+                            return Json(new { Status = 0, Message = "Tài khoản "+ gmailReg + " chưa được khởi tạo trong hệ thống!" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+
+                        if (!tempDict.ContainsKey(gmailRestore.Trim()))
+                        {
+                            return Json(new { Status = 0, Message = "Tài khoản " + gmailRestore + " chưa được khởi tạo trong hệ thống!" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+
+                        listObj.Add(new GmailReg
+                        {
+                            GmailId = tempDict[gmailReg.Trim()],
+                            GmailRestoreId = tempDict[gmailRestore.Trim()],
+                            Password = passWord.Trim(),
+                            CreateDate = DateTime.Now,
+                            CreateBy = UserLogin.UserId,
+                            UpdateDate = DateTime.Now,
+                            UpdateBy = UserLogin.UserId,
+                            IsActive = true
+                        });
+
+                    }
+                    else
+                    {
+                        return Json(new { Status = 0, Message = "File import không đúng định dạng!" },
+                            JsonRequestBehavior.AllowGet);
+                    }
+                }
+                if (_gmailRegBll.Saves(listObj))
+                {
+                    return Json(new { Status = 1, Message = MessageAction.MessageImportSuccess },
+                        JsonRequestBehavior.AllowGet);
+                }
+
+                return Json(new { Status = 0, Message = MessageAction.MessageActionFailed }, JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return Json(new { Status = 0, ex.Message }, JsonRequestBehavior.AllowGet);
             }
         }
 

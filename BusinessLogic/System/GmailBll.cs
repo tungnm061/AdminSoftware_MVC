@@ -36,6 +36,11 @@ namespace BusinessLogic.System
             return _gmailDal.Insert(obj);
         }
 
+        public bool Inserts(List<Gmail> listObj)
+        {
+            return _gmailDal.Inserts(listObj);
+        }
+
         public bool Update(Gmail obj)
         {
             return _gmailDal.Update(obj);

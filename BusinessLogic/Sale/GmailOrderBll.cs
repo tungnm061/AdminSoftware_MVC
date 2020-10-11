@@ -20,12 +20,59 @@ namespace BusinessLogic.Sale
             _gmailOrderDetailDal = SingletonIpl.GetInstance<GmailOrderDetailDal>();
         }
 
-        public long Insert(List<GmailOrder> listGmailOrder, List<GmailOrderDetail> listGmailOrderDetail)
+        //public long Insert(List<GmailOrder> listGmailOrder, List<GmailOrderDetail> listGmailOrderDetail)
+        //{
+        //    try
+        //    {
+        //        if (listGmailOrder == null || listGmailOrder.Count == 0 ||
+        //            listGmailOrderDetail == null || listGmailOrderDetail.Count == 0)
+        //        {
+        //            return 0;
+        //        }
+
+        //        using (var scope = new TransactionScope())
+        //        {
+        //            if (_gmailOrderDal.Inserts(listGmailOrder))
+        //            {
+        //                if (_gmailOrderDetailDal.Inserts(listGmailOrderDetail))
+        //                {
+        //                    scope.Complete();
+        //                    return 1;
+        //                }
+        //                scope.Dispose();
+        //                return 0;
+        //            }
+        //            scope.Dispose();
+        //            return 0;
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        Logging.PutError(ex.Message, ex);
+        //        return 0;
+        //    }
+        //}
+
+        public List<GmailOrderModel> GetGmailOrderAll(int? gmailId, DateTime? fromDate, DateTime? toDate)
+        {
+            return _gmailOrderDal.GetGmailOrderAll(gmailId, fromDate, toDate);
+        }
+
+        public List<int> GetGmailIdDistinct(DateTime fromDate, DateTime toDate)
+        {
+            return _gmailOrderDal.GetGmailIdDistinct(fromDate, toDate);
+        }
+
+        public List<GmailOrderDetail> GetGmailOrderDetailByDate(string gmailOrderId, DateTime dateOrder)
+        {
+            return _gmailOrderDetailDal.GetGmailOrderDetailByDate(gmailOrderId, dateOrder);
+        }
+
+        public long Insert(List<GmailOrder> listGmailOrder)
         {
             try
             {
-                if (listGmailOrder == null || listGmailOrder.Count == 0 ||
-                    listGmailOrderDetail == null || listGmailOrderDetail.Count == 0)
+                if (listGmailOrder == null || listGmailOrder.Count == 0 )
                 {
                     return 0;
                 }
@@ -34,13 +81,8 @@ namespace BusinessLogic.Sale
                 {
                     if (_gmailOrderDal.Inserts(listGmailOrder))
                     {
-                        if (_gmailOrderDetailDal.Inserts(listGmailOrderDetail))
-                        {
-                            scope.Complete();
-                            return 1;
-                        }
-                        scope.Dispose();
-                        return 0;
+                        scope.Complete();
+                        return 1;
                     }
                     scope.Dispose();
                     return 0;
@@ -53,15 +95,6 @@ namespace BusinessLogic.Sale
             }
         }
 
-        public List<GmailOrderModel> GetGmailOrderAll(int? gmailId, DateTime? fromDate, DateTime? toDate)
-        {
-            return _gmailOrderDal.GetGmailOrderAll(gmailId, fromDate, toDate);
-        }
-
-        public List<GmailOrderDetail> GetGmailOrderDetailByDate(string gmailOrderId, DateTime dateOrder)
-        {
-            return _gmailOrderDetailDal.GetGmailOrderDetailByDate(gmailOrderId, dateOrder);
-        }
 
     }
 }

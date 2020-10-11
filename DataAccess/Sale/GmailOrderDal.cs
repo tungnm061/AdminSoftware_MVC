@@ -45,5 +45,22 @@ namespace DataAccess.Sale
                 return new List<GmailOrderModel>();
             }
         }
+
+        public List<int> GetGmailIdDistinct(DateTime fromDate, DateTime toDate)
+        {
+            try
+            {
+                return
+                    UnitOfWork.Procedure<int>("[sale].[GmailOrder_Distinct]", new {
+                        FromDate = fromDate,
+                        ToDate = toDate
+                    }).ToList();
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return new List<int>(); ;
+            }
+        }
     }
 }

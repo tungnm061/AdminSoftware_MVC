@@ -305,5 +305,134 @@ namespace AdminSoftware.Helper
             }
             return dataTemp;
         }
+
+        public static AdminSoftware.Models.DataExcel ReadExcelDictionaryNew(Stream file, bool freezeHeader = true,
+           List<string> columHeader = null, int rownumStart = 0, int maxColumn = 0, bool formatAllString = false)
+        {
+            AdminSoftware.Models.DataExcel dataExcelObj = new AdminSoftware.Models.DataExcel();
+            List<Dictionary<string, string>> dataTemp = new List<Dictionary<string, string>>();
+            var workbook = new XSSFWorkbook(file);
+            int indexSheet = 0;
+            while (indexSheet < 1)
+            {
+                var sheet = workbook.GetSheetAt(indexSheet);
+                indexSheet++;
+                dataExcelObj.SheetName = sheet.SheetName;
+                //
+                List<string> headerTemp = new List<string>();
+                if (freezeHeader)
+                {
+                    var rowHeaderTemp = sheet.GetRow(0);
+
+                    if (rowHeaderTemp != null)
+                    {
+                        // Add by CanTV: Check max column index
+                        if (maxColumn == 0)
+                            maxColumn = rowHeaderTemp.Cells.Count;
+                        else
+                        {
+                            if (rowHeaderTemp.Cells.Count < maxColumn)
+                                maxColumn = rowHeaderTemp.Cells.Count;
+                        }
+
+                        for (var indexCell = 0; indexCell < maxColumn; indexCell++)
+                        {
+                            var cell = rowHeaderTemp.GetCell(indexCell, MissingCellPolicy.RETURN_NULL_AND_BLANK);
+                            if (cell.CellType == CellType.String)
+                            {
+                                headerTemp.Add(cell.ToString());
+                            }
+                            else
+                            {
+                                headerTemp.Add("Col_" + indexCell);
+                            }
+                        }
+                    }
+                }
+                else
+                {
+                    // Get column default 
+                    if (columHeader != null && columHeader.Any())
+                        headerTemp = columHeader;
+                    else
+                    {
+                        // Get column
+                        for (int indexCell = 0; indexCell < maxColumn; indexCell++)
+                        {
+                            headerTemp.Add("Col_" + indexCell);
+                        }
+                    }
+                }
+                //
+
+                int indexRow = freezeHeader ? 1 : (rownumStart);
+                bool getNameHeaderFromList = headerTemp.Count > 0;
+
+                IRow row;
+                while ((row = sheet.GetRow(indexRow)) != null)
+                {
+                    Dictionary<string, string> dataRowTemp = new Dictionary<string, string>();
+                    dataTemp.Add(dataRowTemp);
+
+                    indexRow++;
+                    for (var indexCell = 0;
+                        indexCell < (row.Cells.Count < headerTemp.Count ? headerTemp.Count : row.Cells.Count);
+                        indexCell++)
+                    {
+                        try
+                        {
+                            var cell = row.GetCell(indexCell, MissingCellPolicy.RETURN_NULL_AND_BLANK);
+
+                            if (cell == null)
+                            {
+                                if ((indexCell + 1) > headerTemp.Count)
+                                    dataRowTemp.Add("Col_" + indexCell, string.Empty);
+                                else
+                                    dataRowTemp.Add(getNameHeaderFromList ? headerTemp[indexCell] : "Col_" + indexCell,
+                                        string.Empty);
+                                continue;
+                            }
+
+                            if (formatAllString)
+                            {
+                                dataRowTemp.Add(getNameHeaderFromList ? headerTemp[indexCell] : "Col_" + indexCell,
+                                    cell.ToString());
+                            }
+                            else
+                            {
+                                if (cell.CellType == CellType.Numeric)
+                                {
+                                    dataRowTemp.Add(getNameHeaderFromList ? headerTemp[indexCell] : "Col_" + indexCell,
+                                        cell.NumericCellValue.ToString(CultureInfo.InvariantCulture));
+                                }
+                                else if (cell.CellType == CellType.String)
+                                {
+                                    dataRowTemp.Add(getNameHeaderFromList ? headerTemp[indexCell] : "Col_" + indexCell,
+                                        cell.ToString());
+                                }
+                                else if (cell.CellType == CellType.Boolean)
+                                {
+                                    dataRowTemp.Add(getNameHeaderFromList ? headerTemp[indexCell] : "Col_" + indexCell,
+                                        cell.BooleanCellValue.ToString());
+                                }
+                                else if (cell.CellType == CellType.Blank)
+                                {
+                                    dataRowTemp.Add(getNameHeaderFromList ? headerTemp[indexCell] : "Col_" + indexCell,
+                                        "");
+                                }
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            ex.Data.Add("indexRow", indexRow);
+                            ex.Data.Add("indexCell", indexCell);
+                            throw;
+                        }
+                    }
+                }
+            }
+            dataExcelObj.Data = dataTemp;
+            return dataExcelObj;
+        }
     }
 }

@@ -30,6 +30,8 @@ namespace Entity.Sale
 
     public int? UpdateBy { get; set; }
 
+    public int? TotalOrder { get; set; }
+
 }
     public class GmailOrderModel
     {
@@ -60,4 +62,22 @@ namespace Entity.Sale
         public List<GmailOrderDetail> GmailOrderDetails { get; set; }
     }
 
+    public class GmailOrderStatistical
+    {
+        public int GmailId { get; set; }
+        public string LinkOrder { get; set; }
+        public List<StatisticalOrderDetail> StatisticalDetails { get; set; }
+        public int TotalCancelOrder { get; set; }
+        public int TotalRefundOrder { get; set; }
+        public string Description { get; set; }
+
+        public decimal TotalOrder { get; set; }
+
+    }
+
+    public class StatisticalOrderDetail
+    {
+        public DateTime DateDay { get; set; }
+        public int? CountOrder { get; set; }
+    }
 }
