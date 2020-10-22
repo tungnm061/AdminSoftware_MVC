@@ -58,9 +58,19 @@ namespace BusinessLogic.Sale
             return _gmailOrderDal.GetGmailOrderAll(gmailId, fromDate, toDate);
         }
 
+        public GmailOrderModel GetGmailOrderByDate(DateTime orderDate)
+        {
+            return _gmailOrderDal.GetGmailOrderByDate(orderDate);
+        }
+
         public List<int> GetGmailIdDistinct(DateTime fromDate, DateTime toDate)
         {
             return _gmailOrderDal.GetGmailIdDistinct(fromDate, toDate);
+        }
+
+        public bool DeleteByDate(DateTime orderDate)
+        {
+            return _gmailOrderDal.DeleteByDate(orderDate);
         }
 
         public List<GmailOrderDetail> GetGmailOrderDetailByDate(string gmailOrderId, DateTime dateOrder)

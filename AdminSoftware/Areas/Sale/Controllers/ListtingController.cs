@@ -12,6 +12,7 @@ using AdminSoftware.Controllers;
 using AdminSoftware.Helper;
 using AdminSoftware.Models;
 using Entity.Sale;
+using Core.Helper.Extensions;
 
 namespace AdminSoftware.Areas.Sale.Controllers
 {
@@ -57,7 +58,8 @@ namespace AdminSoftware.Areas.Sale.Controllers
                     IsActive = true
                 });
             }
-            return PartialView(_listtingBll.GetListting(long.Parse(id)));
+            var obj = _listtingBll.GetListting(long.Parse(id));
+            return PartialView(obj);
         }
 
         public JsonResult Save(Listting model)
@@ -81,8 +83,18 @@ namespace AdminSoftware.Areas.Sale.Controllers
                     }, JsonRequestBehavior.AllowGet);
                 }
 
+                if (model.ThreeNumberPayOnner != model.PayOnner.GetLast(3))
+                {
+                    return Json(new { Status = 0, Message = "Số PayOnner và 3 số cuối không trùng khớp!" }, JsonRequestBehavior.AllowGet);
+                }
+                var check = _listtingBll.GetListtingByGmailId(model.GmailId);
                 if (model.ListtingId <= 0)
                 {
+                    if (check != null)
+                    {
+                        return Json(new { Status = 0, Message = "Tài khoản gmail này đã tồn tại bản ghi vui lòng cập nhật bản ghi cũ!" }, JsonRequestBehavior.AllowGet);
+
+                    }
                     model.CreateDate = DateTime.Now;
                     model.CreateBy = UserLogin.UserId;
                     if (_listtingBll.Insert(model) > 0)
@@ -98,6 +110,11 @@ namespace AdminSoftware.Areas.Sale.Controllers
 
                 if (_listtingBll.Update(model))
                 {
+                    if (check != null && check.ListtingId != model.ListtingId)
+                    {
+                        return Json(new { Status = 0, Message = "Tài khoản gmail cập nhật này đã tồn tại bản ghi vui lòng cập nhật bản ghi cũ!" }, JsonRequestBehavior.AllowGet);
+
+                    }
                     return Json(new { Status = 1, Message = MessageAction.MessageUpdateSuccess },
                         JsonRequestBehavior.AllowGet);
                 }
@@ -147,8 +164,6 @@ namespace AdminSoftware.Areas.Sale.Controllers
         {
             if (Request.Files["files"] == null)
                 return Json(new { Status = 0, Message = "Không có dữ liệu để import!" }, JsonRequestBehavior.AllowGet);
-            var stringCategoryKpi = Request.Form["CategoryKpiId"];
-
             try
             {
                 var file = Request.Files["files"];
@@ -170,35 +185,67 @@ namespace AdminSoftware.Areas.Sale.Controllers
                         data.ContainsKey("Ghi chú"))
                     {
                         string gmailName = data["Mail"];
+                        string threeNumberPayOnner = data["Ba số Payonner"];
+                        string payOnner = data["Payonner"];
+                        string balance = data["Balance"];
+                        string listProduct = data["Listting"];
 
+                        if (string.IsNullOrEmpty(gmailName))
+                        {
+                            return Json(new { Status = 0, Message = "Tài khoản mail không được để trống" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+                        if (string.IsNullOrEmpty(threeNumberPayOnner))
+                        {
+                            return Json(new { Status = 0, Message = "Ba số Payonner không được để trống" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+                        if (string.IsNullOrEmpty(payOnner))
+                        {
+                            return Json(new { Status = 0, Message = "Số Payonner không được để trống" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+                        if (string.IsNullOrEmpty(balance))
+                        {
+                            return Json(new { Status = 0, Message = "Balance không được để trống" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+                        if (string.IsNullOrEmpty(listProduct))
+                        {
+                            return Json(new { Status = 0, Message = "Listting không được để trống" },
+                                JsonRequestBehavior.AllowGet);
+                        }
+                        gmailName = gmailName.Trim();
                         var checkName = _gmailBll.GetGmailByName(gmailName);
 
                         if (checkName == null)
                         {
-                            return Json(new { Status = 0, Message = "Tài khoản mail này chưa được tạo trong hệ thống!" },
+                            return Json(new { Status = 0, Message = gmailName +" Tài khoản mail này chưa được tạo trong hệ thống!" },
                                 JsonRequestBehavior.AllowGet);
                         }
 
                         var obj = new Listting
                         {
                             GmailId = checkName.Id,
-                            ThreeNumberPayOnner = int.Parse(data["Ba số Payonner"]),
-                            PayOnner =  int.Parse(data["Payonner"]),
-                            ListProduct = int.Parse(data["Listting"]),
+                            ThreeNumberPayOnner = threeNumberPayOnner.Trim(),
+                            PayOnner = payOnner.Trim(),
+                            ListProduct = int.Parse(listProduct.Trim()),
                             IsActive = true,
                             Description = data["Ghi chú"],
                             CreateBy = UserLogin.UserId,
                             CreateDate = DateTime.Now,
-                            Balance = int.Parse(data["Balance"])
+                            Balance = int.Parse(balance.Trim())
                         };
 
                         if (!TryValidateModel(obj))
                             return Json(new { Status = 0, Message = "Dữ liệu không hợp lệ!" },
                                 JsonRequestBehavior.AllowGet);
-
+                        if (obj.ThreeNumberPayOnner != obj.PayOnner.GetLast(3))
+                        {
+                            return Json(new { Status = 0, Message = gmailName +" Số PayOnner và 3 số cuối không trùng khớp!" }, JsonRequestBehavior.AllowGet);
+                        }
 
                         listObj.Add(obj);
-                        //SaveLog((byte)ActionTypeEnum.Create, "Import hệ thống tà khoản", "ChartOfAccount");
                     }
                     else
                     {

@@ -278,11 +278,22 @@ namespace AdminSoftware.Areas.System.Controllers
             try
             {
                 var noteWorkings = TextNotesInMemory;
-                noteWorkings.Remove(
-                    noteWorkings.Find(
+
+                var note = noteWorkings.Find(
                         x =>
                             x.TextNoteId ==
-                            id));
+                            id);
+                if (note.CreateBy != UserLogin.UserId)
+                {
+                    Json(
+                       new
+                       {
+                           Status = 0,
+                           Message = "Bạn không có quyền xóa nội dụng của người khác!"
+                       },
+                       JsonRequestBehavior.AllowGet);
+                }
+                noteWorkings.Remove(note);
                 TextNotesInMemory = noteWorkings;
                 return
                     Json(

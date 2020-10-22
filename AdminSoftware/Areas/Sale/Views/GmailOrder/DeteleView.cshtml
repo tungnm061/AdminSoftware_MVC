@@ -1,0 +1,105 @@
+﻿
+<style>
+    .k-checkbox-label:before {
+        top: 5px;
+    }
+</style>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row padding-bottom-0">
+                    <div class="col-md-4">
+                        <label>Chọn ngày</label>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" value="@DateTime.Now.ToString("dd/MM/yyy")" class="form-control" id="DateDetele" style="height: 25px;" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel panel-default window-footer">
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12 ">
+                <button class="btn btn-primary" id="btnSaveDetele" style="float: right">
+                    <i class="glyphicon glyphicon-floppy-saved"></i>
+                    Xóa dữ liệu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+    $("#DateDetele").kendoDatePicker({
+        dateInput: true,
+        format: "dd/MM/yyyy"
+    });
+
+        $('#btnSaveDetele').click(function () {
+            var orderDate = $("#DateDetele").data("kendoDatePicker").value();
+             if (orderDate == null) {
+            $.msgBox({
+                title: "Hệ thống",
+                type: "error",
+                content: "Bạn phải chọn ngày cần xóa!",
+                buttons: [{ value: "Đồng ý" }],
+                success: function () {
+                }
+            });
+            return;
+        }
+        $.msgBox({
+            title: "Hệ thống",
+            type: "confirm",
+            content: "Bạn có chắc chắn muốn xóa dữ liệu không?",
+            buttons: [{ value: "Đồng ý" }, { value: "Hủy bỏ" }],
+            success: function (result) {
+                if (result === "Đồng ý") {
+                    $('#processing').show();
+                    $.ajax({
+                        type: 'POST',
+                        url: '/sale/GmailOrder/DeleteByDate',
+                        data: JSON.stringify({ orderDate: orderDate }),
+                        contentType: 'application/json;charset=utf-8',
+                        success: function (response) {
+                            $('#processing').hide();
+                            if (response.Status === 0) {
+                                $.msgBox({
+                                    title: "Hệ thống",
+                                    type: "error",
+                                    content: response.Message,
+                                    buttons: [{ value: "Đồng ý" }],
+                                    success: function () {
+                                    }
+                                });
+                            } else {
+                                $.msgBox({
+                                    title: "Hệ thống",
+                                    type: "info",
+                                    content: response.Message,
+                                    buttons: [{ value: "Đồng ý" }],
+                                    success: function () {
+                                        //GridCallback('#grdMain');
+                                    }
+                                });
+                            }
+                        }
+                    });
+                }
+            }
+        });
+        });
+
+   });
+</script>
+
+
+
+
+
+
+

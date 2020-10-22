@@ -196,7 +196,8 @@ $(document).ready(function () {
                     if (row.cells.length > 1) {
                         row.cells[2].format = "###,###,###";
                         row.cells[3].format = "#,##0.00";
-                        row.cells[6].format = "dd/MM/yyyy";
+                        row.cells[5].format = "dd/MM/yyyy";
+                        row.cells[8].format = "dd/MM/yyyy";
 
                     }
                 }

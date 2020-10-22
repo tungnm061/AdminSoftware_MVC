@@ -1,5 +1,5 @@
 ﻿var record = 0;
-function BuildDateString(date) {
+function BuildDateStringA(date) {
     return (date.getMonth() + 1) + "/" + date.getDate() + "/" + date.getFullYear();
 }
 $(document).ready(function () {
@@ -17,15 +17,16 @@ $(document).ready(function () {
         dataTextField: "text",
         dataValueField: "value",
         dataSource: gmails,
-        optionLabel: "Chọn gmail"
+        optionLabel: "Chọn gmail",
+        height : 350
     });
 
     $("#btnSearchDate").click(function () {
         var fromDate = $("#FromDateSearch").data("kendoDatePicker").value();
         var toDate = $("#ToDateSearch").data("kendoDatePicker").value();
         var gmailId = $("#GmailSearch").data("kendoDropDownList").value();
-
-        window.location.href = '/sale/GmailOrder/Index?fromDate=' + BuildDateString(fromDate) + '&toDate=' + BuildDateString(toDate) + '&gmailId=' + gmailId;
+        console.log(toDate);
+        window.location.href = '/sale/GmailOrder/Index?fromDate=' + BuildDateStringA(fromDate) + '&toDate=' + BuildDateStringA(toDate) + '&gmailId=' + gmailId;
     });
 
 
@@ -104,6 +105,10 @@ $(document).ready(function () {
 
     $('#btnExcel').click(function () {
         InitWindowModal('/sale/GmailOrder/ViewExcel', false, 550, 200, 'Import Order đơn hàng', false);
+    });
+
+    $('#btnDeleteByDate').click(function () {
+        InitWindowModal('/sale/GmailOrder/DeteleView', false, 550, 160, 'Xóa dữ liệu theo ngày', false);
     });
 
 });

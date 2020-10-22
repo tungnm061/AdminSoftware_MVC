@@ -107,7 +107,7 @@ $(document).ready(function () {
         dataTextField: "text",
         dataValueField: "value",
         dataSource: statusPo,
-        optionLabel: "Trạng thái"
+        optionLabel: "Trạng thái - Tất cả"
     });
 
     //$("#btnConfirm").prop("disabled", true);
@@ -132,7 +132,6 @@ $(document).ready(function () {
         var fromDate = $("#FromDateSearch").data("kendoDatePicker").value();
         var toDate = $("#ToDateSearch").data("kendoDatePicker").value();
         var status = $("#StatusSearch").data("kendoDropDownList").value();
-
         if (fromDate != null && toDate != null && toDate < fromDate) {
             $.msgBox({
                 title: "Hệ thống",
@@ -182,7 +181,7 @@ $(document).ready(function () {
         grid.setDataSource(newDataSource);
 
         var value = status;
-        if (value == null || value == undefined) {
+        if (value == null || value == undefined || value == "" || value.length == 0) {
             grid.hideColumn(1);
             $("#btnConfirm").prop("disabled", true);
             $("#btnCancel").prop("disabled", true);

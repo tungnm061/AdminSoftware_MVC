@@ -23,6 +23,11 @@ namespace BusinessLogic.Sale
             return _listtingDal.GetListting(id);
         }
 
+        public Listting GetListtingByGmailId(int id)
+        {
+            return _listtingDal.GetListtingByGmailId(id);
+        }
+
 
         public List<Listting> GetListtings(bool isActive = true, string keyWord = "")
         {

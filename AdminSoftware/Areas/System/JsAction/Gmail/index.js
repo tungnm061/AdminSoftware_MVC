@@ -124,44 +124,39 @@ $(document).ready(function () {
             {
                 field: "FullName",
                 title: "Tài khoản",
-                width: 300,
+                width: 250,
                 locked : true
             },
             {
                 field: "LinkUrl",
                 title: "Đường dẫn",
                 width: 160,
-                template: "<a href=\"#=LinkUrl#\" target=\"_blank\">#:LinkUrl#</a>",
+                template: "<a class=\"convert-text\" href=\"#=LinkUrl#\" target=\"_blank\">#:LinkUrl#</a>",
                 locked: true
             },
             {
                 field: "CreateUser",
                 title: "NV tạo",
-                width: 120,
-                values: users
-            },
-            {
-                field: "RemoveUser",
-                title: "NV gỡ",
-                width: 120,
-                values: users
-            },
-            {
-                field: "ListtingUser",
-                title: "NV Listting",
-                width: 120,
+                width: 160,
                 values: users
             },
             {
                 field: "OrderUser",
                 title: "NV Order",
-                width: 120,
+                width: 160,
                 values: users
             },
             {
-                field: "LinkUrl",
-                title: "Đường dẫn",
-                width: 180
+                field: "ListtingUser",
+                title: "NV Listting",
+                width: 150,
+                values: users
+            },
+            {
+                field: "RemoveUser",
+                title: "NV gỡ",
+                width: 150,
+                values: users
             },
             {
                 field: "Description",

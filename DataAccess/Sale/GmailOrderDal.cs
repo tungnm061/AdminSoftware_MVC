@@ -27,6 +27,23 @@ namespace DataAccess.Sale
             }
         }
 
+        public GmailOrderModel GetGmailOrderByDate(DateTime orderDate)
+        {
+            try
+            {
+                return
+                    UnitOfWork.Procedure<GmailOrderModel>("[sale].[GmailOrder_GetByDate]", new
+                    {
+                        OrderDate = orderDate
+                    }).FirstOrDefault();
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return null;
+            }
+        }
+
         public List<GmailOrderModel> GetGmailOrderAll(int? gmailId, DateTime? fromDate,DateTime? toDate)
         {
             try
@@ -60,6 +77,22 @@ namespace DataAccess.Sale
             {
                 Logging.PutError(ex.Message, ex);
                 return new List<int>(); ;
+            }
+        }
+
+        public bool DeleteByDate(DateTime orderDate)
+        {
+            try
+            {
+                return UnitOfWork.ProcedureExecute("[sale].[GmailOrder_DeleteByDate]", new
+                {
+                    OrderDate = orderDate
+                });
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return false;
             }
         }
     }

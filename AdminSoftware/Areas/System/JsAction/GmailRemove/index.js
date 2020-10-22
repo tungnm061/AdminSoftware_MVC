@@ -115,7 +115,7 @@ $(document).ready(function () {
             },
             {
                 title: "TK Gmail gỡ Amazon",
-                width: 500,
+                width: 550,
                 columns: [
                     {
                         field: "GmailId",
@@ -126,7 +126,7 @@ $(document).ready(function () {
                     {
                         field: "Password",
                         title: "Mật khẩu",
-                        width: 100
+                        width: 150
                     },
                     {
                         field: "GmailRestoreId",
@@ -141,7 +141,7 @@ $(document).ready(function () {
             },
             {
                 title: "TK Gmail thay",
-                width: 500,
+                width: 550,
                 columns: [
                     {
                         field: "GmailChangeId",
@@ -152,7 +152,7 @@ $(document).ready(function () {
                     {
                         field: "PasswordGmailChange",
                         title: "Mật khẩu",
-                        width: 100
+                        width: 150
                     },
                     {
                         field: "GmailRestoreChangeId",

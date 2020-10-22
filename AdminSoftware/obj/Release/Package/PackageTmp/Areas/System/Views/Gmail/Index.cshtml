@@ -3,6 +3,13 @@
     ViewBag.Title = "Tài khoản Gmail";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<style>
+    .convert-text{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+</style>
 <div class="panel panel-default">
     <div class="panel-heading">@ViewBag.Title</div>
     <div class="panel-body">
@@ -21,10 +28,10 @@
                         <i class="glyphicon glyphicon-trash"></i>
                         Xóa
                     </button>
-                    <button class="btn btn-primary btn-sm" id="btnSkuView">
+                    @*<button class="btn btn-primary btn-sm" id="btnSkuView">
                         <i class="glyphicon glyphicon-plus"></i>
                         Quản lý Sku
-                    </button>
+                    </button>*@
                 </div>
             </div>
         </div>

@@ -15,23 +15,27 @@
     <div class="panel-heading">@ViewBag.Title</div>
     <div class="panel-body">
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <div class="box-action">
                     <button class="btn btn-primary btn-sm" id="btnExcel">
                         <i class="fa fa-plus"></i>
-                        Import từ Excel
+                        Import
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnDeleteByDate">
+                        <i class="fa fa-edit"></i>
+                        Xóa theo ngày
                     </button>
                 </div>
             </div>
-            <div class="col-md-10">
-                <div class="col-md-3">
+            <div class="col-md-9">
+                <div class="col-md-4">
                     <input type="text" value="@ViewBag.GmailId" class="form-control" id="GmailSearch" style="height: 25px; " />
                 </div>
                 <div class="col-md-3">
                     <input type="text" value="@ViewBag.FromDate" class="form-control" id="FromDateSearch" style="height: 25px;" />
                 </div>
                 <div class="col-md-1">
-                    Đến ngày
+                    Đến
                 </div>
                 <div class="col-md-2">
                     <input type="text" value="@ViewBag.ToDate"  class="form-control" id="ToDateSearch" style="height: 25px;" />

@@ -26,7 +26,7 @@
                         <label>Ba số PayOnner(*)</label>
                     </div>
                     <div class="col-md-8">
-                        <input type="number" value="@Model.ThreeNumberPayOnner" class="form-control" id="ThreeNumberPayOnner" />
+                        <input type="number" value="@Model.ThreeNumberPayOnner" maxlength="3" class="form-control" id="ThreeNumberPayOnner" />
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                         <label>Ghi Chú</label>
                     </div>
                     <div class="col-md-8">
-                        <textarea type="text" value="@Model.Description" rows="3" class="form-control" id="Description"></textarea>
+                        <textarea type="text" rows="3" class="form-control" id="Description">@Model.Description</textarea>
                     </div>
                 </div>
             </div>

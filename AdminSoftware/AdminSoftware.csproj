@@ -836,6 +836,9 @@
     <Content Include="Areas\System\Views\GmailRemove\Index.cshtml" />
     <Content Include="Areas\System\Views\GmailReg\ViewExcel.cshtml" />
     <Content Include="Areas\System\Views\GmailRemove\ViewExcel.cshtml" />
+    <Content Include="Areas\Sale\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\Sale\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Sale\Views\GmailOrder\DeteleView.cshtml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dashboard.js" />

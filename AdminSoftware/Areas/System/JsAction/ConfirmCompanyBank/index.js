@@ -124,7 +124,7 @@ $(document).ready(function () {
         dataTextField: "text",
         dataValueField: "value",
         dataSource: statusSearch,
-        optionLabel: "Trạng thái",
+        optionLabel: "Trạng thái - Tất cả",
         //change: function (e) {
         //    var value = this.value();
         //}
@@ -144,7 +144,7 @@ $(document).ready(function () {
             });
             return false;
         }
-        InitWindowModal('/system/ConfirmCompanyBank/CompanyBank?id=' + id, false, 800, 590, "Xác nhận giao dịch", false);
+        InitWindowModal('/system/ConfirmCompanyBank/CompanyBank?id=' + id, false, 800, 620, "Xác nhận giao dịch", false);
         return true;
     });
 
@@ -206,7 +206,7 @@ $(document).ready(function () {
         grid.setDataSource(newDataSource);
 
         var value = statusSearch;
-        if (value == null || value == undefined) {
+        if (value == null || value == undefined || value == "" || value.length == 0) {
             grid.hideColumn(1);
             $("#btnConfirm").prop("disabled", true);
             $("#btnCancel").prop("disabled", true);
@@ -332,7 +332,7 @@ $(document).ready(function () {
             {
                 field: "Status",
                 title: "Trạng thái",
-                width: 130,
+                width: 120,
                 values: statusSearch
             },
             {
@@ -350,7 +350,7 @@ $(document).ready(function () {
             {
                 field: "FilePath",
                 title: "File xác nhận",
-                width: 160,
+                width: 140,
                 template: "#if(FilePath != null){#" + "<a href='#=FilePath#' target='_blank' style='text-align:center'><i class='glyphicon glyphicon-download'></i></a>" + "#}#",
                 filterable: false,
                 sortable: false

@@ -1,6 +1,4 @@
-﻿function BuildDateString(date) {
-    return (date.getMonth() + 1) + "/" + 1 + "/" + date.getFullYear();
-}
+﻿
 $(document).ready(function () {
     $("#OrderDate").kendoDatePicker({
         start: "year",

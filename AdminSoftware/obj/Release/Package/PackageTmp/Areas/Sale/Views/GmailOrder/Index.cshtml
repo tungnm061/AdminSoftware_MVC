@@ -4,31 +4,42 @@
     var days = (List<String>)ViewBag.Days;
 
 }
+<style>
+    .k-grid td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+</style>
 <div class="panel panel-default">
     <div class="panel-heading">@ViewBag.Title</div>
     <div class="panel-body">
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-3">
                 <div class="box-action">
                     <button class="btn btn-primary btn-sm" id="btnExcel">
                         <i class="fa fa-plus"></i>
-                        Import từ Excel
+                        Import
+                    </button>
+                    <button class="btn btn-primary btn-sm" id="btnDeleteByDate">
+                        <i class="fa fa-edit"></i>
+                        Xóa theo ngày
                     </button>
                 </div>
             </div>
-            <div class="col-md-10">
-                <div class="col-md-3">
+            <div class="col-md-9">
+                <div class="col-md-4">
                     <input type="text" value="@ViewBag.GmailId" class="form-control" id="GmailSearch" style="height: 25px; " />
                 </div>
                 <div class="col-md-3">
                     <input type="text" value="@ViewBag.FromDate" class="form-control" id="FromDateSearch" style="height: 25px;" />
                 </div>
-                @*<div class="col-md-1">
-                    Đến ngày
+                <div class="col-md-1">
+                    Đến
                 </div>
                 <div class="col-md-2">
-                    <input type="text" value="" class="form-control" id="ToDateSearch" />
-                </div>*@
+                    <input type="text" value="@ViewBag.ToDate"  class="form-control" id="ToDateSearch" style="height: 25px;" />
+                </div>
 
                 <div class="col-md-1">
                     <button class="btn btn-primary btn-sm" id="btnSearchDate">
@@ -75,14 +86,14 @@
 
             },
             {
-                field: "CancelOrder",
+                field: "TotalCancelOrder",
                 title: "Đơn hủy",
                 width: 100,
                 locked: true,
                 footerTemplate: "#:sum ? kendo.toString(sum, \"n0\") : 0 #"
             },
             {
-                field: "RefundOrder",
+                field: "TotalRefundOrder",
                 title: "Đơn refund",
                 width: 100,
                 locked: true,
@@ -92,7 +103,8 @@
                 field: "Description",
                 title: "Lý do refund",
                 width: 100,
-                locked: true
+                locked: true,
+                encoded: false 
             },
             {
                 field: "TotalOrder",
@@ -103,30 +115,34 @@
             }
                ];
         var aggregates = [
-            { field: "CancelOrder", aggregate: "sum" },
+            { field: "TotalCancelOrder", aggregate: "sum" },
             { field: "TotalOrder", aggregate: "sum" },
-            { field: "RefundOrder", aggregate: "sum" }
+            { field: "TotalRefundOrder", aggregate: "sum" }
             ];
         @if (days.Any())
         {
             int i = 0;
             foreach (var day in days)
             {
-                var title = day;
+                var title =  day;
                 <text>
                 columns.push({
                     title: '@title',
-                    columns: [
+                    field: 'StatisticalDetails[' +@i +'].CountOrder',
+                    width: 90,
+                    filterable: false,
+                    footerTemplate :function(data) { return data["StatisticalDetails["+ @i+"].CountOrder"].sum ? data["StatisticalDetails["+ @i+"].CountOrder"].sum : 0 ; }
+                    @*columns: [
                         {
                             title: 'Số đơn',
-                            field: 'GmailOrderDetails[' +@i +'].TotalOrder',
+                            field: 'StatisticalDetails[' +@i +'].CountOrder',
                             width:100,
                             filterable: false,
-                            footerTemplate :function(data) { return data["GmailOrderDetails["+ @i+"].TotalOrder"].sum ? data["GmailOrderDetails["+ @i+"].TotalOrder"].sum : 0 ; }
+                            footerTemplate :function(data) { return data["StatisticalDetails["+ @i+"].CountOrder"].sum ? data["StatisticalDetails["+ @i+"].CountOrder"].sum : 0 ; }
                         }
-                    ]
+                    ]*@
                 });
-                aggregates.push({ field: "GmailOrderDetails[" + @i + "].TotalOrder", aggregate: "sum" });
+                aggregates.push({ field: "StatisticalDetails[" + @i + "].CountOrder", aggregate: "sum" });
                 </text>
                 i ++;
             }

@@ -37,7 +37,7 @@ $(document).ready(function () {
                     success: function (result) {
                         if (result == 'Đồng ý' && response.Status === 1) {
                             CloseWindowModal();
-                            //GridCallback('#grdMain');
+                            GridCallback('#grdMain');
                         }
                     } //
                 });

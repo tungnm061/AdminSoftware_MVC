@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,7 +9,7 @@ using Entity.Helper.ExtendedAttributes;
 
 namespace Entity.Sale
 {
-     public class Listting
+    public class Listting
     {
         public int ListtingId { get; set; }
         [LocalizeRequired]
@@ -16,10 +17,11 @@ namespace Entity.Sale
         public int GmailId { get; set; }
         [LocalizeRequired]
         [DisplayName("Ba số PayOnner")]
-        public int? ThreeNumberPayOnner { get; set; }
+        public string ThreeNumberPayOnner { get; set; }
         [LocalizeRequired]
         [DisplayName("PayOnner")]
-        public long? PayOnner { get; set; }
+        //[MinLengthAttribute(10)]
+        public string PayOnner { get; set; }
         [LocalizeRequired]
         [DisplayName("Listting")]
         public int? ListProduct { get; set; }

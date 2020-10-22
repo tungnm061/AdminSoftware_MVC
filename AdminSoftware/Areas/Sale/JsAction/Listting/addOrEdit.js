@@ -4,6 +4,7 @@
         dataTextField: "text",
         dataValueField: "value",
         dataSource: gmails,
+        height: 350,
         optionLabel: "Chọn Gmail",
         filter: 'contains'
     });

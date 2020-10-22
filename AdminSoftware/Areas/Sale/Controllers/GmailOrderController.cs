@@ -117,6 +117,32 @@ namespace AdminSoftware.Areas.Sale.Controllers
                 JsonRequestBehavior.AllowGet);
         }
 
+        public ActionResult DeteleView()
+        {
+            return PartialView();
+        }
+
+        [HttpPost]
+        public JsonResult DeleteByDate(DateTime orderDate)
+        {
+            if (UserLogin.RoleId != 1)
+            {
+                return Json(new { Status = 0, Message = "Bạn không có quyền xóa vui lòng liên hệ quản trị viên!" }, JsonRequestBehavior.AllowGet);
+            }
+            var checkDate = _gmailOrderBll.GetGmailOrderByDate(orderDate);
+            if (checkDate == null)
+            {
+                return Json(new { Status = 0, Message = "Ngày này không có dữ liệu để xóa!" }, JsonRequestBehavior.AllowGet);
+            }
+            if (_gmailOrderBll.DeleteByDate(orderDate))
+            {
+                return Json(new { Status = 1, Message = MessageAction.MessageDeleteSuccess },
+                    JsonRequestBehavior.AllowGet);
+            }
+            return Json(new { Status = 0, Message = MessageAction.MessageActionFailed },
+                JsonRequestBehavior.AllowGet);
+        }
+
         #region Import Excel
         public ActionResult ViewExcel()
         {
@@ -141,22 +167,13 @@ namespace AdminSoftware.Areas.Sale.Controllers
             return null;
         }
 
-        //public JsonResult ImportExcel(DateTime fromDate)
+        //public JsonResult ImportExcel()
         //{
         //    if (Request.Files["files"] == null)
         //        return Json(new { Status = 0, Message = "Không có dữ liệu để import!" }, JsonRequestBehavior.AllowGet);
-        //    var dateOrderStr = Request.Form["DateOrder"];
-        //    var toDate  = fromDate.AddMonths(1).AddDays(-1);
-        //    TimeSpan ts = toDate - fromDate;
 
-        //    var numberDay = ts.TotalDays + 1;
+
         //    var listGmail = new List<Gmail>();
-        //    var checkData = _gmailOrderBll.GetGmailOrderAll(null, fromDate, fromDate);
-        //    if (checkData.Count > 0)
-        //    {
-        //        return Json(new { Status = 0, Message = "Tháng import này đã có dữ liệu và hiện tại đang bị khóa!" },
-        //            JsonRequestBehavior.AllowGet);
-        //    }
         //    try
         //    {
         //        var file = Request.Files["files"];
@@ -168,64 +185,56 @@ namespace AdminSoftware.Areas.Sale.Controllers
         //        {
         //            return Json(new { Status = 0, Message = MessageAction.DataIsEmpty }, JsonRequestBehavior.AllowGet);
         //        }
+        //        var users = _userBll.GetUsers(null);
+        //        var tempDict = users.ToDictionary(x => x.UserName.Trim(), x => x.UserId);
+
+        //        string gmailName = string.Empty;
+        //        string createUserName = string.Empty;
+        //        string linkUrl = string.Empty;
         //        foreach (var data in dataLst)
         //        {
-        //            GmailOrder obj = new GmailOrder();
-        //            obj.OrderDate = fromDate;
-        //            obj.CreateBy = UserLogin.UserId;
-        //            obj.CreateDate = DateTime.Now;
+
         //            if (
-        //                data.ContainsKey("GMAIL"))
+        //                data.ContainsKey("GMAIL")
+        //                && data.ContainsKey("NHANVIENTAO")
+        //                 && data.ContainsKey("DUONGDAN")
+        //                )
         //            {
-        //                string gmailName = data["GMAIL"];
+        //                gmailName = data["GMAIL"];
+        //                createUserName = data["NHANVIENTAO"];
+        //                linkUrl = data["DUONGDAN"];
 
-        //                var checkName = _gmailBll.GetGmailByName(gmailName.Trim());
 
-        //                if (checkName == null && !string.IsNullOrEmpty(gmailName))
+        //                if (string.IsNullOrEmpty(gmailName) || string.IsNullOrEmpty(createUserName))
         //                {
-        //                    listGmail.Add(new Gmail
-        //                    {
-        //                        CreateBy = UserLogin.UserId,
-        //                        CreateDate = DateTime.Now,
-        //                        FullName = gmailName,
-        //                        IsActive =  true
-        //                    });
+        //                    return Json(new { Status = 0, Message = "String Empty" },
+        //                  JsonRequestBehavior.AllowGet);
+        //                }
+        //                gmailName = gmailName.Trim();
+        //                createUserName = createUserName.Trim();
+
+        //                if (!string.IsNullOrEmpty(linkUrl))
+        //                {
+        //                    linkUrl = linkUrl.Trim();
+
+        //                }
+        //                if (!tempDict.ContainsKey(createUserName))
+        //                {
+        //                    return Json(new { Status = 0, Message = "Tài khoản " + createUserName + " chưa được khởi tạo trong hệ thống!" },
+        //                        JsonRequestBehavior.AllowGet);
         //                }
 
-        //                //if (checkName == null)
-        //                //{
-        //                //    return Json(new { Status = 0, Message = "Tài khoản " + gmailName + " chưa được tạo trong hệ thống!" },
-        //                //        JsonRequestBehavior.AllowGet);
-        //                //}
+        //                listGmail.Add(new Gmail
+        //                {
+        //                    CreateBy = UserLogin.UserId,
+        //                    LinkUrl = linkUrl,
+        //                    CreateUser = tempDict[createUserName],
+        //                    OrderUser = tempDict[createUserName],
+        //                    CreateDate = DateTime.Now,
+        //                    FullName = gmailName,
+        //                    IsActive = true
+        //                });
 
-        //                //if (listObj.FirstOrDefault(x=>x.GmailId == checkName.Id) != null)
-        //                //{
-        //                //    return Json(new { Status = 0, Message = "Tài khoản " + gmailName + " xuất hiện nhiều hơn 1 lần trong danh sách!" },
-        //                //        JsonRequestBehavior.AllowGet);
-        //                //}
-
-        //                //obj.GmailOrderId = Guid.NewGuid().ToString();
-        //                //obj.GmailId = checkName.Id;
-        //                //obj.LinkOrder = data["Link Đơn"];
-        //                //if (!string.IsNullOrEmpty(obj.LinkOrder))
-        //                //{
-        //                //    obj.LinkOrder = HttpUtility.UrlEncode(obj.LinkOrder);
-        //                //}
-
-        //                //obj.CancelOrder = ParseInt(data["Đơn gửi lại, hủy đơn"]);
-        //                //obj.RefundOrder = ParseInt(data["Đơn refund"]);
-        //                //obj.Description = data["Lý do refund"];
-        //                //var listData = data.Select(x=>x.Value).ToList();
-        //                //listObj.Add(obj);
-        //                //for (int i = 0; i < numberDay; i++)
-        //                //{
-        //                //    listObjDetail.Add(new GmailOrderDetail
-        //                //    {
-        //                //        GmailOrderId = obj.GmailOrderId,
-        //                //        OrderDate = fromDate.AddDays(i),
-        //                //        TotalOrder = ParseInt(listData[i+5])
-        //                //    });
-        //                //}
         //            }
         //            else
         //            {
@@ -271,6 +280,13 @@ namespace AdminSoftware.Areas.Sale.Controllers
                               out dateValue))
                 {
                     return Json(new { Status = 0, Message = "Tên sheet đầu tiên không đúng định dạng ngày" }, JsonRequestBehavior.AllowGet);
+                }
+
+                var checkDate = _gmailOrderBll.GetGmailOrderByDate(dateValue);
+                if (checkDate != null)
+                {
+                    return Json(new { Status = 0, Message = "Ngày này đã có dữ liệu không thể import vui lòng liên hệ quản trị viên!" }, JsonRequestBehavior.AllowGet);
+
                 }
 
                 foreach (var data in dataLst)

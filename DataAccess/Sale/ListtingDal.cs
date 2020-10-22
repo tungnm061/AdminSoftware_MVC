@@ -45,6 +45,20 @@ namespace DataAccess.Sale
             }
         }
 
+        public Listting GetListtingByGmailId(int id)
+        {
+            try
+            {
+                return
+                    UnitOfWork.Procedure<Listting>("[sale].[Listting_GetByGmailId]", new { GmailId = id }).FirstOrDefault();
+            }
+            catch (Exception ex)
+            {
+                Logging.PutError(ex.Message, ex);
+                return null;
+            }
+        }
+
         public long Insert(Listting obj)
         {
             try

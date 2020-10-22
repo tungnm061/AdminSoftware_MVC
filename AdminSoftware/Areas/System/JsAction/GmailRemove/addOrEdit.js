@@ -4,7 +4,8 @@
         dataValueField: "value",
         dataSource: gmails,
         optionLabel: "Chọn tài khoản",
-        filter: 'contains'
+        filter: 'contains',
+        height: 350
     });
 
     $('#GmailRestoreId').kendoDropDownList({
@@ -12,7 +13,8 @@
         dataValueField: "value",
         dataSource: gmails,
         optionLabel: "Chọn tài khoản",
-        filter: 'contains'
+        filter: 'contains',
+        height: 350
     });
 
     $('#GmailChangeId').kendoDropDownList({
@@ -20,7 +22,8 @@
         dataValueField: "value",
         dataSource: gmails,
         optionLabel: "Chọn tài khoản",
-        filter: 'contains'
+        filter: 'contains',
+        height: 350
     });
 
     $('#GmailRestoreChangeId').kendoDropDownList({
@@ -28,7 +31,8 @@
         dataValueField: "value",
         dataSource: gmails,
         optionLabel: "Chọn tài khoản",
-        filter: 'contains'
+        filter: 'contains',
+        height: 350
     });
 
     $('#btnSave').click(function () {
